@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lolrazh/cad-mcp",
+  "githubUrl": "https://github.com/lolrazh/cad-mcp",
+  "name": "Rayon Design CAD",
+  "author": "lolrazh",
+  "description": "Integrates with Rayon Design CAD interface using browser automation to enable shape creation and drawing method searches for AI-assisted design workflows.",
+  "codiconIcon": "rayon",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "rayon",
+    "method",
+    "integrates",
+    "design",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "50dc24e5-e42f-43d5-a89f-98de202df3c0"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qwang07/duck-duck-mcp",
+  "githubUrl": "https://github.com/qwang07/duck-duck-mcp",
+  "name": "DuckDuckGo Search",
+  "author": "qwang07",
+  "description": "Integrates with DuckDuckGo's search engine to enable web searches for up-to-date information retrieval and fact-checking.",
+  "codiconIcon": "duckduckgo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieval",
+    "fact-checking",
+    "duckduckgo-search",
+    "integrates",
+    "duckduckgo's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "10197cbf-23d8-4b1b-979f-f917ba866904"
+}

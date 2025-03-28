@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/amekala/adspirer-mcp-server",
+  "githubUrl": "https://github.com/amekala/adspirer-mcp-server",
+  "name": "Amazon Advertising",
+  "author": "amekala",
+  "description": "Integrates with Amazon Advertising API to provide marketers direct access to advertiser accounts, listings, and performance data through a simple command-line interface requiring only an API key for authentication.",
+  "codiconIcon": "amazon",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "amazon",
+    "access",
+    "interface",
+    "requiring",
+    "amazon-advertising"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "1a6fd291-787f-40c5-bfd1-a1691fbe6ff3"
+}

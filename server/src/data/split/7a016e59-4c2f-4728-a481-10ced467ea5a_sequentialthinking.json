@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking",
+  "name": "Sequential Thinking",
+  "author": "modelcontextprotocol",
+  "description": "A structured problem-solving tool that enables step-by-step analysis, thought revision, and branching logic for complex reasoning tasks.",
+  "codiconIcon": "brain",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/sequential-thinking.png",
+  "category": "knowledge-memory",
+  "tags": [
+    "problem-solving",
+    "reasoning",
+    "analysis",
+    "structured-thinking",
+    "decision-making"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24373,
+  "downloadCount": 11888,
+  "createdAt": "2025-02-18T05:45:21.365219Z",
+  "updatedAt": "2025-02-18T05:45:21.365219Z",
+  "hubId": "7a016e59-4c2f-4728-a481-10ced467ea5a"
+}

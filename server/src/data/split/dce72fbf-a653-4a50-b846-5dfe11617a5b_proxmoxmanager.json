@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/canvrno/ProxmoxMCP",
+  "githubUrl": "https://github.com/canvrno/ProxmoxMCP",
+  "name": "Proxmox Manager",
+  "author": "canvrno",
+  "description": "A server for managing Proxmox hypervisors, providing tools to control nodes, VMs, containers, storage, and execute console commands in virtual machines.",
+  "codiconIcon": "server",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/proxmox-manager.png",
+  "category": "virtualization",
+  "tags": [
+    "proxmox",
+    "virtualization",
+    "vm-management",
+    "server-management",
+    "infrastructure"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 61,
+  "downloadCount": 848,
+  "createdAt": "2025-02-19T07:28:09.637633Z",
+  "updatedAt": "2025-02-19T07:28:09.637633Z",
+  "hubId": "dce72fbf-a653-4a50-b846-5dfe11617a5b"
+}

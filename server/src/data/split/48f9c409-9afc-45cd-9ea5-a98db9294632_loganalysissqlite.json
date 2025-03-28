@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/direkt/mcp-test",
+  "githubUrl": "https://github.com/direkt/mcp-test",
+  "name": "Log Analysis SQLite",
+  "author": "direkt",
+  "description": "Transforms compressed log files into a queryable SQLite database with tables for logs, stack traces, and errors, enabling efficient analysis and troubleshooting of application issues by timestamp, log level, and module.",
+  "codiconIcon": "log",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "log-analysis-sqlite",
+    "database",
+    "tables",
+    "traces",
+    "efficient"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "48f9c409-9afc-45cd-9ea5-a98db9294632"
+}

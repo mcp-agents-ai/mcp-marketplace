@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jlmelis/sanity-mcp-server",
+  "githubUrl": "https://github.com/jlmelis/sanity-mcp-server",
+  "name": "Sanity.io",
+  "author": "jlmelis",
+  "description": "Integrates with Sanity.io to provide tools for creating, listing, and publishing draft posts, streamlining content management workflows for websites and applications.",
+  "codiconIcon": "sanity.io",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sanity.io",
+    "integrates",
+    "publishing",
+    "management",
+    "tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "f14cf952-6f8f-40c7-b21f-084bade1e44c"
+}

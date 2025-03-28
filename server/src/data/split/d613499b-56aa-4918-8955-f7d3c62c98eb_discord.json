@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/v-3/discordmcp",
+  "githubUrl": "https://github.com/v-3/discordmcp",
+  "name": "Discord",
+  "author": "v-3",
+  "description": "Integrates with the Discord API to enable direct interaction with channels, supporting automated messaging and conversation management within servers.",
+  "codiconIcon": "discord",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "direct",
+    "interaction",
+    "channels",
+    "conversation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "d613499b-56aa-4918-8955-f7d3c62c98eb"
+}

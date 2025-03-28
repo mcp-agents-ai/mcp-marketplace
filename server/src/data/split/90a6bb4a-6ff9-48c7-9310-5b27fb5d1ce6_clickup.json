@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/noahvanhart/mcp-server-clickup",
+  "githubUrl": "https://github.com/noahvanhart/mcp-server-clickup",
+  "name": "ClickUp",
+  "author": "noahvanhart",
+  "description": "Integrates with ClickUp to enable task management, project tracking, and workflow optimization within the platform's ecosystem.",
+  "codiconIcon": "clickup",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "management",
+    "project",
+    "workflow"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "90a6bb4a-6ff9-48c7-9310-5b27fb5d1ce6"
+}

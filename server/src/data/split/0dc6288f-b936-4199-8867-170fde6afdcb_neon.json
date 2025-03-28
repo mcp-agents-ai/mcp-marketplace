@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/neondatabase-labs/mcp-server-neon",
+  "githubUrl": "https://github.com/neondatabase-labs/mcp-server-neon",
+  "name": "Neon",
+  "author": "neondatabase-labs",
+  "description": "Interact with the Neon serverless Postgres platform",
+  "codiconIcon": "neon",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/oy68m9rzcql.webp",
+  "category": "tools",
+  "tags": [
+    "platform",
+    "neon",
+    "interact",
+    "serverless",
+    "postgres"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T09:14:31.36869+00:00",
+  "updatedAt": "2025-03-14T09:14:31.36869+00:00",
+  "hubId": "0dc6288f-b936-4199-8867-170fde6afdcb"
+}

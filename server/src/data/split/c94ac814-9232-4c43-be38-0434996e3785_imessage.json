@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shirhatti/mcp-server-imessage",
+  "githubUrl": "https://github.com/shirhatti/mcp-server-imessage",
+  "name": "iMessage",
+  "author": "shirhatti",
+  "description": "Integrates with Apple's iMessage platform to enable sending and receiving messages.",
+  "codiconIcon": "imessage",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "receiving",
+    "messages",
+    "imessage",
+    "integrates",
+    "apple's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "c94ac814-9232-4c43-be38-0434996e3785"
+}

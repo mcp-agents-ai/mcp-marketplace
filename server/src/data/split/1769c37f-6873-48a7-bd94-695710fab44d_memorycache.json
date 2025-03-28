@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tosin2013/mcp-memory-cache-server",
+  "githubUrl": "https://github.com/tosin2013/mcp-memory-cache-server",
+  "name": "Memory Cache",
+  "author": "tosin2013",
+  "description": "Implements an efficient in-memory caching layer, reducing token consumption and optimizing repeated data access patterns in workflows.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "optimizing",
+    "implements",
+    "efficient",
+    "in-memory",
+    "repeated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "1769c37f-6873-48a7-bd94-695710fab44d"
+}

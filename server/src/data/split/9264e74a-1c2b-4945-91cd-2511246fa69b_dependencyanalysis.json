@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mkearl/dependency-mcp",
+  "githubUrl": "https://github.com/mkearl/dependency-mcp",
+  "name": "Dependency Analysis",
+  "author": "mkearl",
+  "description": "Manage and analyze project dependencies, offering caching and flexible configuration for efficient tracking across complex software ecosystems.",
+  "codiconIcon": "dependency",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dependency-analysis",
+    "manage",
+    "analyze",
+    "dependencies",
+    "flexible"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "9264e74a-1c2b-4945-91cd-2511246fa69b"
+}

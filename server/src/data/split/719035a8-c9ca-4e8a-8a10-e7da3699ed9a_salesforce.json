@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/smn2gnt/MCP-Salesforce",
+  "githubUrl": "https://github.com/smn2gnt/MCP-Salesforce",
+  "name": "Salesforce",
+  "author": "smn2gnt",
+  "description": "Integrates with Salesforce to enable natural language interactions for executing queries, managing records, and automating CRM workflows.",
+  "codiconIcon": "salesforce",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "queries",
+    "records",
+    "workflows",
+    "enable",
+    "natural"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "719035a8-c9ca-4e8a-8a10-e7da3699ed9a"
+}

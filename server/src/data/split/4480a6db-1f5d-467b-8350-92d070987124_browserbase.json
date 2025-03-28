@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/browserbase/mcp-server-browserbase",
+  "githubUrl": "https://github.com/browserbase/mcp-server-browserbase",
+  "name": "Browserbase",
+  "author": "browserbase",
+  "description": "Cloud browser automation server enabling LLMs to interact with web pages, take screenshots, extract data, and execute JavaScript using Browserbase and Puppeteer.",
+  "codiconIcon": "browser",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/browserbase.png",
+  "category": "browser-automation",
+  "tags": [
+    "web-automation",
+    "puppeteer",
+    "screenshot-capture",
+    "data-extraction",
+    "javascript-execution"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 419,
+  "downloadCount": 1374,
+  "createdAt": "2025-02-18T06:27:48.955864Z",
+  "updatedAt": "2025-02-18T06:27:48.955864Z",
+  "hubId": "4480a6db-1f5d-467b-8350-92d070987124"
+}

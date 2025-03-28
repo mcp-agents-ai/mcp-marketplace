@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/NightTrek/Serper-search-mcp",
+  "githubUrl": "https://github.com/NightTrek/Serper-search-mcp",
+  "name": "Serper Search",
+  "author": "NightTrek",
+  "description": "Provides Google search capabilities through Serper API, delivering rich search results including knowledge graphs, organic results, related questions, and customizable search parameters.",
+  "codiconIcon": "search",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/serper.jpg",
+  "category": "search",
+  "tags": [
+    "google-search",
+    "serper-api",
+    "web-search",
+    "knowledge-graph",
+    "search-results"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 8,
+  "downloadCount": 938,
+  "createdAt": "2025-02-18T23:05:46.398856Z",
+  "updatedAt": "2025-02-18T23:05:46.398856Z",
+  "hubId": "317cb731-6556-4fae-bc53-3fcb32cc438e"
+}

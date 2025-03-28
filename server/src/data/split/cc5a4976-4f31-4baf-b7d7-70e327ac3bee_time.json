@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/time",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/time",
+  "name": "Time",
+  "author": "modelcontextprotocol",
+  "description": "MCP server providing time and timezone conversion tools for AI assistants to handle localized time data and calculations.",
+  "codiconIcon": "time",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "server",
+    "conversion",
+    "tools",
+    "calculations",
+    "providing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "cc5a4976-4f31-4baf-b7d7-70e327ac3bee"
+}

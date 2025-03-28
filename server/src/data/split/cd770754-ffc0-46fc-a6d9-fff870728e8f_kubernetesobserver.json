@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/metoro-io/metoro-mcp-server",
+  "githubUrl": "https://github.com/metoro-io/metoro-mcp-server",
+  "name": "Kubernetes Observer",
+  "author": "metoro-io",
+  "description": "Enables interaction with Kubernetes clusters through Metoro's observability platform, providing eBPF-based telemetry and monitoring capabilities via natural language queries.",
+  "codiconIcon": "server-environment",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/metoro.png",
+  "category": "monitoring",
+  "tags": [
+    "kubernetes",
+    "observability",
+    "ebpf",
+    "telemetry",
+    "microservices"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 23,
+  "downloadCount": 41,
+  "createdAt": "2025-02-18T06:07:51.693578Z",
+  "updatedAt": "2025-02-18T06:07:51.693578Z",
+  "hubId": "cd770754-ffc0-46fc-a6d9-fff870728e8f"
+}

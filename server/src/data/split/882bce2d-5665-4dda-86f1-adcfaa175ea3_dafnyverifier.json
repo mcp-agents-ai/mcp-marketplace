@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/namin/dafny-mcp",
+  "githubUrl": "https://github.com/namin/dafny-mcp",
+  "name": "Dafny Verifier",
+  "author": "namin",
+  "description": "Integrates with Dafny to verify code correctness through analysis of formal specifications and proofs.",
+  "codiconIcon": "dafny",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "verify",
+    "through",
+    "analysis",
+    "specifications",
+    "proofs"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "882bce2d-5665-4dda-86f1-adcfaa175ea3"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/szeider/mcp-dblp",
+  "githubUrl": "https://github.com/szeider/mcp-dblp",
+  "name": "DBLP",
+  "author": "szeider",
+  "description": "Integrates with the DBLP computer science bibliography database to enable searching publications, processing citations, generating BibTeX entries, and analyzing research trends.",
+  "codiconIcon": "dblp",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "trends",
+    "dblp",
+    "computer",
+    "science",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "8a798a09-5a07-4a4b-974d-5219d076168b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/daltonnyx/userful-mcps",
+  "githubUrl": "https://github.com/daltonnyx/userful-mcps",
+  "name": "Document Processing and YouTube Content Extraction",
+  "author": "daltonnyx",
+  "description": "Provides specialized document processing and YouTube content extraction tools for template-based document generation and video content analysis without manual intervention.",
+  "codiconIcon": "document",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tools",
+    "generation",
+    "video",
+    "analysis",
+    "specialized"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "84d6ab17-e668-4192-bf26-d21a3b61253b"
+}

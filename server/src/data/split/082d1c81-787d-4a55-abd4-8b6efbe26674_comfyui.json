@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/joenorton/comfyui-mcp-server",
+  "githubUrl": "https://github.com/joenorton/comfyui-mcp-server",
+  "name": "ComfyUI",
+  "author": "joenorton",
+  "description": "Integrates ComfyUI with WebSocket communication for on-demand image generation, enabling customizable requests with parameters like prompt, width, and height.",
+  "codiconIcon": "comfyui",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "requests",
+    "parameters",
+    "prompt",
+    "comfyui",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "082d1c81-787d-4a55-abd4-8b6efbe26674"
+}

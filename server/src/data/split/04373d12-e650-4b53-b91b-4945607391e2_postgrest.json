@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/supabase-community/mcp-supabase/tree/HEAD/packages/mcp-server-postgrest",
+  "githubUrl": "https://github.com/supabase-community/mcp-supabase/tree/HEAD/packages/mcp-server-postgrest",
+  "name": "Postgrest",
+  "author": "supabase-community",
+  "description": "Enables database operations on PostgreSQL through PostgREST, supporting SQL-to-REST conversion and direct API requests for querying and modifying data.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/postgrest.png",
+  "category": "databases",
+  "tags": [
+    "postgresql",
+    "postgrest",
+    "database-api",
+    "sql",
+    "supabase"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 86,
+  "downloadCount": 390,
+  "createdAt": "2025-02-17T22:27:20.529942Z",
+  "updatedAt": "2025-02-17T22:27:20.529942Z",
+  "hubId": "04373d12-e650-4b53-b91b-4945607391e2"
+}

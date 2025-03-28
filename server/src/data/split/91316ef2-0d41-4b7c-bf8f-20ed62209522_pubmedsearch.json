@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wavelovey/pubmed_search",
+  "githubUrl": "https://github.com/wavelovey/pubmed_search",
+  "name": "PubMed Search",
+  "author": "wavelovey",
+  "description": "Integrates with PubMed to enable natural language querying and analysis of biomedical literature for research and evidence-based decision making.",
+  "codiconIcon": "pubmed",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "decision",
+    "pubmed-search",
+    "pubmed",
+    "enable",
+    "natural"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "91316ef2-0d41-4b7c-bf8f-20ed62209522"
+}

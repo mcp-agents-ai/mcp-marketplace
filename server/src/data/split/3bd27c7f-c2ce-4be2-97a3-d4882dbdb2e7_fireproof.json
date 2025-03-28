@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/fireproof-storage/mcp-database-server",
+  "githubUrl": "https://github.com/fireproof-storage/mcp-database-server",
+  "name": "Fireproof",
+  "author": "fireproof-storage",
+  "description": "A JSON document store server providing CRUD operations and field-based sorting queries, powered by Fireproof database for seamless integration with AI systems.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/fireproof.png",
+  "category": "databases",
+  "tags": [
+    "document-store",
+    "json",
+    "crud",
+    "database",
+    "storage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 11,
+  "downloadCount": 45,
+  "createdAt": "2025-02-18T06:27:56.840721Z",
+  "updatedAt": "2025-02-18T06:27:56.840721Z",
+  "hubId": "3bd27c7f-c2ce-4be2-97a3-d4882dbdb2e7"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Hawstein/resend-mcp",
+  "githubUrl": "https://github.com/Hawstein/resend-mcp",
+  "name": "Resend Email",
+  "author": "Hawstein",
+  "description": "Enables AI to compose and send emails through the Resend API with customizable sender addresses, reply-to fields, and scheduled delivery options",
+  "codiconIcon": "resend",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "resend",
+    "sender",
+    "reply-to",
+    "delivery"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "27a28902-fab5-4ac9-adc3-4ef990bdbed5"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bsmi021/mcp-node-omnibus-server",
+  "githubUrl": "https://github.com/bsmi021/mcp-node-omnibus-server",
+  "name": "Node Omnibus",
+  "author": "bsmi021",
+  "description": "Enables AI-assisted Node.js and TypeScript development optimized for popular frameworks, offering code generation, debugging, and project management capabilities.",
+  "codiconIcon": "node",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "node-omnibus",
+    "enables",
+    "node.js",
+    "management",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "44eac858-1572-4d9a-b12e-62aff77fe2ae"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tanevanwifferen/usescraper-mcp-server",
+  "githubUrl": "https://github.com/tanevanwifferen/usescraper-mcp-server",
+  "name": "UseScraper",
+  "author": "tanevanwifferen",
+  "description": "Integrates with UseScraper API to extract web content in various formats with advanced proxy options and custom data extraction capabilities.",
+  "codiconIcon": "usescraper",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "usescraper",
+    "extract",
+    "various",
+    "formats",
+    "advanced"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "7e911437-0c3e-4765-b3c1-e17c35909e58"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tatn/mcp-server-diff-python",
+  "githubUrl": "https://github.com/tatn/mcp-server-diff-python",
+  "name": "Text Diff (Python)",
+  "author": "tatn",
+  "description": "Integrates with Python's difflib to generate unified diffs for efficient text comparison and version control tasks.",
+  "codiconIcon": "text",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "python's",
+    "diffs",
+    "efficient",
+    "version",
+    "control"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "bd297f66-229e-43f2-b839-ef7e3e61040b"
+}

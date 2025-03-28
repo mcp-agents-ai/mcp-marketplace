@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/m-siles/branch-thinking",
+  "githubUrl": "https://github.com/m-siles/branch-thinking",
+  "name": "Branch Thinking",
+  "author": "m-siles",
+  "description": "Organizes and connects related ideas across multiple branches of reasoning to facilitate complex problem-solving and strategic analysis.",
+  "codiconIcon": "branch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "complex",
+    "problem-solving",
+    "related",
+    "ideas",
+    "across"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "e0d5171f-b2a9-483f-a729-84f9ee56c39a"
+}

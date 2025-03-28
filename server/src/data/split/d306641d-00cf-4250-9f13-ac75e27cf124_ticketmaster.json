@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/delorenj/mcp-server-ticketmaster",
+  "githubUrl": "https://github.com/delorenj/mcp-server-ticketmaster",
+  "name": "Ticketmaster",
+  "author": "delorenj",
+  "description": "Integrates with Ticketmaster's Discovery API to search and retrieve detailed event, venue, and attraction data for entertainment planning and ticketing assistance.",
+  "codiconIcon": "ticketmaster",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "entertainment",
+    "assistance",
+    "discovery",
+    "event",
+    "venue"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "d306641d-00cf-4250-9f13-ac75e27cf124"
+}

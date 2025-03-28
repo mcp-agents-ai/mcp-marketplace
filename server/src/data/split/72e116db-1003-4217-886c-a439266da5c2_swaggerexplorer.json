@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/johnneerdael/swagger-mcp",
+  "githubUrl": "https://github.com/johnneerdael/swagger-mcp",
+  "name": "Swagger Explorer",
+  "author": "johnneerdael",
+  "description": "Analyzes and interacts with Swagger/OpenAPI specifications to enable dynamic API exploration, endpoint filtering, and schema validation for developers working with unfamiliar APIs.",
+  "codiconIcon": "swagger",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "validation",
+    "developers",
+    "apis",
+    "swagger-explorer",
+    "analyzes"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "72e116db-1003-4217-886c-a439266da5c2"
+}

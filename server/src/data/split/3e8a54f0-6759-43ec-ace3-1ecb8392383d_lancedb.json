@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/adiom-data/lance-mcp",
+  "githubUrl": "https://github.com/adiom-data/lance-mcp",
+  "name": "LanceDB",
+  "author": "adiom-data",
+  "description": "Integrates with LanceDB to enable natural language querying, insertion, and management of vector data for efficient similarity search and semantic analysis.",
+  "codiconIcon": "lancedb",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "language",
+    "vector",
+    "efficient"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "3e8a54f0-6759-43ec-ace3-1ecb8392383d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/prajwalnayak7/mcp-server-redis",
+  "githubUrl": "https://github.com/prajwalnayak7/mcp-server-redis",
+  "name": "Redis",
+  "author": "prajwalnayak7",
+  "description": "Integrates with Redis and AWS MemoryDB for fast, in-memory data storage and retrieval, enabling caching, session management, and real-time analytics.",
+  "codiconIcon": "redis",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "management",
+    "analytics",
+    "fast",
+    "in-memory",
+    "storage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "6af52230-a38a-4548-af86-033c9a04748e"
+}

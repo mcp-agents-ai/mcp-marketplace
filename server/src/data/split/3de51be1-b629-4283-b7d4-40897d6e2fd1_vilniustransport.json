@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sarunasdaujotis/vilnius-transport-mcp-server",
+  "githubUrl": "https://github.com/sarunasdaujotis/vilnius-transport-mcp-server",
+  "name": "Vilnius Transport",
+  "author": "sarunasdaujotis",
+  "description": "Integrates with Vilnius public transport data sources to provide real-time transit information, enabling accurate responses about local transportation.",
+  "codiconIcon": "vilnius",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "responses",
+    "public",
+    "provide",
+    "enabling",
+    "real-time"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "3de51be1-b629-4283-b7d4-40897d6e2fd1"
+}

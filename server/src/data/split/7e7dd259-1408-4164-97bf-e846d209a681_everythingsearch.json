@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Alihkhawaher/everything-search-server",
+  "githubUrl": "https://github.com/Alihkhawaher/everything-search-server",
+  "name": "Everything Search",
+  "author": "Alihkhawaher",
+  "description": "Integrates with the Everything Search Engine to enable file search and management across large file systems using advanced query options and customizable result formatting.",
+  "codiconIcon": "everything",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "everything-search",
+    "everything",
+    "search",
+    "large",
+    "systems"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "7e7dd259-1408-4164-97bf-e846d209a681"
+}

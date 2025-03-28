@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ttjslbz001/akshare_mcp_server",
+  "githubUrl": "https://github.com/ttjslbz001/akshare_mcp_server",
+  "name": "AKShare (Chinese Financial Data)",
+  "author": "ttjslbz001",
+  "description": "Integrates with AKShare to provide real-time financial data and analysis tools for Chinese and global markets, enabling stock, fund, bond, futures, forex, and macroeconomic data queries for investment decision support.",
+  "codiconIcon": "akshare",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tools",
+    "global",
+    "enabling",
+    "stock",
+    "futures"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "c46b7892-7b58-44d7-8913-700a49535dd9"
+}

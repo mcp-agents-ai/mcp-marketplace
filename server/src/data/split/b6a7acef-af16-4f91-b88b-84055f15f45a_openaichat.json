@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mzxrai/mcp-openai",
+  "githubUrl": "https://github.com/mzxrai/mcp-openai",
+  "name": "OpenAI Chat",
+  "author": "mzxrai",
+  "description": "Generate text using OpenAI's language models.",
+  "codiconIcon": "openai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "openai's",
+    "language",
+    "models",
+    "openai-chat"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "b6a7acef-af16-4f91-b88b-84055f15f45a"
+}

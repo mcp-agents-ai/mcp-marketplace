@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tatsuiman/docker-mcp-servers",
+  "githubUrl": "https://github.com/tatsuiman/docker-mcp-servers",
+  "name": "Notion",
+  "author": "tatsuiman",
+  "description": "Containerizes a Notion integration server for simplified deployment and consistent operation across environments.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "notion",
+    "containerizes",
+    "integration",
+    "server",
+    "deployment"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "6824d511-c428-4366-a798-29ee75430107"
+}

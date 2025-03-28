@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/chromindscan/chromia-mcp",
+  "githubUrl": "https://github.com/chromindscan/chromia-mcp",
+  "name": "Chromia Wallet",
+  "author": "chromindscan",
+  "description": "Integrates with the Chromia blockchain to enable cryptocurrency transactions and wallet operations for automated financial workflows.",
+  "codiconIcon": "chromia",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "financial",
+    "workflows",
+    "chromia-wallet",
+    "integrates",
+    "chromia"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "07b9c80c-ecd9-499f-9cd7-5a1ada5c1a80"
+}

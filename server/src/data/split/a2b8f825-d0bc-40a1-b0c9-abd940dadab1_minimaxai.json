@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PsychArch/minimax-mcp-tools",
+  "githubUrl": "https://github.com/PsychArch/minimax-mcp-tools",
+  "name": "Minimax AI",
+  "author": "PsychArch",
+  "description": "Integrates with Minimax's AI services to provide image generation and text-to-speech capabilities through a Node.js server, enabling editors to access image-01 and speech-01 models for creating visuals and natural-sounding audio without leaving the editing environment.",
+  "codiconIcon": "minimax",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "speech-01",
+    "services",
+    "text-to-speech",
+    "capabilities",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "a2b8f825-d0bc-40a1-b0c9-abd940dadab1"
+}

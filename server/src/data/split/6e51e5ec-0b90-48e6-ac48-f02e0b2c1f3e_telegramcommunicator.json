@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qpd-v/mcp-communicator-telegram",
+  "githubUrl": "https://github.com/qpd-v/mcp-communicator-telegram",
+  "name": "Telegram Communicator",
+  "author": "qpd-v",
+  "description": "Enables real-time communication with Telegram users via bots, supporting asynchronous messaging and secure chat interactions.",
+  "codiconIcon": "telegram",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "interactions",
+    "enables",
+    "telegram",
+    "bots",
+    "supporting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "6e51e5ec-0b90-48e6-ac48-f02e0b2c1f3e"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/highlight-ing/highlight-github-mcp",
+  "githubUrl": "https://github.com/highlight-ing/highlight-github-mcp",
+  "name": "GitHub PR Diff",
+  "author": "highlight-ing",
+  "description": "Integrates with GitHub's Pull Request API to extract diff content, enabling automated code review and analysis workflows.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "request",
+    "content",
+    "enabling",
+    "automated",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "f1b5917a-cdd1-459d-8861-313a681b7f9c"
+}

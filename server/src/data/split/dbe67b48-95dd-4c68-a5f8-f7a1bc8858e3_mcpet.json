@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shreyaskarnik/mcpet",
+  "githubUrl": "https://github.com/shreyaskarnik/mcpet",
+  "name": "MCPet",
+  "author": "shreyaskarnik",
+  "description": "Virtual pet simulator that lets users adopt, nurture, and play with digital pets that evolve through life stages and maintain persistent stats between sessions.",
+  "codiconIcon": "mcpet",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "maintain",
+    "virtual",
+    "nurture",
+    "stages",
+    "persistent"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "dbe67b48-95dd-4c68-a5f8-f7a1bc8858e3"
+}

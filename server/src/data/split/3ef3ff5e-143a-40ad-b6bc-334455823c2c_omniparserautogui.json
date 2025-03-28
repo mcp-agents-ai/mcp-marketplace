@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/NON906/omniparser-autogui-mcp",
+  "githubUrl": "https://github.com/NON906/omniparser-autogui-mcp",
+  "name": "OmniParser AutoGUI",
+  "author": "NON906",
+  "description": "Integrates computer vision and automation libraries to enable AI-assisted control of desktop applications through visual analysis and GUI interactions.",
+  "codiconIcon": "omniparser",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "vision",
+    "automation",
+    "enable",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "3ef3ff5e-143a-40ad-b6bc-334455823c2c"
+}

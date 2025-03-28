@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sirmews/mcp-pinecone",
+  "githubUrl": "https://github.com/sirmews/mcp-pinecone",
+  "name": "Pinecone Vector DB",
+  "author": "sirmews",
+  "description": "Leverage Pinecone vector databases for semantic search and RAG.",
+  "codiconIcon": "pinecone",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "search",
+    "pinecone-vector-db",
+    "leverage",
+    "pinecone",
+    "vector"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "845f1fdb-00a4-475b-8bb2-efffcde7ac61"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/benhaotang/mcp-mma-docs",
+  "githubUrl": "https://github.com/benhaotang/mcp-mma-docs",
+  "name": "Mathematica Docs",
+  "author": "benhaotang",
+  "description": "Integrates with Wolfram Mathematica's documentation to provide access to function details, package symbols, and computational capabilities for mathematical modeling and scientific computing tasks.",
+  "codiconIcon": "mathematica",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "capabilities",
+    "mathematical",
+    "integrates",
+    "mathematica's",
+    "documentation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "d4097d07-09b9-4dd9-802f-c06789337036"
+}

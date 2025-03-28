@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DanEdens/fastmcp-todo-server",
+  "githubUrl": "https://github.com/DanEdens/fastmcp-todo-server",
+  "name": "FastMCP Todo",
+  "author": "DanEdens",
+  "description": "Integrates with MongoDB and MQTT to enable real-time task management, distribution, and updates for collaborative workflows and automation.",
+  "codiconIcon": "fastmcp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "distribution",
+    "collaborative",
+    "workflows",
+    "automation",
+    "mongodb"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "cf3dca34-4664-4751-8725-793a28273eb2"
+}

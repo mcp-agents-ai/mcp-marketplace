@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/idyll/party-time-mcp",
+  "githubUrl": "https://github.com/idyll/party-time-mcp",
+  "name": "Party Time",
+  "author": "idyll",
+  "description": "Provides a fun, lighthearted time-telling service that always responds with 'It's Party Time' when queried.",
+  "codiconIcon": "party",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "party-time",
+    "lighthearted",
+    "service",
+    "always",
+    "responds"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "5ed07866-fb08-4b7d-88e3-a704bd0ea0ac"
+}

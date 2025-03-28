@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pskill9/hn-server",
+  "githubUrl": "https://github.com/pskill9/hn-server",
+  "name": "Hacker News",
+  "author": "pskill9",
+  "description": "Fetches and parses Hacker News stories using Cheerio, enabling tech news aggregation and trend analysis.",
+  "codiconIcon": "hacker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "hacker-news",
+    "stories",
+    "using",
+    "cheerio",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "55761428-75a6-4f60-82c1-c2c335b567c4"
+}

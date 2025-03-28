@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mccartykim/honk_mcp",
+  "githubUrl": "https://github.com/mccartykim/honk_mcp",
+  "name": "Honk",
+  "author": "mccartykim",
+  "description": "Provides a simple text-to-speech interface for MacOS using the built-in 'say' command, enabling voice output for AI models.",
+  "codiconIcon": "honk",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "voice",
+    "output",
+    "models",
+    "honk"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "a9395c66-a4a1-4a42-9062-06d7475ab9ba"
+}

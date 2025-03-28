@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Lakphy/deep-reasoning-mcp",
+  "githubUrl": "https://github.com/Lakphy/deep-reasoning-mcp",
+  "name": "Deep Reasoning (OpenRouter)",
+  "author": "Lakphy",
+  "description": "Integrates with OpenRouter's AI SDK to enable deep reasoning capabilities for complex analysis and inference tasks.",
+  "codiconIcon": "deep",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "openrouter's",
+    "reasoning",
+    "capabilities",
+    "complex",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "7aaf445e-8cca-4f70-b51b-741d2850ac9f"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cf-toolsuite/cf-kaizen/tree/HEAD/butler",
+  "githubUrl": "https://github.com/cf-toolsuite/cf-kaizen/tree/HEAD/butler",
+  "name": "Cloud Foundry Butler",
+  "author": "cf-toolsuite",
+  "description": "Cleanup stale apps and services on a Cloud Foundry foundation.",
+  "codiconIcon": "cloud",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "foundry",
+    "foundation",
+    "cloud-foundry-butler",
+    "cleanup",
+    "stale"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "92c07575-4e43-4802-be5c-4ac4624df27f"
+}

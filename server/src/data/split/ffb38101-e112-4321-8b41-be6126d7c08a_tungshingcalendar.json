@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/baranwang/mcp-tung-shing",
+  "githubUrl": "https://github.com/baranwang/mcp-tung-shing",
+  "name": "Tung Shing Calendar",
+  "author": "baranwang",
+  "description": "Provides cross-calendar date parsing, formatting, and manipulation for Gregorian and lunar calendars.",
+  "codiconIcon": "tung",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tung-shing-calendar",
+    "provides",
+    "formatting",
+    "gregorian",
+    "lunar"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "ffb38101-e112-4321-8b41-be6126d7c08a"
+}

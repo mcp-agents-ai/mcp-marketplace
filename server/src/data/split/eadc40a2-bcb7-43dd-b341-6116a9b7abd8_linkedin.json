@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/adhikasp/mcp-linkedin",
+  "githubUrl": "https://github.com/adhikasp/mcp-linkedin",
+  "name": "LinkedIn",
+  "author": "adhikasp",
+  "description": "Integrates with an unofficial LinkedIn API to retrieve feed posts, search jobs, and analyze job matches against resumes.",
+  "codiconIcon": "linkedin",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "linkedin",
+    "retrieve",
+    "posts",
+    "analyze",
+    "matches"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "eadc40a2-bcb7-43dd-b341-6116a9b7abd8"
+}

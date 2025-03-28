@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dillip285/mcp-dev-server",
+  "githubUrl": "https://github.com/dillip285/mcp-dev-server",
+  "name": "Development Tooling",
+  "author": "dillip285",
+  "description": "Integrates with Docker, Git, and development tools to enable software project management, code analysis, and automated workflows across languages and frameworks.",
+  "codiconIcon": "development",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "docker",
+    "development",
+    "management",
+    "integrates",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "90c02d51-c75e-4338-8332-d71581697c84"
+}

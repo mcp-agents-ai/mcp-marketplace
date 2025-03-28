@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DonMorr/AlphavantageMCPServer",
+  "githubUrl": "https://github.com/DonMorr/AlphavantageMCPServer",
+  "name": "Alphavantage",
+  "author": "DonMorr",
+  "description": "Integrates with Alphavantage API to provide real-time and historical financial data for stock market analysis and trading strategies.",
+  "codiconIcon": "alphavantage",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "trading",
+    "real-time",
+    "financial",
+    "market",
+    "strategies"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "c72f32db-402f-43db-8186-68da837a79f3"
+}

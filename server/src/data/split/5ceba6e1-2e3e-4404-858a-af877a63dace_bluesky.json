@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/morinokami/mcp-server-bluesky",
+  "githubUrl": "https://github.com/morinokami/mcp-server-bluesky",
+  "name": "Bluesky",
+  "author": "morinokami",
+  "description": "Integrates with Bluesky's social network API to enable profile management, posting, following, and engagement actions.",
+  "codiconIcon": "bluesky",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bluesky",
+    "social",
+    "network",
+    "posting",
+    "following"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "5ceba6e1-2e3e-4404-858a-af877a63dace"
+}

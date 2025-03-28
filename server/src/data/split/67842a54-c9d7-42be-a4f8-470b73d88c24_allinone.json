@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/athapong/aio-mcp",
+  "githubUrl": "https://github.com/athapong/aio-mcp",
+  "name": "All-in-One",
+  "author": "athapong",
+  "description": "Integrates GitLab, Jira, Confluence, YouTube, and Google AI to provide search capabilities and utility tools for streamlined development workflows and project management tasks.",
+  "codiconIcon": "all-in-one",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "management",
+    "all-in-one",
+    "gitlab",
+    "youtube",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "67842a54-c9d7-42be-a4f8-470b73d88c24"
+}

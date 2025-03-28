@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/adamwattis/resource-hub-server",
+  "githubUrl": "https://github.com/adamwattis/resource-hub-server",
+  "name": "Resource Hub",
+  "author": "adamwattis",
+  "description": "Centralizes shared tools and configurations for MCP environments, enabling consistent resource access across teams and projects.",
+  "codiconIcon": "resource",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "centralizes",
+    "configurations",
+    "enabling",
+    "consistent",
+    "across"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "b832d3cc-12ed-498a-9224-b4b351170c22"
+}

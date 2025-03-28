@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wildfly-extras/wildfly-mcp",
+  "githubUrl": "https://github.com/wildfly-extras/wildfly-mcp",
+  "name": "WildFly",
+  "author": "wildfly-extras",
+  "description": "Integrates with WildFly application servers to enable monitoring, configuration, and management of server resources and performance.",
+  "codiconIcon": "wildfly",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "servers",
+    "enable",
+    "monitoring",
+    "configuration",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "28c7d726-f2a8-4d3a-824f-9490857e089f"
+}

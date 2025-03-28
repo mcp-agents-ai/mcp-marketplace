@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AItheLab/mcp-terminal-use",
+  "githubUrl": "https://github.com/AItheLab/mcp-terminal-use",
+  "name": "Terminal",
+  "author": "AItheLab",
+  "description": "Enables secure interaction with specified directories on a user's system through a command-line interface for file management and system automation tasks.",
+  "codiconIcon": "terminal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "terminal",
+    "secure",
+    "interaction",
+    "specified",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "ad8b498a-ce23-4ee9-a4a4-788653a39976"
+}

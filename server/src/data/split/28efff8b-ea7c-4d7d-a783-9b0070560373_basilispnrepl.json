@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cat-state/nrepl-mcp",
+  "githubUrl": "https://github.com/cat-state/nrepl-mcp",
+  "name": "Basilisp nREPL",
+  "author": "cat-state",
+  "description": "Bridges Anthropic's Model Control Protocol with Basilisp's nREPL server, enabling direct execution of Basilisp code, documentation retrieval, namespace exploration, and Python interoperability.",
+  "codiconIcon": "basilisp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "anthropic's",
+    "protocol",
+    "basilisp",
+    "python",
+    "interoperability"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "28efff8b-ea7c-4d7d-a783-9b0070560373"
+}

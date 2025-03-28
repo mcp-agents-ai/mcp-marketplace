@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Akira-Papa/akirapapa-mcp-notion-server",
+  "githubUrl": "https://github.com/Akira-Papa/akirapapa-mcp-notion-server",
+  "name": "Notion",
+  "author": "Akira-Papa",
+  "description": "Integrates Notion workspaces, enabling seamless interaction with Notion's API for tasks like automated note-taking and knowledge base management.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "notion's",
+    "tasks",
+    "note-taking",
+    "management",
+    "notion"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "43db41fa-d997-4356-9d5c-9a80d842ffc0"
+}

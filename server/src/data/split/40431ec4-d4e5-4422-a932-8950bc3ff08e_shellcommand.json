@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tumf/mcp-shell-server",
+  "githubUrl": "https://github.com/tumf/mcp-shell-server",
+  "name": "Shell Command",
+  "author": "tumf",
+  "description": "Execute whitelisted shell commands on the host system via asyncio.",
+  "codiconIcon": "shell",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "shell-command",
+    "execute",
+    "whitelisted",
+    "shell",
+    "commands"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "40431ec4-d4e5-4422-a932-8950bc3ff08e"
+}

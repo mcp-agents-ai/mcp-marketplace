@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kevinlin/mcp-server-weather",
+  "githubUrl": "https://github.com/kevinlin/mcp-server-weather",
+  "name": "Weather Alerts & Forecasts",
+  "author": "kevinlin",
+  "description": "Integrates with OpenWeather to retrieve and provide weather data.",
+  "codiconIcon": "weather",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "openweather",
+    "retrieve",
+    "provide",
+    "weather",
+    "data"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "9ee22899-7683-43c7-9639-6d4214ab4fc7"
+}

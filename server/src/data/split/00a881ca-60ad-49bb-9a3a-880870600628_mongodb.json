@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jonfreeland/mongodb-mcp",
+  "githubUrl": "https://github.com/jonfreeland/mongodb-mcp",
+  "name": "MongoDB",
+  "author": "jonfreeland",
+  "description": "Enables querying and analyzing MongoDB databases with read-only access, providing operations for exploration, schema inference, querying, aggregation, text search, and geospatial analysis.",
+  "codiconIcon": "mongodb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "databases",
+    "schema",
+    "inference",
+    "analysis",
+    "mongodb"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "00a881ca-60ad-49bb-9a3a-880870600628"
+}

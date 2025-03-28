@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/angrysky56/mcp-windows-website-downloader",
+  "githubUrl": "https://github.com/angrysky56/mcp-windows-website-downloader",
+  "name": "Website Downloader (Windows)",
+  "author": "angrysky56",
+  "description": "Windows-compatible website downloader for efficient web content retrieval and storage, leveraging asynchronous processing and concurrent downloads for tasks like web scraping and content archiving.",
+  "codiconIcon": "website",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "archiving",
+    "website",
+    "downloads",
+    "tasks",
+    "website-downloader-(windows)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "d9ece42f-b731-4e7c-8b42-85a4af835bb2"
+}

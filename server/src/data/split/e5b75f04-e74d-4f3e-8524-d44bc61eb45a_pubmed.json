@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/grll/pubmedmcp",
+  "githubUrl": "https://github.com/grll/pubmedmcp",
+  "name": "PubMed",
+  "author": "grll",
+  "description": "Integrates PubMed data for searching and fetching biomedical literature, enabling dynamic querying and analysis of scientific information.",
+  "codiconIcon": "pubmed",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "dynamic",
+    "querying",
+    "scientific",
+    "pubmed"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "e5b75f04-e74d-4f3e-8524-d44bc61eb45a"
+}

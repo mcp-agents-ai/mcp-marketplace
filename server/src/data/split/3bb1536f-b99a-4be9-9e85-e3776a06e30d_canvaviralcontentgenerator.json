@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ZubeidHendricks/canva-mcp-typescript",
+  "githubUrl": "https://github.com/ZubeidHendricks/canva-mcp-typescript",
+  "name": "Canva Viral Content Generator",
+  "author": "ZubeidHendricks",
+  "description": "Integrates with Canva's API to enable automated generation and scheduling of viral content from spreadsheet data for efficient social media marketing.",
+  "codiconIcon": "canva",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "viral",
+    "content",
+    "media",
+    "canva's",
+    "automated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "3bb1536f-b99a-4be9-9e85-e3776a06e30d"
+}

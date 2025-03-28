@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/NightTrek/Software-planning-mcp",
+  "githubUrl": "https://github.com/NightTrek/Software-planning-mcp",
+  "name": "Software Planning",
+  "author": "NightTrek",
+  "description": "Interactive tool for breaking down software projects into manageable tasks, tracking implementation progress, and maintaining detailed development plans with complexity scoring and code examples.",
+  "codiconIcon": "project",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/software-planning.png",
+  "category": "developer-tools",
+  "tags": [
+    "project-planning",
+    "task-management",
+    "software-development",
+    "todo-tracking",
+    "documentation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 110,
+  "downloadCount": 2966,
+  "createdAt": "2025-02-18T23:03:50.971515Z",
+  "updatedAt": "2025-02-18T23:03:50.971515Z",
+  "hubId": "36666812-826b-4e1a-a1c7-043cbd0512f3"
+}

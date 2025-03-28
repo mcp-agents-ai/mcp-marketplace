@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/e2b-dev/mcp-server/tree/HEAD/packages/js",
+  "githubUrl": "https://github.com/e2b-dev/mcp-server/tree/HEAD/packages/js",
+  "name": "E2B (TS)",
+  "author": "e2b-dev",
+  "description": "Execute code securely in cloud sandboxes.",
+  "codiconIcon": "e2b",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "e2b-(ts)",
+    "execute",
+    "securely",
+    "cloud",
+    "sandboxes"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "24a93944-2a51-4de4-acc9-71bf9d244e98"
+}

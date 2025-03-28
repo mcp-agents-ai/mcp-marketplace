@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shaike1/mcp-server-ssh",
+  "githubUrl": "https://github.com/shaike1/mcp-server-ssh",
+  "name": "SSH",
+  "author": "shaike1",
+  "description": "Provides secure remote access capabilities for executing commands, transferring files, and managing connections on remote systems via SSH.",
+  "codiconIcon": "ssh",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "access",
+    "executing",
+    "commands",
+    "systems"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "6a97905a-c831-4bb5-9a6a-b9a43e3c18dc"
+}

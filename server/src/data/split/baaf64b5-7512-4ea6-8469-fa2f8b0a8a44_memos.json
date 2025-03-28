@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RyoJerryYu/mcp-server-memos-py",
+  "githubUrl": "https://github.com/RyoJerryYu/mcp-server-memos-py",
+  "name": "Memos",
+  "author": "RyoJerryYu",
+  "description": "Integrates Memos note-taking application to automate note management, organization, and retrieval tasks.",
+  "codiconIcon": "memos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "organization",
+    "retrieval",
+    "management",
+    "tasks",
+    "memos"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "baaf64b5-7512-4ea6-8469-fa2f8b0a8a44"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kishimoto-banana/shopify-py-mcp",
+  "githubUrl": "https://github.com/kishimoto-banana/shopify-py-mcp",
+  "name": "Shopify",
+  "author": "kishimoto-banana",
+  "description": "Integrates with the Shopify API to enable e-commerce data management and operations for online stores, including product, order, and customer information handling.",
+  "codiconIcon": "shopify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "e-commerce",
+    "management",
+    "operations",
+    "including",
+    "product"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "ec773325-c1e7-4a6e-a59e-e09ce61346dd"
+}

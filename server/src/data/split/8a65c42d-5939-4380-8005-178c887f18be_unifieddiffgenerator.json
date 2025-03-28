@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tatn/mcp-server-diff-typescript",
+  "githubUrl": "https://github.com/tatn/mcp-server-diff-typescript",
+  "name": "Unified Diff Generator",
+  "author": "tatn",
+  "description": "Generates unified diffs between text strings with 3 lines of context, enabling precise comparison and analysis for version control and code review tasks.",
+  "codiconIcon": "unified",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "unified",
+    "lines",
+    "comparison",
+    "version"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "8a65c42d-5939-4380-8005-178c887f18be"
+}

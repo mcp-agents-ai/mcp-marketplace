@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/anpigon/mcp-server-obsidian-omnisearch",
+  "githubUrl": "https://github.com/anpigon/mcp-server-obsidian-omnisearch",
+  "name": "Obsidian Omnisearch",
+  "author": "anpigon",
+  "description": "Integrates Obsidian vaults to enable searching and retrieving notes, leveraging personal knowledge for various applications.",
+  "codiconIcon": "obsidian",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "obsidian",
+    "vaults",
+    "enable",
+    "searching"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "84420f5e-4e88-4815-a1cc-70ce6a735393"
+}

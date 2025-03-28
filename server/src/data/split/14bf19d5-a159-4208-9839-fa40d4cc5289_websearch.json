@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/divslingerx/mcp-server",
+  "githubUrl": "https://github.com/divslingerx/mcp-server",
+  "name": "Web Search",
+  "author": "divslingerx",
+  "description": "Integrates with Google Search using Puppeteer to enable web searches and extract structured results for real-time information retrieval and fact-checking.",
+  "codiconIcon": "web",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "information",
+    "web-search",
+    "google",
+    "searches",
+    "extract"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "14bf19d5-a159-4208-9839-fa40d4cc5289"
+}

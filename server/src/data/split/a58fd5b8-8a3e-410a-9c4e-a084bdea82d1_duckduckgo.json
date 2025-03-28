@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AshDevFr/duckduckgo-mcp-server",
+  "githubUrl": "https://github.com/AshDevFr/duckduckgo-mcp-server",
+  "name": "DuckDuckGo",
+  "author": "AshDevFr",
+  "description": "Integrates with DuckDuckGo search engine to provide real-time web information retrieval for research, fact-checking, and current events updates.",
+  "codiconIcon": "duckduckgo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "research",
+    "current",
+    "updates",
+    "duckduckgo",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "a58fd5b8-8a3e-410a-9c4e-a084bdea82d1"
+}

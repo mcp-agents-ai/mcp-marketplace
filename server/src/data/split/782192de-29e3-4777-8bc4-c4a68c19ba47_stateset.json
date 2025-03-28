@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/stateset/stateset-mcp-server",
+  "githubUrl": "https://github.com/stateset/stateset-mcp-server",
+  "name": "StateSet",
+  "author": "stateset",
+  "description": "Integrates with StateSet's issue operations system, enabling management of returns, orders, warranties, shipments, and manufacturing processes through a robust set of tools for creating and updating business records.",
+  "codiconIcon": "stateset",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "stateset",
+    "issue",
+    "operations",
+    "enabling",
+    "warranties"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "782192de-29e3-4777-8bc4-c4a68c19ba47"
+}

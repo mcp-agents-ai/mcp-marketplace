@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/michaelneale/deepseek-r1-mcp",
+  "githubUrl": "https://github.com/michaelneale/deepseek-r1-mcp",
+  "name": "Deepseek R1 Reasoner",
+  "author": "michaelneale",
+  "description": "Leverages Deepseek r1 for local reasoning and task planning, enabling autonomous decision-making while maintaining data privacy.",
+  "codiconIcon": "deepseek",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "privacy",
+    "leverages",
+    "reasoning",
+    "planning",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "6eb69c50-ec37-40eb-8097-3caf40f457fc"
+}

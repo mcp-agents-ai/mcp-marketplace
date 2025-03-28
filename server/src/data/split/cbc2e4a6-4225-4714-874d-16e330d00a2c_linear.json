@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/cline/linear-mcp",
+  "githubUrl": "https://github.com/cline/linear-mcp",
+  "name": "Linear",
+  "author": "cline",
+  "description": "Facilitates project management with the Linear API, enabling issue tracking, project organization, and team management through comprehensive tools for creating, updating, and managing work items.",
+  "codiconIcon": "project",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/linear.jpg",
+  "category": "developer-tools",
+  "tags": [
+    "project-management",
+    "issue-tracking",
+    "team-collaboration",
+    "linear-api",
+    "workflow"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 2,
+  "downloadCount": 504,
+  "createdAt": "2025-02-18T06:10:46.800194Z",
+  "updatedAt": "2025-02-18T06:10:46.800194Z",
+  "hubId": "cbc2e4a6-4225-4714-874d-16e330d00a2c"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bmorphism/slowtime-mcp-server",
+  "githubUrl": "https://github.com/bmorphism/slowtime-mcp-server",
+  "name": "Slowtime (Time & Intervals)",
+  "author": "bmorphism",
+  "description": "Integrates drand and tlock-js to enable secure, time-locked encryption for managing scheduled events with cryptographic guarantees.",
+  "codiconIcon": "slowtime",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "tlock-js",
+    "time-locked",
+    "managing",
+    "scheduled"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "12192f6f-3e25-4c76-9f11-8c36fb637652"
+}

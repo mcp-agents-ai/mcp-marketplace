@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SimonB97/win-cli-mcp-server",
+  "githubUrl": "https://github.com/SimonB97/win-cli-mcp-server",
+  "name": "Windows CLI",
+  "author": "SimonB97",
+  "description": "Control Windows command-line interfaces securely.",
+  "codiconIcon": "windows",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "windows-cli",
+    "control",
+    "windows",
+    "command-line",
+    "interfaces"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "ec720c54-9c8f-48db-ba76-f4583a32fd83"
+}

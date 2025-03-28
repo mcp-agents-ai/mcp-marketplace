@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/baryhuang/mcp-unipile",
+  "githubUrl": "https://github.com/baryhuang/mcp-unipile",
+  "name": "Unipile",
+  "author": "baryhuang",
+  "description": "Integrates with Unipile to provide unified access to messages across LinkedIn, WhatsApp, Instagram, Messenger, and Telegram, enabling efficient multi-platform communication management.",
+  "codiconIcon": "unipile",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "unipile",
+    "access",
+    "telegram",
+    "integrates",
+    "messages"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "278ba23c-daea-4acb-a372-209bec215c22"
+}

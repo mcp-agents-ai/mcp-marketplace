@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/2b3pro/markdown2pdf-mcp",
+  "githubUrl": "https://github.com/2b3pro/markdown2pdf-mcp",
+  "name": "Markdown to PDF",
+  "author": "2b3pro",
+  "description": "Converts Markdown to PDF using Puppeteer, offering syntax highlighting, custom styling, and watermarking capabilities for document generation.",
+  "codiconIcon": "markdown",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "markdown-to-pdf",
+    "converts",
+    "using",
+    "syntax",
+    "highlighting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "2aed3282-a1ce-4d5e-812c-45ebbcc977df"
+}

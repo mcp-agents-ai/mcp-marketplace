@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hannesj/mcp-openapi-schema",
+  "githubUrl": "https://github.com/hannesj/mcp-openapi-schema",
+  "name": "OpenAPI Schema",
+  "author": "hannesj",
+  "description": "Transforms OpenAPI specifications into YAML-formatted tools for exploring API paths, operations, parameters, schemas, and security definitions, enabling seamless API documentation navigation and understanding.",
+  "codiconIcon": "openapi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "security",
+    "openapi-schema",
+    "openapi",
+    "paths",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "38968072-84bc-4af0-b833-0e534f3a997a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/mcp-taskmanager",
+  "githubUrl": "https://github.com/pashpashpash/mcp-taskmanager",
+  "name": "Task Manager",
+  "author": "pashpashpash",
+  "description": "A queue-based task management system that enables planning, execution, and tracking of tasks with support for task lists, execution plans, and completion feedback.",
+  "codiconIcon": "tasklist",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/task-manager.png",
+  "category": "developer-tools",
+  "tags": [
+    "task-management",
+    "queue-system",
+    "workflow",
+    "task-tracking",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 11,
+  "downloadCount": 1265,
+  "createdAt": "2025-02-18T23:06:16.564387Z",
+  "updatedAt": "2025-02-18T23:06:16.564387Z",
+  "hubId": "295d2434-4b10-41a2-8767-5ac6cd24c6ee"
+}

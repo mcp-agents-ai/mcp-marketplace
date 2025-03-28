@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qeinfinity/binance-mcp-server",
+  "githubUrl": "https://github.com/qeinfinity/binance-mcp-server",
+  "name": "Binance",
+  "author": "qeinfinity",
+  "description": "Integrates with Binance to provide real-time cryptocurrency market data streaming for spot and futures markets, enabling automated trading strategies and financial analysis.",
+  "codiconIcon": "binance",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "streaming",
+    "markets",
+    "analysis",
+    "provide",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "5df6b631-676c-4809-b351-a7ed4844077e"
+}

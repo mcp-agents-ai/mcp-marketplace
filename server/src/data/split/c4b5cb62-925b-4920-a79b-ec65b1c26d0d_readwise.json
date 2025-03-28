@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/IAmAlexander/readwise-mcp",
+  "githubUrl": "https://github.com/IAmAlexander/readwise-mcp",
+  "name": "Readwise",
+  "author": "IAmAlexander",
+  "description": "Integrates with Readwise to provide access to saved articles, books, highlights, and documents, enabling users to reference, analyze, and search across their personal knowledge collection during conversations.",
+  "codiconIcon": "readwise",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "conversations",
+    "readwise",
+    "articles",
+    "books",
+    "during"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "c4b5cb62-925b-4920-a79b-ec65b1c26d0d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mzxrai/mcp-webresearch",
+  "githubUrl": "https://github.com/mzxrai/mcp-webresearch",
+  "name": "Web Research",
+  "author": "mzxrai",
+  "description": "Research topics using Google search and web scraping.",
+  "codiconIcon": "web",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "scraping",
+    "web-research",
+    "research",
+    "topics",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "5e46711f-d952-48a3-8983-78d67cbce37f"
+}

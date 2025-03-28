@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Ad-Veritas/mcp-server-trueRAG",
+  "githubUrl": "https://github.com/Ad-Veritas/mcp-server-trueRAG",
+  "name": "TrueRAG Compliance Policies",
+  "author": "Ad-Veritas",
+  "description": "Integrates with a TrueRAG GraphQL API to provide state-specific policy information for legal compliance checks, analysis, and regulatory guidance.",
+  "codiconIcon": "truerag",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "regulatory",
+    "truerag-compliance-policies",
+    "integrates",
+    "truerag",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "892f035b-5f88-464f-b11d-19543859d031"
+}

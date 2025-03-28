@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/noahlozevski/mcp-idb",
+  "githubUrl": "https://github.com/noahlozevski/mcp-idb",
+  "name": "iOS Development Bridge (idb)",
+  "author": "noahlozevski",
+  "description": "Integrates with Facebook's iOS Development Bridge (idb) to enable automated iOS device management, test execution, UI interactions, and app installation through a simple npm module.",
+  "codiconIcon": "ios",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "module",
+    "ios-development-bridge-(idb)",
+    "facebook's",
+    "automated",
+    "installation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "9706c361-d010-405a-b263-fd4b205c732f"
+}

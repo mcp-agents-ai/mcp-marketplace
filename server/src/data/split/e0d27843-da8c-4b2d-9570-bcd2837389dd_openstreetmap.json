@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wiseman/osm-mcp",
+  "githubUrl": "https://github.com/wiseman/osm-mcp",
+  "name": "OpenStreetMap",
+  "author": "wiseman",
+  "description": "Provides direct access to OpenStreetMap geospatial data through SQL queries, enabling location-based analysis and extraction of structured information about geographic features from the complete OSM dataset.",
+  "codiconIcon": "openstreetmap",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "geospatial",
+    "features",
+    "dataset",
+    "direct"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "e0d27843-da8c-4b2d-9570-bcd2837389dd"
+}

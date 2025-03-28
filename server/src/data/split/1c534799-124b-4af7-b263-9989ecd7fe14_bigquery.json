@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/monochromegane/mcp-bigquery-server",
+  "githubUrl": "https://github.com/monochromegane/mcp-bigquery-server",
+  "name": "BigQuery",
+  "author": "monochromegane",
+  "description": "Integrates with BigQuery to enable querying and retrieving table schemas from specified datasets for data analysis and reporting",
+  "codiconIcon": "bigquery",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "querying",
+    "retrieving",
+    "schemas"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "1c534799-124b-4af7-b263-9989ecd7fe14"
+}

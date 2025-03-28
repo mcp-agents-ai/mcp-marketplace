@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/redis",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/redis",
+  "name": "Redis",
+  "author": "modelcontextprotocol",
+  "description": "Provides access to Redis key-value stores, enabling operations like setting, getting, deleting, and listing keys with optional expiration time support.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/redis.png",
+  "category": "databases",
+  "tags": [
+    "redis",
+    "key-value-store",
+    "caching",
+    "data-storage",
+    "database-operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24475,
+  "downloadCount": 1316,
+  "createdAt": "2025-02-18T05:45:15.150896Z",
+  "updatedAt": "2025-02-18T05:45:15.150896Z",
+  "hubId": "83b9359e-07f4-4268-9d00-3b3bd8ce0642"
+}

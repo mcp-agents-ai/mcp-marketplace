@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kazuph/mcp-fetch",
+  "githubUrl": "https://github.com/kazuph/mcp-fetch",
+  "name": "Fetch with Images",
+  "author": "kazuph",
+  "description": "Integrates web scraping and image processing capabilities to fetch, extract, and optimize web content.",
+  "codiconIcon": "fetch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "scraping",
+    "image",
+    "processing",
+    "integrates",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "0756e9b7-df5c-4600-b1da-c3a6bb2a9d85"
+}

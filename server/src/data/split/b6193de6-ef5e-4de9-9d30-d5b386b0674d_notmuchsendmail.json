@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/runekaagaard/mcp-notmuch-sendmail",
+  "githubUrl": "https://github.com/runekaagaard/mcp-notmuch-sendmail",
+  "name": "Notmuch Sendmail",
+  "author": "runekaagaard",
+  "description": "Integrates Notmuch email management with sendmail functionality to enable email composition, searching, and sending capabilities.",
+  "codiconIcon": "notmuch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "functionality",
+    "searching",
+    "sending",
+    "capabilities",
+    "notmuch-sendmail"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "b6193de6-ef5e-4de9-9d30-d5b386b0674d"
+}

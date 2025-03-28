@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/epsilla-cloud/mcp-epsilla",
+  "githubUrl": "https://github.com/epsilla-cloud/mcp-epsilla",
+  "name": "Epsilla",
+  "author": "epsilla-cloud",
+  "description": "Integrates with Epsilla databases using pyepsilla to enable efficient creation, manipulation, and querying of vector data.",
+  "codiconIcon": "epsilla",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "epsilla",
+    "creation",
+    "manipulation",
+    "querying",
+    "vector"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "f99b06b1-5238-4d67-aeac-c78e4381e8b5"
+}

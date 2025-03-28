@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/evalstate/mcp-hfspace",
+  "githubUrl": "https://github.com/evalstate/mcp-hfspace",
+  "name": "HuggingFace Spaces Connector",
+  "author": "evalstate",
+  "description": "MCP server that seamlessly integrates Hugging Face Spaces with AI assistants, enabling easy access to diverse AI models and tools without manual configuration.",
+  "codiconIcon": "huggingface",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "huggingface-spaces-connector",
+    "spaces",
+    "assistants",
+    "enabling",
+    "models"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "af126906-188e-4e82-ac2b-2b3071809408"
+}

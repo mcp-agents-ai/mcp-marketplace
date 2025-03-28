@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pvev/mattermost-mcp",
+  "githubUrl": "https://github.com/pvev/mattermost-mcp",
+  "name": "Mattermost",
+  "author": "pvev",
+  "description": "Integrates with Mattermost workspaces to enable channel listing, message history retrieval, posting, thread management, reactions, user information access, and topic monitoring for team communication platforms.",
+  "codiconIcon": "mattermost",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "listing",
+    "history",
+    "management",
+    "access",
+    "topic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "b233450f-b544-4f32-a64e-33be66318b4c"
+}

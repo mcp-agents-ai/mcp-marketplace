@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DMontgomery40/mcp-local-server",
+  "githubUrl": "https://github.com/DMontgomery40/mcp-local-server",
+  "name": "BirdNet-Pi",
+  "author": "DMontgomery40",
+  "description": "Integrates BirdNet-Pi's bird detection capabilities with a JSON-RPC interface, enabling retrieval and analysis of acoustic monitoring data for ornithological research and conservation efforts.",
+  "codiconIcon": "birdnet-pi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "acoustic",
+    "birdnet-pi",
+    "birdnet-pi's",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "2045e550-0ecf-4391-90e4-8ebbc62a56fd"
+}

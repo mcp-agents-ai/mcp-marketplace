@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/blue7wings/jira-mcp-server",
+  "githubUrl": "https://github.com/blue7wings/jira-mcp-server",
+  "name": "JIRA",
+  "author": "blue7wings",
+  "description": "Integrates with JIRA to retrieve issue descriptions and custom field data for use with language models",
+  "codiconIcon": "jira",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "issue",
+    "custom",
+    "field",
+    "models"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "f6ab5983-4037-468d-a75f-a2a12ac227d0"
+}

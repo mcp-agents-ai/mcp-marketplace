@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hertzfelt/windsurf-supabase-mcp",
+  "githubUrl": "https://github.com/hertzfelt/windsurf-supabase-mcp",
+  "name": "Windsurf Supabase",
+  "author": "hertzfelt",
+  "description": "Enhances Supabase integration with improved error handling, SQL processing, and response formatting for natural language database interactions and real-time query validation in the Windsurf ecosystem.",
+  "codiconIcon": "windsurf",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "improved",
+    "response",
+    "database",
+    "validation",
+    "supabase"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "9413d2cc-564d-40ca-a73b-42c031a2c16c"
+}

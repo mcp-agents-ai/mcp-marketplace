@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rahulretnan/mcp-ragdocs",
+  "githubUrl": "https://github.com/rahulretnan/mcp-ragdocs",
+  "name": "RAG Documentation",
+  "author": "rahulretnan",
+  "description": "Integrates Qdrant vector search with documentation retrieval to enable context-aware responses and semantic querying for enhanced knowledge access.",
+  "codiconIcon": "rag",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "rag-documentation",
+    "vector",
+    "retrieval",
+    "enable",
+    "responses"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "0cb28e75-26a5-4c6f-b469-d9ce3a9e7671"
+}

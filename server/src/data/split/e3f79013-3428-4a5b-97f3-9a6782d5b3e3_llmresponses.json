@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kstrikis/ephor-mcp",
+  "githubUrl": "https://github.com/kstrikis/ephor-mcp",
+  "name": "LLM Responses",
+  "author": "kstrikis",
+  "description": "Enables multiple LLMs to share and analyze each other's responses to the same prompt, facilitating collaborative problem-solving and multi-perspective analysis through TypeScript-based response submission and retrieval tools.",
+  "codiconIcon": "llm",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "other's",
+    "responses",
+    "facilitating",
+    "typescript-based"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "e3f79013-3428-4a5b-97f3-9a6782d5b3e3"
+}

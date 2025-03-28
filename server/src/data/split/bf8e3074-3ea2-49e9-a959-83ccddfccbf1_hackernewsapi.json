@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dannylee1020/toy-mcp",
+  "githubUrl": "https://github.com/dannylee1020/toy-mcp",
+  "name": "HackerNews API",
+  "author": "dannylee1020",
+  "description": "Integrates with the HackerNews API to fetch top stories, user information, and story details for content analysis and trend identification",
+  "codiconIcon": "hackernews",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "fetch",
+    "stories",
+    "information",
+    "analysis",
+    "hackernews"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "bf8e3074-3ea2-49e9-a959-83ccddfccbf1"
+}

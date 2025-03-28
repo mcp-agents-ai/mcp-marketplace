@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/umshere/uiflowchartcreator",
+  "githubUrl": "https://github.com/umshere/uiflowchartcreator",
+  "name": "UI Flowchart Creator",
+  "author": "umshere",
+  "description": "Generates UI flowcharts based on input specifications, enabling visual representation of user interfaces and interactions for design communication and workflow analysis.",
+  "codiconIcon": "ui",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "visual",
+    "representation",
+    "design",
+    "analysis",
+    "interfaces"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "323a86db-9dd8-44e4-99a9-f6daa6464ae9"
+}

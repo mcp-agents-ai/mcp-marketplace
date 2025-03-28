@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/excelsier/things-fastmcp",
+  "githubUrl": "https://github.com/excelsier/things-fastmcp",
+  "name": "Things 3",
+  "author": "excelsier",
+  "description": "Integrates with the Things 3 task management app to enable creating tasks, managing projects, and analyzing productivity patterns through natural language commands",
+  "codiconIcon": "things",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "commands",
+    "management",
+    "patterns",
+    "language",
+    "things"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "73d7faf3-1bc9-490c-afe6-1e1d51b16f84"
+}

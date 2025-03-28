@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mcp-get/community-servers/tree/HEAD/src/server-curl",
+  "githubUrl": "https://github.com/mcp-get/community-servers/tree/HEAD/src/server-curl",
+  "name": "Curl",
+  "author": "mcp-get",
+  "description": "Make HTTP requests to any URL using curl-like interface.",
+  "codiconIcon": "curl",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "curl",
+    "requests",
+    "using",
+    "curl-like",
+    "interface"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "0961d473-0426-469f-b997-6f7df47445ac"
+}

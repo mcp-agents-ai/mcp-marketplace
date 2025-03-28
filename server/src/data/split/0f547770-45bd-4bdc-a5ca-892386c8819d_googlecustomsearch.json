@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/adenot/mcp-google-search",
+  "githubUrl": "https://github.com/adenot/mcp-google-search",
+  "name": "Google Custom Search",
+  "author": "adenot",
+  "description": "Integrates Google Custom Search API to enable web searches for fact-checking, research, and content generation tasks.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "content",
+    "tasks",
+    "custom",
+    "enable",
+    "fact-checking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "0f547770-45bd-4bdc-a5ca-892386c8819d"
+}

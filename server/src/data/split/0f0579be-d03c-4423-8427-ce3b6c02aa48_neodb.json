@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/xytangme/neodb-mcp",
+  "githubUrl": "https://github.com/xytangme/neodb-mcp",
+  "name": "NeoDB",
+  "author": "xytangme",
+  "description": "Integrates with NeoDB to fetch user data, search books, and retrieve book details, enabling book recommendations, reading list management, and literary analysis.",
+  "codiconIcon": "neodb",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "fetch",
+    "books",
+    "retrieve",
+    "analysis",
+    "data"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "0f0579be-d03c-4423-8427-ce3b6c02aa48"
+}

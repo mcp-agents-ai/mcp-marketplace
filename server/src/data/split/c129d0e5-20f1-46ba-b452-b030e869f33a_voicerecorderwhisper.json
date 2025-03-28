@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DefiBax/mcp_servers",
+  "githubUrl": "https://github.com/DefiBax/mcp_servers",
+  "name": "Voice Recorder (Whisper)",
+  "author": "DefiBax",
+  "description": "Integrates with OpenAI's Whisper model to provide voice recording and transcription capabilities for applications requiring speech-to-text functionality.",
+  "codiconIcon": "voice",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "whisper",
+    "model",
+    "provide",
+    "voice",
+    "recording"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "c129d0e5-20f1-46ba-b452-b030e869f33a"
+}

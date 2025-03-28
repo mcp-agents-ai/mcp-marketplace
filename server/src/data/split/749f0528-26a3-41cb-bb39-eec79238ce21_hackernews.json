@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/devabdultech/hn-mcp",
+  "githubUrl": "https://github.com/devabdultech/hn-mcp",
+  "name": "Hacker News",
+  "author": "devabdultech",
+  "description": "Integrates with the Hacker News API to provide real-time access to stories, comments, and user data for news aggregation, trend analysis, and custom client development.",
+  "codiconIcon": "hacker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "hacker-news",
+    "provide",
+    "comments",
+    "custom"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "749f0528-26a3-41cb-bb39-eec79238ce21"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jshmllr/Sketch-Context-MCP/tree/main",
+  "githubUrl": "https://github.com/jshmllr/Sketch-Context-MCP/tree/main",
+  "name": "Sketch",
+  "author": "jshmllr",
+  "description": "MCP server to provide Sketch layout information to AI coding agents like Cursor",
+  "codiconIcon": "sketch",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/ymq90al2l0n.png",
+  "category": "tools",
+  "tags": [
+    "provide",
+    "layout",
+    "information",
+    "coding",
+    "agents"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T18:48:35.110965+00:00",
+  "updatedAt": "2025-03-14T18:48:35.110965+00:00",
+  "hubId": "293ccc88-a443-4b50-ba13-a84e1f750bb1"
+}

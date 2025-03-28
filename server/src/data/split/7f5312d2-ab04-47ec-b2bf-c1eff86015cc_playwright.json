@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/executeautomation/mcp-playwright",
+  "githubUrl": "https://github.com/executeautomation/mcp-playwright",
+  "name": "Playwright",
+  "author": "executeautomation",
+  "description": "Browser automation server that enables LLMs to interact with web pages, take screenshots, and execute JavaScript in a real browser environment using Playwright.",
+  "codiconIcon": "browser",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/playwright.png",
+  "category": "browser-automation",
+  "tags": [
+    "browser-automation",
+    "web-testing",
+    "screenshots",
+    "javascript",
+    "playwright"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 1491,
+  "downloadCount": 3926,
+  "createdAt": "2025-02-17T22:45:31.388884Z",
+  "updatedAt": "2025-02-17T22:45:31.388884Z",
+  "hubId": "7f5312d2-ab04-47ec-b2bf-c1eff86015cc"
+}

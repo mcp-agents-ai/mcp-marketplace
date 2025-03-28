@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/xraywu/mcp-pdf-extraction-server",
+  "githubUrl": "https://github.com/xraywu/mcp-pdf-extraction-server",
+  "name": "PDF Extraction",
+  "author": "xraywu",
+  "description": "Extracts text and performs OCR on PDF files using Python libraries for tasks like document analysis and content indexing.",
+  "codiconIcon": "pdf",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "content",
+    "indexing",
+    "pdf-extraction",
+    "extracts"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "2d797d93-c78d-4e8e-b3cd-d7e5869d1de9"
+}

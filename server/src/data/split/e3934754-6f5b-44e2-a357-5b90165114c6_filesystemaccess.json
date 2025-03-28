@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/parthshr370/MCP-Servers",
+  "githubUrl": "https://github.com/parthshr370/MCP-Servers",
+  "name": "Filesystem Access",
+  "author": "parthshr370",
+  "description": "Provides direct access to local filesystem operations for reading file contents and listing directory entries through a FastMCP-powered server that supports both stdio and SSE transport modes.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "local",
+    "operations",
+    "listing",
+    "reading"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "e3934754-6f5b-44e2-a357-5b90165114c6"
+}

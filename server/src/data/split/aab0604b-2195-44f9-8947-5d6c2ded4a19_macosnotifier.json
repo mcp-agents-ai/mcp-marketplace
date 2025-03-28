@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/turlockmike/apple-notifier-mcp",
+  "githubUrl": "https://github.com/turlockmike/apple-notifier-mcp",
+  "name": "macOS Notifier",
+  "author": "turlockmike",
+  "description": "Enables interaction with macOS notifications and system dialogs for desktop alerts, user input, and system operations.",
+  "codiconIcon": "macos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "macos-notifier",
+    "interaction",
+    "macos",
+    "notifications",
+    "dialogs"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "aab0604b-2195-44f9-8947-5d6c2ded4a19"
+}

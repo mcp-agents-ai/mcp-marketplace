@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/squirrelogic/mcp-architect",
+  "githubUrl": "https://github.com/squirrelogic/mcp-architect",
+  "name": "Software Architect",
+  "author": "squirrelogic",
+  "description": "Integrates architectural expertise agents to analyze and generate software designs, patterns, and solutions for development teams seeking AI-assisted architecting help.",
+  "codiconIcon": "software",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "development",
+    "ai-assisted",
+    "software-architect",
+    "architectural"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "2039afa3-777f-46c0-b87f-d7f49b8b3dc1"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/y7ut/mcp-tavily-search",
+  "githubUrl": "https://github.com/y7ut/mcp-tavily-search",
+  "name": "Tavily Search",
+  "author": "y7ut",
+  "description": "Integrates with Tavily to provide fine-grained news search capabilities for up-to-date information retrieval and analysis.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "provide",
+    "capabilities",
+    "up-to-date",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "e8bd8e2f-1fca-4a2b-b410-1fc1cb7a11ea"
+}

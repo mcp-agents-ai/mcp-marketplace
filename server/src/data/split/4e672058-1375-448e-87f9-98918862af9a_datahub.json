@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/acryldata/mcp-server-datahub",
+  "githubUrl": "https://github.com/acryldata/mcp-server-datahub",
+  "name": "DataHub",
+  "author": "acryldata",
+  "description": "Integrates with DataHub's API to enable metadata management, discovery, and governance across diverse data assets in complex ecosystems.",
+  "codiconIcon": "datahub",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "datahub",
+    "integrates",
+    "enable",
+    "metadata",
+    "across"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "4e672058-1375-448e-87f9-98918862af9a"
+}

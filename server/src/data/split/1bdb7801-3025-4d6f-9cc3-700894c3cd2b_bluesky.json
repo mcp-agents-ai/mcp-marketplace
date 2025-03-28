@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/laulauland/bluesky-context-server",
+  "githubUrl": "https://github.com/laulauland/bluesky-context-server",
+  "name": "Bluesky",
+  "author": "laulauland",
+  "description": "Query and analyze data from the decentralized social network.",
+  "codiconIcon": "bluesky",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "social",
+    "network",
+    "bluesky",
+    "query",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "1bdb7801-3025-4d6f-9cc3-700894c3cd2b"
+}

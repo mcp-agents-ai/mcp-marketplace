@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dennj/weather-mcp",
+  "githubUrl": "https://github.com/dennj/weather-mcp",
+  "name": "Open-Meteo Weather",
+  "author": "dennj",
+  "description": "Integrates with the Open-Meteo API to provide real-time weather data for specified cities, including temperature, wind speed, and conditions, using asynchronous HTTP requests and Docker containerization for easy deployment.",
+  "codiconIcon": "open-meteo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "open-meteo-weather",
+    "open-meteo",
+    "specified",
+    "temperature",
+    "requests"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "cd8baf87-d85e-41db-8dac-283d45005cf5"
+}

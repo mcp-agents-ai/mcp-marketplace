@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/apify/actors-mcp-server",
+  "githubUrl": "https://github.com/apify/actors-mcp-server",
+  "name": "Apify Actors",
+  "author": "apify",
+  "description": "Enables AI assistants to interact with Apify's web scraping and automation actors, providing access to tools for data extraction, web searching, social media analysis, and more.",
+  "codiconIcon": "server-process",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/apify.jpg",
+  "category": "search",
+  "tags": [
+    "web-scraping",
+    "data-extraction",
+    "automation",
+    "actor-management",
+    "apify-platform"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 96,
+  "downloadCount": 168,
+  "createdAt": "2025-02-18T05:45:40.818024Z",
+  "updatedAt": "2025-02-18T05:45:40.818024Z",
+  "hubId": "8d4a34a9-726e-4cbe-a40d-553916f714f8"
+}

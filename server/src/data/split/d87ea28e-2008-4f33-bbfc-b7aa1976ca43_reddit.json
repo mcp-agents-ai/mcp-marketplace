@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wllcnm/mcp-reddit",
+  "githubUrl": "https://github.com/wllcnm/mcp-reddit",
+  "name": "Reddit",
+  "author": "wllcnm",
+  "description": "Integrates with Reddit's API using PRAW to enable retrieving and posting content, managing subreddits, and analyzing user data for applications like sentiment analysis and trend monitoring.",
+  "codiconIcon": "reddit",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "retrieving",
+    "managing",
+    "subreddits",
+    "trend"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "d87ea28e-2008-4f33-bbfc-b7aa1976ca43"
+}

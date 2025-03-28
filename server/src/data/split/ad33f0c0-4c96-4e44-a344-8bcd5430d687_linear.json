@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cosmix/linear-mcp",
+  "githubUrl": "https://github.com/cosmix/linear-mcp",
+  "name": "Linear",
+  "author": "cosmix",
+  "description": "Integrates Linear's issue tracking system, enabling querying and searching of issues for automated analysis, prioritization, and reporting.",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "linear",
+    "integrates",
+    "linear's",
+    "issue",
+    "tracking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "ad33f0c0-4c96-4e44-a344-8bcd5430d687"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Photosynth-inc/gitlab_review",
+  "githubUrl": "https://github.com/Photosynth-inc/gitlab_review",
+  "name": "GitLab Review",
+  "author": "Photosynth-inc",
+  "description": "Integrates with GitLab's API to automate code review processes, enabling retrieval of merge request details and posting of discussion comments.",
+  "codiconIcon": "gitlab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "gitlab's",
+    "automate",
+    "review",
+    "processes",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "c1700b62-72fb-4613-9de1-c18b9232e852"
+}

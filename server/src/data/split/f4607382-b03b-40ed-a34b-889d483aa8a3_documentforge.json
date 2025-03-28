@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cablate/mcp-doc-forge",
+  "githubUrl": "https://github.com/cablate/mcp-doc-forge",
+  "name": "Document Forge",
+  "author": "cablate",
+  "description": "Integrates document processing libraries to enable extraction, conversion, and manipulation across multiple file formats including PDF, DOCX, HTML, CSV, and EPUB.",
+  "codiconIcon": "document",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "extraction",
+    "html",
+    "including",
+    "epub",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "f4607382-b03b-40ed-a34b-889d483aa8a3"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/odgrim/mcp-datetime",
+  "githubUrl": "https://github.com/odgrim/mcp-datetime",
+  "name": "DateTime",
+  "author": "odgrim",
+  "description": "Provides datetime tools for retrieving current time in various timezones, listing available timezones, and accessing datetime resources through URIs, enabling accurate and flexible time-related functionalities across different geographical regions.",
+  "codiconIcon": "datetime",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "available",
+    "accurate",
+    "flexible",
+    "current",
+    "various"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "4236ff54-97eb-42c5-95e6-439b37dd45af"
+}

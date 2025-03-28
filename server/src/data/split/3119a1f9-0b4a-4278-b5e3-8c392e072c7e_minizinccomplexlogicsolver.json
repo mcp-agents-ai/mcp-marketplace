@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/szeider/mcp-solver",
+  "githubUrl": "https://github.com/szeider/mcp-solver",
+  "name": "MiniZinc Complex Logic Solver",
+  "author": "szeider",
+  "description": "Solve complex logic/optimization problems using MiniZinc syntax.",
+  "codiconIcon": "minizinc",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "syntax",
+    "minizinc-complex-logic-solver",
+    "solve",
+    "complex",
+    "logic/optimization"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "3119a1f9-0b4a-4278-b5e3-8c392e072c7e"
+}

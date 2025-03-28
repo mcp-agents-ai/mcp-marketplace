@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/genm/mcp-server-discord-webhook",
+  "githubUrl": "https://github.com/genm/mcp-server-discord-webhook",
+  "name": "Discord Webhooks",
+  "author": "genm",
+  "description": "Integrates Discord webhooks to enable sending customized messages and notifications to Discord channels.",
+  "codiconIcon": "discord",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sending",
+    "customized",
+    "messages",
+    "channels",
+    "discord-webhooks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "7e67385f-d50c-4387-9d99-8288057f0780"
+}

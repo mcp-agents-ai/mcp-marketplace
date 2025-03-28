@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/xraywu/mcp-wegene-assistant",
+  "githubUrl": "https://github.com/xraywu/mcp-wegene-assistant",
+  "name": "WeGene",
+  "author": "xraywu",
+  "description": "Integrates with WeGene's genetic testing API to access and analyze users' genetic reports for personalized health and ancestry insights.",
+  "codiconIcon": "wegene",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "wegene",
+    "wegene's",
+    "genetic",
+    "access",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "35bd3d43-810a-4739-afef-a5daeba9d9ce"
+}

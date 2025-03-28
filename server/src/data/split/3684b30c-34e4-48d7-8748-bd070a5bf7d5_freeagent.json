@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/markpitt/freeagent-mcp",
+  "githubUrl": "https://github.com/markpitt/freeagent-mcp",
+  "name": "FreeAgent",
+  "author": "markpitt",
+  "description": "Integrates with FreeAgent API to enable time tracking management, including timeslip and timer operations for project tracking and reporting.",
+  "codiconIcon": "freeagent",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "freeagent",
+    "enable",
+    "management",
+    "timeslip",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "3684b30c-34e4-48d7-8748-bd070a5bf7d5"
+}

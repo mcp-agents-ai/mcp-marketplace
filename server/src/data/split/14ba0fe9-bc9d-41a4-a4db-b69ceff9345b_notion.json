@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pete0-xyz/notion-mcp",
+  "githubUrl": "https://github.com/pete0-xyz/notion-mcp",
+  "name": "Notion",
+  "author": "pete0-xyz",
+  "description": "Integrates with Notion to enable database and page operations, content management, and collaborative workflows.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "content",
+    "management",
+    "collaborative",
+    "notion",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "14ba0fe9-bc9d-41a4-a4db-b69ceff9345b"
+}

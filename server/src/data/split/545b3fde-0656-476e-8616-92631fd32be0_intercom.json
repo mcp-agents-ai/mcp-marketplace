@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fabian1710/mcp-intercom",
+  "githubUrl": "https://github.com/fabian1710/mcp-intercom",
+  "name": "Intercom",
+  "author": "fabian1710",
+  "description": "Integrates with Intercom to provide filtered access to conversations and chats, enabling detailed analysis of customer interactions and support trends.",
+  "codiconIcon": "intercom",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "intercom",
+    "conversations",
+    "chats",
+    "detailed",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "545b3fde-0656-476e-8616-92631fd32be0"
+}

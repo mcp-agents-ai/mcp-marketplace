@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jakenuts/mcp-solarwinds",
+  "githubUrl": "https://github.com/jakenuts/mcp-solarwinds",
+  "name": "SolarWinds Observability Logs",
+  "author": "jakenuts",
+  "description": "Integrates with SolarWinds Observability logs, providing tools for searching, visualizing, and analyzing log data with advanced filtering options and customizable time ranges for DevOps and IT operations teams.",
+  "codiconIcon": "solarwinds",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tools",
+    "visualizing",
+    "advanced",
+    "ranges",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "6fbb95f7-452e-492f-8f10-7cb4b3016d4c"
+}

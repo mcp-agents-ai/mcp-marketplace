@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Ai-Quill/scraperis-mcp",
+  "githubUrl": "https://github.com/Ai-Quill/scraperis-mcp",
+  "name": "Scraper.is",
+  "author": "Ai-Quill",
+  "description": "Integrates with Scraper.is API to enable web content extraction, structured data parsing, and Markdown conversion for tasks like product research, news aggregation, and content analysis.",
+  "codiconIcon": "scraper.is",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "parsing",
+    "markdown",
+    "tasks",
+    "product",
+    "aggregation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "4d1d3c85-edac-470a-8484-5a4c274951c6"
+}

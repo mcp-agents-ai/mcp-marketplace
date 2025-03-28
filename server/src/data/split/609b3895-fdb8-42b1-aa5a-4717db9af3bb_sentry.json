@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MCP-100/mcp-sentry",
+  "githubUrl": "https://github.com/MCP-100/mcp-sentry",
+  "name": "Sentry",
+  "author": "MCP-100",
+  "description": "Integrates with Sentry.io for retrieving and analyzing error reports, stacktraces, and debugging information, enabling developers and support teams to streamline issue tracking and debugging workflows.",
+  "codiconIcon": "sentry",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reports",
+    "streamline",
+    "retrieving",
+    "analyzing",
+    "debugging"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "609b3895-fdb8-42b1-aa5a-4717db9af3bb"
+}

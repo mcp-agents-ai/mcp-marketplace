@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Text2Go/ai-humanizer-mcp-server",
+  "githubUrl": "https://github.com/Text2Go/ai-humanizer-mcp-server",
+  "name": "AI Humanizer",
+  "author": "Text2Go",
+  "description": "Integrates multiple AI text detection services to analyze content authenticity, writing style, and potential plagiarism.",
+  "codiconIcon": "ai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "detection",
+    "services",
+    "analyze",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "95388803-c3c2-4fd6-b281-32d6256f4b4b"
+}

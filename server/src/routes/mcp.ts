@@ -1,21 +1,19 @@
 import { Router } from 'express';
-import { fileURLToPath } from 'url';
-import { dirname, join } from 'path';
-import fs from 'fs/promises';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+import { McpServer, refreshCacheIfNeeded, getCleanedServersData } from '../lib/mcpServers.js';
 
 const router = Router();
 
-// GET /v1/mcp/servers
+// GET /servers 
 router.get('/servers', async (_req, res) => {
   try {
-    const filePath = join(__dirname, '..', 'data', 'mcp-servers.json');
-    const data = await fs.readFile(filePath, 'utf8');
-    res.json(JSON.parse(data));
+    const mcpServersCache = await refreshCacheIfNeeded();
+    
+    // Return cleaned data without hubId
+    const cleanedData = getCleanedServersData(mcpServersCache);
+    res.json(cleanedData);
+    console.log(`v1/mcp/servers Served cached MCP servers data at ${new Date().toISOString()}`);
   } catch (error) {
-    console.error('Error reading MCP servers:', error);
+    console.error('Error serving MCP servers:', error);
     res.status(500).json({ error: 'Internal server error' });
   }
 });

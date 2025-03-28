@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/QuantGeekDev/docker-mcp",
+  "githubUrl": "https://github.com/QuantGeekDev/docker-mcp",
+  "name": "Docker",
+  "author": "QuantGeekDev",
+  "description": "Manage containers and compose stacks through natural language.",
+  "codiconIcon": "docker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "language",
+    "docker",
+    "manage",
+    "containers",
+    "compose"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "d166541d-3b11-41f5-bca9-cb859b1eda10"
+}

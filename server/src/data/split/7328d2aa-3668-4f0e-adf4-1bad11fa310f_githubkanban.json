@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/github-kanban-mcp-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/github-kanban-mcp-server",
+  "name": "GitHub Kanban",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates with GitHub's API to enable Kanban-style project management and issue tracking for streamlined software development workflows.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "management",
+    "issue",
+    "tracking",
+    "software",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "7328d2aa-3668-4f0e-adf4-1bad11fa310f"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jkawamoto/mcp-youtube-transcript",
+  "githubUrl": "https://github.com/jkawamoto/mcp-youtube-transcript",
+  "name": "YouTube Transcripts",
+  "author": "jkawamoto",
+  "description": "Integrates with YouTube's transcript API to retrieve and process captions from video URLs, enabling content analysis and information extraction from spoken video content.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "video",
+    "content",
+    "analysis",
+    "extraction",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "752bae78-ea4c-4075-a11c-76e37bf8e0c9"
+}

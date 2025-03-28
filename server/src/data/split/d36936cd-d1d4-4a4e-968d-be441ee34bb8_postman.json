@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/delano/postman-mcp-server",
+  "githubUrl": "https://github.com/delano/postman-mcp-server",
+  "name": "Postman",
+  "author": "delano",
+  "description": "Integrates with Postman's API management platform to enable automated API testing, documentation, and workflow management for developers and QA engineers.",
+  "codiconIcon": "postman",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "postman",
+    "integrates",
+    "management",
+    "workflow",
+    "developers"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "d36936cd-d1d4-4a4e-968d-be441ee34bb8"
+}

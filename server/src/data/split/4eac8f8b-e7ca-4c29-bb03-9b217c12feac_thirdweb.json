@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp",
+  "githubUrl": "https://github.com/thirdweb-dev/ai/tree/main/python/thirdweb-mcp",
+  "name": "Thirdweb",
+  "author": "thirdweb-dev",
+  "description": "Read/write to over 2k blockchains, enabling data querying, contract analysis/deployment, and transaction execution, powered by Thirdweb. \n\nThirdweb is an all-in-one dev stack for web3 apps and infra. The MCP gives you access to all Thirdweb features directly from Cursor.  ",
+  "codiconIcon": "thirdweb",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/2hssa8z8ek9.jpg",
+  "category": "tools",
+  "tags": [
+    "stack",
+    "gives",
+    "directly",
+    "cursor",
+    "thirdweb"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-24T17:00:34.277228+00:00",
+  "updatedAt": "2025-03-24T17:00:34.277228+00:00",
+  "hubId": "4eac8f8b-e7ca-4c29-bb03-9b217c12feac"
+}

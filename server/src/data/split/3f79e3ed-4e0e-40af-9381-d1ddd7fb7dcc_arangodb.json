@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lucas-deangelis/arango-mcp-server",
+  "githubUrl": "https://github.com/lucas-deangelis/arango-mcp-server",
+  "name": "ArangoDB",
+  "author": "lucas-deangelis",
+  "description": "Integrates ArangoDB databases into workflows, enabling dynamic querying and analysis of document-oriented and graph data via AQL and document retrieval.",
+  "codiconIcon": "arangodb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "document-oriented",
+    "integrates",
+    "databases",
+    "enabling",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "3f79e3ed-4e0e-40af-9381-d1ddd7fb7dcc"
+}

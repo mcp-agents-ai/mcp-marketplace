@@ -11,8 +11,12 @@ RUN npm install
 # Copy the rest of the application code
 COPY . .
 
-# Ensure the data directory is copied to the dist folder
+# Ensure the data directory and split folder are copied to the dist folder
 COPY src/data/mcp-servers.json dist/data/mcp-servers.json
+# Create split directory if it doesn't exist
+RUN mkdir -p dist/data/split
+# Copy all files from split directory
+COPY src/data/split/*.json dist/data/split/
 
 # Build the application
 RUN npm run build

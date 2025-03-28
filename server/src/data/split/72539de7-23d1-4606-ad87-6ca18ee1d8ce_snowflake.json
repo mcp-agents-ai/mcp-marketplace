@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/isaacwasserman/mcp-snowflake-server",
+  "githubUrl": "https://github.com/isaacwasserman/mcp-snowflake-server",
+  "name": "Snowflake",
+  "author": "isaacwasserman",
+  "description": "Run SQL queries and other interactions against Snowflake databases",
+  "codiconIcon": "snowflake",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "queries",
+    "other",
+    "interactions",
+    "against",
+    "databases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "72539de7-23d1-4606-ad87-6ca18ee1d8ce"
+}

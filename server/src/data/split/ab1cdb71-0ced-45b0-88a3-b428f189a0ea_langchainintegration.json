@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rectalogic/langchain-mcp",
+  "githubUrl": "https://github.com/rectalogic/langchain-mcp",
+  "name": "LangChain Integration",
+  "author": "rectalogic",
+  "description": "Use MCP tools within LangChain-powered applications.",
+  "codiconIcon": "langchain",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "within",
+    "langchain-powered",
+    "applications",
+    "langchain-integration",
+    "tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "ab1cdb71-0ced-45b0-88a3-b428f189a0ea"
+}

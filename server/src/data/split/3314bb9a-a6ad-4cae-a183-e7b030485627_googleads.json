@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cohnen/mcp-google-ads",
+  "githubUrl": "https://github.com/cohnen/mcp-google-ads",
+  "name": "Google Ads",
+  "author": "cohnen",
+  "description": "An MCP tool that connects Google Ads with Claude AI, Cursor and others, allowing you to analyze your advertising data through natural language conversations. This integration gives you access to campaign information, performance metrics, keyword analytics, and ad management—all through simple chat with Claude, Cursor or Windsurf.",
+  "codiconIcon": "google",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/3mcnpxvxlrl.svg",
+  "category": "productivity",
+  "tags": [
+    "google-ads",
+    "cursor",
+    "others",
+    "analyze",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-20T21:59:38.010849+00:00",
+  "updatedAt": "2025-03-20T21:59:38.010849+00:00",
+  "hubId": "3314bb9a-a6ad-4cae-a183-e7b030485627"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/devlimelabs/meilisearch-ts-mcp",
+  "githubUrl": "https://github.com/devlimelabs/meilisearch-ts-mcp",
+  "name": "Meilisearch",
+  "author": "devlimelabs",
+  "description": "Integrates with Meilisearch to enable advanced search operations, index and document management, and customizable search functionality with features like faceted search and custom ranking.",
+  "codiconIcon": "meilisearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "custom",
+    "enable",
+    "advanced",
+    "features",
+    "ranking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "b19b5335-c869-4902-9964-9cd6f2f89f5c"
+}

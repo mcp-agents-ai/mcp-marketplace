@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/benhaotang/mcp-serverman",
+  "githubUrl": "https://github.com/benhaotang/mcp-serverman",
+  "name": "Serverman (Server Manager)",
+  "author": "benhaotang",
+  "description": "Server that manages Claude's configuration for other MCP servers.",
+  "codiconIcon": "serverman",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "serverman-(server-manager)",
+    "server",
+    "manages",
+    "claude's",
+    "configuration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "c59347ae-b49e-4dd6-89b8-d091ca1758c0"
+}

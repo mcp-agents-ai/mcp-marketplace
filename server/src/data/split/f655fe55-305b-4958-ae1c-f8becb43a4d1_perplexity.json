@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/daniel-lxs/mcp-perplexity",
+  "githubUrl": "https://github.com/daniel-lxs/mcp-perplexity",
+  "name": "Perplexity",
+  "author": "daniel-lxs",
+  "description": "Integrates with Perplexity API to provide expert programming assistance and persistent chat capabilities for developers and teams.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "provide",
+    "expert",
+    "assistance",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "f655fe55-305b-4958-ae1c-f8becb43a4d1"
+}

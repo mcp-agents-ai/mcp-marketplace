@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mondweep/youtube-music-mcp-server",
+  "githubUrl": "https://github.com/mondweep/youtube-music-mcp-server",
+  "name": "YouTube Music",
+  "author": "mondweep",
+  "description": "Enables YouTube Music playback via Google Chrome, allowing voice-activated song selection and mood-based playlists without direct user interaction.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "allowing",
+    "direct",
+    "enables",
+    "youtube",
+    "chrome"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "7e487164-6150-4e84-b5a6-5e840f21193c"
+}

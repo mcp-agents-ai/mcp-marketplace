@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/felores/cloudinary-mcp-server",
+  "githubUrl": "https://github.com/felores/cloudinary-mcp-server",
+  "name": "Cloudinary",
+  "author": "felores",
+  "description": "Integrates with Cloudinary to enable seamless image and video uploads with customizable parameters for dynamic content management.",
+  "codiconIcon": "cloudinary",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "image",
+    "video",
+    "customizable",
+    "parameters",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "5bad9047-c6f7-4a08-949c-018bb67bcda9"
+}

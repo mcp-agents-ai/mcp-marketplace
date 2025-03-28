@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/olegshilin/mcp-eagle",
+  "githubUrl": "https://github.com/olegshilin/mcp-eagle",
+  "name": "Eagle.cool",
+  "author": "olegshilin",
+  "description": "Integrates Claude Desktop with the Eagle.cool app for asset management and creative project assistance through MCP-enabled interaction with Eagle's features.",
+  "codiconIcon": "eagle.cool",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "desktop",
+    "asset",
+    "project",
+    "through",
+    "mcp-enabled"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "b120a7e2-61e8-46e2-8493-2b8f6ef4745f"
+}

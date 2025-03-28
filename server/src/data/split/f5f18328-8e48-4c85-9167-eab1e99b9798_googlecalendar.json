@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GongRzhe/Calendar-Autoauth-MCP-Server",
+  "githubUrl": "https://github.com/GongRzhe/Calendar-Autoauth-MCP-Server",
+  "name": "Google Calendar",
+  "author": "GongRzhe",
+  "description": "Integrates with Google Calendar to enable natural language management of events, appointments, and schedules.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "google-calendar",
+    "calendar",
+    "natural",
+    "language",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "f5f18328-8e48-4c85-9167-eab1e99b9798"
+}

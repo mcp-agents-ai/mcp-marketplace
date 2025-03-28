@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/manusa/kubernetes-mcp-server",
+  "githubUrl": "https://github.com/manusa/kubernetes-mcp-server",
+  "name": "Kubernetes",
+  "author": "manusa",
+  "description": "Manage Kubernetes, with additional support for OpenShift.",
+  "codiconIcon": "kubernetes",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "kubernetes",
+    "manage",
+    "additional",
+    "support",
+    "openshift"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "7900a483-96bd-4f3a-83b4-1e50fd3fe5bc"
+}

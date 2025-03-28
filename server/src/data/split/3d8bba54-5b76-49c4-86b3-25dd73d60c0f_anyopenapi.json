@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/baryhuang/mcp-server-any-openapi",
+  "githubUrl": "https://github.com/baryhuang/mcp-server-any-openapi",
+  "name": "Any OpenAPI",
+  "author": "baryhuang",
+  "description": "Integrates with any OpenAPI-compliant service using dynamic tool generation and vector-based semantic search for efficient API operation discovery and interaction.",
+  "codiconIcon": "any",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "efficient",
+    "operation",
+    "openapi-compliant",
+    "dynamic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "3d8bba54-5b76-49c4-86b3-25dd73d60c0f"
+}

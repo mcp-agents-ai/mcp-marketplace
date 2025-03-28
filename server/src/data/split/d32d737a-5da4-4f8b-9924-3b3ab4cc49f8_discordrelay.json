@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/emiliobool/MCP-Relay",
+  "githubUrl": "https://github.com/emiliobool/MCP-Relay",
+  "name": "Discord Relay",
+  "author": "emiliobool",
+  "description": "Bridges with Discord channels for automated messaging, user interaction, and response handling.",
+  "codiconIcon": "discord",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "channels",
+    "interaction",
+    "response",
+    "discord-relay",
+    "discord"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "d32d737a-5da4-4f8b-9924-3b3ab4cc49f8"
+}

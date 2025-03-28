@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ckreiling/mcp-server-docker",
+  "githubUrl": "https://github.com/ckreiling/mcp-server-docker",
+  "name": "Docker",
+  "author": "ckreiling",
+  "description": "Manage containers, images, volumes, and networks",
+  "codiconIcon": "docker",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/eor42x3k8r7.jpg",
+  "category": "tools",
+  "tags": [
+    "containers",
+    "images",
+    "volumes",
+    "networks",
+    "docker"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-15T07:55:06.21384+00:00",
+  "updatedAt": "2025-03-15T07:55:06.21384+00:00",
+  "hubId": "bfa524a1-6acb-4bde-a7f6-fc6382b4d39a"
+}

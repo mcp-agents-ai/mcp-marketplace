@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wowyuarm/file-converter-mcp",
+  "githubUrl": "https://github.com/wowyuarm/file-converter-mcp",
+  "name": "File Converter",
+  "author": "wowyuarm",
+  "description": "Provides file conversion capabilities for transforming documents and images between formats like DOCX, PDF, Excel, CSV, and HTML without external tools",
+  "codiconIcon": "file",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "file-converter",
+    "transforming",
+    "documents",
+    "between",
+    "formats"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "0edd8069-492a-46d5-b633-d237eba909da"
+}

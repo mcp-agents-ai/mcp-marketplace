@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jasonjmcghee/claude-debugs-for-you",
+  "githubUrl": "https://github.com/jasonjmcghee/claude-debugs-for-you",
+  "name": "VSCode Debugger",
+  "author": "jasonjmcghee",
+  "description": "Integrates with VS Code's debugging capabilities to enable interactive code debugging and expression evaluation.",
+  "codiconIcon": "vscode",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "interactive",
+    "expression",
+    "vscode-debugger",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "634ebda7-a1cd-449b-a095-635dcabc040a"
+}

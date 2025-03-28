@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nailuoGG/anki-mcp-server",
+  "githubUrl": "https://github.com/nailuoGG/anki-mcp-server",
+  "name": "Anki",
+  "author": "nailuoGG",
+  "description": "Integrates with Anki flashcard software through AnkiConnect to enable deck management, note creation/modification, and search functionality for spaced repetition learning workflows.",
+  "codiconIcon": "anki",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "anki",
+    "search",
+    "repetition",
+    "flashcard",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "20fb060a-8f31-4ca3-b7de-f17f2d605db7"
+}

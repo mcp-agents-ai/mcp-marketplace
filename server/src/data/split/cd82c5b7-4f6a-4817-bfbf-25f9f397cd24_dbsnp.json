@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mattshu0410/MCP-server",
+  "githubUrl": "https://github.com/mattshu0410/MCP-server",
+  "name": "dbSNP",
+  "author": "mattshu0410",
+  "description": "Provides a bridge to NCBI's dbSNP database for retrieving genetic variant information, including detailed SNP data, search functionality, and clinical significance assessments with API rate limit handling.",
+  "codiconIcon": "dbsnp",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "dbsnp",
+    "retrieving",
+    "clinical",
+    "significance",
+    "limit"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "cd82c5b7-4f6a-4817-bfbf-25f9f397cd24"
+}

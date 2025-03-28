@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/codyde/mcp-firecrawl-tool",
+  "githubUrl": "https://github.com/codyde/mcp-firecrawl-tool",
+  "name": "Firecrawl",
+  "author": "codyde",
+  "description": "Integrates with the Firecrawl API to enable website crawling, content translation, and structured data extraction for enhanced web data processing workflows.",
+  "codiconIcon": "firecrawl",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "website",
+    "crawling",
+    "enhanced"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "e007d670-0778-4411-af39-8d12dad0a78d"
+}

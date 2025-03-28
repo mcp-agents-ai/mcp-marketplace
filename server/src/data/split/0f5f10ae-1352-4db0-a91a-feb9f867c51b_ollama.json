@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/NightTrek/Ollama-mcp",
+  "githubUrl": "https://github.com/NightTrek/Ollama-mcp",
+  "name": "Ollama",
+  "author": "NightTrek",
+  "description": "Enables seamless integration with Ollama's local LLM capabilities, providing model management, chat completion, and custom model creation with OpenAI-compatible API.",
+  "codiconIcon": "terminal",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/ollama.png",
+  "category": "developer-tools",
+  "tags": [
+    "llm",
+    "model-management",
+    "local-ai",
+    "chat-completion",
+    "ollama-api"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 29,
+  "downloadCount": 2301,
+  "createdAt": "2025-02-18T23:03:57.065833Z",
+  "updatedAt": "2025-02-18T23:03:57.065833Z",
+  "hubId": "0f5f10ae-1352-4db0-a91a-feb9f867c51b"
+}

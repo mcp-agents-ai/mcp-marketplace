@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jamcam-me/Claude-MCP",
+  "githubUrl": "https://github.com/jamcam-me/Claude-MCP",
+  "name": "Claude Filesystem and GitHub",
+  "author": "jamcam-me",
+  "description": "Integrates with GitHub, Brave Search, and local filesystems to enable repository management, web searches, and file operations for code analysis, research, and document handling tasks.",
+  "codiconIcon": "claude",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "search",
+    "management",
+    "operations",
+    "research",
+    "local"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "748e6dca-a9a7-4b28-80ef-4881d1e94085"
+}

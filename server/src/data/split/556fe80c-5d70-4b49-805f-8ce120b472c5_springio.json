@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/martinlippert/spring-io-api-mcp",
+  "githubUrl": "https://github.com/martinlippert/spring-io-api-mcp",
+  "name": "Spring IO",
+  "author": "martinlippert",
+  "description": "Integrates with Spring's API to provide release information and support timelines for Spring projects, enabling dependency management and upgrade planning.",
+  "codiconIcon": "spring",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "information",
+    "enabling",
+    "management",
+    "spring-io"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "556fe80c-5d70-4b49-805f-8ce120b472c5"
+}

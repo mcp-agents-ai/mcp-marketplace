@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/webdevtodayjason/slim-MCP",
+  "githubUrl": "https://github.com/webdevtodayjason/slim-MCP",
+  "name": "Slim Utility Suite",
+  "author": "webdevtodayjason",
+  "description": "Integrates diverse utility services including weather data, email, task management, currency conversion, and calendar functions through a RESTful API for seamless incorporation into applications.",
+  "codiconIcon": "slim",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "functions",
+    "slim-utility-suite",
+    "diverse",
+    "services",
+    "seamless"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "26b02354-9119-4511-b90a-fadf54345685"
+}

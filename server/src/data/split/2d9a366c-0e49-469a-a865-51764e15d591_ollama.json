@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/emgeee/mcp-ollama",
+  "githubUrl": "https://github.com/emgeee/mcp-ollama",
+  "name": "Ollama",
+  "author": "emgeee",
+  "description": "Integrates with Ollama for local large language model inference, enabling text generation and model management without relying on cloud APIs.",
+  "codiconIcon": "ollama",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "ollama",
+    "local",
+    "large",
+    "inference",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "2d9a366c-0e49-469a-a865-51764e15d591"
+}

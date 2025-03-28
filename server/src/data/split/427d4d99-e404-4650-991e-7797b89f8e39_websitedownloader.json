@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pskill9/website-downloader",
+  "githubUrl": "https://github.com/pskill9/website-downloader",
+  "name": "Website Downloader",
+  "author": "pskill9",
+  "description": "Integrates wget-based website downloading capabilities to enable offline archiving and analysis of web content while preserving site structure.",
+  "codiconIcon": "website",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "preserving",
+    "structure",
+    "integrates",
+    "wget-based",
+    "downloading"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "427d4d99-e404-4650-991e-7797b89f8e39"
+}

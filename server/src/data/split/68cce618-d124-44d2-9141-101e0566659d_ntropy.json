@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/smithery-ai/ntropy-mcp",
+  "githubUrl": "https://github.com/smithery-ai/ntropy-mcp",
+  "name": "Ntropy",
+  "author": "smithery-ai",
+  "description": "Integrates with the Ntropy API to enrich banking data, enabling detailed financial transaction analysis and categorization.",
+  "codiconIcon": "ntropy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "banking",
+    "data",
+    "enabling",
+    "detailed",
+    "ntropy"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "68cce618-d124-44d2-9141-101e0566659d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/berlinbra/alpha-vantage-mcp",
+  "githubUrl": "https://github.com/berlinbra/alpha-vantage-mcp",
+  "name": "Alpha Vantage",
+  "author": "berlinbra",
+  "description": "Integrates with Alpha Vantage API to provide real-time financial market data for stock quotes, company information, cryptocurrency rates, and historical prices.",
+  "codiconIcon": "alpha",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "vantage",
+    "provide",
+    "real-time",
+    "information",
+    "alpha-vantage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "01a65d29-4f6d-4176-99cc-5151ab2bf9f5"
+}

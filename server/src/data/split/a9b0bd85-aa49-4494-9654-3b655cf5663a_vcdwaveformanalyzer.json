@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SeanMcLoughlin/mcp-vcd",
+  "githubUrl": "https://github.com/SeanMcLoughlin/mcp-vcd",
+  "name": "VCD Waveform Analyzer",
+  "author": "SeanMcLoughlin",
+  "description": "Enables querying and analysis of digital signal data from Value Change Dump (VCD) waveforms for applications in digital design, hardware verification, and signal analysis.",
+  "codiconIcon": "vcd",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "value",
+    "vcd",
+    "design",
+    "vcd-waveform-analyzer",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "a9b0bd85-aa49-4494-9654-3b655cf5663a"
+}

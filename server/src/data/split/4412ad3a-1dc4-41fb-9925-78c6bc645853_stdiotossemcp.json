@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rgarcia/mcp-server-server",
+  "githubUrl": "https://github.com/rgarcia/mcp-server-server",
+  "name": "Stdio to SSE MCP",
+  "author": "rgarcia",
+  "description": "Transforms stdio-based MCP servers into websocket-accessible servers, enabling network-based communication and simplified client development.",
+  "codiconIcon": "stdio",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "client",
+    "development",
+    "transforms",
+    "websocket-accessible"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "4412ad3a-1dc4-41fb-9925-78c6bc645853"
+}

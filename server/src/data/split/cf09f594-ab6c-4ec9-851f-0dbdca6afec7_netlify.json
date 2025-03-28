@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DynamicEndpoints/Netlify-MCP-Server",
+  "githubUrl": "https://github.com/DynamicEndpoints/Netlify-MCP-Server",
+  "name": "Netlify",
+  "author": "DynamicEndpoints",
+  "description": "Integrates with Netlify's API to enable automated web deployment, serverless function management, and continuous deployment workflows for AI applications.",
+  "codiconIcon": "netlify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "continuous",
+    "workflows",
+    "integrates",
+    "serverless"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "cf09f594-ab6c-4ec9-851f-0dbdca6afec7"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hmk/attio-mcp-server",
+  "githubUrl": "https://github.com/hmk/attio-mcp-server",
+  "name": "Attio",
+  "author": "hmk",
+  "description": "Integrates with Attio's API for reading and writing company records and notes, enabling CRM operations without direct interface navigation.",
+  "codiconIcon": "attio",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reading",
+    "writing",
+    "company",
+    "notes",
+    "interface"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "9fe8757a-2255-4e5e-9b34-ab77c56fcaf6"
+}

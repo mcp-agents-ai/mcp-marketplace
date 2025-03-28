@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/g0t4/mcp-server-macos-defaults",
+  "githubUrl": "https://github.com/g0t4/mcp-server-macos-defaults",
+  "name": "macOS Defaults",
+  "author": "g0t4",
+  "description": "Enables interaction with macOS system preferences via the 'defaults' command for querying and modifying configurations.",
+  "codiconIcon": "macos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "macos",
+    "system",
+    "querying",
+    "modifying",
+    "macos-defaults"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "4bd5ca70-8dfe-44f8-81cf-170dd2585561"
+}

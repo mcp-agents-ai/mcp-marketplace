@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nikolaypavlov/mcp-myip",
+  "githubUrl": "https://github.com/nikolaypavlov/mcp-myip",
+  "name": "MyIP",
+  "author": "nikolaypavlov",
+  "description": "Integrates with ifconfig.me to fetch and provide public IP address information for network diagnostics and geolocation services.",
+  "codiconIcon": "myip",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "fetch",
+    "provide",
+    "address",
+    "network",
+    "diagnostics"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "76d413d9-3d05-4bfb-ab91-2cf74ead3d91"
+}

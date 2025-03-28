@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/marcopesani/mcp-server-serper",
+  "githubUrl": "https://github.com/marcopesani/mcp-server-serper",
+  "name": "Serper Search and Scrape",
+  "author": "marcopesani",
+  "description": "Integrates with the Serper API to enable web searches and webpage content extraction, supporting research, content aggregation, and data mining tasks.",
+  "codiconIcon": "serper",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "serper-search-and-scrape",
+    "serper",
+    "enable",
+    "extraction",
+    "supporting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "bee1ae3f-94e4-44c5-8485-6af21cd02d89"
+}

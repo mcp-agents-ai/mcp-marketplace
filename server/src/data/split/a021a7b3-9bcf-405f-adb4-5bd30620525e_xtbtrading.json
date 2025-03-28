@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sharplygroup/xtb-mcp-server",
+  "githubUrl": "https://github.com/sharplygroup/xtb-mcp-server",
+  "name": "XTB Trading",
+  "author": "sharplygroup",
+  "description": "Integrates with the XTB trading platform to enable account operations, market data retrieval, trade execution, and financial calculations for automated trading strategies and portfolio management.",
+  "codiconIcon": "xtb",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "xtb-trading",
+    "platform",
+    "strategies",
+    "retrieval",
+    "calculations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "a021a7b3-9bcf-405f-adb4-5bd30620525e"
+}

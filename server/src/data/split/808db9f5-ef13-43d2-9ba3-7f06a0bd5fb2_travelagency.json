@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/josetesan/mcp-travelagency",
+  "githubUrl": "https://github.com/josetesan/mcp-travelagency",
+  "name": "Travel Agency",
+  "author": "josetesan",
+  "description": "Integrates with Spring Boot and PostgreSQL to provide a travel agency application with AI-assisted interactions for trip planning, recommendations, and automated customer service.",
+  "codiconIcon": "travel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "spring",
+    "travel",
+    "agency",
+    "interactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "808db9f5-ef13-43d2-9ba3-7f06a0bd5fb2"
+}

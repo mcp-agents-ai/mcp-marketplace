@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zueai/workos-mcp",
+  "githubUrl": "https://github.com/zueai/workos-mcp",
+  "name": "WorkOS",
+  "author": "zueai",
+  "description": "Integrates with WorkOS API to enable enterprise-grade authentication and user management features like Single Sign-On and Multi-Factor Authentication for secure, scalable identity management in AI workflows.",
+  "codiconIcon": "workos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sign-on",
+    "workflows",
+    "integrates",
+    "enterprise-grade",
+    "authentication"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "af88f92d-55dd-455e-b1f0-9460465017ab"
+}

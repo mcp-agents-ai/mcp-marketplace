@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/freespirit/pdfsearch-zed",
+  "githubUrl": "https://github.com/freespirit/pdfsearch-zed",
+  "name": "PDF Search",
+  "author": "freespirit",
+  "description": "Built for Zed to enable semantic searching of PDF documents using a Qdrant vector database and OpenAI embeddings.",
+  "codiconIcon": "pdf",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "qdrant",
+    "vector",
+    "database",
+    "openai",
+    "embeddings"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "3c7d15c0-1037-4eb5-ab23-16ca2cd15976"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SecretiveShell/MCP-searxng",
+  "githubUrl": "https://github.com/SecretiveShell/MCP-searxng",
+  "name": "SearXNG Search",
+  "author": "SecretiveShell",
+  "description": "Perform privacy-preserving web searches via the SearXNG metasearch engine.",
+  "codiconIcon": "searxng",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "metasearch",
+    "engine",
+    "searxng-search",
+    "perform",
+    "privacy-preserving"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "1b91f76d-cc67-4469-b161-62fb37080850"
+}

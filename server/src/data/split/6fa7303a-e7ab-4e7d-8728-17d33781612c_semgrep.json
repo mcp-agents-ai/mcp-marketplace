@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Szowesgad/mcp-server-semgrep",
+  "githubUrl": "https://github.com/Szowesgad/mcp-server-semgrep",
+  "name": "Semgrep",
+  "author": "Szowesgad",
+  "description": "Integrates Semgrep for static code analysis, enabling AI-driven security scanning, vulnerability detection, and code quality improvement across multiple programming languages.",
+  "codiconIcon": "semgrep",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "static",
+    "enabling",
+    "detection",
+    "semgrep"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "6fa7303a-e7ab-4e7d-8728-17d33781612c"
+}

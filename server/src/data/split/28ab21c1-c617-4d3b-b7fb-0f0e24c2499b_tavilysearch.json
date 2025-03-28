@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RamXX/mcp-tavily",
+  "githubUrl": "https://github.com/RamXX/mcp-tavily",
+  "name": "Tavily Search",
+  "author": "RamXX",
+  "description": "Search and retrieve AI-enhanced web results via Tavily.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieve",
+    "ai-enhanced",
+    "results",
+    "tavily",
+    "tavily-search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "28ab21c1-c617-4d3b-b7fb-0f0e24c2499b"
+}

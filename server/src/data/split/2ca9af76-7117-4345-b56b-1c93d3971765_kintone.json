@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/macrat/mcp-server-kintone",
+  "githubUrl": "https://github.com/macrat/mcp-server-kintone",
+  "name": "Kintone",
+  "author": "macrat",
+  "description": "Enables interaction with Kintone's low/no code platform for listing apps, reading app info, and performing CRUD operations.",
+  "codiconIcon": "kintone",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "interaction",
+    "platform",
+    "apps",
+    "reading"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "2ca9af76-7117-4345-b56b-1c93d3971765"
+}

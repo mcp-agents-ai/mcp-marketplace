@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/truaxki/mcp-Pdf2png",
+  "githubUrl": "https://github.com/truaxki/mcp-Pdf2png",
+  "name": "PDF to PNG",
+  "author": "truaxki",
+  "description": "Integrates with pdf2image to convert PDF documents to PNG images.",
+  "codiconIcon": "pdf",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "documents",
+    "images",
+    "pdf-to-png",
+    "integrates",
+    "pdf2image"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "2fddf4ba-e4e4-40c8-ab20-1a76d94ac88a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alefcastelo/archai-static-analyzer-mcp",
+  "githubUrl": "https://github.com/alefcastelo/archai-static-analyzer-mcp",
+  "name": "Archai Hexagonal Architecture Analyzer",
+  "author": "alefcastelo",
+  "description": "Enforces hexagonal architecture principles in Java applications through static code analysis that validates architectural rules including dependency limitations, domain isolation, naming conventions, and proper email handling.",
+  "codiconIcon": "archai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "rules",
+    "archai-hexagonal-architecture-analyzer",
+    "principles",
+    "validates",
+    "architectural"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "326793a3-1999-4e7b-9964-e5a5cfc4fc6c"
+}

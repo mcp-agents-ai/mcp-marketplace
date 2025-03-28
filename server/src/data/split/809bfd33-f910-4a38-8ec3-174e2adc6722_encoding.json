@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PatrickKalkman/encoding-devops",
+  "githubUrl": "https://github.com/PatrickKalkman/encoding-devops",
+  "name": "Encoding",
+  "author": "PatrickKalkman",
+  "description": "Integrates with an encoding API to enable encoding-related operations like data compression and format conversion, supporting secure API key management and efficient request handling.",
+  "codiconIcon": "encoding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "efficient",
+    "request",
+    "enable",
+    "encoding-related",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "809bfd33-f910-4a38-8ec3-174e2adc6722"
+}

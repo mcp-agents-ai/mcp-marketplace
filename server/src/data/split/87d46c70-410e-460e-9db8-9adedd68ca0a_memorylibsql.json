@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/joleyline/mcp-memory-libsql",
+  "githubUrl": "https://github.com/joleyline/mcp-memory-libsql",
+  "name": "Memory LibSQL",
+  "author": "joleyline",
+  "description": "High-performance persistent memory system for Model Context Protocol (MCP) powered by libSQL",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "persistent",
+    "system",
+    "model",
+    "protocol",
+    "mcp"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "87d46c70-410e-460e-9db8-9adedd68ca0a"
+}

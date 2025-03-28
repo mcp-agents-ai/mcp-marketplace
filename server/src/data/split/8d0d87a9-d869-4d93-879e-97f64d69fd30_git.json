@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sheshiyer/git-mcp-v2",
+  "githubUrl": "https://github.com/Sheshiyer/git-mcp-v2",
+  "name": "Git",
+  "author": "Sheshiyer",
+  "description": "Integrates with Git repositories to enable version control operations, code management, and collaborative development workflows",
+  "codiconIcon": "git",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "version",
+    "operations",
+    "development",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "8d0d87a9-d869-4d93-879e-97f64d69fd30"
+}

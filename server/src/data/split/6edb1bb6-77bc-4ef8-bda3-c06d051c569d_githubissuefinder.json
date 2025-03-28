@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Jake-Mok-Nelson/mcp-find-similar-github-issues",
+  "githubUrl": "https://github.com/Jake-Mok-Nelson/mcp-find-similar-github-issues",
+  "name": "GitHub Issue Finder",
+  "author": "Jake-Mok-Nelson",
+  "description": "Integrates with GitHub's API to find similar issues using Jaccard similarity, streamlining support workflows and reducing response times in project management.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "github-issue-finder",
+    "integrates",
+    "similar",
+    "issues",
+    "project"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "6edb1bb6-77bc-4ef8-bda3-c06d051c569d"
+}

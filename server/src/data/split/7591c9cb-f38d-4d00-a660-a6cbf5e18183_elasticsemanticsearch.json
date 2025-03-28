@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jedrazb/elastic-semantic-search-mcp-server",
+  "githubUrl": "https://github.com/jedrazb/elastic-semantic-search-mcp-server",
+  "name": "Elastic Semantic Search",
+  "author": "jedrazb",
+  "description": "Integrates with Elasticsearch to provide semantic search functionality for blog posts, returning formatted results including titles, URLs, and relevant text snippets.",
+  "codiconIcon": "elastic",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "formatted",
+    "including",
+    "relevant",
+    "elastic-semantic-search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "7591c9cb-f38d-4d00-a660-a6cbf5e18183"
+}

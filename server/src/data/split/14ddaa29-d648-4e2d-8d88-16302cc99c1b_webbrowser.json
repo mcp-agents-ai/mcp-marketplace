@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/blazickjp/web-browser-mcp-server",
+  "githubUrl": "https://github.com/blazickjp/web-browser-mcp-server",
+  "name": "Web Browser",
+  "author": "blazickjp",
+  "description": "Integrates web browsing capabilities for real-time data retrieval, content extraction, and task automation using popular Python libraries.",
+  "codiconIcon": "web",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "content",
+    "extraction",
+    "popular",
+    "python",
+    "libraries"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "14ddaa29-d648-4e2d-8d88-16302cc99c1b"
+}

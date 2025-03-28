@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fatwang2/search1api-mcp",
+  "githubUrl": "https://github.com/fatwang2/search1api-mcp",
+  "name": "Search1API",
+  "author": "fatwang2",
+  "description": "Execute web searches, news queries, and content extraction.",
+  "codiconIcon": "search1api",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "content",
+    "extraction",
+    "search1api",
+    "execute",
+    "searches"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "5386417e-e34a-4299-aaec-adafdbdcfb84"
+}

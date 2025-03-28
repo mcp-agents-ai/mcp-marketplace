@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/skydeckai/mcp-server-aidd",
+  "githubUrl": "https://github.com/skydeckai/mcp-server-aidd",
+  "name": "AiDD (Dev Workflows)",
+  "author": "skydeckai",
+  "description": "Integrates file system, code analysis, Git, and execution capabilities to enable AI-driven development workflows across multiple programming languages.",
+  "codiconIcon": "aidd",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "aidd-(dev-workflows)",
+    "integrates",
+    "system",
+    "analysis",
+    "execution"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "ec934098-d1da-4e1c-b31f-a9de234a82b1"
+}

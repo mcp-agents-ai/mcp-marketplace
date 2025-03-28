@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-svelte-docs",
+  "githubUrl": "https://github.com/spences10/mcp-svelte-docs",
+  "name": "Svelte Docs",
+  "author": "spences10",
+  "description": "Integrates with Svelte documentation to enable efficient querying and retrieval of framework-specific content for development assistance.",
+  "codiconIcon": "svelte",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "assistance",
+    "svelte-docs",
+    "documentation",
+    "efficient",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "a54140b0-ac5b-4025-8bf7-7e514fa53093"
+}

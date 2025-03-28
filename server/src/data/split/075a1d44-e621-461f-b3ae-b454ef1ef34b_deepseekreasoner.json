@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/HarshJ23/deepseek-claude-MCP-server",
+  "githubUrl": "https://github.com/HarshJ23/deepseek-claude-MCP-server",
+  "name": "DeepSeek Reasoner",
+  "author": "HarshJ23",
+  "description": "Integrates DeepSeek's R1 reasoning engine to enhance problem-solving, research assistance, and decision support capabilities.",
+  "codiconIcon": "deepseek",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "problem-solving",
+    "assistance",
+    "decision",
+    "deepseek-reasoner",
+    "reasoning"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "075a1d44-e621-461f-b3ae-b454ef1ef34b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/raw391/coin_daemon_mcp",
+  "githubUrl": "https://github.com/raw391/coin_daemon_mcp",
+  "name": "Coin Daemon (Zcash)",
+  "author": "raw391",
+  "description": "Integrates with cryptocurrency daemon RPC interfaces to enable secure querying and management of blockchain networks, with initial support for Zcash.",
+  "codiconIcon": "coin",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "cryptocurrency",
+    "daemon",
+    "interfaces",
+    "secure",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "8f6a36f3-c21a-4bbb-8787-320272a595a1"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Verssae/dbmcp",
+  "githubUrl": "https://github.com/Verssae/dbmcp",
+  "name": "MSSQL Database Query",
+  "author": "Verssae",
+  "description": "Enables direct SQL query execution against MSSQL databases through a FastMCP-powered server with Docker containerization for seamless data analysis and manipulation.",
+  "codiconIcon": "mssql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "server",
+    "docker",
+    "execution",
+    "databases",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "9dd9a962-0795-45c0-b377-2442f5d82a92"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bsmi021/mcp-mistral-codestral",
+  "githubUrl": "https://github.com/bsmi021/mcp-mistral-codestral",
+  "name": "Mistral Codestral",
+  "author": "bsmi021",
+  "description": "Integrates with Mistral's code-related APIs to enable code completion, bug fixing, and test generation across multiple programming languages.",
+  "codiconIcon": "mistral",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "multiple",
+    "languages",
+    "integrates",
+    "code-related",
+    "fixing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "fcf8c21f-08d3-4443-8850-fe8ba59b2285"
+}

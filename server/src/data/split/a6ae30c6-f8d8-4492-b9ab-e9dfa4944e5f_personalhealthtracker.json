@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/evangstav/personal-mcp",
+  "githubUrl": "https://github.com/evangstav/personal-mcp",
+  "name": "Personal Health Tracker",
+  "author": "evangstav",
+  "description": "Integrates personal health data tracking with natural language querying and visualization for privacy-focused local analysis and trend insights.",
+  "codiconIcon": "personal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "personal-health-tracker",
+    "health",
+    "tracking",
+    "natural",
+    "visualization"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "a6ae30c6-f8d8-4492-b9ab-e9dfa4944e5f"
+}

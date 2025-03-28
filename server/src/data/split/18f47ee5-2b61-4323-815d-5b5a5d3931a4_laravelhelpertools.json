@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jsonallen/laravel-mcp",
+  "githubUrl": "https://github.com/jsonallen/laravel-mcp",
+  "name": "Laravel Helper Tools",
+  "author": "jsonallen",
+  "description": "Integrates with Laravel projects to provide log analysis, error tracking, and Artisan command execution for streamlined development workflows.",
+  "codiconIcon": "laravel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "laravel",
+    "provide",
+    "error",
+    "tracking",
+    "artisan"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "18f47ee5-2b61-4323-815d-5b5a5d3931a4"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/izaitsevfb/claude-pytorch-treehugger",
+  "githubUrl": "https://github.com/izaitsevfb/claude-pytorch-treehugger",
+  "name": "PyTorch HUD",
+  "author": "izaitsevfb",
+  "description": "Provides a PyTorch CI/CD analytics API for investigating build failures, analyzing test flakiness, and monitoring performance trends across the PyTorch infrastructure.",
+  "codiconIcon": "pytorch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "build",
+    "analyzing",
+    "performance",
+    "failures"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "3460193c-28f9-477d-8784-d6f673bfac0d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/chris-miaskowski/custom-gitlab-mcp-server",
+  "githubUrl": "https://github.com/chris-miaskowski/custom-gitlab-mcp-server",
+  "name": "GitLab",
+  "author": "chris-miaskowski",
+  "description": "Integrates with GitLab repositories to enable searching, file management, issue creation, merge requests, forking, and branch creation through Node.js with robust Zod schema validation.",
+  "codiconIcon": "gitlab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "gitlab",
+    "enable",
+    "merge",
+    "requests",
+    "node.js"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "7ed380e1-c2cf-4a4e-af8c-c19322311f15"
+}

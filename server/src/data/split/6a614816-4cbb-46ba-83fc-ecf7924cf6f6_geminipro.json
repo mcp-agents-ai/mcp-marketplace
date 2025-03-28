@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/georgejeffers/gemini-mcp-server",
+  "githubUrl": "https://github.com/georgejeffers/gemini-mcp-server",
+  "name": "Gemini Pro",
+  "author": "georgejeffers",
+  "description": "Integrates Google's Gemini Pro model for text generation, enabling content creation, translation, and conversational capabilities.",
+  "codiconIcon": "gemini",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "generation",
+    "enabling",
+    "creation",
+    "capabilities",
+    "gemini-pro"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "6a614816-4cbb-46ba-83fc-ecf7924cf6f6"
+}

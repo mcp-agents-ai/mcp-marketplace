@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/blake365/macrostrat-mcp",
+  "githubUrl": "https://github.com/blake365/macrostrat-mcp",
+  "name": "Macrostrat",
+  "author": "blake365",
+  "description": "Integrates the Macrostrat API to enable geological data querying and analysis for earth sciences, resource exploration, and environmental studies.",
+  "codiconIcon": "macrostrat",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "macrostrat",
+    "integrates",
+    "enable",
+    "geological",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "9ef1000c-399c-4b3f-94bf-010249992c2c"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vinsidious/mcp-pg-schema",
+  "githubUrl": "https://github.com/vinsidious/mcp-pg-schema",
+  "name": "PostgreSQL Schema Inspector",
+  "author": "vinsidious",
+  "description": "Provides read-only access to PostgreSQL databases for schema inspection and data exploration without modifying content.",
+  "codiconIcon": "postgresql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "databases",
+    "inspection",
+    "exploration",
+    "without",
+    "modifying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "d497a11e-e47f-4612-84bf-ea521f92dce6"
+}

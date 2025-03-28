@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/BillDuke13/code-explainer-mcp",
+  "githubUrl": "https://github.com/BillDuke13/code-explainer-mcp",
+  "name": "Code Explainer",
+  "author": "BillDuke13",
+  "description": "Integrates with Cloudflare Workers to provide code explanation services, including architecture diagram generation, core functionality identification, and component breakdown across multiple programming languages.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "functionality",
+    "identification",
+    "multiple",
+    "generation",
+    "breakdown"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "2b121412-338f-404e-a3c4-70e7fb3e196c"
+}

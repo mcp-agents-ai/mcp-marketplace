@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/peakmojo/mcp-server-peakmojo",
+  "githubUrl": "https://github.com/peakmojo/mcp-server-peakmojo",
+  "name": "PeakMojo",
+  "author": "peakmojo",
+  "description": "Integrates with the PeakMojo API to simplify user, persona, scenario, and job management tasks, enabling efficient handling of user data and skill assessments.",
+  "codiconIcon": "peakmojo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "assessments",
+    "simplify",
+    "user",
+    "persona"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "ea16e4d5-3e18-45b7-bab5-2d6032707f29"
+}

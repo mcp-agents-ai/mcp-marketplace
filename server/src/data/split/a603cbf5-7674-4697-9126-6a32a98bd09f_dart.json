@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jmanhype/dart-mcp-server",
+  "githubUrl": "https://github.com/jmanhype/dart-mcp-server",
+  "name": "Dart",
+  "author": "jmanhype",
+  "description": "Integrates with the Dart task management system to enable AI-driven project organization, document handling, and workflow automation through secure API interactions and Dartboard feature integration.",
+  "codiconIcon": "dart",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "system",
+    "enable",
+    "handling",
+    "workflow",
+    "interactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "a603cbf5-7674-4697-9126-6a32a98bd09f"
+}

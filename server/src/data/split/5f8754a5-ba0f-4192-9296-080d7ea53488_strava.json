@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MariyaFilippova/mcp-strava",
+  "githubUrl": "https://github.com/MariyaFilippova/mcp-strava",
+  "name": "Strava",
+  "author": "MariyaFilippova",
+  "description": "Integrates with Strava's API to retrieve and analyze fitness data, enabling workout planning, progress tracking, and performance analysis for athletic applications.",
+  "codiconIcon": "strava",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "strava's",
+    "analyze",
+    "workout",
+    "planning"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "5f8754a5-ba0f-4192-9296-080d7ea53488"
+}

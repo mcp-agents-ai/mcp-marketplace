@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ac3xx/mcp-servers-kagi",
+  "githubUrl": "https://github.com/ac3xx/mcp-servers-kagi",
+  "name": "Kagi Search",
+  "author": "ac3xx",
+  "description": "Perform privacy-focused web searches via Kagi's search engine.",
+  "codiconIcon": "kagi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "engine",
+    "kagi-search",
+    "perform",
+    "privacy-focused"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "12067ca0-2e3a-4b84-a7c4-0f0a6a3779c8"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/unmuktoai/Wazuh-MCP-Server",
+  "githubUrl": "https://github.com/unmuktoai/Wazuh-MCP-Server",
+  "name": "Wazuh",
+  "author": "unmuktoai",
+  "description": "Integrates with Wazuh security platform to provide real-time security alerts and event data from Elasticsearch indices for security operations and threat analysis workflows.",
+  "codiconIcon": "wazuh",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "security",
+    "provide",
+    "real-time",
+    "threat",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "3a6ac55e-57ff-4907-ad1c-31bb98444d7c"
+}

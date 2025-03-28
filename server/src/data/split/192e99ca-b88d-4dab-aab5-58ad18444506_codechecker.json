@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jacklandis29/codechecker-mcp",
+  "githubUrl": "https://github.com/jacklandis29/codechecker-mcp",
+  "name": "CodeChecker",
+  "author": "jacklandis29",
+  "description": "Integrates with Cursor IDE to provide real-time code review capabilities, leveraging GPT models for intelligent analysis and specific improvement suggestions.",
+  "codiconIcon": "codechecker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "intelligent",
+    "analysis",
+    "codechecker",
+    "cursor",
+    "models"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "192e99ca-b88d-4dab-aab5-58ad18444506"
+}

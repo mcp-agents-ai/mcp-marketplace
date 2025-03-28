@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/danhilse/youtube_research_mcp",
+  "githubUrl": "https://github.com/danhilse/youtube_research_mcp",
+  "name": "YouTube Research",
+  "author": "danhilse",
+  "description": "Integrates with YouTube API to perform aggregated video searches, enabling efficient content curation and trend analysis on specified topics.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "specified",
+    "topics",
+    "youtube",
+    "efficient",
+    "trend"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "9b27c70f-d3a4-426c-9206-1ff4a27e9fea"
+}

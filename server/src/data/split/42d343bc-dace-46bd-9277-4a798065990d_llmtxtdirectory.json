@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mcp-get/community-servers/tree/HEAD/src/server-llm-txt",
+  "githubUrl": "https://github.com/mcp-get/community-servers/tree/HEAD/src/server-llm-txt",
+  "name": "LLM.txt Directory",
+  "author": "mcp-get",
+  "description": "Access up-to-date API documentation efficiently.",
+  "codiconIcon": "llm.txt",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "llm.txt-directory",
+    "access",
+    "up-to-date",
+    "documentation",
+    "efficiently"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "42d343bc-dace-46bd-9277-4a798065990d"
+}

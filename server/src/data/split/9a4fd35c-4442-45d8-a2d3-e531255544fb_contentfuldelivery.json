@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mshaaban0/contentful-delivery-mcp",
+  "githubUrl": "https://github.com/mshaaban0/contentful-delivery-mcp",
+  "name": "Contentful Delivery",
+  "author": "mshaaban0",
+  "description": "Integrates with Contentful's Delivery API to enable querying and retrieving structured content using keywords or sentences, facilitating content-driven applications and dynamic websites.",
+  "codiconIcon": "contentful",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "contentful's",
+    "delivery",
+    "enable",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "9a4fd35c-4442-45d8-a2d3-e531255544fb"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alexgoller/mcp-server-agenda",
+  "githubUrl": "https://github.com/alexgoller/mcp-server-agenda",
+  "name": "Agenda App",
+  "author": "alexgoller",
+  "description": "Integrates with Agenda note-taking app on macOS to enable creating notes, managing projects, and opening existing notes using x-callback-urls.",
+  "codiconIcon": "agenda",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "x-callback-urls",
+    "integrates",
+    "agenda",
+    "note-taking",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "9f387c96-52cb-4721-a541-fb879dc8fd04"
+}

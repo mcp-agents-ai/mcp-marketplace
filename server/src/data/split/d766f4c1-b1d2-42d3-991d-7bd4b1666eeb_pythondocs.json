@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AnuragRai017/python-docs-server-MCP-Server",
+  "githubUrl": "https://github.com/AnuragRai017/python-docs-server-MCP-Server",
+  "name": "Python Docs",
+  "author": "AnuragRai017",
+  "description": "Fetches Python documentation for quick access to language references and code explanations.",
+  "codiconIcon": "python",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "python-docs",
+    "fetches",
+    "documentation",
+    "language",
+    "explanations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "d766f4c1-b1d2-42d3-991d-7bd4b1666eeb"
+}

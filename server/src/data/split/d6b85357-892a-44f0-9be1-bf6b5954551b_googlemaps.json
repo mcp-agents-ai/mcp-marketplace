@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/google-maps",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/google-maps",
+  "name": "Google Maps",
+  "author": "modelcontextprotocol",
+  "description": "Provides comprehensive access to Google Maps services including geocoding, place search, directions, distance calculations, and elevation data through the Google Maps API.",
+  "codiconIcon": "location",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/google-maps.png",
+  "category": "location-services",
+  "tags": [
+    "maps",
+    "geocoding",
+    "navigation",
+    "places-api",
+    "location-data"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24364,
+  "downloadCount": 952,
+  "createdAt": "2025-02-17T22:46:16.116171Z",
+  "updatedAt": "2025-02-17T22:46:16.116171Z",
+  "hubId": "d6b85357-892a-44f0-9be1-bf6b5954551b"
+}

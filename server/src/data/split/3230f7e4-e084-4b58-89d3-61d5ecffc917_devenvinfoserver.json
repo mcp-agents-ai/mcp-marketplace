@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/carterlasalle/system_information_mcp",
+  "githubUrl": "https://github.com/carterlasalle/system_information_mcp",
+  "name": "DevEnvInfoServer",
+  "author": "carterlasalle",
+  "description": "Gathers detailed development environment data to enhance context-aware assistance in code editors, enabling tailored coding suggestions and environment-specific troubleshooting.",
+  "codiconIcon": "devenvinfoserver",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "suggestions",
+    "development",
+    "environment",
+    "editors"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "3230f7e4-e084-4b58-89d3-61d5ecffc917"
+}

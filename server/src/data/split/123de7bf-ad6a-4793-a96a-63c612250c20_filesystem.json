@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/filesystem",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/filesystem",
+  "name": "Filesystem",
+  "author": "modelcontextprotocol",
+  "description": "Read, write, and manipulate local files through a controlled API.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "local",
+    "files",
+    "through",
+    "controlled",
+    "filesystem"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "123de7bf-ad6a-4793-a96a-63c612250c20"
+}

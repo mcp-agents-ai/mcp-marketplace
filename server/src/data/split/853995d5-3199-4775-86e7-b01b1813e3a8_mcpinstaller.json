@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/anaisbetts/mcp-installer",
+  "githubUrl": "https://github.com/anaisbetts/mcp-installer",
+  "name": "MCP Installer",
+  "author": "anaisbetts",
+  "description": "Install and configure additional MCP servers dynamically.",
+  "codiconIcon": "mcp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "configure",
+    "additional",
+    "servers",
+    "dynamically",
+    "mcp-installer"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "853995d5-3199-4775-86e7-b01b1813e3a8"
+}

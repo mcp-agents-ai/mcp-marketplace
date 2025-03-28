@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aldrin-labs/metaplex-mcp-server",
+  "githubUrl": "https://github.com/aldrin-labs/metaplex-mcp-server",
+  "name": "Metaplex",
+  "author": "aldrin-labs",
+  "description": "Bridges Metaplex documentation and repositories, enabling searches and retrievals for Solana NFT development workflows.",
+  "codiconIcon": "metaplex",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "repositories",
+    "searches",
+    "development",
+    "metaplex",
+    "bridges"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "e9b3cf77-14a9-47e1-acfc-a948cc9ea6a5"
+}

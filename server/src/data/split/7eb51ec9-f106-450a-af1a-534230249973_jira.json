@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alexeydubinin/hh-jira-mcp-server",
+  "githubUrl": "https://github.com/alexeydubinin/hh-jira-mcp-server",
+  "name": "Jira",
+  "author": "alexeydubinin",
+  "description": "Integrates with the Jira API to enable querying, creating, and modifying issues and projects, simplifying project tracking and management tasks.",
+  "codiconIcon": "jira",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "jira",
+    "integrates",
+    "modifying",
+    "simplifying",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "7eb51ec9-f106-450a-af1a-534230249973"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/EthanHenrickson/math-mcp",
+  "githubUrl": "https://github.com/EthanHenrickson/math-mcp",
+  "name": "Math",
+  "author": "EthanHenrickson",
+  "description": "Provides basic mathematical and statistical functions for accurate numerical computations within AI-assisted applications.",
+  "codiconIcon": "math",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "functions",
+    "accurate",
+    "ai-assisted",
+    "math",
+    "mathematical"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "781177d9-52cc-4f7c-b267-2a770d2a49cc"
+}

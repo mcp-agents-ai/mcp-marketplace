@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dmayboroda/minima/tree/HEAD/mcp-server",
+  "githubUrl": "https://github.com/dmayboroda/minima/tree/HEAD/mcp-server",
+  "name": "Minima (Local RAG)",
+  "author": "dmayboroda",
+  "description": "Search and retrieve context from local files for RAG.",
+  "codiconIcon": "minima",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "local",
+    "files",
+    "minima-(local-rag)",
+    "search",
+    "retrieve"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "b58b0df5-bc82-499b-b008-81aaf23dcc33"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/felores/gdrive-mcp-server",
+  "githubUrl": "https://github.com/felores/gdrive-mcp-server",
+  "name": "Google Drive",
+  "author": "felores",
+  "description": "Integrates with Google Drive API to enable file listing, searching, and reading for document retrieval and content analysis tasks.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "drive",
+    "enable",
+    "listing",
+    "searching",
+    "reading"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "d3c00509-34b6-4824-bf99-f1d1bc64805f"
+}

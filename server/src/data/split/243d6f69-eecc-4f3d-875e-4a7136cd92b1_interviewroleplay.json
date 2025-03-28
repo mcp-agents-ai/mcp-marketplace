@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Ejb503/systemprompt-mcp-interview",
+  "githubUrl": "https://github.com/Ejb503/systemprompt-mcp-interview",
+  "name": "Interview Roleplay",
+  "author": "Ejb503",
+  "description": "Provides an AI-powered interview roleplay system for dynamic simulation of customizable interview scenarios, enabling practice and skill improvement for job seekers.",
+  "codiconIcon": "interview",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "improvement",
+    "interview",
+    "roleplay",
+    "system",
+    "scenarios"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "243d6f69-eecc-4f3d-875e-4a7136cd92b1"
+}

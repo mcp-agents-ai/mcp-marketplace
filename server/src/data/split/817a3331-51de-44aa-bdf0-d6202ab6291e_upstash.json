@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/upstash/mcp-server",
+  "githubUrl": "https://github.com/upstash/mcp-server",
+  "name": "Upstash",
+  "author": "upstash",
+  "description": "Model Context Protocol (MCP) is a new, standardized protocol for managing context between large language models (LLMs) and external systems. In this repository, we provide an installer as well as an MCP Server for Upstash Developer API's.",
+  "codiconIcon": "upstash",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcps/upstash.webp",
+  "category": "tools",
+  "tags": [
+    "systems",
+    "repository",
+    "api's",
+    "model",
+    "mcp"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-13T17:28:27.944964+00:00",
+  "updatedAt": "2025-03-13T17:28:27.944964+00:00",
+  "hubId": "817a3331-51de-44aa-bdf0-d6202ab6291e"
+}

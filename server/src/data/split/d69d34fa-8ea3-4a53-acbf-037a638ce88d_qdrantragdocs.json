@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/heltonteixeira/ragdocs",
+  "githubUrl": "https://github.com/heltonteixeira/ragdocs",
+  "name": "QDrant RagDocs",
+  "author": "heltonteixeira",
+  "description": "Integrates Retrieval-Augmented Generation using Qdrant vector database and embeddings to enable semantic search and management of documentation.",
+  "codiconIcon": "qdrant",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "embeddings",
+    "enable",
+    "semantic",
+    "search",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "d69d34fa-8ea3-4a53-acbf-037a638ce88d"
+}

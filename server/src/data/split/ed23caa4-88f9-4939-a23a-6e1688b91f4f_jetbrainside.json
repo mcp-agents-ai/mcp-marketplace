@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/JetBrains/mcp-jetbrains",
+  "githubUrl": "https://github.com/JetBrains/mcp-jetbrains",
+  "name": "JetBrains IDE",
+  "author": "JetBrains",
+  "description": "Proxies requests between AI assistants and JetBrains IDEs, enabling direct interaction with the IDE's built-in webserver for development tasks.",
+  "codiconIcon": "symbol-class",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/jetbrains-logo.png",
+  "category": "developer-tools",
+  "tags": [
+    "ide-integration",
+    "jetbrains",
+    "development",
+    "proxy",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 297,
+  "downloadCount": 287,
+  "createdAt": "2025-02-17T22:47:35.793534Z",
+  "updatedAt": "2025-02-17T22:47:35.793534Z",
+  "hubId": "ed23caa4-88f9-4939-a23a-6e1688b91f4f"
+}

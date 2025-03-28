@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/samihalawa/mcp-server-smtp",
+  "githubUrl": "https://github.com/samihalawa/mcp-server-smtp",
+  "name": "SMTP Email Manager",
+  "author": "samihalawa",
+  "description": "Provides SMTP email functionality with tools for sending individual and bulk emails, managing configurations, and creating customizable templates with variable substitution for automated, personalized email campaigns.",
+  "codiconIcon": "smtp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "campaigns",
+    "creating",
+    "automated",
+    "personalized",
+    "smtp-email-manager"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "8957e2af-5804-40b4-ae8f-62e67c6ad3f9"
+}

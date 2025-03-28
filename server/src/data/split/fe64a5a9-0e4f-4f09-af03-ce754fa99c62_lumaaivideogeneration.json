@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/luma-mcp-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/luma-mcp-server",
+  "name": "Luma AI Video Generation",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates with Luma AI's API to enable AI-driven video generation based on textual descriptions or parameters.",
+  "codiconIcon": "luma",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "ai-driven",
+    "video",
+    "textual"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "fe64a5a9-0e4f-4f09-af03-ce754fa99c62"
+}

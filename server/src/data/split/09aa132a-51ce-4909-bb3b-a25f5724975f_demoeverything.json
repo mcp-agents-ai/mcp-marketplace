@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/everything",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/everything",
+  "name": "Demo (Everything)",
+  "author": "modelcontextprotocol",
+  "description": "Test protocol features and tools for client compatibility.",
+  "codiconIcon": "demo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "demo-(everything)",
+    "protocol",
+    "features",
+    "tools",
+    "client"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "09aa132a-51ce-4909-bb3b-a25f5724975f"
+}

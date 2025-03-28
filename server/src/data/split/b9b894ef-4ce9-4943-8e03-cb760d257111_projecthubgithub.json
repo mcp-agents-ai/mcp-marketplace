@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/peterparker57/project-hub-mcp-server",
+  "githubUrl": "https://github.com/peterparker57/project-hub-mcp-server",
+  "name": "Project Hub (GitHub)",
+  "author": "peterparker57",
+  "description": "Integrates local project management with GitHub repositories, enabling streamlined version control, automated commits, and multi-account support for efficient development workflows.",
+  "codiconIcon": "project",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "commits",
+    "support",
+    "enabling",
+    "version",
+    "automated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "b9b894ef-4ce9-4943-8e03-cb760d257111"
+}

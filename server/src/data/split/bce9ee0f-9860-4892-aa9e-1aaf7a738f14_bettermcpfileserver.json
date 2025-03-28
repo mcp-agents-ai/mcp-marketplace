@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MartinSchlott/BetterMCPFileServer",
+  "githubUrl": "https://github.com/MartinSchlott/BetterMCPFileServer",
+  "name": "Better MCP File Server",
+  "author": "MartinSchlott",
+  "description": "Reimagined server for filesystem access with privacy-preserving path aliases and an optimized LLM-friendly API.",
+  "codiconIcon": "better",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "privacy-preserving",
+    "optimized",
+    "better-mcp-file-server",
+    "server",
+    "aliases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "bce9ee0f-9860-4892-aa9e-1aaf7a738f14"
+}

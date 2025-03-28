@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cpage-pivotal/app-advisor-mcp",
+  "githubUrl": "https://github.com/cpage-pivotal/app-advisor-mcp",
+  "name": "Spring Application Advisor",
+  "author": "cpage-pivotal",
+  "description": "Integrates with Spring Application Advisor to provide insights and recommendations for optimizing Spring applications in Cloud Foundry environments.",
+  "codiconIcon": "spring",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applications",
+    "spring-application-advisor",
+    "spring",
+    "application",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "ad9e853b-1c5c-43fd-9d0d-1baa7c1da552"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bright8192/esxi-mcp-server",
+  "githubUrl": "https://github.com/bright8192/esxi-mcp-server",
+  "name": "VMware ESXi",
+  "author": "bright8192",
+  "description": "Provides a RESTful API for complete VMware ESXi/vCenter environment management including VM lifecycle operations and real-time performance monitoring through pyVmomi integration",
+  "codiconIcon": "vmware",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "lifecycle",
+    "real-time",
+    "performance",
+    "monitoring",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "0ebe42ff-8ad1-499e-b5b2-c6775692f2b0"
+}

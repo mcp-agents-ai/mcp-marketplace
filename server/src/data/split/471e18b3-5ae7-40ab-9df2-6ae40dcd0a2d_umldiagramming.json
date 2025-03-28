@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Swayingleaves/uml-mcp-server",
+  "githubUrl": "https://github.com/Swayingleaves/uml-mcp-server",
+  "name": "UML Diagramming",
+  "author": "Swayingleaves",
+  "description": "Integrates with UML diagramming tools to generate visual representations of system architecture, class relationships, and process flows directly from code or text descriptions within conversational interfaces.",
+  "codiconIcon": "uml",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "relationships",
+    "within",
+    "system",
+    "class",
+    "flows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "471e18b3-5ae7-40ab-9df2-6ae40dcd0a2d"
+}

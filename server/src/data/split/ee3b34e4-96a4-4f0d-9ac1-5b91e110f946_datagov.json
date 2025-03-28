@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/melaodoidao/datagov-mcp-server",
+  "githubUrl": "https://github.com/melaodoidao/datagov-mcp-server",
+  "name": "Data.gov",
+  "author": "melaodoidao",
+  "description": "Integrates with Data.gov to enable searching, retrieving, and accessing U.S. government datasets for data-driven analysis and research projects.",
+  "codiconIcon": "data.gov",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieving",
+    "government",
+    "projects",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "ee3b34e4-96a4-4f0d-9ac1-5b91e110f946"
+}

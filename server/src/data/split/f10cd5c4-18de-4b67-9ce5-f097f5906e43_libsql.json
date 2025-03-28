@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nicholasq/mcp-server-libsql",
+  "githubUrl": "https://github.com/nicholasq/mcp-server-libsql",
+  "name": "LibSQL",
+  "author": "nicholasq",
+  "description": "Integrates with LibSQL databases to enable schema retrieval and table querying for real-time data access and analysis.",
+  "codiconIcon": "libsql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "analysis",
+    "databases",
+    "enable",
+    "schema",
+    "table"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "f10cd5c4-18de-4b67-9ce5-f097f5906e43"
+}

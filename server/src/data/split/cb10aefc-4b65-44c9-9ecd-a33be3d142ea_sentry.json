@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/codyde/mcp-sentry-ts",
+  "githubUrl": "https://github.com/codyde/mcp-sentry-ts",
+  "name": "Sentry",
+  "author": "codyde",
+  "description": "Integrates with Sentry's error tracking platform to enable detailed issue analysis, project management, and user session replay for enhanced debugging and monitoring in software development environments.",
+  "codiconIcon": "sentry",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "detailed",
+    "debugging",
+    "environments",
+    "sentry",
+    "issue"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "cb10aefc-4b65-44c9-9ecd-a33be3d142ea"
+}

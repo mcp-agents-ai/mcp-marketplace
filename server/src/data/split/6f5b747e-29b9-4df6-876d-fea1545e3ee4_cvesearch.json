@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/roadwy/cve-search_mcp",
+  "githubUrl": "https://github.com/roadwy/cve-search_mcp",
+  "name": "CVE-Search",
+  "author": "roadwy",
+  "description": "Integrates with the CVE-CIRCL API to enable searching and retrieving vulnerability information from the Common Vulnerabilities and Exposures database for security research, patch verification, and security assessments.",
+  "codiconIcon": "cve-search",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "vulnerabilities",
+    "patch",
+    "integrates",
+    "enable",
+    "vulnerability"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "6f5b747e-29b9-4df6-876d-fea1545e3ee4"
+}

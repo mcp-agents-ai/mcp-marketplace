@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/e2b-dev/mcp-server",
+  "githubUrl": "https://github.com/e2b-dev/mcp-server",
+  "name": "Code Interpreter",
+  "author": "e2b-dev",
+  "description": "Adds secure code execution capabilities to Claude Desktop using E2B Sandbox, supporting both JavaScript and Python environments.",
+  "codiconIcon": "terminal",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/e2b.jpeg",
+  "category": "developer-tools",
+  "tags": [
+    "code-execution",
+    "sandbox",
+    "javascript",
+    "python",
+    "claude-integration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 153,
+  "downloadCount": 550,
+  "createdAt": "2025-02-18T05:45:58.533295Z",
+  "updatedAt": "2025-02-18T05:45:58.533295Z",
+  "hubId": "b0962d5d-7c18-4b12-9680-2082740c611c"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/supabase-community/mcp-supabase/tree/main/packages/mcp-server-postgrest",
+  "githubUrl": "https://github.com/supabase-community/mcp-supabase/tree/main/packages/mcp-server-postgrest",
+  "name": "Supabase",
+  "author": "supabase-community",
+  "description": "This is an MCP server for PostgREST. It allows LLMs perform database queries and operations on Postgres databases via PostgREST.",
+  "codiconIcon": "supabase",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/735c4hh883w.webp",
+  "category": "database",
+  "tags": [
+    "supabase",
+    "server",
+    "allows",
+    "database",
+    "queries"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T09:09:49.354801+00:00",
+  "updatedAt": "2025-03-14T09:09:49.354801+00:00",
+  "hubId": "255953fe-82d0-4c02-a19d-ab8b135c3a6a"
+}

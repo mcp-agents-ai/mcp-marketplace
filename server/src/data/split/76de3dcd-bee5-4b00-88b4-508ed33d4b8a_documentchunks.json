@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vetlefo/claude-chunks",
+  "githubUrl": "https://github.com/vetlefo/claude-chunks",
+  "name": "Document Chunks",
+  "author": "vetlefo",
+  "description": "Intelligently processes large documents, breaking them into meaningful chunks with summaries and context preservation for efficient analysis of extensive texts.",
+  "codiconIcon": "document",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "efficient",
+    "processes",
+    "large",
+    "breaking",
+    "meaningful"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "76de3dcd-bee5-4b00-88b4-508ed33d4b8a"
+}

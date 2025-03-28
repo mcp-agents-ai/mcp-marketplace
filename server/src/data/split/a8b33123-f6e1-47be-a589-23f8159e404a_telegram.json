@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lane83/mcp-telegram",
+  "githubUrl": "https://github.com/lane83/mcp-telegram",
+  "name": "Telegram",
+  "author": "lane83",
+  "description": "Integrates with Telegram chats via the Bot API to enable secure, whitelisted messaging and AI-powered interactions for automated workflows and communication channels.",
+  "codiconIcon": "telegram",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "channels",
+    "telegram",
+    "integrates",
+    "chats",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "a8b33123-f6e1-47be-a589-23f8159e404a"
+}

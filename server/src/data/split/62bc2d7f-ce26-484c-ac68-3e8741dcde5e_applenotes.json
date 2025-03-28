@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Dingzeefs/mcp-apple-notes",
+  "githubUrl": "https://github.com/Dingzeefs/mcp-apple-notes",
+  "name": "Apple Notes",
+  "author": "Dingzeefs",
+  "description": "Integrates with Apple Notes to enable listing, searching, creating, and indexing notes using semantic and full-text search capabilities, leveraging LanceDB for efficient data storage and on-device embeddings for natural language interactions.",
+  "codiconIcon": "apple",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "indexing",
+    "language",
+    "enable",
+    "listing",
+    "full-text"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "62bc2d7f-ce26-484c-ac68-3e8741dcde5e"
+}

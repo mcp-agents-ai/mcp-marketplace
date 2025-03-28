@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/aira-mcp-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/aira-mcp-server",
+  "name": "AIRA Git",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates with Git repositories to enable Gitflow workflows.",
+  "codiconIcon": "aira",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "repositories",
+    "enable",
+    "gitflow",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "c7325be6-b623-478c-b6a8-d7f6df1ab29a"
+}

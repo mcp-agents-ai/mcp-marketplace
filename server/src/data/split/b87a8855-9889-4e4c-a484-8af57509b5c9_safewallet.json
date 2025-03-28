@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/5ajaki/safe-mcp-server",
+  "githubUrl": "https://github.com/5ajaki/safe-mcp-server",
+  "name": "Safe Wallet",
+  "author": "5ajaki",
+  "description": "Enables interaction with Safe smart contract wallets for querying transactions, retrieving multisig details, and decoding data using the Safe Transaction API.",
+  "codiconIcon": "safe",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "multisig",
+    "details",
+    "using",
+    "safe-wallet",
+    "interaction"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "b87a8855-9889-4e4c-a484-8af57509b5c9"
+}

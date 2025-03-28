@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alioshr/memory-bank-mcp",
+  "githubUrl": "https://github.com/alioshr/memory-bank-mcp",
+  "name": "Memory Bank",
+  "author": "alioshr",
+  "description": "Transforms file-based memory banks into a centralized, remotely accessible service for multi-project management with consistent structure and validation.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "consistent",
+    "structure",
+    "transforms",
+    "banks",
+    "centralized"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "811397b8-ea3b-4be6-ac21-e959ae0445e0"
+}

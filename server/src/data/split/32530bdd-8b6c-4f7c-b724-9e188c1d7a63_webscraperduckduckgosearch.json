@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/surya-madhav/MCP",
+  "githubUrl": "https://github.com/surya-madhav/MCP",
+  "name": "Web Scraper & DuckDuckGo Search",
+  "author": "surya-madhav",
+  "description": "Provides web scraping and DuckDuckGo search capabilities for retrieving and processing web content as markdown.",
+  "codiconIcon": "web",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "search",
+    "content",
+    "web-scraper-&-duckduckgo-search",
+    "scraping"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "32530bdd-8b6c-4f7c-b724-9e188c1d7a63"
+}

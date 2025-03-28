@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Streen9/react-mcp",
+  "githubUrl": "https://github.com/Streen9/react-mcp",
+  "name": "React Development Assistant",
+  "author": "Streen9",
+  "description": "Integrates with React applications to enable AI-assisted development workflows, providing tools for project management, terminal command execution, and file operations.",
+  "codiconIcon": "react",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "terminal",
+    "react",
+    "providing",
+    "integrates",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "4f1c12b9-91c0-4f76-95a6-1e479579fad6"
+}

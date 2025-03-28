@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/crazyrabbitLTC/mcp-morpho-server",
+  "githubUrl": "https://github.com/crazyrabbitLTC/mcp-morpho-server",
+  "name": "Morpho",
+  "author": "crazyrabbitLTC",
+  "description": "Integrates with Morpho DeFi protocol's GraphQL API to enable querying market data, vaults, positions, and historical APY information for portfolio management and yield optimization.",
+  "codiconIcon": "morpho",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "historical",
+    "information",
+    "querying",
+    "data",
+    "protocol's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "4486f37f-d581-4cfa-be88-833937890b4b"
+}

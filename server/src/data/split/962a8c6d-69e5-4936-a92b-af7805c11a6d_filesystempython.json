@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/punkpeye/mcp-filesystem-python",
+  "githubUrl": "https://github.com/punkpeye/mcp-filesystem-python",
+  "name": "Filesystem (Python)",
+  "author": "punkpeye",
+  "description": "Provides secure, read-only access to local files, enabling file search and analysis while respecting .gitignore patterns and maintaining security.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "filesystem-(python)",
+    "access",
+    "respecting",
+    "gitignore",
+    "maintaining"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "962a8c6d-69e5-4936-a92b-af7805c11a6d"
+}

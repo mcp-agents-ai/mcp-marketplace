@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/speakeasy-api/mistral-mcp-server-example",
+  "githubUrl": "https://github.com/speakeasy-api/mistral-mcp-server-example",
+  "name": "Mistral AI",
+  "author": "speakeasy-api",
+  "description": "Integrates Mistral AI's language models for text generation and analysis tasks.",
+  "codiconIcon": "mistral",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "models",
+    "generation",
+    "analysis",
+    "tasks",
+    "mistral-ai"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "4a05b3bb-8ade-439b-92fd-2478cd9dbe44"
+}

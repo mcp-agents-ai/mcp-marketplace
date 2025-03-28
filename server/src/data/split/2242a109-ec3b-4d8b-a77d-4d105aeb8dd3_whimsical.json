@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/BrockReece/whimsical-mcp-server",
+  "githubUrl": "https://github.com/BrockReece/whimsical-mcp-server",
+  "name": "Whimsical",
+  "author": "BrockReece",
+  "description": "Integrates with Whimsical's API to generate diagrams from Mermaid markup, returning both diagram URLs and base64 encoded images for iterative refinement.",
+  "codiconIcon": "whimsical",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "iterative",
+    "integrates",
+    "diagrams",
+    "returning",
+    "diagram"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "2242a109-ec3b-4d8b-a77d-4d105aeb8dd3"
+}

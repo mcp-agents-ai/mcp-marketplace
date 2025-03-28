@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mhyrr/sketchup-mcp",
+  "githubUrl": "https://github.com/mhyrr/sketchup-mcp",
+  "name": "SketchUp",
+  "author": "mhyrr",
+  "description": "Integrates with Sketchup to enable AI-assisted 3D modeling through bidirectional communication, allowing creation, modification, and transformation of components directly within the modeling environment.",
+  "codiconIcon": "sketchup",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "within",
+    "enable",
+    "ai-assisted",
+    "creation",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "8bb3ab1d-9d4f-4e1b-bdd7-c1f628de160f"
+}

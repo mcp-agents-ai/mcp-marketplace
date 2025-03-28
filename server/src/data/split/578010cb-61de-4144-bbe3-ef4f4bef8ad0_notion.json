@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SAhmadUmass/notion-mcp-server",
+  "githubUrl": "https://github.com/SAhmadUmass/notion-mcp-server",
+  "name": "Notion",
+  "author": "SAhmadUmass",
+  "description": "Integrates with Notion to enable searching, retrieving, creating, and updating pages and databases for natural language-driven knowledge management and collaborative document creation.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "databases",
+    "knowledge",
+    "notion",
+    "searching",
+    "collaborative"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "578010cb-61de-4144-bbe3-ef4f4bef8ad0"
+}

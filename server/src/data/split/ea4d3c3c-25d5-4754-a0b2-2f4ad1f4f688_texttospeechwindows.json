@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ExpressionsBot/MS-Lucidia-Voice-Gateway-MCP",
+  "githubUrl": "https://github.com/ExpressionsBot/MS-Lucidia-Voice-Gateway-MCP",
+  "name": "Text To Speech (Windows)",
+  "author": "ExpressionsBot",
+  "description": "Integrates with Windows speech services to enable text-to-speech and speech-to-text capabilities using native system features and PowerShell commands.",
+  "codiconIcon": "text",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "speech",
+    "capabilities",
+    "text-to-speech-(windows)",
+    "integrates",
+    "windows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "ea4d3c3c-25d5-4754-a0b2-2f4ad1f4f688"
+}

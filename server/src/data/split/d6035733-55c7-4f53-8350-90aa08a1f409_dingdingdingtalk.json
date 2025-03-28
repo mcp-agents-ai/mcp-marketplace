@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/HundunOnline/mcp-dingdingbot-server",
+  "githubUrl": "https://github.com/HundunOnline/mcp-dingdingbot-server",
+  "name": "DingDing (DingTalk)",
+  "author": "HundunOnline",
+  "description": "Integrates with DingDing (DingTalk) messaging platform to enable automated notifications, team alerts, and AI-generated content delivery through multiple message formats including text, markdown, images, and interactive cards.",
+  "codiconIcon": "dingding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "multiple",
+    "message",
+    "including",
+    "text"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "d6035733-55c7-4f53-8350-90aa08a1f409"
+}

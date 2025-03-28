@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PhialsBasement/mcp-github-server-plus",
+  "githubUrl": "https://github.com/PhialsBasement/mcp-github-server-plus",
+  "name": "GitHub Plus",
+  "author": "PhialsBasement",
+  "description": "Integrates with GitHub's API to streamline repository management, code operations, and issue tracking for developers and teams.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "github-plus",
+    "integrates",
+    "issue",
+    "tracking",
+    "developers"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "017a2cb8-6084-401e-af18-5aceb2b3a824"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Siddhant-K-code/memory-journal-mcp-server",
+  "githubUrl": "https://github.com/Siddhant-K-code/memory-journal-mcp-server",
+  "name": "iCloud Photos",
+  "author": "Siddhant-K-code",
+  "description": "Integrates with local iCloud Photos libraries on macOS to enable efficient searching and retrieval of photo metadata based on various criteria like dates, locations, people, and labels.",
+  "codiconIcon": "icloud",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "criteria",
+    "dates",
+    "integrates",
+    "local",
+    "libraries"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "75662167-7ec0-429b-b0d0-0dbf13b8e785"
+}

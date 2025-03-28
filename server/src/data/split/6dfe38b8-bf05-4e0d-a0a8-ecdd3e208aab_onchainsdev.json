@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nonomnonom/onchainsDevMCP",
+  "githubUrl": "https://github.com/nonomnonom/onchainsDevMCP",
+  "name": "OnChains Dev",
+  "author": "nonomnonom",
+  "description": "Provides a Docker-based development environment for building and testing MCP-compatible applications using TypeScript, Express.js, and Bun runtime.",
+  "codiconIcon": "onchains",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "mcp-compatible",
+    "docker-based",
+    "applications",
+    "using",
+    "typescript"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "6dfe38b8-bf05-4e0d-a0a8-ecdd3e208aab"
+}

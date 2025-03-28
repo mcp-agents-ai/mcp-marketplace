@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gradusnikov/pubmed-search-mcp-server",
+  "githubUrl": "https://github.com/gradusnikov/pubmed-search-mcp-server",
+  "name": "PubMed Search",
+  "author": "gradusnikov",
+  "description": "Integrates with PubMed database via NCBI E-utilities API to search and retrieve academic papers, including titles, authors, journals, abstracts, and DOIs for biomedical research.",
+  "codiconIcon": "pubmed",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "pubmed",
+    "retrieve",
+    "titles",
+    "abstracts",
+    "pubmed-search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "7ef436e5-6c69-4cf7-a8e4-9a319529751a"
+}

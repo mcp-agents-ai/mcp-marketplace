@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/privsim/mcp-test-runner",
+  "githubUrl": "https://github.com/privsim/mcp-test-runner",
+  "name": "Test Runner",
+  "author": "privsim",
+  "description": "Unifies test execution and result processing across multiple frameworks for streamlined cross-language testing and analysis.",
+  "codiconIcon": "test",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "execution",
+    "processing",
+    "multiple",
+    "frameworks",
+    "streamlined"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "c574f6f5-ed86-4cd9-bfe2-b5af60d075f8"
+}

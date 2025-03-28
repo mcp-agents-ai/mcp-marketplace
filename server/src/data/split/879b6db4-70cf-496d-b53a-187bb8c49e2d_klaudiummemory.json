@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MilosBastaja/mcp-klaudium",
+  "githubUrl": "https://github.com/MilosBastaja/mcp-klaudium",
+  "name": "Klaudium (Memory)",
+  "author": "MilosBastaja",
+  "description": "Manages knowledge graphs with dynamic compression and intelligent querying capabilities for efficient information retrieval and reasoning.",
+  "codiconIcon": "klaudium",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "efficient",
+    "information",
+    "klaudium-(memory)",
+    "dynamic",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "879b6db4-70cf-496d-b53a-187bb8c49e2d"
+}

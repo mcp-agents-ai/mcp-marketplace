@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/v4lheru/clickup-mcp-server",
+  "githubUrl": "https://github.com/v4lheru/clickup-mcp-server",
+  "name": "ClickUp",
+  "author": "v4lheru",
+  "description": "Integrates with ClickUp's project management API to enable task creation, management, and automation within ClickUp environments.",
+  "codiconIcon": "clickup",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "project",
+    "enable",
+    "creation",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "f070edd9-4a6b-45aa-8f30-96f8088aee8d"
+}

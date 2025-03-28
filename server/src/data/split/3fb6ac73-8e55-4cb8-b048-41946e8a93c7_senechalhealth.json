@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mattjoyce/senechal-mcp",
+  "githubUrl": "https://github.com/mattjoyce/senechal-mcp",
+  "name": "Senechal Health",
+  "author": "mattjoyce",
+  "description": "Integrates with the Senechal health data API to enable access and analysis of personal health information for use cases like personalized wellness recommendations or long-term health monitoring.",
+  "codiconIcon": "senechal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "access",
+    "cases",
+    "recommendations",
+    "long-term",
+    "monitoring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "3fb6ac73-8e55-4cb8-b048-41946e8a93c7"
+}

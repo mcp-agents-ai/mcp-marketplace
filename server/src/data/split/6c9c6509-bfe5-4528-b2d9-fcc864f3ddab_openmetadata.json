@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yangkyeongmo/mcp-server-openmetadata",
+  "githubUrl": "https://github.com/yangkyeongmo/mcp-server-openmetadata",
+  "name": "OpenMetadata",
+  "author": "yangkyeongmo",
+  "description": "Integrates with OpenMetadata to enable querying and manipulating metadata across data assets for governance, cataloging, and lineage tracking.",
+  "codiconIcon": "openmetadata",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "manipulating",
+    "across",
+    "assets",
+    "lineage",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "6c9c6509-bfe5-4528-b2d9-fcc864f3ddab"
+}

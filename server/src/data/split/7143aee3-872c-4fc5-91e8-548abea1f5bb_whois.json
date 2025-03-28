@@ -1,0 +1,22 @@
+{
+  "mcpId": "https://github.com/bharathvaj-ganesan/whois-mcp",
+  "githubUrl": "https://github.com/bharathvaj-ganesan/whois-mcp",
+  "name": "WHOIS",
+  "author": "bharathvaj-ganesan",
+  "description": "WHOIS domain lookups",
+  "codiconIcon": "whois",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "domain",
+    "lookups",
+    "whois"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "7143aee3-872c-4fc5-91e8-548abea1f5bb"
+}

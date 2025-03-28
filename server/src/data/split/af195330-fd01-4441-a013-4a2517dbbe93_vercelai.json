@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/itsDarianNgo/mcp-vercel-ai",
+  "githubUrl": "https://github.com/itsDarianNgo/mcp-vercel-ai",
+  "name": "Vercel AI",
+  "author": "itsDarianNgo",
+  "description": "Integrates OpenAI and Mistral models for versatile language tasks via the Vercel AI SDK.",
+  "codiconIcon": "vercel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "mistral",
+    "models",
+    "versatile",
+    "language",
+    "vercel"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "af195330-fd01-4441-a013-4a2517dbbe93"
+}

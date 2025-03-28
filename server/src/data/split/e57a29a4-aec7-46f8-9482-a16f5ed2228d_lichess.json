@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/karayaman/lichess-mcp",
+  "githubUrl": "https://github.com/karayaman/lichess-mcp",
+  "name": "Lichess",
+  "author": "karayaman",
+  "description": "Integrates with the Lichess chess platform to enable natural language-driven gameplay, analysis, and tournament participation through its API.",
+  "codiconIcon": "lichess",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "language-driven",
+    "gameplay",
+    "analysis",
+    "participation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "e57a29a4-aec7-46f8-9482-a16f5ed2228d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/gitlab",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/gitlab",
+  "name": "GitLab",
+  "author": "modelcontextprotocol",
+  "description": "Control repositories, merge requests, and issues via GitLab API.",
+  "codiconIcon": "gitlab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "requests",
+    "issues",
+    "gitlab",
+    "control",
+    "repositories"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "e37d9735-60e7-4ea2-815a-b1a09ead13e4"
+}

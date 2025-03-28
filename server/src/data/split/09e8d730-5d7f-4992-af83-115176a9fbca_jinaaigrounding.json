@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-jinaai-grounding",
+  "githubUrl": "https://github.com/spences10/mcp-jinaai-grounding",
+  "name": "JinaAI Grounding",
+  "author": "spences10",
+  "description": "Integrates JinaAI's content extraction and analysis capabilities for web scraping, documentation parsing, and text analysis tasks.",
+  "codiconIcon": "jinaai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "parsing",
+    "jinaai-grounding",
+    "jinaai's",
+    "extraction",
+    "scraping"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "09e8d730-5d7f-4992-af83-115176a9fbca"
+}

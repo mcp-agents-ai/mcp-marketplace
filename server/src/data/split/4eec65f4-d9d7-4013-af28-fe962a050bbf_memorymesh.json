@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/CheMiguel23/MemoryMesh",
+  "githubUrl": "https://github.com/CheMiguel23/MemoryMesh",
+  "name": "MemoryMesh",
+  "author": "CheMiguel23",
+  "description": "Store and query structured data in local knowledge graphs.",
+  "codiconIcon": "memorymesh",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "memorymesh",
+    "store",
+    "query",
+    "structured",
+    "local"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "4eec65f4-d9d7-4013-af28-fe962a050bbf"
+}

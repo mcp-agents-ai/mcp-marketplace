@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/block/square-mcp",
+  "githubUrl": "https://github.com/block/square-mcp",
+  "name": "Square",
+  "author": "block",
+  "description": "Integrates with Square's API to enable payment processing, business management, and e-commerce operations for AI applications.",
+  "codiconIcon": "square",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "processing",
+    "management",
+    "operations",
+    "square"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "0a627f2b-574a-4ac4-8dc7-b807f10ce3a5"
+}

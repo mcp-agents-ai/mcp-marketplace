@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pinkpixel-dev/mem0-mcp",
+  "githubUrl": "https://github.com/pinkpixel-dev/mem0-mcp",
+  "name": "Mem0 (Autonomous Memory)",
+  "author": "pinkpixel-dev",
+  "description": "Provides autonomous memory capabilities for storing, retrieving, and utilizing conversation information across sessions, with automatic extraction and categorization of user data for enhanced contextual interactions.",
+  "codiconIcon": "mem0",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sessions",
+    "mem0-(autonomous-memory)",
+    "provides",
+    "capabilities",
+    "utilizing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "fa13d2ac-ebf3-4488-b9fa-5452a067b2ce"
+}

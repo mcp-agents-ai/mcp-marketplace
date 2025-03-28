@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TakumiY235/uniprot-mcp-server",
+  "githubUrl": "https://github.com/TakumiY235/uniprot-mcp-server",
+  "name": "UniProt",
+  "author": "TakumiY235",
+  "description": "Integrates with UniProt API to provide cached protein information for bioinformatics applications and protein research.",
+  "codiconIcon": "uniprot",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provide",
+    "cached",
+    "protein",
+    "bioinformatics",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "c122c79a-a95d-4b11-b14f-dd6792651ea8"
+}

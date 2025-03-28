@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mattmarcin/aqicn-mcp",
+  "githubUrl": "https://github.com/mattmarcin/aqicn-mcp",
+  "name": "AQICN Air Quality",
+  "author": "mattmarcin",
+  "description": "Integrates with the World Air Quality Index API to retrieve real-time air quality data for cities and monitoring stations globally.",
+  "codiconIcon": "aqicn",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "quality",
+    "retrieve",
+    "globally",
+    "integrates",
+    "world"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "35017a01-2752-4278-98ea-86e2af926c9b"
+}

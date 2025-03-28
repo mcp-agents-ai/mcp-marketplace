@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/samwang0723/mcp-memory",
+  "githubUrl": "https://github.com/samwang0723/mcp-memory",
+  "name": "Memory Graph",
+  "author": "samwang0723",
+  "description": "Provides long-term memory storage for LLM conversations using Redis Graph, enabling persistent knowledge graphs for maintaining context across interactions and building complex information networks.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "graphs",
+    "memory-graph",
+    "memory",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "74c34ec6-5ddb-44db-9e54-8a253ae6fab6"
+}

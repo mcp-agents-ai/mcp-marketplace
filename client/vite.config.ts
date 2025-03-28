@@ -14,6 +14,10 @@ export default defineConfig({
       '/v1/mcp': {
         target: 'http://localhost:3001',
         changeOrigin: true
+      },
+      '/v1/hub': {
+        target: 'http://localhost:3001',
+        changeOrigin: true
       }
     }
   },

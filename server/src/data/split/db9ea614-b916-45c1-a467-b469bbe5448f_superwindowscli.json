@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/delorenj/super-win-cli-mcp-server",
+  "githubUrl": "https://github.com/delorenj/super-win-cli-mcp-server",
+  "name": "Super Windows CLI",
+  "author": "delorenj",
+  "description": "Provides unrestricted Windows system access and command execution across multiple shells for remote administration and complex task automation.",
+  "codiconIcon": "super",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "access",
+    "across",
+    "super-windows-cli",
+    "provides",
+    "unrestricted"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "db9ea614-b916-45c1-a467-b469bbe5448f"
+}

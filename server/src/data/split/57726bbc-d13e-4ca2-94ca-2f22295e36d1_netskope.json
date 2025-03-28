@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/johnneerdael/netskope-mcp",
+  "githubUrl": "https://github.com/johnneerdael/netskope-mcp",
+  "name": "Netskope",
+  "author": "johnneerdael",
+  "description": "Integrates with Netskope API to manage private access infrastructure, enabling automated publisher lifecycle, app configuration, policy creation, and traffic diagnostics.",
+  "codiconIcon": "netskope",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automated",
+    "infrastructure",
+    "traffic",
+    "diagnostics",
+    "netskope"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "57726bbc-d13e-4ca2-94ca-2f22295e36d1"
+}

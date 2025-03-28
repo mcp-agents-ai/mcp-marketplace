@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sequentialthinking",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sequentialthinking",
+  "name": "Sequential Thinking",
+  "author": "modelcontextprotocol",
+  "description": "Implements a structured sequential thinking process for breaking down complex problems, iteratively refining solutions, and exploring multiple reasoning paths.",
+  "codiconIcon": "sequential",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "structured",
+    "exploring",
+    "sequential-thinking",
+    "sequential",
+    "multiple"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "f8a2aa79-89d7-4b0e-a81d-56082137a173"
+}

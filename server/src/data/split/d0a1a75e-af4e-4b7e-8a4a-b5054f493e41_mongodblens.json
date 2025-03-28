@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/furey/mongodb-lens",
+  "githubUrl": "https://github.com/furey/mongodb-lens",
+  "name": "MongoDB Lens",
+  "author": "furey",
+  "description": "Integrates with MongoDB databases to enable browsing collections, executing queries, running aggregation pipelines, analyzing schemas, and optimizing performance through specialized database exploration tools.",
+  "codiconIcon": "mongodb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "collections",
+    "executing",
+    "queries",
+    "aggregation",
+    "mongodb"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "d0a1a75e-af4e-4b7e-8a4a-b5054f493e41"
+}

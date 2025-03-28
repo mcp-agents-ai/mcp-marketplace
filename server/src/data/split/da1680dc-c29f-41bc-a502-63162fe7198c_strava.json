@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ctvidic/strava-mcp-server",
+  "githubUrl": "https://github.com/ctvidic/strava-mcp-server",
+  "name": "Strava",
+  "author": "ctvidic",
+  "description": "Integrates with the Strava API to enable access to fitness tracking data and activity information for analyzing workout patterns and athletic performance.",
+  "codiconIcon": "strava",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "activity",
+    "information",
+    "analyzing",
+    "workout",
+    "patterns"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "da1680dc-c29f-41bc-a502-63162fe7198c"
+}

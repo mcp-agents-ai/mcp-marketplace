@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/flexpa/mcp-fhir",
+  "githubUrl": "https://github.com/flexpa/mcp-fhir",
+  "name": "FHIR",
+  "author": "flexpa",
+  "description": "Integrates FHIR data into workflows, enabling seamless access and search of healthcare resources for dynamic querying and analysis.",
+  "codiconIcon": "fhir",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "healthcare",
+    "resources",
+    "querying",
+    "fhir",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "24a93734-96d7-417d-af99-f43235f35084"
+}

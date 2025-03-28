@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/blackwhite084/playwright-plus-python-mcp",
+  "githubUrl": "https://github.com/blackwhite084/playwright-plus-python-mcp",
+  "name": "Playwright",
+  "author": "blackwhite084",
+  "description": "Integrates Playwright with MCP to enable web browser automation for tasks like scraping, testing, and content generation/submission.",
+  "codiconIcon": "playwright",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "automation",
+    "scraping",
+    "playwright",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "ee5c571f-16ea-4e33-b2d3-d37a09fb15cd"
+}

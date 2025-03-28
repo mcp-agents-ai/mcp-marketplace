@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-jinaai-search",
+  "githubUrl": "https://github.com/spences10/mcp-jinaai-search",
+  "name": "JinaAI Search",
+  "author": "spences10",
+  "description": "Integrates JinaAI's search capabilities for web content discovery, information retrieval, and data extraction",
+  "codiconIcon": "jinaai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "capabilities",
+    "content",
+    "retrieval",
+    "integrates",
+    "discovery"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "fe0a2540-d723-4c22-aeb8-eab255127145"
+}

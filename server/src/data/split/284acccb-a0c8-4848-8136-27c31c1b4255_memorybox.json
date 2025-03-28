@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/amotivv/memory-box-mcp",
+  "githubUrl": "https://github.com/amotivv/memory-box-mcp",
+  "name": "Memory Box",
+  "author": "amotivv",
+  "description": "Integrates with Memory Box to provide persistent, context-aware interactions through semantic memory storage and retrieval using vector embeddings and search capabilities.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "memory",
+    "context-aware",
+    "through",
+    "embeddings",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "284acccb-a0c8-4848-8136-27c31c1b4255"
+}

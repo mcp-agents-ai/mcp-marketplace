@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lalanikarim/comfy-mcp-pipeline",
+  "githubUrl": "https://github.com/lalanikarim/comfy-mcp-pipeline",
+  "name": "ComfyUI",
+  "author": "lalanikarim",
+  "description": "Integrates with ComfyUI to enable natural language-driven image generation using customizable Stable Diffusion workflows",
+  "codiconIcon": "comfyui",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "comfyui",
+    "language-driven",
+    "image",
+    "generation",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "38828136-e5e2-45e8-9d6f-39b211816203"
+}

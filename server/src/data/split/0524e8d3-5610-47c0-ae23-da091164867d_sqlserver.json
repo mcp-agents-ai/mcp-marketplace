@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ian-cowley/MCPSqlServer",
+  "githubUrl": "https://github.com/ian-cowley/MCPSqlServer",
+  "name": "SQL Server",
+  "author": "ian-cowley",
+  "description": "Integrates with SQL Server to enable database schema exploration, query execution, and stored procedure management via JSON-RPC communication for relational data analysis and natural language querying.",
+  "codiconIcon": "sql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "server",
+    "exploration",
+    "json-rpc",
+    "natural",
+    "sql-server"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "0524e8d3-5610-47c0-ae23-da091164867d"
+}

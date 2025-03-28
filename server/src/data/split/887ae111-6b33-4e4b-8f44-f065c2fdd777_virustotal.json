@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/BurtTheCoder/mcp-virustotal",
+  "githubUrl": "https://github.com/BurtTheCoder/mcp-virustotal",
+  "name": "VirusTotal",
+  "author": "BurtTheCoder",
+  "description": "This VirusTotal MCP server enables AI assistants to programmatically access VirusTotal's threat intelligence for security analysis and threat detection.",
+  "codiconIcon": "virustotal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "detection",
+    "virustotal",
+    "server",
+    "enables",
+    "programmatically"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "887ae111-6b33-4e4b-8f44-f065c2fdd777"
+}

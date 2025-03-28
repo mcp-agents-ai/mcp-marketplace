@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tofunori/claude-mcp-data-explorer",
+  "githubUrl": "https://github.com/tofunori/claude-mcp-data-explorer",
+  "name": "Data Explorer",
+  "author": "tofunori",
+  "description": "Enables data analysis and visualization by integrating with pandas, scikit-learn, matplotlib, and seaborn libraries for dataset exploration, statistical analysis, and chart generation",
+  "codiconIcon": "data",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "exploration",
+    "data-explorer",
+    "visualization",
+    "integrating"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "8ba915ee-ca7a-4ec7-a797-dcbe0de13e15"
+}

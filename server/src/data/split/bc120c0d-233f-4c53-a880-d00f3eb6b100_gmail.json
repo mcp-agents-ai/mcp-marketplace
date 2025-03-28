@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Ejb503/systemprompt-mcp-gmail",
+  "githubUrl": "https://github.com/Ejb503/systemprompt-mcp-gmail",
+  "name": "Gmail",
+  "author": "Ejb503",
+  "description": "Integrates with Gmail to enable natural language-based email management, including searching, reading, deleting, and sending emails with attachment support and conversation threading.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "management",
+    "attachment",
+    "email",
+    "deleting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "bc120c0d-233f-4c53-a880-d00f3eb6b100"
+}

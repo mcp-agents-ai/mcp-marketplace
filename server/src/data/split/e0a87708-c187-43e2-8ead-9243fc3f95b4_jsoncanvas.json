@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Cam10001110101/mcp-server-obsidian-jsoncanvas",
+  "githubUrl": "https://github.com/Cam10001110101/mcp-server-obsidian-jsoncanvas",
+  "name": "JSON Canvas",
+  "author": "Cam10001110101",
+  "description": "Provides tools for creating, modifying, and validating infinite canvas data structures, supporting all node types and edge connections, with a RESTful API for canvas operations and export capabilities.",
+  "codiconIcon": "json",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "modifying",
+    "connections",
+    "capabilities",
+    "canvas"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "e0a87708-c187-43e2-8ead-9243fc3f95b4"
+}

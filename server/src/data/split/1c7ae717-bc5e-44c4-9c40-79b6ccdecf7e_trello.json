@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yairhaimo/trello-mcp-server",
+  "githubUrl": "https://github.com/yairhaimo/trello-mcp-server",
+  "name": "Trello",
+  "author": "yairhaimo",
+  "description": "Integrates with Trello's API to enable AI-powered project management tasks like automated workflow optimization and task creation.",
+  "codiconIcon": "trello",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "trello",
+    "integrates",
+    "ai-powered",
+    "project",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "1c7ae717-bc5e-44c4-9c40-79b6ccdecf7e"
+}

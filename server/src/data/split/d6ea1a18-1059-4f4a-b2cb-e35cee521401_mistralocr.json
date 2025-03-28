@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/everaldo/mcp-mistral-ocr",
+  "githubUrl": "https://github.com/everaldo/mcp-mistral-ocr",
+  "name": "Mistral OCR",
+  "author": "everaldo",
+  "description": "Processes images and PDFs through Mistral AI's OCR API to extract text from visual documents, supporting both local files and URLs with Docker containerization for easy deployment.",
+  "codiconIcon": "mistral",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "supporting",
+    "files",
+    "mistral-ocr",
+    "through",
+    "local"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "d6ea1a18-1059-4f4a-b2cb-e35cee521401"
+}

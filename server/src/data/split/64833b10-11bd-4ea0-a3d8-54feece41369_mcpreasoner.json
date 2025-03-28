@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Jacck/mcp-reasoner",
+  "githubUrl": "https://github.com/Jacck/mcp-reasoner",
+  "name": "MCP Reasoner",
+  "author": "Jacck",
+  "description": "Implements beam search and thought evaluation for structured problem-solving, enabling exploration of multiple solution paths in complex reasoning tasks.",
+  "codiconIcon": "mcp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "mcp-reasoner",
+    "implements",
+    "structured",
+    "exploration",
+    "multiple"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "64833b10-11bd-4ea0-a3d8-54feece41369"
+}

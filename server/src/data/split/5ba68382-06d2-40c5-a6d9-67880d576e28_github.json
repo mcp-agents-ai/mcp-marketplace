@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ParasSolanki/github-mcp-server",
+  "githubUrl": "https://github.com/ParasSolanki/github-mcp-server",
+  "name": "GitHub",
+  "author": "ParasSolanki",
+  "description": "Integrates with GitHub's API to enable repository management, code manipulation, and issue tracking for streamlined development workflows.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "github",
+    "integrates",
+    "github's",
+    "enable",
+    "issue"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "5ba68382-06d2-40c5-a6d9-67880d576e28"
+}

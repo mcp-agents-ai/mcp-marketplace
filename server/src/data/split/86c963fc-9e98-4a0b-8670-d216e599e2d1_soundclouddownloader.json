@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/arnavsurve/scdl-mcp",
+  "githubUrl": "https://github.com/arnavsurve/scdl-mcp",
+  "name": "SoundCloud Downloader",
+  "author": "arnavsurve",
+  "description": "Enables downloading tracks, playlists, and user content from SoundCloud with granular control over output location, download modes, track limits, and metadata handling",
+  "codiconIcon": "soundcloud",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "granular",
+    "download",
+    "limits",
+    "metadata"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "86c963fc-9e98-4a0b-8670-d216e599e2d1"
+}

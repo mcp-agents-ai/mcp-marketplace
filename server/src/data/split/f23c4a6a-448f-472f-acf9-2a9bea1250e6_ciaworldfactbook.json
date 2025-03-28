@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Joshuatanderson/factbook-mcp",
+  "githubUrl": "https://github.com/Joshuatanderson/factbook-mcp",
+  "name": "CIA World Factbook",
+  "author": "Joshuatanderson",
+  "description": "Fetch information about a country from the CIA World Factbook",
+  "codiconIcon": "cia",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "cia-world-factbook",
+    "fetch",
+    "information",
+    "about",
+    "country"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "f23c4a6a-448f-472f-acf9-2a9bea1250e6"
+}

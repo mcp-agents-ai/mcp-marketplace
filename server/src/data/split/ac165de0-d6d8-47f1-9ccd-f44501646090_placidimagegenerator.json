@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/felores/placid-mcp-server",
+  "githubUrl": "https://github.com/felores/placid-mcp-server",
+  "name": "Placid Image Generator",
+  "author": "felores",
+  "description": "Integrates with Placid's API to generate dynamic images from templates for tasks like social media posts and marketing materials.",
+  "codiconIcon": "placid",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tasks",
+    "social",
+    "posts",
+    "placid-image-generator",
+    "dynamic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "ac165de0-d6d8-47f1-9ccd-f44501646090"
+}

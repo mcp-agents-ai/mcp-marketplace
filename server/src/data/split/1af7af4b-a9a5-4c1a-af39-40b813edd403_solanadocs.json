@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aldrin-labs/solana-docs-mcp-server",
+  "githubUrl": "https://github.com/aldrin-labs/solana-docs-mcp-server",
+  "name": "Solana Docs",
+  "author": "aldrin-labs",
+  "description": "Fetches and parses Solana blockchain documentation, enabling real-time access to development information for accurate query responses and blockchain-related assistance.",
+  "codiconIcon": "solana",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "information",
+    "assistance",
+    "solana",
+    "enabling",
+    "real-time"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "1af7af4b-a9a5-4c1a-af39-40b813edd403"
+}

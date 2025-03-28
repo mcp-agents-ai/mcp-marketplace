@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/andre-jesus/claude-mcp",
+  "githubUrl": "https://github.com/andre-jesus/claude-mcp",
+  "name": "Terminal Monitor",
+  "author": "andre-jesus",
+  "description": "Integrates terminal monitoring capabilities, enabling real-time analysis of multiple terminal outputs for debugging, log review, and system monitoring.",
+  "codiconIcon": "terminal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "monitoring",
+    "capabilities",
+    "real-time",
+    "outputs",
+    "debugging"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "65a42232-dc66-4e39-8a6b-60d844043315"
+}

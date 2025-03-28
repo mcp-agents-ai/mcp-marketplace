@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/apicolet/brevo-mcp",
+  "githubUrl": "https://github.com/apicolet/brevo-mcp",
+  "name": "Brevo",
+  "author": "apicolet",
+  "description": "Integrates with Brevo's Multi-Channel Platform API to enable email campaign management, contact list handling, and automated marketing communications.",
+  "codiconIcon": "brevo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "brevo's",
+    "handling",
+    "marketing",
+    "communications",
+    "multi-channel"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "8331ac67-73eb-41dd-b9b2-6e95b5f3af39"
+}

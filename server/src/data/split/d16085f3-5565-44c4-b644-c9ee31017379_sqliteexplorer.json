@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mekanixms/sqlite-mcp-server",
+  "githubUrl": "https://github.com/mekanixms/sqlite-mcp-server",
+  "name": "SQLite Explorer",
+  "author": "mekanixms",
+  "description": "Integrates with SQLite databases to enable AI-driven schema exploration, querying, updates, and statistical analysis for efficient data management and rapid prototyping.",
+  "codiconIcon": "sqlite",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "prototyping",
+    "ai-driven",
+    "statistical",
+    "management",
+    "sqlite-explorer"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "d16085f3-5565-44c4-b644-c9ee31017379"
+}

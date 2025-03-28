@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mshojaei77/ReActMCP",
+  "githubUrl": "https://github.com/mshojaei77/ReActMCP",
+  "name": "Exa Web Search",
+  "author": "mshojaei77",
+  "description": "Integrates with Exa API to enable web search capabilities with filtering options for domains, text requirements, and date ranges, returning markdown-formatted results with titles, URLs, publication dates, and content summaries for real-time internet information access.",
+  "codiconIcon": "exa",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "markdown-formatted",
+    "content",
+    "access",
+    "filtering",
+    "options"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "6cd36b65-c3d1-4af7-b3ec-779885c89eed"
+}

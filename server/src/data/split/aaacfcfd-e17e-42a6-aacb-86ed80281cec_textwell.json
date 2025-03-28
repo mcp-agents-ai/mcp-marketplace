@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/worldnine/textwell-mcp",
+  "githubUrl": "https://github.com/worldnine/textwell-mcp",
+  "name": "Textwell",
+  "author": "worldnine",
+  "description": "Integrates with Textwell on macOS to enable writing text in replace, insert, or append modes via a simple, focused interface.",
+  "codiconIcon": "textwell",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "interface",
+    "integrates",
+    "macos",
+    "enable",
+    "writing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "aaacfcfd-e17e-42a6-aacb-86ed80281cec"
+}

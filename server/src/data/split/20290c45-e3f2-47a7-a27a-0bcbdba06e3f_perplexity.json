@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ppl-ai/modelcontextprotocol",
+  "githubUrl": "https://github.com/ppl-ai/modelcontextprotocol",
+  "name": "Perplexity",
+  "author": "ppl-ai",
+  "description": "Connector for the Perplexity API, to enable web search without leaving the MCP ecosystem.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "connector",
+    "enable",
+    "search",
+    "without",
+    "leaving"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "20290c45-e3f2-47a7-a27a-0bcbdba06e3f"
+}

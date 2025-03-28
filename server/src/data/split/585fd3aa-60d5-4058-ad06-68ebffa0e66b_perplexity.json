@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/letsbuildagent/perplexity-tool",
+  "githubUrl": "https://github.com/letsbuildagent/perplexity-tool",
+  "name": "Perplexity",
+  "author": "letsbuildagent",
+  "description": "Integrates Perplexity AI's API, enabling web-based research and cited answers through real-time search capabilities.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "answers",
+    "real-time",
+    "capabilities",
+    "integrates",
+    "research"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "585fd3aa-60d5-4058-ad06-68ebffa0e66b"
+}

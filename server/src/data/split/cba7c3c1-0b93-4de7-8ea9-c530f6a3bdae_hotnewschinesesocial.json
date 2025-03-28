@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wopal-cn/mcp-hotnews-server",
+  "githubUrl": "https://github.com/wopal-cn/mcp-hotnews-server",
+  "name": "Hotnews (Chinese Social)",
+  "author": "wopal-cn",
+  "description": "Aggregates real-time trending topics from major Chinese social platforms and news sites.",
+  "codiconIcon": "hotnews",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "topics",
+    "social",
+    "sites",
+    "real-time",
+    "trending"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "cba7c3c1-0b93-4de7-8ea9-c530f6a3bdae"
+}

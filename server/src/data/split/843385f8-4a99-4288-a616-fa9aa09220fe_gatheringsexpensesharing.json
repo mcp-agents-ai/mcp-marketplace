@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/abutbul/gatherings-mcp-python",
+  "githubUrl": "https://github.com/abutbul/gatherings-mcp-python",
+  "name": "Gatherings (Expense Sharing)",
+  "author": "abutbul",
+  "description": "Provides a robust expense-sharing solution for social gatherings, enabling creation of events, member management, expense tracking, and automated reimbursement calculations.",
+  "codiconIcon": "gatherings",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "gatherings",
+    "member",
+    "management",
+    "automated",
+    "reimbursement"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "843385f8-4a99-4288-a616-fa9aa09220fe"
+}

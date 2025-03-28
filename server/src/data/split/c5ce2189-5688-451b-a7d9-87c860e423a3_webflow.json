@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kapilduraphe/webflow-mcp-server",
+  "githubUrl": "https://github.com/kapilduraphe/webflow-mcp-server",
+  "name": "Webflow",
+  "author": "kapilduraphe",
+  "description": "Integrates with the Webflow API to enable retrieving site information, managing custom domains, and automating Webflow site management tasks.",
+  "codiconIcon": "webflow",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "information",
+    "managing",
+    "domains",
+    "management",
+    "webflow"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "c5ce2189-5688-451b-a7d9-87c860e423a3"
+}

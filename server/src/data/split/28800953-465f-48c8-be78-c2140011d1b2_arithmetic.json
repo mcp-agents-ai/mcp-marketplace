@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/YuheiNakasaka/arithmetic-mcp-server",
+  "githubUrl": "https://github.com/YuheiNakasaka/arithmetic-mcp-server",
+  "name": "Arithmetic",
+  "author": "YuheiNakasaka",
+  "description": "Provides arithmetic operations for basic calculations, enabling efficient mathematical computations in workflows and applications.",
+  "codiconIcon": "arithmetic",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "operations",
+    "calculations",
+    "mathematical",
+    "workflows",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "28800953-465f-48c8-be78-c2140011d1b2"
+}

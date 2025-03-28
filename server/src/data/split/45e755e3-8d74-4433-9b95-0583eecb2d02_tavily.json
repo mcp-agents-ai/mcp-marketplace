@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tulong66/mcp-tavily-proxy",
+  "githubUrl": "https://github.com/tulong66/mcp-tavily-proxy",
+  "name": "Tavily",
+  "author": "tulong66",
+  "description": "Integrates Tavily's search API with HTTP/HTTPS proxy support for web search capabilities in restricted network environments.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "tavily's",
+    "search",
+    "proxy",
+    "restricted"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "45e755e3-8d74-4433-9b95-0583eecb2d02"
+}

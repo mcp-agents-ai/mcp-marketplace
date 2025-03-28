@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cablate/mcp-google-calendar",
+  "githubUrl": "https://github.com/cablate/mcp-google-calendar",
+  "name": "Google Calendar",
+  "author": "cablate",
+  "description": "Integrates with Google Calendar API to enable creating, updating, and retrieving calendar events for seamless scheduling and event management.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "retrieving",
+    "scheduling",
+    "event",
+    "management",
+    "google-calendar"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "e2dcf0c7-8e01-41b1-8e89-6d519329260b"
+}

@@ -50,6 +50,26 @@
     "recommended": "推荐",
     "viewOnGithub": "在 GitHub 上查看"
   },
+  "details": {
+    "loading": "正在加载服务器详情...",
+    "fetchError": "获取服务器详情失败",
+    "errorLoading": "加载服务器数据时出错",
+    "serverNotFound": "未找到服务器",
+    "backToServers": "返回服务器列表",
+    "description": "描述",
+    "tags": "标签",
+    "serverInfo": "服务器信息",
+    "category": "分类",
+    "requiresApiKey": "需要 API 密钥",
+    "createdAt": "创建时间",
+    "updatedAt": "更新时间",
+    "notSpecified": "未指定",
+    "viewOnGithub": "在 GitHub 上查看"
+  },
+  "common": {
+    "yes": "是",
+    "no": "否"
+  },
   "footer": {
     "copyright": "© 2025 MCP 市场。保留所有权利。"
   },

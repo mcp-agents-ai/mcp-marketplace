@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/squirrelogic/mcp-feature-discussion",
+  "githubUrl": "https://github.com/squirrelogic/mcp-feature-discussion",
+  "name": "Coding Feature Discussion",
+  "author": "squirrelogic",
+  "description": "Integrates AI-powered lead developer interface with project context to guide teams through feature discussions, architectural decisions, and best practices.",
+  "codiconIcon": "coding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "teams",
+    "through",
+    "project",
+    "discussions",
+    "ai-powered"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "ea7d4c41-5149-4792-b3b1-7b75800bfee0"
+}

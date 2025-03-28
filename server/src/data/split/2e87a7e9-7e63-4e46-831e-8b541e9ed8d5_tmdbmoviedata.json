@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Laksh-star/mcp-server-tmdb",
+  "githubUrl": "https://github.com/Laksh-star/mcp-server-tmdb",
+  "name": "TMDB Movie Data",
+  "author": "Laksh-star",
+  "description": "Integrate TMDB movie data for search, trending, and recommendation capabilities for films.",
+  "codiconIcon": "tmdb",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "trending",
+    "recommendation",
+    "capabilities",
+    "films"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "2e87a7e9-7e63-4e46-831e-8b541e9ed8d5"
+}

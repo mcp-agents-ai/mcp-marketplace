@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tlofreso/mcp-youtube-transcripts",
+  "githubUrl": "https://github.com/tlofreso/mcp-youtube-transcripts",
+  "name": "YouTube Transcript Extractor",
+  "author": "tlofreso",
+  "description": "Extracts YouTube video transcripts from various URL formats using a command-line tool, enabling content analysis and subtitle generation.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "youtube-transcript-extractor",
+    "video",
+    "subtitle",
+    "command-line",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "ee0f6463-2217-4218-a56d-3a7bcd33bc52"
+}

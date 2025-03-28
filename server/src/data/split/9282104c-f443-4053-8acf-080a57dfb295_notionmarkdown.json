@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/seonglae/mcp-notion",
+  "githubUrl": "https://github.com/seonglae/mcp-notion",
+  "name": "Notion Markdown",
+  "author": "seonglae",
+  "description": "Integrates with Notion to provide markdown-based content retrieval, searching, and processing capabilities.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "notion-markdown",
+    "notion",
+    "markdown-based",
+    "retrieval",
+    "searching"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "9282104c-f443-4053-8acf-080a57dfb295"
+}

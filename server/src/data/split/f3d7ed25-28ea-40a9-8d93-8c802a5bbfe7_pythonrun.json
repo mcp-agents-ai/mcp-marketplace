@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/topherbc/python-run-mcp",
+  "githubUrl": "https://github.com/topherbc/python-run-mcp",
+  "name": "Python Run",
+  "author": "topherbc",
+  "description": "Provides a RESTful API for remote execution of Python code snippets.",
+  "codiconIcon": "python",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "execution",
+    "python",
+    "snippets",
+    "python-run",
+    "provides"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "f3d7ed25-28ea-40a9-8d93-8c802a5bbfe7"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/j3k0/mcp-google-workspace",
+  "githubUrl": "https://github.com/j3k0/mcp-google-workspace",
+  "name": "Google Workspace",
+  "author": "j3k0",
+  "description": "Integrates Google Workspace APIs to enable tasks like sending emails, scheduling meetings, and managing documents in Gmail, Calendar, and Drive.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "managing",
+    "google-workspace",
+    "google",
+    "enable",
+    "meetings"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "e206a30e-aaf0-4024-8fc8-6b40618aad90"
+}

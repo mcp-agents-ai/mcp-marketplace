@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/arre-ankit/notion-mcp-server",
+  "githubUrl": "https://github.com/arre-ankit/notion-mcp-server",
+  "name": "Notion",
+  "author": "arre-ankit",
+  "description": "Integrates with Notion to enable creating, reading, updating, and deleting pages and databases for automated note-taking, task management, and knowledge base maintenance.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "notion",
+    "enable",
+    "deleting",
+    "databases",
+    "automated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "d3fd36d4-ccc1-4c39-86e9-a69c595d7527"
+}

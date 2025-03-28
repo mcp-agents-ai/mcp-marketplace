@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lallen30/mcp-remote-server",
+  "githubUrl": "https://github.com/lallen30/mcp-remote-server",
+  "name": "BluestoneApps React Native Standards",
+  "author": "lallen30",
+  "description": "Provides access to BluestoneApps React Native coding standards and examples via FastAPI, enabling developers to retrieve development guidelines and implementation patterns through HTTP endpoints.",
+  "codiconIcon": "bluestoneapps",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieve",
+    "guidelines",
+    "access",
+    "standards",
+    "developers"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "0f57493f-e9ab-4b6b-86cb-eaacb5a43f90"
+}

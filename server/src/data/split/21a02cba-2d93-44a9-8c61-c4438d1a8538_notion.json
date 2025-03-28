@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/mcp-notion-server",
+  "githubUrl": "https://github.com/pashpashpash/mcp-notion-server",
+  "name": "Notion",
+  "author": "pashpashpash",
+  "description": "Enables AI assistants to interact with Notion workspaces, providing comprehensive tools for managing pages, databases, blocks, comments, and users through the Notion API.",
+  "codiconIcon": "note",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/notion.png",
+  "category": "note-taking",
+  "tags": [
+    "notion",
+    "workspace-management",
+    "documentation",
+    "collaboration",
+    "knowledge-base"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 6,
+  "downloadCount": 1724,
+  "createdAt": "2025-02-18T23:04:22.064534Z",
+  "updatedAt": "2025-02-18T23:04:22.064534Z",
+  "hubId": "21a02cba-2d93-44a9-8c61-c4438d1a8538"
+}

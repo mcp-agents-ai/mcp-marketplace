@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jmonsellier/gmail-mcp-server",
+  "githubUrl": "https://github.com/jmonsellier/gmail-mcp-server",
+  "name": "Gmail",
+  "author": "jmonsellier",
+  "description": "Integrates with Gmail's API to enable email management tasks like sending, reading, drafting, and organizing messages.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reading",
+    "drafting",
+    "organizing",
+    "gmail",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "f6e95ca4-65b2-4cc6-89fa-52215c7dd2a4"
+}

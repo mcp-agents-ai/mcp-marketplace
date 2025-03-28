@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MaheshDoiphode/mcp-cline-project-content-server",
+  "githubUrl": "https://github.com/MaheshDoiphode/mcp-cline-project-content-server",
+  "name": "Coding Project Structure",
+  "author": "MaheshDoiphode",
+  "description": "Provides a single interface for retrieving entire project structures, enabling efficient code analysis and manipulation tasks.",
+  "codiconIcon": "coding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "single",
+    "retrieving",
+    "entire",
+    "project",
+    "structures"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "31c327f4-22ef-4cf2-b6fd-0bc602e26a19"
+}

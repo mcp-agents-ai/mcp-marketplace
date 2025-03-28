@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://smithery.ai/server/@szypetike/domain-search-server",
+  "githubUrl": "https://smithery.ai/server/@szypetike/domain-search-server",
+  "name": "Domain Search MCP - no API key required",
+  "author": "",
+  "description": "Search for domains in Claude and Cursor and see if they are available and get their prices.",
+  "codiconIcon": "domain",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "prices",
+    "domain-search-mcp---no-api-key-required",
+    "search",
+    "domains",
+    "claude"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-26T10:50:10.728173+00:00",
+  "updatedAt": "2025-03-26T10:50:10.728173+00:00",
+  "hubId": "fb37d9d2-da5a-4a8b-b6cf-a61423047ba3"
+}

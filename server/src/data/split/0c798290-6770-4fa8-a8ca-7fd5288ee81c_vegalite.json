@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/OneofGods/vegalite-mcp-troubleshooting",
+  "githubUrl": "https://github.com/OneofGods/vegalite-mcp-troubleshooting",
+  "name": "Vega-Lite",
+  "author": "OneofGods",
+  "description": "Provides troubleshooting and startup guidance for integrating Vega-Lite visualization capabilities with Claude, including documentation on common errors and configuration details.",
+  "codiconIcon": "vega-lite",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "vega-lite",
+    "integrating",
+    "visualization",
+    "configuration",
+    "details"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "0c798290-6770-4fa8-a8ca-7fd5288ee81c"
+}

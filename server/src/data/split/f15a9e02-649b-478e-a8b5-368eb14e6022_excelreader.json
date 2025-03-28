@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ArchimedesCrypto/excel-reader-mcp",
+  "githubUrl": "https://github.com/ArchimedesCrypto/excel-reader-mcp",
+  "name": "Excel Reader",
+  "author": "ArchimedesCrypto",
+  "description": "Integrates with Excel files to enable efficient processing and analysis of large spreadsheet datasets through automatic chunking and pagination.",
+  "codiconIcon": "excel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "excel-reader",
+    "excel",
+    "processing",
+    "spreadsheet",
+    "pagination"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "f15a9e02-649b-478e-a8b5-368eb14e6022"
+}

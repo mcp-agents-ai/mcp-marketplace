@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zekus/shortcut-mcp",
+  "githubUrl": "https://github.com/zekus/shortcut-mcp",
+  "name": "Shortcut",
+  "author": "zekus",
+  "description": "Integrates with the Shortcut project management platform to enable task management, story tracking, and workflow automation for development teams.",
+  "codiconIcon": "shortcut",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "development",
+    "integrates",
+    "management",
+    "enable",
+    "workflow"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "0d7c21a1-11ee-4a10-8ebf-17886472df03"
+}

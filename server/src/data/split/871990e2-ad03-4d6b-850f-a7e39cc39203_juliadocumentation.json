@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jonathanfischer97/juliadoc-mcp",
+  "githubUrl": "https://github.com/jonathanfischer97/juliadoc-mcp",
+  "name": "Julia Documentation",
+  "author": "jonathanfischer97",
+  "description": "Integrates Julia documentation and source code retrieval for quick reference and exploration within AI workflows.",
+  "codiconIcon": "julia",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "documentation",
+    "source",
+    "exploration",
+    "workflows",
+    "julia-documentation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "871990e2-ad03-4d6b-850f-a7e39cc39203"
+}

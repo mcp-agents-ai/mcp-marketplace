@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shlomico-tr/etoroPortfolioMCP",
+  "githubUrl": "https://github.com/shlomico-tr/etoroPortfolioMCP",
+  "name": "eToro Portfolio",
+  "author": "shlomico-tr",
+  "description": "Integrates with eToro's API to fetch financial portfolios, instrument details, and search capabilities for investment analysis and portfolio tracking without CORS restrictions.",
+  "codiconIcon": "etoro",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "portfolio",
+    "integrates",
+    "instrument",
+    "portfolios",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "b13fee1d-e333-4d5d-87d6-404f1d9985da"
+}

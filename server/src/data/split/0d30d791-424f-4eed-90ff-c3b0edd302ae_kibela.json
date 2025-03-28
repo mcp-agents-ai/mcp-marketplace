@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kiwamizamurai/mcp-kibela-server",
+  "githubUrl": "https://github.com/kiwamizamurai/mcp-kibela-server",
+  "name": "Kibela",
+  "author": "kiwamizamurai",
+  "description": "Integrates with Kibela API to enable searching, retrieving, and accessing collaborative documentation for knowledge management and AI-assisted workflows.",
+  "codiconIcon": "kibela",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "knowledge",
+    "management",
+    "kibela",
+    "integrates",
+    "searching"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "0d30d791-424f-4eed-90ff-c3b0edd302ae"
+}

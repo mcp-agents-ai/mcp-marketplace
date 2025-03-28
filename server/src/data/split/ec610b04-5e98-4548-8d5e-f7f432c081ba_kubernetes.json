@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/abhijeetka/mcp-k8s-server",
+  "githubUrl": "https://github.com/abhijeetka/mcp-k8s-server",
+  "name": "Kubernetes",
+  "author": "abhijeetka",
+  "description": "Bridges natural language interactions with Kubernetes clusters by wrapping kubectl commands, enabling conversational management of pods, deployments, contexts, and troubleshooting without requiring exact syntax knowledge.",
+  "codiconIcon": "kubernetes",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "conversational",
+    "management",
+    "contexts",
+    "without",
+    "requiring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "ec610b04-5e98-4548-8d5e-f7f432c081ba"
+}

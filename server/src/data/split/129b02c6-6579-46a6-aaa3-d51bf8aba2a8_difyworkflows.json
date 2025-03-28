@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gotoolkits/mcp-difyworkflow-server",
+  "githubUrl": "https://github.com/gotoolkits/mcp-difyworkflow-server",
+  "name": "Dify Workflows",
+  "author": "gotoolkits",
+  "description": "Integrates with the Dify API to enable AI-driven workflow execution and management for automated task processing and decision making across domains.",
+  "codiconIcon": "dify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "workflow",
+    "execution",
+    "automated",
+    "processing",
+    "decision"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "129b02c6-6579-46a6-aaa3-d51bf8aba2a8"
+}

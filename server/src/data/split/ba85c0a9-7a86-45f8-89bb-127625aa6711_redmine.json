@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yonaka15/mcp-server-redmine",
+  "githubUrl": "https://github.com/yonaka15/mcp-server-redmine",
+  "name": "Redmine",
+  "author": "yonaka15",
+  "description": "Integrates with Redmine to enable natural language queries and updates for issue tracking, time logging, and project planning.",
+  "codiconIcon": "redmine",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "redmine",
+    "integrates",
+    "language",
+    "queries",
+    "updates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "ba85c0a9-7a86-45f8-89bb-127625aa6711"
+}

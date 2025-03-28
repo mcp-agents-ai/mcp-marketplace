@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Bigsy/maven-mcp-server",
+  "githubUrl": "https://github.com/Bigsy/maven-mcp-server",
+  "name": "Maven Dependencies",
+  "author": "Bigsy",
+  "description": "Integrates with Maven Central Repository to verify and retrieve dependency versions for automated project management and updates.",
+  "codiconIcon": "maven",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dependency",
+    "versions",
+    "project",
+    "management",
+    "updates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "f434c233-2801-4c4a-9b92-f10f32f70870"
+}

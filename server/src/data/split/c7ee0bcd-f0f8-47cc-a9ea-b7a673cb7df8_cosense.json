@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yosider/cosense-mcp-server",
+  "githubUrl": "https://github.com/yosider/cosense-mcp-server",
+  "name": "Cosense",
+  "author": "yosider",
+  "description": "Integrates with cosense to enable retrieval and analysis of project pages for knowledge base querying and collaborative document processing.",
+  "codiconIcon": "cosense",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieval",
+    "analysis",
+    "project",
+    "knowledge",
+    "document"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "c7ee0bcd-f0f8-47cc-a9ea-b7a673cb7df8"
+}

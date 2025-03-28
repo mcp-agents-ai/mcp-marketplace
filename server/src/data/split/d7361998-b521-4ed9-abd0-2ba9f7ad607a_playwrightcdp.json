@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lars-hagen/mcp-playwright-cdp",
+  "githubUrl": "https://github.com/lars-hagen/mcp-playwright-cdp",
+  "name": "Playwright CDP",
+  "author": "lars-hagen",
+  "description": "Integrates Playwright and Chrome DevTools Protocol to enable advanced web automation, testing, and analysis through browser control and interaction.",
+  "codiconIcon": "playwright",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "devtools",
+    "through",
+    "interaction",
+    "playwright-cdp",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "d7361998-b521-4ed9-abd0-2ba9f7ad607a"
+}

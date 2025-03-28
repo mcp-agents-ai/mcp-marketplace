@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/isaacwasserman/mcp_cube_server",
+  "githubUrl": "https://github.com/isaacwasserman/mcp_cube_server",
+  "name": "Cube",
+  "author": "isaacwasserman",
+  "description": "Interfaces with Cube.dev's REST API to enable querying and describing data from Cube deployments, simplifying access to complex data structures for automated analysis and natural language exploration of business metrics.",
+  "codiconIcon": "cube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "deployments",
+    "access",
+    "structures",
+    "analysis",
+    "natural"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "e7956986-11b8-41ae-bd56-9e9dd59579d5"
+}

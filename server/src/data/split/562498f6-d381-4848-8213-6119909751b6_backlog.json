@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/katsuhirohonda/mcp-backlog-server",
+  "githubUrl": "https://github.com/katsuhirohonda/mcp-backlog-server",
+  "name": "Backlog",
+  "author": "katsuhirohonda",
+  "description": "Integrates with Backlog to enable project overview generation, task management, and team collaboration analysis through API interactions and data summarization tools.",
+  "codiconIcon": "backlog",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "integrates",
+    "enable",
+    "overview",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "562498f6-d381-4848-8213-6119909751b6"
+}

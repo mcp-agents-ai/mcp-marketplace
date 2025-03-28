@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bmorphism/say-mcp-server",
+  "githubUrl": "https://github.com/bmorphism/say-mcp-server",
+  "name": "macOS Say",
+  "author": "bmorphism",
+  "description": "Leverages macOS 'say' command for customizable text-to-speech functionality, enabling dynamic voice output.",
+  "codiconIcon": "macos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "macos-say",
+    "leverages",
+    "macos",
+    "command",
+    "customizable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "c06ebb8e-cfba-4acb-857e-cf4ee1b30839"
+}

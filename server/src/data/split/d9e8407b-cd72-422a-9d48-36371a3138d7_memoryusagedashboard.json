@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/doobidoo/mcp-memory-dashboard",
+  "githubUrl": "https://github.com/doobidoo/mcp-memory-dashboard",
+  "name": "Memory Usage Dashboard",
+  "author": "doobidoo",
+  "description": "Provides a React-based dashboard for real-time monitoring and visualization of memory usage in MCP implementations, enabling developers to optimize performance and identify potential memory leaks.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "react-based",
+    "real-time",
+    "visualization",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "d9e8407b-cd72-422a-9d48-36371a3138d7"
+}

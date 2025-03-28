@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sanderkooger/mcp-server-ragdocs",
+  "githubUrl": "https://github.com/sanderkooger/mcp-server-ragdocs",
+  "name": "RAG Documentation Search",
+  "author": "sanderkooger",
+  "description": "Provides semantic document search and retrieval through vector embeddings, enabling context-aware responses backed by specific documentation sources",
+  "codiconIcon": "rag",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "specific",
+    "documentation",
+    "retrieval",
+    "through",
+    "embeddings"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "4773e572-f813-4046-8e4e-edb011dcc414"
+}

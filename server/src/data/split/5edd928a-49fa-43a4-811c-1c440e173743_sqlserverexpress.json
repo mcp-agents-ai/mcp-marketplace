@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hanweg/mcp-sqlexpress",
+  "githubUrl": "https://github.com/hanweg/mcp-sqlexpress",
+  "name": "SQL Server Express",
+  "author": "hanweg",
+  "description": "Integrates with Microsoft SQL Server Express to enable database interactions, supporting query execution, table creation, and schema description with configurable authentication and access restrictions.",
+  "codiconIcon": "sql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "integrates",
+    "server",
+    "enable",
+    "database",
+    "interactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "5edd928a-49fa-43a4-811c-1c440e173743"
+}

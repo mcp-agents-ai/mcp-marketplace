@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Handwriting-OCR/handwriting-ocr-mcp-server",
+  "githubUrl": "https://github.com/Handwriting-OCR/handwriting-ocr-mcp-server",
+  "name": "Handwriting OCR",
+  "author": "Handwriting-OCR",
+  "description": "Integrates with Handwriting OCR API to extract and digitize text from handwritten documents in various image formats, enabling conversion of physical notes and manuscripts into editable text.",
+  "codiconIcon": "handwriting",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "conversion",
+    "editable",
+    "handwriting-ocr",
+    "integrates",
+    "physical"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "abd32fcf-e377-4f8b-bf5f-f9736baa2348"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nguyenvanduocit/all-in-one-model-context-protocol",
+  "githubUrl": "https://github.com/nguyenvanduocit/all-in-one-model-context-protocol",
+  "name": "All-In-One DevTools",
+  "author": "nguyenvanduocit",
+  "description": "Juggles development tool integrations like Confluence, GitLab, Jira, and CLI scripts.",
+  "codiconIcon": "all-in-one",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "gitlab",
+    "jira",
+    "scripts",
+    "all-in-one-devtools",
+    "juggles"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "36884f0c-29f1-4acd-ba49-71aa746b8872"
+}

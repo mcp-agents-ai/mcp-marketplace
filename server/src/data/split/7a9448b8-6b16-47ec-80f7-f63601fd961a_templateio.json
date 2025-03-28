@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Lucker631/mcp-templateio",
+  "githubUrl": "https://github.com/Lucker631/mcp-templateio",
+  "name": "Templateio",
+  "author": "Lucker631",
+  "description": "Provides a template for building custom servers using TypeScript and the mcp-framework package, setting up project structure and configuration for developers to create tailored API or service integrations.",
+  "codiconIcon": "templateio",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "servers",
+    "using",
+    "tailored",
+    "service",
+    "integrations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "7a9448b8-6b16-47ec-80f7-f63601fd961a"
+}

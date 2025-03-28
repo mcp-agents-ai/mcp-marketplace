@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/sentry",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/sentry",
+  "name": "Sentry",
+  "author": "modelcontextprotocol",
+  "description": "Retrieves and analyzes error reports, stacktraces, and debugging information from Sentry.io, enabling AI assistants to inspect and understand application issues.",
+  "codiconIcon": "bug",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/sentry.png",
+  "category": "monitoring",
+  "tags": [
+    "error-tracking",
+    "debugging",
+    "stacktraces",
+    "issue-monitoring",
+    "application-monitoring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 25082,
+  "downloadCount": 4084,
+  "createdAt": "2025-02-19T02:22:38.723905Z",
+  "updatedAt": "2025-02-19T02:22:38.723905Z",
+  "hubId": "7495480b-0f3f-4559-86b3-6f9775e1d83f"
+}

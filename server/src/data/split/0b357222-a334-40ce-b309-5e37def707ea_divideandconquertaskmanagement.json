@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/landicefu/divide-and-conquer-mcp-server",
+  "githubUrl": "https://github.com/landicefu/divide-and-conquer-mcp-server",
+  "name": "Divide and Conquer (Task Management)",
+  "author": "landicefu",
+  "description": "Enables breaking down complex tasks into manageable pieces with structured JSON storage for tracking progress, maintaining checklists, and preserving context across multiple conversations.",
+  "codiconIcon": "divide",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "breaking",
+    "structured",
+    "preserving",
+    "context",
+    "divide-and-conquer-(task-management)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "0b357222-a334-40ce-b309-5e37def707ea"
+}

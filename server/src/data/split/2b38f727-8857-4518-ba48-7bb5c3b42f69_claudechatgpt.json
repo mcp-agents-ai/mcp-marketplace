@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/syedazharmbnr1/claude-chatgpt-mcp",
+  "githubUrl": "https://github.com/syedazharmbnr1/claude-chatgpt-mcp",
+  "name": "Claude ChatGPT",
+  "author": "syedazharmbnr1",
+  "description": "Integrates Claude with the ChatGPT desktop app on macOS using AppleScript, enabling cross-assistant interactions for prompt sending, response retrieval, and conversation management.",
+  "codiconIcon": "claude",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "chatgpt",
+    "macos",
+    "using",
+    "retrieval",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "2b38f727-8857-4518-ba48-7bb5c3b42f69"
+}

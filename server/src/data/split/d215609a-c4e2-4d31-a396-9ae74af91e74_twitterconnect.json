@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Namrata-AMI/MCP_TWITTER_CONNECT",
+  "githubUrl": "https://github.com/Namrata-AMI/MCP_TWITTER_CONNECT",
+  "name": "Twitter Connect",
+  "author": "Namrata-AMI",
+  "description": "Integrates with Twitter's API to retrieve recent tweets from specified users, enabling real-time Twitter content access within conversations without requiring direct Twitter API credentials.",
+  "codiconIcon": "twitter",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "users",
+    "access",
+    "conversations",
+    "requiring",
+    "direct"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "d215609a-c4e2-4d31-a396-9ae74af91e74"
+}

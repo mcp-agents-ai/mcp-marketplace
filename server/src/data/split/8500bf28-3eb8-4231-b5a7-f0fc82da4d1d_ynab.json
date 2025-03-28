@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/klauern/mcp-ynab",
+  "githubUrl": "https://github.com/klauern/mcp-ynab",
+  "name": "YNAB",
+  "author": "klauern",
+  "description": "Integrates with YNAB API to enable personal finance management, including viewing account balances, creating transactions, and accessing budget data for financial planning and analysis.",
+  "codiconIcon": "ynab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "personal",
+    "finance",
+    "accessing",
+    "transactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "8500bf28-3eb8-4231-b5a7-f0fc82da4d1d"
+}

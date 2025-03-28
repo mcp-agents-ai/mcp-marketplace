@@ -1,0 +1,22 @@
+{
+  "mcpId": "https://github.com/tanigami/mcp-server-perplexity",
+  "githubUrl": "https://github.com/tanigami/mcp-server-perplexity",
+  "name": "Perplexity",
+  "author": "tanigami",
+  "description": "Get chat completions with citations from Perplexity API.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "completions",
+    "citations",
+    "perplexity"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "544c2c37-5e3a-4745-852c-c50984d2f80d"
+}

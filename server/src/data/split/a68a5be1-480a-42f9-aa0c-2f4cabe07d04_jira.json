@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/KS-GEN-AI/jira-mcp-server",
+  "githubUrl": "https://github.com/KS-GEN-AI/jira-mcp-server",
+  "name": "Jira",
+  "author": "KS-GEN-AI",
+  "description": "Integrates with Jira to enable automated ticket management, project oversight, and streamlined communication through JQL queries and comprehensive API operations.",
+  "codiconIcon": "jira",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "communication",
+    "through",
+    "enable",
+    "oversight",
+    "streamlined"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "a68a5be1-480a-42f9-aa0c-2f4cabe07d04"
+}

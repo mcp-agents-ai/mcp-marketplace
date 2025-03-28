@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/davidteren/claude-server",
+  "githubUrl": "https://github.com/davidteren/claude-server",
+  "name": "Context Manager",
+  "author": "davidteren",
+  "description": "Enhances Claude's capabilities with context management across sessions, knowledge organization through hierarchical project contexts, and continuous conversation threads stored in a well-structured directory.",
+  "codiconIcon": "context",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "contexts",
+    "threads",
+    "hierarchical",
+    "enhances",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "bf66a767-1fa1-4ec3-af96-481980cc374a"
+}

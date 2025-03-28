@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/chrisboden/mcp_template",
+  "githubUrl": "https://github.com/chrisboden/mcp_template",
+  "name": "Simple Website Fetcher",
+  "author": "chrisboden",
+  "description": "Fetches website content using Python and MCP, enabling web scraping and content analysis tasks",
+  "codiconIcon": "simple",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "python",
+    "enabling",
+    "analysis",
+    "tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "53834f8b-825d-4607-856f-12d6136fb03a"
+}

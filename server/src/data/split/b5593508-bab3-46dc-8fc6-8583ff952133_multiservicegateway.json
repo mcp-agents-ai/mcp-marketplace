@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AdamPippert/multi-service-mcp-server",
+  "githubUrl": "https://github.com/AdamPippert/multi-service-mcp-server",
+  "name": "Multi-Service Gateway",
+  "author": "AdamPippert",
+  "description": "Provides a unified gateway for LLMs to access GitHub, GitLab, Google Maps, Memory storage, and Puppeteer web automation tools through a Flask-based server deployable on Red Hat environments.",
+  "codiconIcon": "multi-service",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "multi-service-gateway",
+    "gateway",
+    "gitlab",
+    "puppeteer",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "b5593508-bab3-46dc-8fc6-8583ff952133"
+}

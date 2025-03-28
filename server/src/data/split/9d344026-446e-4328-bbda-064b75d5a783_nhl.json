@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/carsonjones/nhl-go",
+  "githubUrl": "https://github.com/carsonjones/nhl-go",
+  "name": "NHL",
+  "author": "carsonjones",
+  "description": "Integrates with NHL data sources to provide real-time game updates, player stats, and league standings for sports analysis and fantasy hockey applications.",
+  "codiconIcon": "nhl",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "player",
+    "standings",
+    "fantasy",
+    "sources",
+    "updates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "9d344026-446e-4328-bbda-064b75d5a783"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/distrihub/mcp-google-workspace",
+  "githubUrl": "https://github.com/distrihub/mcp-google-workspace",
+  "name": "Google Workspace",
+  "author": "distrihub",
+  "description": "Integrates with Google Workspace to enable file management in Drive and data manipulation in Sheets, facilitating document-centric tasks and data analysis within the Google ecosystem.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "integrates",
+    "google",
+    "manipulation",
+    "sheets",
+    "ecosystem"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "4a91fdc6-02bb-4ea4-840d-f55424de37f8"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/samwang0723/mcp-sumologic",
+  "githubUrl": "https://github.com/samwang0723/mcp-sumologic",
+  "name": "Sumo Logic",
+  "author": "samwang0723",
+  "description": "Integrates with the Sumo Logic API to perform log searches, enabling custom queries and analysis of log data for troubleshooting, monitoring, and generating insights from application logs.",
+  "codiconIcon": "sumo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sumo-logic",
+    "integrates",
+    "queries",
+    "generating",
+    "application"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "16195d46-a885-4b04-8b15-dae674f18d93"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sammcj/mcp-github-issue",
+  "githubUrl": "https://github.com/sammcj/mcp-github-issue",
+  "name": "GitHub Issue Fetcher",
+  "author": "sammcj",
+  "description": "Fetches GitHub issues and transforms them into structured task descriptions for software development workflows and project management.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "issues",
+    "transforms",
+    "software",
+    "development",
+    "fetches"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "4f129668-5d87-48ba-a06c-c274eb595023"
+}

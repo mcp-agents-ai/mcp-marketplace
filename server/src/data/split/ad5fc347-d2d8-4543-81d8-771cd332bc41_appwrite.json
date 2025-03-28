@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/appwrite/mcp",
+  "githubUrl": "https://github.com/appwrite/mcp",
+  "name": "Appwrite",
+  "author": "appwrite",
+  "description": "Integrates with Appwrite's database functionality, enabling AI workflows to manage databases, define schemas, perform CRUD operations, and create custom indexes for flexible data modeling and backend service integration.",
+  "codiconIcon": "appwrite",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "manage",
+    "databases",
+    "define",
+    "perform",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "ad5fc347-d2d8-4543-81d8-771cd332bc41"
+}

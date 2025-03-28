@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lsemenenko/openhue-mcp-server",
+  "githubUrl": "https://github.com/lsemenenko/openhue-mcp-server",
+  "name": "OpenHue",
+  "author": "lsemenenko",
+  "description": "Integrates with Philips Hue smart lighting systems to enable automated control of light states, scenes, and schedules for complex home automation scenarios.",
+  "codiconIcon": "openhue",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "complex",
+    "control",
+    "scenes",
+    "integrates",
+    "systems"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "a741f78c-2b85-4c8c-ae58-a74d1ac884bd"
+}

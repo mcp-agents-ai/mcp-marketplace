@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-tavily-search",
+  "githubUrl": "https://github.com/spences10/mcp-tavily-search",
+  "name": "Tavily Search",
+  "author": "spences10",
+  "description": "Integrates with Tavily's semantic search API to enable web searches and retrieval of relevant results for fact-checking and research tasks.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "searches",
+    "relevant",
+    "results",
+    "fact-checking",
+    "tavily's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "41f34c04-1da2-4013-856f-b65c5c7e43fa"
+}

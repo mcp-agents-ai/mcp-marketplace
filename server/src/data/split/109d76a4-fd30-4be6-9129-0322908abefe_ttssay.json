@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hirokidaichi/mcp-tts-say",
+  "githubUrl": "https://github.com/hirokidaichi/mcp-tts-say",
+  "name": "TTS Say",
+  "author": "hirokidaichi",
+  "description": "Integrates with OpenAI's API and local sound playback to convert text into audible speech, enabling voice output for various applications.",
+  "codiconIcon": "tts",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "local",
+    "sound",
+    "playback",
+    "audible"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "109d76a4-fd30-4be6-9129-0322908abefe"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/screenshotone/mcp",
+  "githubUrl": "https://github.com/screenshotone/mcp",
+  "name": "ScreenshotOne",
+  "author": "screenshotone",
+  "description": "Integrates with ScreenshotOne's API to enable rendering of website screenshots for visual testing, content monitoring, and creating web page references.",
+  "codiconIcon": "screenshotone",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "screenshotone",
+    "enable",
+    "screenshots",
+    "testing",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "680ef289-bcdd-4fd6-8dee-b1a8a7977c1b"
+}

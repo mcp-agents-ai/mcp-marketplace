@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jitsmaster/WebScrapeMCPServer",
+  "githubUrl": "https://github.com/jitsmaster/WebScrapeMCPServer",
+  "name": "Web Crawler",
+  "author": "jitsmaster",
+  "description": "Configurable web crawler that extracts structured content from websites while respecting robots.txt rules and offering customizable settings for depth, delay, and concurrency.",
+  "codiconIcon": "web",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "web-crawler",
+    "configurable",
+    "extracts",
+    "structured",
+    "respecting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "85bd8d5b-cc5a-406e-8d7a-0d6fc6c62fc3"
+}

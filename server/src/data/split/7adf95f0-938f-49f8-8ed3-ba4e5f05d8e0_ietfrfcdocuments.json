@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tizee/mcp-server-ietf",
+  "githubUrl": "https://github.com/tizee/mcp-server-ietf",
+  "name": "IETF RFC Documents",
+  "author": "tizee",
+  "description": "Provides access to IETF RFC documents, enabling efficient listing, searching, and retrieval with pagination and local caching for internet standards and protocol analysis.",
+  "codiconIcon": "ietf",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "local",
+    "internet",
+    "documents",
+    "analysis",
+    "provides"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "7adf95f0-938f-49f8-8ed3-ba4e5f05d8e0"
+}

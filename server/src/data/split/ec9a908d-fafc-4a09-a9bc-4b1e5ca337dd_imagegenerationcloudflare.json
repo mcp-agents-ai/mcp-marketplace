@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/janwilmake/image-generation-mcp-cloudflare",
+  "githubUrl": "https://github.com/janwilmake/image-generation-mcp-cloudflare",
+  "name": "Image Generation (Cloudflare)",
+  "author": "janwilmake",
+  "description": "Integrates with Cloudflare's AI image generation capabilities, leveraging Workers for serverless deployment to enable on-demand image creation for content generation and visual design tasks.",
+  "codiconIcon": "image",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "generation",
+    "serverless",
+    "content",
+    "leveraging",
+    "deployment"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "ec9a908d-fafc-4a09-a9bc-4b1e5ca337dd"
+}

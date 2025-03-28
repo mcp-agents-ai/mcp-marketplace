@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lowlyocean/mcp-ddgs",
+  "githubUrl": "https://github.com/lowlyocean/mcp-ddgs",
+  "name": "DuckDuckGo Search",
+  "author": "lowlyocean",
+  "description": "Integrates with DuckDuckGo to enable web search functionality, returning results as structured data for easy incorporation into AI workflows.",
+  "codiconIcon": "duckduckgo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "duckduckgo",
+    "enable",
+    "search",
+    "functionality"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "84d50c9b-2a42-4907-ad7e-ea466d6ca119"
+}

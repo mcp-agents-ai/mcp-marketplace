@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shaileshahuja/github-pr-mcp",
+  "githubUrl": "https://github.com/shaileshahuja/github-pr-mcp",
+  "name": "GitHub PR Comments",
+  "author": "shaileshahuja",
+  "description": "Integrates with GitHub's Pull Request system to fetch and analyze PR comments with their associated file paths, line ranges, and replies for seamless code review workflows.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "integrates",
+    "system",
+    "analyze",
+    "github's",
+    "paths"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "486fa4e3-2fe1-41ca-ba87-9f938e75ff49"
+}

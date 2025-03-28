@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Msparihar/mcp-server-firecrawl",
+  "githubUrl": "https://github.com/Msparihar/mcp-server-firecrawl",
+  "name": "Firecrawl",
+  "author": "Msparihar",
+  "description": "Integrates with the Firecrawl API to enable web scraping and intelligent content searching for extracting structured data and performing customizable searches.",
+  "codiconIcon": "firecrawl",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "searching",
+    "performing",
+    "searches",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "9cf83a6b-d3b7-4bc3-9c8b-d0c222608abd"
+}

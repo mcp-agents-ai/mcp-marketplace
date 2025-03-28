@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tsmztech/mcp-server-salesforce",
+  "githubUrl": "https://github.com/tsmztech/mcp-server-salesforce",
+  "name": "Salesforce",
+  "author": "tsmztech",
+  "description": "Integrates with Salesforce CRM for natural language-driven data management, querying, and administration tasks.",
+  "codiconIcon": "salesforce",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "querying",
+    "administration",
+    "tasks",
+    "salesforce"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "26156b2a-c68c-4c63-b25f-d1b57848fa3c"
+}

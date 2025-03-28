@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yuna0x0/hackmd-mcp",
+  "githubUrl": "https://github.com/yuna0x0/hackmd-mcp",
+  "name": "HackMD",
+  "author": "yuna0x0",
+  "description": "A Model Context Protocol server for integrating HackMD's note-taking platform with AI assistants.",
+  "codiconIcon": "hackmd",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/unqgwmdk6qj.svg",
+  "category": "tools",
+  "tags": [
+    "model",
+    "context",
+    "server",
+    "integrating",
+    "hackmd's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-20T14:34:38.507763+00:00",
+  "updatedAt": "2025-03-20T14:34:38.507763+00:00",
+  "hubId": "2892386e-9e9b-4e32-aba9-2cf446b1097b"
+}

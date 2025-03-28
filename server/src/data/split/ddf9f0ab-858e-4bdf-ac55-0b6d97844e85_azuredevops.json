@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Tiberriver256/azure-devops-mcp",
+  "githubUrl": "https://github.com/Tiberriver256/azure-devops-mcp",
+  "name": "Azure DevOps",
+  "author": "Tiberriver256",
+  "description": "Integrates with Azure DevOps to enable AI-driven management of projects, work items, repositories, pull requests, branches, and pipelines for enhanced DevOps workflows and automation.",
+  "codiconIcon": "azure",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "azure-devops",
+    "azure",
+    "enable",
+    "pipelines",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "ddf9f0ab-858e-4bdf-ac55-0b6d97844e85"
+}

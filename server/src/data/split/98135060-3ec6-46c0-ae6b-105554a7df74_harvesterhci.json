@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/starbops/harvester-mcp-server",
+  "githubUrl": "https://github.com/starbops/harvester-mcp-server",
+  "name": "Harvester HCI",
+  "author": "starbops",
+  "description": "Enables management of Harvester HCI clusters through a Go-based server that provides tools for handling both standard Kubernetes and Harvester-specific resources with human-readable output formatting.",
+  "codiconIcon": "harvester",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "harvester-specific",
+    "enables",
+    "go-based",
+    "provides",
+    "tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "98135060-3ec6-46c0-ae6b-105554a7df74"
+}

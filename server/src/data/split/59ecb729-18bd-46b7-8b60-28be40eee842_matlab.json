@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Tsuchijo/matlab-mcp",
+  "githubUrl": "https://github.com/Tsuchijo/matlab-mcp",
+  "name": "MATLAB",
+  "author": "Tsuchijo",
+  "description": "Integrates MATLAB's numerical computing capabilities, enabling execution of MATLAB scripts and functions for data analysis, signal processing, and visualization.",
+  "codiconIcon": "matlab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "execution",
+    "scripts",
+    "capabilities",
+    "functions",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "59ecb729-18bd-46b7-8b60-28be40eee842"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gabornyergesX/mcp-notion-server",
+  "githubUrl": "https://github.com/gabornyergesX/mcp-notion-server",
+  "name": "Notion",
+  "author": "gabornyergesX",
+  "description": "Integrates with Notion to enable database and page operations, content management, and AI-powered analysis for enhanced productivity workflows.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "notion",
+    "integrates",
+    "database",
+    "operations",
+    "ai-powered"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "108bea6a-224a-4c05-8a95-5a8c10056124"
+}

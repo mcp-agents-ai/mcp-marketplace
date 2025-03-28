@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fer1994ly/Vercel_MCP_Complete",
+  "githubUrl": "https://github.com/fer1994ly/Vercel_MCP_Complete",
+  "name": "Vercel",
+  "author": "fer1994ly",
+  "description": "Integrates with Vercel's platform to enable management of Vercel projects.",
+  "codiconIcon": "vercel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "projects",
+    "vercel",
+    "integrates",
+    "vercel's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a3511ae0-29b3-4e7f-960c-e79701a3f268"
+}

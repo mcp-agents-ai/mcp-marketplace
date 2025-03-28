@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GongRzhe/terminal-controller-mcp",
+  "githubUrl": "https://github.com/GongRzhe/terminal-controller-mcp",
+  "name": "Terminal Controller",
+  "author": "GongRzhe",
+  "description": "Enables secure terminal command execution, directory navigation, and file system operations across Windows and UNIX-based systems, with built-in security measures to prevent dangerous operations.",
+  "codiconIcon": "terminal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "prevent",
+    "enables",
+    "terminal",
+    "unix-based",
+    "execution"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "cbdf92ac-9c31-4255-a480-f59519bbcdff"
+}

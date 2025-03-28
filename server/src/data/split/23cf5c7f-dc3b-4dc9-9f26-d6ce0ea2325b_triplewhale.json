@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Triple-Whale/mcp-server-triplewhale",
+  "githubUrl": "https://github.com/Triple-Whale/mcp-server-triplewhale",
+  "name": "Triple Whale",
+  "author": "Triple-Whale",
+  "description": "Integrates with Triple Whale's API to enable querying and analysis of e-commerce performance metrics for sales reporting and marketing strategy optimization.",
+  "codiconIcon": "triple",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "metrics",
+    "sales",
+    "reporting",
+    "optimization",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "23cf5c7f-dc3b-4dc9-9f26-d6ce0ea2325b"
+}

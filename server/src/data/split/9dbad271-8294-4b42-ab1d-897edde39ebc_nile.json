@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/niledatabase/nile-mcp-server",
+  "githubUrl": "https://github.com/niledatabase/nile-mcp-server",
+  "name": "Nile",
+  "author": "niledatabase",
+  "description": "Manage and query Postgres databases, customers, users, setup B2B auth using LLMs",
+  "codiconIcon": "nile",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/l4ggoh8axe7.jpg",
+  "category": "database",
+  "tags": [
+    "manage",
+    "query",
+    "setup",
+    "nile",
+    "postgres"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T15:54:27.645625+00:00",
+  "updatedAt": "2025-03-14T15:54:27.645625+00:00",
+  "hubId": "9dbad271-8294-4b42-ab1d-897edde39ebc"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/luc-io/mcpserver",
+  "githubUrl": "https://github.com/luc-io/mcpserver",
+  "name": "DigitalOcean",
+  "author": "luc-io",
+  "description": "Integrates with DigitalOcean's API to provide a secure, rate-limited interface for automating cloud resource management and infrastructure operations.",
+  "codiconIcon": "digitalocean",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "secure",
+    "interface",
+    "cloud",
+    "management",
+    "infrastructure"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "b383a9ba-ab7f-4f37-96bc-ff976b84a3f0"
+}

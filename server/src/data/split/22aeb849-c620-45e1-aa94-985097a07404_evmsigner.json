@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zhangzhongnan928/mcp-evm-signer",
+  "githubUrl": "https://github.com/zhangzhongnan928/mcp-evm-signer",
+  "name": "EVM Signer",
+  "author": "zhangzhongnan928",
+  "description": "Integrates with Ethereum blockchain to enable wallet management, transaction execution, and smart contract interactions via Infura, providing secure local access for blockchain operations.",
+  "codiconIcon": "evm",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "secure",
+    "evm-signer",
+    "integrates",
+    "ethereum",
+    "interactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "22aeb849-c620-45e1-aa94-985097a07404"
+}

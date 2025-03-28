@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Lorhlona/geminiserchMCP",
+  "githubUrl": "https://github.com/Lorhlona/geminiserchMCP",
+  "name": "Gemini Search",
+  "author": "Lorhlona",
+  "description": "Integrates with Google Gemini API to enable powerful web searches with advanced language understanding capabilities.",
+  "codiconIcon": "gemini",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "integrates",
+    "enable",
+    "powerful",
+    "searches",
+    "advanced"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "275ef66c-39ce-4d1f-8c05-e7e88a95e9f7"
+}

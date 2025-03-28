@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aroglahcim/magick-mcp",
+  "githubUrl": "https://github.com/aroglahcim/magick-mcp",
+  "name": "Magick Convert (ImageMagick)",
+  "author": "aroglahcim",
+  "description": "Integrates with ImageMagick's CLI to enable image processing and manipulation tasks like resizing, format conversion, and applying filters or effects.",
+  "codiconIcon": "magick",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tasks",
+    "resizing",
+    "format",
+    "filters",
+    "effects"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "2eebf6ac-0f93-4be3-86db-f695a772a3fc"
+}

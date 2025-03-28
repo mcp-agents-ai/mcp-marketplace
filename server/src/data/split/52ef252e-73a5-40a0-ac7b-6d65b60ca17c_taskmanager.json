@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Rudra-ravi/mcp-taskmanager",
+  "githubUrl": "https://github.com/Rudra-ravi/mcp-taskmanager",
+  "name": "TaskManager",
+  "author": "Rudra-ravi",
+  "description": "Enables breaking down complex tasks into manageable steps with queue-based planning and execution, maintaining context across conversations through structured task tracking and visual progress monitoring.",
+  "codiconIcon": "taskmanager",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "monitoring",
+    "complex",
+    "conversations",
+    "through",
+    "progress"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "52ef252e-73a5-40a0-ac7b-6d65b60ca17c"
+}

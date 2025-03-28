@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/stakpak/mcp",
+  "githubUrl": "https://github.com/stakpak/mcp",
+  "name": "Stakpak",
+  "author": "stakpak",
+  "description": "Integrates with Stakpak API to generate infrastructure code for projects, enabling developers to quickly create configurations through a dedicated tool that works with various IDEs.",
+  "codiconIcon": "stakpak",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "various",
+    "stakpak",
+    "infrastructure",
+    "projects",
+    "quickly"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "a0acd183-001e-43cc-8f0c-5bd31ba08821"
+}

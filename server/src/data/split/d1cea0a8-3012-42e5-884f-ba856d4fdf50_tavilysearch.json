@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/algonacci/mcp-tools",
+  "githubUrl": "https://github.com/algonacci/mcp-tools",
+  "name": "Tavily Search",
+  "author": "algonacci",
+  "description": "Integrates the Tavily search API to provide customizable web searches with options for depth, result count, time range, and AI-generated answers, enabling up-to-date information retrieval for research, content creation, and data aggregation tasks.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "creation",
+    "searches",
+    "depth",
+    "result",
+    "count"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "d1cea0a8-3012-42e5-884f-ba856d4fdf50"
+}

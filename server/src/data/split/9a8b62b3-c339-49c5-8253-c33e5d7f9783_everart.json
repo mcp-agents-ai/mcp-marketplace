@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/everart",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/everart",
+  "name": "EverArt",
+  "author": "modelcontextprotocol",
+  "description": "Integrates with EverArt API to generate images from text prompts using multiple AI models for creative and visual design tasks.",
+  "codiconIcon": "everart",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "everart",
+    "integrates",
+    "generate",
+    "images",
+    "models"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "9a8b62b3-c339-49c5-8253-c33e5d7f9783"
+}

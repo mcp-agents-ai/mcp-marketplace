@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/scald/tesla-mcp",
+  "githubUrl": "https://github.com/scald/tesla-mcp",
+  "name": "Tesla Fleet API",
+  "author": "scald",
+  "description": "Integrates with the Tesla Fleet API to enable vehicle monitoring and control through OAuth 2.0 authentication, allowing for wake-up commands, information retrieval, and real-time data refreshing of Tesla vehicles.",
+  "codiconIcon": "tesla",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieval",
+    "vehicle",
+    "control",
+    "through",
+    "oauth"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "b5f3a941-ec4b-4c5d-ae22-56dce9a60171"
+}

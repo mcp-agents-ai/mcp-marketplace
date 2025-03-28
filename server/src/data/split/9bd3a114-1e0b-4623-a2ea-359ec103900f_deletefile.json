@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qpd-v/mcp-delete",
+  "githubUrl": "https://github.com/qpd-v/mcp-delete",
+  "name": "Delete File",
+  "author": "qpd-v",
+  "description": "File deletion capabilities to safely delete files when needed, with support for both relative and absolute paths.",
+  "codiconIcon": "delete",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "files",
+    "support",
+    "relative",
+    "absolute",
+    "delete-file"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "9bd3a114-1e0b-4623-a2ea-359ec103900f"
+}

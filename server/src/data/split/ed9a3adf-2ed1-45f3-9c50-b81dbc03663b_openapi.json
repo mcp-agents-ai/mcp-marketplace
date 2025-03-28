@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ivo-toby/mcp-openapi-server",
+  "githubUrl": "https://github.com/ivo-toby/mcp-openapi-server",
+  "name": "OpenAPI",
+  "author": "ivo-toby",
+  "description": "Integrates with OpenAPI specifications to expose REST API endpoints as MCP resources, enabling dynamic discovery and utilization of many web services.",
+  "codiconIcon": "openapi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "specifications",
+    "resources",
+    "enabling",
+    "dynamic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "ed9a3adf-2ed1-45f3-9c50-b81dbc03663b"
+}

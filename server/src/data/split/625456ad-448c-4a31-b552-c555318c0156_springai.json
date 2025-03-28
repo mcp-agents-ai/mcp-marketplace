@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cpage-pivotal/loot-mcp",
+  "githubUrl": "https://github.com/cpage-pivotal/loot-mcp",
+  "name": "Spring AI",
+  "author": "cpage-pivotal",
+  "description": "Integrates Spring AI components with AI models to enable natural language processing, machine learning, and data analysis within Spring-based applications.",
+  "codiconIcon": "spring",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "language",
+    "processing",
+    "spring-based",
+    "applications",
+    "components"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "625456ad-448c-4a31-b552-c555318c0156"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sv/mcp-paradex-py",
+  "githubUrl": "https://github.com/sv/mcp-paradex-py",
+  "name": "Paradex",
+  "author": "sv",
+  "description": "Integrates with the Paradex perpetual futures trading platform, enabling market data retrieval, account management, order placement, and position monitoring for cryptocurrency trading workflows.",
+  "codiconIcon": "paradex",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "monitoring",
+    "cryptocurrency",
+    "integrates",
+    "platform",
+    "position"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "a410cb03-89d8-4f88-9ef6-5d5bbefddb6b"
+}

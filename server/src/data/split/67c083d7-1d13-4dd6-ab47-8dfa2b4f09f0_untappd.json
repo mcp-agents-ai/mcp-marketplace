@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jtucker/mcp-untappd-server",
+  "githubUrl": "https://github.com/jtucker/mcp-untappd-server",
+  "name": "Untappd",
+  "author": "jtucker",
+  "description": "Integrates with the Untappd API to enable beer search, detailed information retrieval, and user check-in access for beer-related data analysis and retrieval.",
+  "codiconIcon": "untappd",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "detailed",
+    "information",
+    "check-in",
+    "beer-related",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "67c083d7-1d13-4dd6-ab47-8dfa2b4f09f0"
+}

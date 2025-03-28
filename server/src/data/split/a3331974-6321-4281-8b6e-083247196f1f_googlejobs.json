@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ChanMeng666/server-google-jobs",
+  "githubUrl": "https://github.com/ChanMeng666/server-google-jobs",
+  "name": "Google Jobs",
+  "author": "ChanMeng666",
+  "description": "Integrates with Google Jobs search via Serp API to enable efficient querying and retrieval of job listings for career guidance, labor market analysis, and automated job matching.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "google",
+    "efficient",
+    "career",
+    "guidance",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "a3331974-6321-4281-8b6e-083247196f1f"
+}

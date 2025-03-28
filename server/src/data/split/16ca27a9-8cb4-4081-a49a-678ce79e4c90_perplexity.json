@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jsonallen/perplexity-mcp",
+  "githubUrl": "https://github.com/jsonallen/perplexity-mcp",
+  "name": "Perplexity",
+  "author": "jsonallen",
+  "description": "Integrates with Perplexity AI API to enable web search capabilities for retrieving up-to-date information across domains.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "perplexity",
+    "integrates",
+    "enable",
+    "search",
+    "up-to-date"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "16ca27a9-8cb4-4081-a49a-678ce79e4c90"
+}

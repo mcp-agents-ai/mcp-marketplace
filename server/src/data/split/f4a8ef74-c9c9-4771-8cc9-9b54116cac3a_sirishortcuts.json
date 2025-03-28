@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+  "githubUrl": "https://github.com/dvcrn/mcp-server-siri-shortcuts",
+  "name": "Siri Shortcuts",
+  "author": "dvcrn",
+  "description": "Integrates with macOS Shortcuts to dynamically expose and execute user-defined automation workflows through generated tools.",
+  "codiconIcon": "siri",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automation",
+    "workflows",
+    "through",
+    "generated",
+    "tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "f4a8ef74-c9c9-4771-8cc9-9b54116cac3a"
+}

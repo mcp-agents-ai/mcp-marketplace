@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/robertheadley/chrome-debug-mcp",
+  "githubUrl": "https://github.com/robertheadley/chrome-debug-mcp",
+  "name": "Chrome Debug",
+  "author": "robertheadley",
+  "description": "Provides powerful browser control capabilities through Chrome DevTools Protocol and Puppeteer, enabling advanced web automation, scraping, and testing tasks.",
+  "codiconIcon": "chrome",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "advanced",
+    "testing",
+    "chrome",
+    "enabling",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "94fd8152-ea64-480e-9e71-fa740b681d64"
+}

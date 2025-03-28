@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/abhishekbhakat/mcp_server_code_assist",
+  "githubUrl": "https://github.com/abhishekbhakat/mcp_server_code_assist",
+  "name": "Code Assist",
+  "author": "abhishekbhakat",
+  "description": "Enables code modification and generation tasks through file operations, search-and-replace, and version control integration for automated refactoring and codebase maintenance.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "modification",
+    "search-and-replace",
+    "control",
+    "automated",
+    "code-assist"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "fe92a143-0d9f-40c0-83c3-76716a8d635c"
+}

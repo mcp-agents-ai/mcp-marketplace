@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/h4ck4life/mcp-pptx-server",
+  "githubUrl": "https://github.com/h4ck4life/mcp-pptx-server",
+  "name": "PowerPoint Manager",
+  "author": "h4ck4life",
+  "description": "Enables creation and manipulation of PowerPoint presentations with customizable layouts, themes, and formatting options, saving files to an accessible user directory without requiring manual PowerPoint interaction.",
+  "codiconIcon": "powerpoint",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "manipulation",
+    "themes",
+    "options",
+    "interaction",
+    "formatting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a24f335f-7c49-421f-bbcb-98ec40bdae3f"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/faiz-gear/dify-mcp-server-ts",
+  "githubUrl": "https://github.com/faiz-gear/dify-mcp-server-ts",
+  "name": "Dify",
+  "author": "faiz-gear",
+  "description": "Integrates Dify workflows to enable capabilities into tools for chatbots, content generation, and data analysis pipelines.",
+  "codiconIcon": "dify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "generation",
+    "analysis",
+    "dify",
+    "integrates",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "1fa8e95f-5076-4887-a107-b5243b8347d1"
+}

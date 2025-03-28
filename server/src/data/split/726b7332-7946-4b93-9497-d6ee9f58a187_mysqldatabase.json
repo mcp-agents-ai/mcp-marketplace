@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TristanLib/mcp_server_mysql_windows",
+  "githubUrl": "https://github.com/TristanLib/mcp_server_mysql_windows",
+  "name": "MySQL Database",
+  "author": "TristanLib",
+  "description": "Integrates with MySQL databases on Windows systems, providing an API for executing SQL queries and retrieving results with user authentication and error handling support.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "results",
+    "authentication",
+    "support",
+    "systems",
+    "queries"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "726b7332-7946-4b93-9497-d6ee9f58a187"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dshvadskiy/garmin_mcp",
+  "githubUrl": "https://github.com/dshvadskiy/garmin_mcp",
+  "name": "Garmin Connect",
+  "author": "dshvadskiy",
+  "description": "Integrates with the Garmin Connect API to retrieve and analyze personal fitness data, enabling detailed tracking of health metrics like sleep, steps, activities, and heart rate.",
+  "codiconIcon": "garmin",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "health",
+    "sleep",
+    "steps",
+    "activities",
+    "garmin"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "4e2494a5-62f9-4113-b8fe-0700e24e6c2a"
+}

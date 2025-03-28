@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Kush36Agrawal/Video_Editor_MCP",
+  "githubUrl": "https://github.com/Kush36Agrawal/Video_Editor_MCP",
+  "name": "Video Editor (FFMpeg)",
+  "author": "Kush36Agrawal",
+  "description": "Integrates FFmpeg for video editing operations, enabling tasks like trimming, merging, and format conversion through natural language commands.",
+  "codiconIcon": "video",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "operations",
+    "format",
+    "natural",
+    "ffmpeg"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "2668f926-5134-469a-a035-abd2c6a27e22"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/geropl/linear-mcp-go",
+  "githubUrl": "https://github.com/geropl/linear-mcp-go",
+  "name": "Linear",
+  "author": "geropl",
+  "description": "Integrates with Linear's issue tracking system, enabling creation, updating, and searching of issues, as well as managing comments and user assignments for project management tasks.",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "project",
+    "linear's",
+    "system",
+    "issues",
+    "managing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "735c231e-d3d0-4797-aa73-9bb7bc844afd"
+}

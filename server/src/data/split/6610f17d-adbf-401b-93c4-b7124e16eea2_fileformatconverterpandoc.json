@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vivekVells/mcp-pandoc",
+  "githubUrl": "https://github.com/vivekVells/mcp-pandoc",
+  "name": "File Format Converter (Pandoc)",
+  "author": "vivekVells",
+  "description": "Document format conversion using Pandoc, enabling transformation of content between PDF, HTML, Markdown, .docx, .rst, .epuc, .latex, and more.",
+  "codiconIcon": "file",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "html",
+    "epuc",
+    "file-format-converter-(pandoc)",
+    "document"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "6610f17d-adbf-401b-93c4-b7124e16eea2"
+}

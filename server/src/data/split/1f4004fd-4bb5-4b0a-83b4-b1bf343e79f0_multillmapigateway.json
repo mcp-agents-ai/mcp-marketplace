@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/freedanfan/mcp_server",
+  "githubUrl": "https://github.com/freedanfan/mcp_server",
+  "name": "Multi-LLM API Gateway",
+  "author": "freedanfan",
+  "description": "Provides a unified FastAPI server for interacting with multiple language model APIs, enabling seamless switching between OpenAI and Anthropic models without changing integration code.",
+  "codiconIcon": "multi-llm",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "fastapi",
+    "interacting",
+    "apis",
+    "without",
+    "changing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "1f4004fd-4bb5-4b0a-83b4-b1bf343e79f0"
+}

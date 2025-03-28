@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bryangsmith/MailchimpMCP",
+  "githubUrl": "https://github.com/bryangsmith/MailchimpMCP",
+  "name": "Mailchimp",
+  "author": "bryangsmith",
+  "description": "Integrates with Mailchimp's marketing platform API to enable email campaign management, creation, sending, and automation workflow control through the FastMCP framework.",
+  "codiconIcon": "mailchimp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "fastmcp",
+    "integrates",
+    "creation",
+    "control"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "f03869f5-6538-4289-925e-2404b2eadb0b"
+}

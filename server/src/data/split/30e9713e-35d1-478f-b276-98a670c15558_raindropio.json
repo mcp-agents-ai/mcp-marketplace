@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sachin-philip/raindrop.io-mcp",
+  "githubUrl": "https://github.com/sachin-philip/raindrop.io-mcp",
+  "name": "Raindrop.io",
+  "author": "sachin-philip",
+  "description": "Raindrop.io, a bookmark manager and MCP allows you to interact with Raindrop.io to add bookmarks, view recent bookmarks",
+  "codiconIcon": "raindrop.io",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/7vwkrokwj52.png",
+  "category": "tools",
+  "tags": [
+    "raindrop.io",
+    "bookmark",
+    "manager",
+    "allows",
+    "interact"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-23T19:39:36.964845+00:00",
+  "updatedAt": "2025-03-23T19:39:36.964845+00:00",
+  "hubId": "30e9713e-35d1-478f-b276-98a670c15558"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nahmanmate/postgresql-mcp-server",
+  "githubUrl": "https://github.com/nahmanmate/postgresql-mcp-server",
+  "name": "PostgreSQL Database Manager",
+  "author": "nahmanmate",
+  "description": "Integrates with PostgreSQL to provide database analysis, optimization, and troubleshooting tools for streamlined management and performance tuning.",
+  "codiconIcon": "postgresql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "troubleshooting",
+    "streamlined",
+    "management",
+    "performance",
+    "postgresql-database-manager"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "75145aee-3868-4924-805a-29841e232278"
+}

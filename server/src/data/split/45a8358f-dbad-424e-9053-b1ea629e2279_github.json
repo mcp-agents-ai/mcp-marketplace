@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Ryanpatrickwhiting/github-mcp-server",
+  "githubUrl": "https://github.com/Ryanpatrickwhiting/github-mcp-server",
+  "name": "GitHub",
+  "author": "Ryanpatrickwhiting",
+  "description": "Integrates with GitHub using Octokit to enable repository management, issue tracking, and code analysis.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "github",
+    "integrates",
+    "management",
+    "analysis",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "45a8358f-dbad-424e-9053-b1ea629e2279"
+}

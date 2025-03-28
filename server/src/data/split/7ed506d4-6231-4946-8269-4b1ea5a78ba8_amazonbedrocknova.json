@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dvejsada/mcp_media_generator",
+  "githubUrl": "https://github.com/dvejsada/mcp_media_generator",
+  "name": "Amazon Bedrock Nova",
+  "author": "dvejsada",
+  "description": "Integrates Amazon Bedrock's Nova Canvas and Nova Reel models to create AI-generated images and videos, enabling streamlined media production for developers and content creators.",
+  "codiconIcon": "amazon",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "models",
+    "create",
+    "images",
+    "enabling",
+    "amazon"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "7ed506d4-6231-4946-8269-4b1ea5a78ba8"
+}

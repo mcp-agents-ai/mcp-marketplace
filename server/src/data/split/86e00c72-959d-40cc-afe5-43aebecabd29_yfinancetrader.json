@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/luigiajah/mcp-stocks",
+  "githubUrl": "https://github.com/luigiajah/mcp-stocks",
+  "name": "YFinance Trader",
+  "author": "luigiajah",
+  "description": "Provides real-time stock market data and trading capabilities using yfinance, offering tools for quotes, company information, historical prices, symbol search, analyst recommendations, and insider transactions.",
+  "codiconIcon": "yfinance",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "yfinance-trader",
+    "provides",
+    "information",
+    "recommendations",
+    "yfinance"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "86e00c72-959d-40cc-afe5-43aebecabd29"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zhangzhongnan928/mcp-warpcast-server",
+  "githubUrl": "https://github.com/zhangzhongnan928/mcp-warpcast-server",
+  "name": "Warpcast",
+  "author": "zhangzhongnan928",
+  "description": "Integrates with Warpcast to enable posting, reading, searching, and managing interactions on the Farcaster social network for automated content curation and trend analysis.",
+  "codiconIcon": "warpcast",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reading",
+    "social",
+    "content",
+    "analysis",
+    "warpcast"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "67fa8b0e-b1fa-47d7-a90f-a1e15041f945"
+}

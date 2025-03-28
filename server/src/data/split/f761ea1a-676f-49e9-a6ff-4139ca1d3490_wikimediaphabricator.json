@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/baba786/phabricator-mcp-server",
+  "githubUrl": "https://github.com/baba786/phabricator-mcp-server",
+  "name": "Wikimedia Phabricator",
+  "author": "baba786",
+  "description": "Manage tasks and projects in Phabricator software.",
+  "codiconIcon": "wikimedia",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "wikimedia-phabricator",
+    "manage",
+    "tasks",
+    "projects",
+    "phabricator"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "f761ea1a-676f-49e9-a6ff-4139ca1d3490"
+}

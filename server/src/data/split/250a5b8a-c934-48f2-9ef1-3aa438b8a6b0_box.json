@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hmk/box-mcp-server",
+  "githubUrl": "https://github.com/hmk/box-mcp-server",
+  "name": "Box",
+  "author": "hmk",
+  "description": "Integrates with Box cloud storage to enable searching, reading, and processing of PDF and Word documents for applications like automated document analysis and content extraction.",
+  "codiconIcon": "box",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "box",
+    "processing",
+    "documents",
+    "applications",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "250a5b8a-c934-48f2-9ef1-3aa438b8a6b0"
+}

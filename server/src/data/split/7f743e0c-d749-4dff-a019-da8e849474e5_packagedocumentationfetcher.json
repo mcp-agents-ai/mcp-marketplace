@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cdugo/package-documentation-mcp",
+  "githubUrl": "https://github.com/cdugo/package-documentation-mcp",
+  "name": "Package Documentation Fetcher",
+  "author": "cdugo",
+  "description": "Integrates with multiple package registries and documentation sources to provide up-to-date library information for code assistance, dependency analysis, and learning about new libraries.",
+  "codiconIcon": "package",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "documentation",
+    "library",
+    "libraries",
+    "information",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "7f743e0c-d749-4dff-a019-da8e849474e5"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/evalstate/mcp-webcam",
+  "githubUrl": "https://github.com/evalstate/mcp-webcam",
+  "name": "Webcam/Screenshot Capture",
+  "author": "evalstate",
+  "description": "Enables capturing and analyzing live webcam images and screenshots for real-time visual context in AI applications.",
+  "codiconIcon": "webcam/screenshot",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "capturing",
+    "analyzing",
+    "screenshots",
+    "context",
+    "webcam/screenshot-capture"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "9864f24a-afa7-4cce-8f27-4283b34c6d67"
+}

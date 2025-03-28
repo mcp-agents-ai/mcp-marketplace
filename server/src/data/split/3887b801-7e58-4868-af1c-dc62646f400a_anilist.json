@@ -1,0 +1,22 @@
+{
+  "mcpId": "https://github.com/yuna0x0/anilist-mcp",
+  "githubUrl": "https://github.com/yuna0x0/anilist-mcp",
+  "name": "AniList",
+  "author": "yuna0x0",
+  "description": "AniList MCP server for accessing AniList API data",
+  "codiconIcon": "anilist",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/mc3vfr4as9e.svg",
+  "category": "tools",
+  "tags": [
+    "accessing",
+    "anilist",
+    "server"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-20T18:43:06.497204+00:00",
+  "updatedAt": "2025-03-20T18:43:06.497204+00:00",
+  "hubId": "3887b801-7e58-4868-af1c-dc62646f400a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/marissamarym/imessage-mcp-server",
+  "githubUrl": "https://github.com/marissamarym/imessage-mcp-server",
+  "name": "iMessage",
+  "author": "marissamarym",
+  "description": "Integrates with Apple's iMessage and Contacts services to enable messaging and contact management operations for automated communication workflows on Apple platforms.",
+  "codiconIcon": "imessage",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "imessage",
+    "services",
+    "enable",
+    "automated",
+    "messaging"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "6aa9f6bd-f621-40e5-bca6-f7866b2a2c19"
+}

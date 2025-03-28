@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qpd-v/mcp-wordcounter",
+  "githubUrl": "https://github.com/qpd-v/mcp-wordcounter",
+  "name": "Word Counter",
+  "author": "qpd-v",
+  "description": "Analyze text documents, including counting words and characters, through Node.js.",
+  "codiconIcon": "word",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "characters",
+    "through",
+    "node.js",
+    "word-counter",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "fe2dcb5c-fe73-4341-8275-02e7a08c54bf"
+}

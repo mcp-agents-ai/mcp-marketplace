@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/oxylabs/oxylabs-mcp",
+  "githubUrl": "https://github.com/oxylabs/oxylabs-mcp",
+  "name": "Oxylabs Scraper",
+  "author": "oxylabs",
+  "description": "Advanced web scraping tool using Oxylabs Web Scraper API, supporting JavaScript rendering, HTML parsing, and content transformation with flexible parsing options.",
+  "codiconIcon": "globe",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/oxylabs-scraper.png",
+  "category": "search",
+  "tags": [
+    "web-scraping",
+    "content-extraction",
+    "javascript-rendering",
+    "html-parsing",
+    "data-collection"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 6,
+  "downloadCount": 91,
+  "createdAt": "2025-02-18T06:08:21.891007Z",
+  "updatedAt": "2025-02-18T06:08:21.891007Z",
+  "hubId": "873277b0-f436-4178-acaf-a7aa07de9ca3"
+}

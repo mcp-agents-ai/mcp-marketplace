@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/leftspin/mcp-xcode-diagnostics",
+  "githubUrl": "https://github.com/leftspin/mcp-xcode-diagnostics",
+  "name": "Xcode Diagnostics",
+  "author": "leftspin",
+  "description": "Extracts and parses Xcode build errors and warnings from DerivedData logs, providing structured diagnostic information with file paths, line numbers, error messages, and fix-it suggestions for Swift projects.",
+  "codiconIcon": "xcode",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "xcode",
+    "errors",
+    "providing",
+    "diagnostic",
+    "suggestions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "b7a41db6-2221-467b-b893-c095409e2dbd"
+}

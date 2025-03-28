@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/setkyar/youtube-subtitles-mcp",
+  "githubUrl": "https://github.com/setkyar/youtube-subtitles-mcp",
+  "name": "YouTube Subtitles",
+  "author": "setkyar",
+  "description": "Integrates with YouTube to enable subtitle retrieval and analysis for content summarization, translation, or accessibility enhancement.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "youtube-subtitles",
+    "integrates",
+    "enable",
+    "retrieval",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "91f90a27-de73-4b04-8108-7418b55c9155"
+}

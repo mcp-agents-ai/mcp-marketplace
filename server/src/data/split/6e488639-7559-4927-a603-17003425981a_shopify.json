@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/siddhantbajaj/shopify-mcp-server",
+  "githubUrl": "https://github.com/siddhantbajaj/shopify-mcp-server",
+  "name": "Shopify",
+  "author": "siddhantbajaj",
+  "description": "Integrates with Shopify to provide tools for retrieving product and customer data, enabling e-commerce analytics and automation without API complexities.",
+  "codiconIcon": "shopify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "data",
+    "enabling",
+    "e-commerce",
+    "analytics",
+    "without"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "6e488639-7559-4927-a603-17003425981a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yonaka15/mcp-pyodide",
+  "githubUrl": "https://github.com/yonaka15/mcp-pyodide",
+  "name": "Pyodide Integration",
+  "author": "yonaka15",
+  "description": "Integrates Pyodide to enable Python execution in JavaScript environments.",
+  "codiconIcon": "pyodide",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "python",
+    "execution",
+    "javascript",
+    "environments",
+    "pyodide-integration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "526d535f-4a71-429e-a8cc-e731c904a7de"
+}

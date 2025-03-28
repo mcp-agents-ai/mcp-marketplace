@@ -1,0 +1,23 @@
+{
+  "mcpId": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-word",
+  "githubUrl": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-word",
+  "name": "Microsoft Word",
+  "author": "microsoft",
+  "description": "Interact with Microsoft Word.",
+  "codiconIcon": "microsoft",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "microsoft",
+    "word",
+    "microsoft-word",
+    "interact"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "3214d39d-df6c-4962-b77e-0f7535168a8a"
+}

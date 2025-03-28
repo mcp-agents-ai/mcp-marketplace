@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/slack",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/slack",
+  "name": "Slack",
+  "author": "modelcontextprotocol",
+  "description": "Send messages, manage channels, and access workspace history.",
+  "codiconIcon": "slack",
+  "logoUrl": "",
+  "category": "communication",
+  "tags": [
+    "channels",
+    "access",
+    "workspace",
+    "history",
+    "slack"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "e75ccb10-c89b-4a6d-8ad5-0742f82b3a91"
+}

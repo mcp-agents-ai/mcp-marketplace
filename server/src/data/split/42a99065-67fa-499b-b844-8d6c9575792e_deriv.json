@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/raju-deriv/mcp-deriv-api-server",
+  "githubUrl": "https://github.com/raju-deriv/mcp-deriv-api-server",
+  "name": "Deriv",
+  "author": "raju-deriv",
+  "description": "Integrates with Deriv API to enable trading operations like retrieving symbols and balances for automated trading systems and market analysis tools.",
+  "codiconIcon": "deriv",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "operations",
+    "retrieving",
+    "balances",
+    "automated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "42a99065-67fa-499b-b844-8d6c9575792e"
+}

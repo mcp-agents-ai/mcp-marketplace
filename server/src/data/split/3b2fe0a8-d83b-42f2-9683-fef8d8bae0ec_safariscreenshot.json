@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rogerheykoop/mcp-safari-screenshot",
+  "githubUrl": "https://github.com/rogerheykoop/mcp-safari-screenshot",
+  "name": "Safari Screenshot",
+  "author": "rogerheykoop",
+  "description": "Integrates with Safari on macOS to capture web page screenshots, enabling automated visual testing and web archiving workflows.",
+  "codiconIcon": "safari",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "safari-screenshot",
+    "screenshots",
+    "enabling",
+    "automated",
+    "visual"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "3b2fe0a8-d83b-42f2-9683-fef8d8bae0ec"
+}

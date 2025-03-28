@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/andybrandt/mcp-simple-arxiv",
+  "githubUrl": "https://github.com/andybrandt/mcp-simple-arxiv",
+  "name": "arXiv Research",
+  "author": "andybrandt",
+  "description": "Search and analyze scientific papers from arXiv.",
+  "codiconIcon": "arxiv",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "papers",
+    "arxiv",
+    "arxiv-research",
+    "search",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "decbe259-8b2b-4157-aa11-ec0c33109266"
+}

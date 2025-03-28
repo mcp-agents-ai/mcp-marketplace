@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ahonn/mcp-server-gsc",
+  "githubUrl": "https://github.com/ahonn/mcp-server-gsc",
+  "name": "Google Search Console",
+  "author": "ahonn",
+  "description": "Analyze SEO metrics and search performance data.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "google-search-console",
+    "analyze",
+    "metrics",
+    "search",
+    "performance"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "08b47388-a6eb-4bd0-8188-0efbf41ca722"
+}

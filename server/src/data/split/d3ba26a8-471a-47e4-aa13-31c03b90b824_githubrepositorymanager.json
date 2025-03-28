@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PoliTwit1984/github-meta-mcp-server",
+  "githubUrl": "https://github.com/PoliTwit1984/github-meta-mcp-server",
+  "name": "GitHub Repository Manager",
+  "author": "PoliTwit1984",
+  "description": "Integrates with GitHub's API to automate repository management through natural language commands for creating, updating, and configuring repositories.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "automate",
+    "repository",
+    "management",
+    "natural",
+    "language"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "d3ba26a8-471a-47e4-aa13-31c03b90b824"
+}

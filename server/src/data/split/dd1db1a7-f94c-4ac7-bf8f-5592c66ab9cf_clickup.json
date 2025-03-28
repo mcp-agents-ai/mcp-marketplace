@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TaazKareem/clickup-mcp-server",
+  "githubUrl": "https://github.com/TaazKareem/clickup-mcp-server",
+  "name": "ClickUp",
+  "author": "TaazKareem",
+  "description": "Integrates ClickUp task management with AI systems to enable automated task creation, updates, and retrieval for enhanced project workflow efficiency.",
+  "codiconIcon": "clickup",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automated",
+    "creation",
+    "retrieval",
+    "project",
+    "clickup"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "dd1db1a7-f94c-4ac7-bf8f-5592c66ab9cf"
+}

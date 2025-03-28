@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mikeyny/ai-image-gen-mcp",
+  "githubUrl": "https://github.com/mikeyny/ai-image-gen-mcp",
+  "name": "Image Generation (Flux-Schnell)",
+  "author": "mikeyny",
+  "description": "Enables text-to-image generation using Replicate's flux-schnell model, offering configurable parameters for on-demand image creation in various applications.",
+  "codiconIcon": "image",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "model",
+    "various",
+    "image-generation-(flux-schnell)",
+    "generation",
+    "on-demand"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "183b0042-66e7-44ea-9968-b29d11ce5615"
+}

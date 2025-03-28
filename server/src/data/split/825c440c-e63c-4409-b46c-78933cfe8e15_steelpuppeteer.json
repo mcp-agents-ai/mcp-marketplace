@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rdvo/mcp-server",
+  "githubUrl": "https://github.com/rdvo/mcp-server",
+  "name": "Steel Puppeteer",
+  "author": "rdvo",
+  "description": "Integrates AI with web browsers through Puppeteer and Steel's automation platform, enabling complex web tasks, data scraping, and workflow automation.",
+  "codiconIcon": "steel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tasks",
+    "steel-puppeteer",
+    "browsers",
+    "through",
+    "puppeteer"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "825c440c-e63c-4409-b46c-78933cfe8e15"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kludge-works/mcp-server-rdf",
+  "githubUrl": "https://github.com/kludge-works/mcp-server-rdf",
+  "name": "SPARQL",
+  "author": "kludge-works",
+  "description": "Integrates with SPARQL servers to enable querying and manipulation of RDF data sources, facilitating semantic web integration for knowledge graph exploration and linked data analysis.",
+  "codiconIcon": "sparql",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "manipulation",
+    "facilitating",
+    "integration",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "795fd932-2e3e-4107-a68f-141ac6cbdfdd"
+}

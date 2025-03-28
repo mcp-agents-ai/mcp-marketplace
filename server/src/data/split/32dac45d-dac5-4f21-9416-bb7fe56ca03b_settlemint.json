@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://console.settlemint.com/documentation/building-with-settlemint/dev-tools/mcp",
+  "githubUrl": "https://console.settlemint.com/documentation/building-with-settlemint/dev-tools/mcp",
+  "name": "SettleMint",
+  "author": "",
+  "description": "Leverage SettleMint's Model Context Protocol server to seamlessly interact with enterprise blockchain infrastructure. Build, deploy, and manage smart contracts through AI-powered assistants, streamlining your blockchain development workflow for maximum efficiency.",
+  "codiconIcon": "settlemint",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/xe5bsqudct.jpg",
+  "category": "tools",
+  "tags": [
+    "settlemint",
+    "leverage",
+    "interact",
+    "enterprise",
+    "blockchain"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-15T08:00:32.941913+00:00",
+  "updatedAt": "2025-03-15T08:00:32.941913+00:00",
+  "hubId": "32dac45d-dac5-4f21-9416-bb7fe56ca03b"
+}

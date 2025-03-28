@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cyanheads/atlas-mcp-server",
+  "githubUrl": "https://github.com/cyanheads/atlas-mcp-server",
+  "name": "ATLAS",
+  "author": "cyanheads",
+  "description": "ATLAS enables AI assistants to manage complex projects by breaking them down into hierarchical tasks with rich content support.",
+  "codiconIcon": "atlas",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "support",
+    "atlas",
+    "enables",
+    "manage",
+    "breaking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "a98d6da4-ca1e-478b-87b0-623a7d7e856f"
+}

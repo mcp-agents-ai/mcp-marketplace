@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ahmad2x4/mcp-server-seq",
+  "githubUrl": "https://github.com/ahmad2x4/mcp-server-seq",
+  "name": "Seq",
+  "author": "ahmad2x4",
+  "description": "Integrates with Seq's API for retrieving signals, events, and alert states, enabling real-time insights into application logs and system performance metrics.",
+  "codiconIcon": "seq",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieving",
+    "signals",
+    "events",
+    "enabling",
+    "insights"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "11354b88-562b-4303-9aee-bfc7a34f8a09"
+}

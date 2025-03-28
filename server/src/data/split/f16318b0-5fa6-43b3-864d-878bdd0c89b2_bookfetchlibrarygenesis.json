@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kinshukk/book-fetch-mcp",
+  "githubUrl": "https://github.com/kinshukk/book-fetch-mcp",
+  "name": "Book Fetch (Library Genesis)",
+  "author": "kinshukk",
+  "description": "Retrieves and processes published books from Library Genesis, delivering text content in manageable chunks with proper metadata for in-depth analysis and research.",
+  "codiconIcon": "book",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "processes",
+    "library",
+    "genesis",
+    "retrieves",
+    "published"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "f16318b0-5fa6-43b3-864d-878bdd0c89b2"
+}

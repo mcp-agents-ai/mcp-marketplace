@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mcprouter/exa-ai-mcp-server",
+  "githubUrl": "https://github.com/mcprouter/exa-ai-mcp-server",
+  "name": "Exa Search",
+  "author": "mcprouter",
+  "description": "Integrates with Exa's API to enable web searches for AI models, enhancing tasks like research, fact-checking, and content generation with current data.",
+  "codiconIcon": "exa",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "research",
+    "content",
+    "generation",
+    "exa-search",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "725754dd-3135-4da6-9a11-0d9c01601c21"
+}

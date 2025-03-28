@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zueai/cloudflare-api-mcp",
+  "githubUrl": "https://github.com/zueai/cloudflare-api-mcp",
+  "name": "Cloudflare API",
+  "author": "zueai",
+  "description": "Integrates with Cloudflare's API to enable management of DNS, SSL/TLS, firewall rules, load balancing, and other cloud infrastructure services across multiple domains.",
+  "codiconIcon": "cloudflare",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "other",
+    "cloudflare's",
+    "enable",
+    "management",
+    "ssl/tls"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "55ec3883-e3aa-42c0-8125-fc85a27b13d5"
+}

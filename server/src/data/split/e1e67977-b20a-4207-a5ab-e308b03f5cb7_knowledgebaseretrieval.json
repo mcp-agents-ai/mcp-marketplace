@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jeanibarz/knowledge-base-mcp-server",
+  "githubUrl": "https://github.com/jeanibarz/knowledge-base-mcp-server",
+  "name": "Knowledge Base Retrieval",
+  "author": "jeanibarz",
+  "description": "Integrates with knowledge bases to enable efficient content retrieval and vectorization for question answering and information retrieval tasks",
+  "codiconIcon": "knowledge",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "information",
+    "knowledge-base-retrieval",
+    "integrates",
+    "retrieval",
+    "question"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "e1e67977-b20a-4207-a5ab-e308b03f5cb7"
+}

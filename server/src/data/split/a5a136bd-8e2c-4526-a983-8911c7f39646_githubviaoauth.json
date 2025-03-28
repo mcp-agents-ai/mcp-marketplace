@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Nikhil-Patil-RI/MCP-Github-Oauth",
+  "githubUrl": "https://github.com/Nikhil-Patil-RI/MCP-Github-Oauth",
+  "name": "GitHub (via OAuth)",
+  "author": "Nikhil-Patil-RI",
+  "description": "Integrates with GitHub's OAuth system to enable secure access and management of repositories, issues, and code for automated development workflows and analysis.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "development",
+    "github-(via-oauth)",
+    "oauth",
+    "system",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "a5a136bd-8e2c-4526-a983-8911c7f39646"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JoeBuildsStuff/mcp-jina-ai",
+  "githubUrl": "https://github.com/JoeBuildsStuff/mcp-jina-ai",
+  "name": "Jina AI",
+  "author": "JoeBuildsStuff",
+  "description": "Integrates with Jina AI's web services to enable web content extraction, search, and fact-checking through natural language interactions.",
+  "codiconIcon": "jina",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "extraction",
+    "language",
+    "interactions",
+    "jina-ai",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "cbbf4643-775b-49bd-b420-dfc2d7a0cee3"
+}

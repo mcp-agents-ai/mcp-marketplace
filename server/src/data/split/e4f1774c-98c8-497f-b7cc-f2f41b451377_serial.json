@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mcp2everything/mcp2serial",
+  "githubUrl": "https://github.com/mcp2everything/mcp2serial",
+  "name": "Serial",
+  "author": "mcp2everything",
+  "description": "Bridges with physical hardware devices (e.g. Raspberry Pi) via serial communication, enabling real-world control and interaction for IoT and robotics applications.",
+  "codiconIcon": "serial",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "interaction",
+    "applications",
+    "serial",
+    "bridges",
+    "physical"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "e4f1774c-98c8-497f-b7cc-f2f41b451377"
+}

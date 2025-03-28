@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Claw256/mcp-web-search",
+  "githubUrl": "https://github.com/Claw256/mcp-web-search",
+  "name": "Google Search",
+  "author": "Claw256",
+  "description": "Integrates Google Search capabilities with web content extraction and screenshot functionality, enabling robust search, filtering, and data collection while avoiding bot detection.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "google-search",
+    "capabilities",
+    "content",
+    "robust",
+    "detection"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "012e79a3-25af-46a6-be71-2b0c2db66d4b"
+}

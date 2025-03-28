@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fluxinc/dicom-mcp-server",
+  "githubUrl": "https://github.com/fluxinc/dicom-mcp-server",
+  "name": "DICOM Connectivity",
+  "author": "fluxinc",
+  "description": "Integrates with DICOM systems to provide connectivity testing and diagnostics for medical imaging workflows, enabling node listing, C-ECHO operations, and configuration management.",
+  "codiconIcon": "dicom",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dicom",
+    "imaging",
+    "enabling",
+    "listing",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "2153be80-a2a1-498f-bdca-5f7447f9ddc5"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gotoolkits/mcp-wecombot-server",
+  "githubUrl": "https://github.com/gotoolkits/mcp-wecombot-server",
+  "name": "WeCom",
+  "author": "gotoolkits",
+  "description": "Integrates WeCom group messaging, enabling automated sending of diverse message types and file uploads for streamlined team communication and notifications.",
+  "codiconIcon": "wecom",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "automated",
+    "sending",
+    "diverse",
+    "message"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "b974c688-e493-4ae9-b524-5b230f89e101"
+}

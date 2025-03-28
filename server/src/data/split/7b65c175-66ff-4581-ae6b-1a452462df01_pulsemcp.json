@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/orliesaurus/pulsemcp-server",
+  "githubUrl": "https://github.com/orliesaurus/pulsemcp-server",
+  "name": "PulseMCP",
+  "author": "orliesaurus",
+  "description": "Integrates with PulseMCP to enable querying and retrieval of MCP server and integration data for ecosystem analysis and service recommendations.",
+  "codiconIcon": "pulsemcp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "service",
+    "pulsemcp",
+    "integrates",
+    "integration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "7b65c175-66ff-4581-ae6b-1a452462df01"
+}

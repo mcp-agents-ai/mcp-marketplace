@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Toowiredd/chatgpt-mcp-server",
+  "githubUrl": "https://github.com/Toowiredd/chatgpt-mcp-server",
+  "name": "Docker Manager",
+  "author": "Toowiredd",
+  "description": "Enables natural language-driven Docker container management, including operations, log monitoring, and command execution.",
+  "codiconIcon": "docker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "docker-manager",
+    "enables",
+    "natural",
+    "language-driven",
+    "docker"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "bf52fb90-cb73-43ce-b59b-de0b0c1afaf5"
+}

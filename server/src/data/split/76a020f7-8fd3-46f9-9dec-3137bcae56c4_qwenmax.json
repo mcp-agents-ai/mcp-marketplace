@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/66julienmartin/MCP-server-Qwen_Max",
+  "githubUrl": "https://github.com/66julienmartin/MCP-server-Qwen_Max",
+  "name": "Qwen Max",
+  "author": "66julienmartin",
+  "description": "Integrates with Qwen Max large language model via Dashscope API for text generation and analysis tasks in applications.",
+  "codiconIcon": "qwen",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "language",
+    "dashscope",
+    "generation",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "76a020f7-8fd3-46f9-9dec-3137bcae56c4"
+}

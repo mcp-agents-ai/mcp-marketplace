@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/stinkgen/trino_mcp",
+  "githubUrl": "https://github.com/stinkgen/trino_mcp",
+  "name": "Trino",
+  "author": "stinkgen",
+  "description": "Integrates with Trino databases to enable natural language querying, data analysis, and SQL execution via a FastAPI-based REST interface.",
+  "codiconIcon": "trino",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "trino",
+    "integrates",
+    "databases",
+    "natural",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "afd10f01-b699-4683-aee0-0e11ee7e97fc"
+}

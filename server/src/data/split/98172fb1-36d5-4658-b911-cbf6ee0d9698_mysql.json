@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wllcnm/mcp-mysql",
+  "githubUrl": "https://github.com/wllcnm/mcp-mysql",
+  "name": "MySQL",
+  "author": "wllcnm",
+  "description": "Integrates with MySQL databases using Python and Docker to enable structured data storage, querying, and manipulation.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "structured",
+    "querying",
+    "integrates",
+    "using",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "98172fb1-36d5-4658-b911-cbf6ee0d9698"
+}

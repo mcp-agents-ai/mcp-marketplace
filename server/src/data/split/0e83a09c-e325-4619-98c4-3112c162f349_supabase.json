@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DynamicEndpoints/supabase-mcp",
+  "githubUrl": "https://github.com/DynamicEndpoints/supabase-mcp",
+  "name": "Supabase",
+  "author": "DynamicEndpoints",
+  "description": "Integrates with Supabase to enable database operations, file storage, and user authentication for scalable, real-time applications.",
+  "codiconIcon": "supabase",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "storage",
+    "authentication",
+    "scalable",
+    "supabase",
+    "database"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "0e83a09c-e325-4619-98c4-3112c162f349"
+}

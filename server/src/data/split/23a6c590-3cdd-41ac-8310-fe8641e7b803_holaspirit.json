@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/syucream/holaspirit-mcp-server",
+  "githubUrl": "https://github.com/syucream/holaspirit-mcp-server",
+  "name": "Holaspirit",
+  "author": "syucream",
+  "description": "Integrates with Holaspirit's API to provide access to organizational data for tasks like structure analysis, role management, and policy review.",
+  "codiconIcon": "holaspirit",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "holaspirit's",
+    "provide",
+    "access",
+    "structure"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "23a6c590-3cdd-41ac-8310-fe8641e7b803"
+}

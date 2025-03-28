@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/twolven/mcp-optionsflow",
+  "githubUrl": "https://github.com/twolven/mcp-optionsflow",
+  "name": "OptionsFlow (Yahoo Finance)",
+  "author": "twolven",
+  "description": "Integrates with Yahoo Finance to provide options analysis and strategy evaluation tools for risk assessment and portfolio management.",
+  "codiconIcon": "optionsflow",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "evaluation",
+    "tools",
+    "assessment",
+    "integrates",
+    "finance"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "fb9a7b45-cc58-406c-9512-5d5195cc8d7d"
+}

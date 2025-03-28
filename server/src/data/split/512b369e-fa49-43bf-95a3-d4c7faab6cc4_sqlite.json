@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/sqlite",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite",
+  "name": "SQLite",
+  "author": "modelcontextprotocol",
+  "description": "Provides database interaction and business intelligence capabilities through SQLite, enabling SQL queries, data analysis, and automated business insight generation.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/sqlite.png",
+  "category": "databases",
+  "tags": [
+    "sql",
+    "data-analysis",
+    "business-intelligence",
+    "database-management",
+    "sqlite"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24373,
+  "downloadCount": 3715,
+  "createdAt": "2025-02-18T05:45:28.005191Z",
+  "updatedAt": "2025-02-18T05:45:28.005191Z",
+  "hubId": "512b369e-fa49-43bf-95a3-d4c7faab6cc4"
+}

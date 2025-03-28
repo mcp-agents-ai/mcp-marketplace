@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/glassBead-tc/audius-mcp-atris",
+  "githubUrl": "https://github.com/glassBead-tc/audius-mcp-atris",
+  "name": "Audius",
+  "author": "glassBead-tc",
+  "description": "Integrates with Audius music platform API, enabling user searches, track streaming, and playlist management for music discovery and artist analytics.",
+  "codiconIcon": "audius",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "discovery",
+    "artist",
+    "integrates",
+    "music"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "d1650bb0-a8cb-4f7b-ba61-c489a748daec"
+}

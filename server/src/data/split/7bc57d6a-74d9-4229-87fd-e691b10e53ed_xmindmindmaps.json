@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/apeyroux/mcp-xmind",
+  "githubUrl": "https://github.com/apeyroux/mcp-xmind",
+  "name": "XMind Mind Maps",
+  "author": "apeyroux",
+  "description": "Analyze Xmind mind maps on your local machine using fuzzy search and hierarchical navigation.",
+  "codiconIcon": "xmind",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "fuzzy",
+    "search",
+    "hierarchical",
+    "navigation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "7bc57d6a-74d9-4229-87fd-e691b10e53ed"
+}

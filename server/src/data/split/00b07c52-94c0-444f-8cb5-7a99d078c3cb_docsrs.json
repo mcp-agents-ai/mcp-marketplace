@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spacemeowx2/cargo-doc-mcp",
+  "githubUrl": "https://github.com/spacemeowx2/cargo-doc-mcp",
+  "name": "Docs.rs",
+  "author": "spacemeowx2",
+  "description": "Streamlines Rust documentation workflows by providing tools for building, managing, and searching crate documentation through cargo doc commands with caching and error handling.",
+  "codiconIcon": "docs.rs",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "streamlines",
+    "searching",
+    "cargo",
+    "workflows",
+    "providing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "00b07c52-94c0-444f-8cb5-7a99d078c3cb"
+}

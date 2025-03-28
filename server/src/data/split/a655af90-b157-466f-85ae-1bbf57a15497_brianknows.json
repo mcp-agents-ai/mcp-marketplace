@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/antoncoding/mcp-brianknows",
+  "githubUrl": "https://github.com/antoncoding/mcp-brianknows",
+  "name": "BrianKnows",
+  "author": "antoncoding",
+  "description": "Integrates with the BrianKnows knowledge base API to enable searches and information retrieval from specialized domain-specific databases.",
+  "codiconIcon": "brianknows",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "searches",
+    "information",
+    "specialized",
+    "domain-specific",
+    "databases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "a655af90-b157-466f-85ae-1bbf57a15497"
+}

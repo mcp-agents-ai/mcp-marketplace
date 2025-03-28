@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kioyong/mysql-mcp-server-java",
+  "githubUrl": "https://github.com/kioyong/mysql-mcp-server-java",
+  "name": "MySQL",
+  "author": "kioyong",
+  "description": "Integrates with MySQL databases, enabling SELECT queries, table listings, and schema retrieval for data analysis and dynamic database interactions.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "schema",
+    "retrieval",
+    "databases",
+    "queries",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "9979a9fd-0bc4-4bbd-8b71-8836f975e060"
+}

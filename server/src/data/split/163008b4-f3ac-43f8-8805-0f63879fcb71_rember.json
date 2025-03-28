@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rember/rember-mcp",
+  "githubUrl": "https://github.com/rember/rember-mcp",
+  "name": "Rember",
+  "author": "rember",
+  "description": "Create flashcards and study/remember anything you care about with spaced repetition reviews on Rember.",
+  "codiconIcon": "rember",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "spaced",
+    "repetition",
+    "rember",
+    "create",
+    "anything"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "163008b4-f3ac-43f8-8805-0f63879fcb71"
+}

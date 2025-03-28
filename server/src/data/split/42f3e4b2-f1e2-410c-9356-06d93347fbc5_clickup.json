@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mikah13/mcp-clickup",
+  "githubUrl": "https://github.com/mikah13/mcp-clickup",
+  "name": "ClickUp",
+  "author": "mikah13",
+  "description": "Integrates with ClickUp's API to enable task management, team collaboration, and workflow automation for AI-driven project management and reporting.",
+  "codiconIcon": "clickup",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "clickup's",
+    "enable",
+    "collaboration",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "42f3e4b2-f1e2-410c-9356-06d93347fbc5"
+}

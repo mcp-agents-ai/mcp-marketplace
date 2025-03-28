@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sergey-fintech/MCP",
+  "githubUrl": "https://github.com/sergey-fintech/MCP",
+  "name": "File Finder",
+  "author": "sergey-fintech",
+  "description": "Provides efficient file search and retrieval capabilities within a networked environment using TypeScript and Node.js, offering both standard and HTTP-based execution modes.",
+  "codiconIcon": "file",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "file-finder",
+    "within",
+    "environment",
+    "using",
+    "offering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "0f1ea791-60b6-4278-8f20-4dc5702f9e74"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/eniayomi/gcp-mcp",
+  "githubUrl": "https://github.com/eniayomi/gcp-mcp",
+  "name": "GCP",
+  "author": "eniayomi",
+  "description": "A Model Context Protocol (MCP) server that enables AI assistants like Claude to interact with your Google Cloud Platform environment. This allows for natural language querying and management of your GCP resources during conversations.",
+  "codiconIcon": "gcp",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/ancluhehsyn.webp",
+  "category": "productivity",
+  "tags": [
+    "during",
+    "conversations",
+    "gcp",
+    "platform",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T12:24:22.941718+00:00",
+  "updatedAt": "2025-03-14T12:24:22.941718+00:00",
+  "hubId": "4b1fad32-5afd-4fbe-848d-73b7cba9b08d"
+}

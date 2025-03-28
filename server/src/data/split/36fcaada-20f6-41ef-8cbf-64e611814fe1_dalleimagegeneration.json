@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/prasanthmj/primitive-go-mcp-server",
+  "githubUrl": "https://github.com/prasanthmj/primitive-go-mcp-server",
+  "name": "DALL-E Image Generation",
+  "author": "prasanthmj",
+  "description": "Integrates with OpenAI's DALL-E API to generate and save images from text descriptions.",
+  "codiconIcon": "dall-e",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dall-e-image-generation",
+    "integrates",
+    "openai's",
+    "dall-e",
+    "generate"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "36fcaada-20f6-41ef-8cbf-64e611814fe1"
+}

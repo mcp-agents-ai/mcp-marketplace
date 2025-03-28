@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/e2b-dev/mcp-server/tree/HEAD/packages/python",
+  "githubUrl": "https://github.com/e2b-dev/mcp-server/tree/HEAD/packages/python",
+  "name": "E2B (Python)",
+  "author": "e2b-dev",
+  "description": "Execute code securely in cloud sandboxes.",
+  "codiconIcon": "e2b",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "e2b-(python)",
+    "execute",
+    "securely",
+    "cloud",
+    "sandboxes"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "78644957-2dc4-4fa1-bc8b-14c8ee28fa68"
+}

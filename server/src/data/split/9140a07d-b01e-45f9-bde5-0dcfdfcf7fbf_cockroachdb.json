@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dhartunian/cockroachdb-mcp-server",
+  "githubUrl": "https://github.com/dhartunian/cockroachdb-mcp-server",
+  "name": "CockroachDB",
+  "author": "dhartunian",
+  "description": "Integrates with CockroachDB to expose database schemas, execute SQL queries, and access cluster metadata for database exploration, query optimization, and cluster management tasks.",
+  "codiconIcon": "cockroachdb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "cockroachdb",
+    "schemas",
+    "execute",
+    "access",
+    "cluster"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "9140a07d-b01e-45f9-bde5-0dcfdfcf7fbf"
+}

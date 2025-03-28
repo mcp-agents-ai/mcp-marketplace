@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sparfenyuk/mcp-telegram",
+  "githubUrl": "https://github.com/sparfenyuk/mcp-telegram",
+  "name": "Telegram",
+  "author": "sparfenyuk",
+  "description": "Integrates with Telegram via MTProto protocol to enable listing dialogs and messages for automated analysis and chatbot functionality.",
+  "codiconIcon": "telegram",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "listing",
+    "automated",
+    "analysis",
+    "dialogs",
+    "messages"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "a6fc56de-f8cd-4f70-ba10-0733dca2058b"
+}

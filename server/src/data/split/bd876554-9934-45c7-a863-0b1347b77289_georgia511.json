@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cpbrad31/mcp_ga_511",
+  "githubUrl": "https://github.com/cpbrad31/mcp_ga_511",
+  "name": "Georgia 511",
+  "author": "cpbrad31",
+  "description": "Integrates with Georgia's 511 service to provide real-time traffic data, including information on cameras, signs, events, and road conditions for various applications and analyses.",
+  "codiconIcon": "georgia",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "service",
+    "real-time",
+    "data",
+    "information",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "bd876554-9934-45c7-a863-0b1347b77289"
+}

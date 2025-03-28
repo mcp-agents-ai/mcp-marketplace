@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tumf/mcp-text-editor",
+  "githubUrl": "https://github.com/tumf/mcp-text-editor",
+  "name": "Text Editor",
+  "author": "tumf",
+  "description": "Perform efficient line-oriented operations on text files.",
+  "codiconIcon": "text",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "text-editor",
+    "perform",
+    "efficient",
+    "line-oriented",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "c6d40759-1bde-4765-bf87-d86ab5c002c5"
+}

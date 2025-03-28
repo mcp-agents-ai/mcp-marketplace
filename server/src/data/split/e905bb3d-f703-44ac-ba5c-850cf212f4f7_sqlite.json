@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fishcode2025/mcp-sqlite",
+  "githubUrl": "https://github.com/fishcode2025/mcp-sqlite",
+  "name": "SQLite",
+  "author": "fishcode2025",
+  "description": "Provides a SQLite-based database backend for efficient data storage and retrieval, leveraging Rust and integrating with mcp-core and mcp-server libraries for embedded systems, desktop applications, or small-scale server deployments.",
+  "codiconIcon": "sqlite",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "mcp-core",
+    "embedded",
+    "provides",
+    "sqlite-based",
+    "backend"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "e905bb3d-f703-44ac-ba5c-850cf212f4f7"
+}

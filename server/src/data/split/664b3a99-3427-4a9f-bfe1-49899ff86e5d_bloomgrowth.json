@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/franccesco/bloomy-mcp",
+  "githubUrl": "https://github.com/franccesco/bloomy-mcp",
+  "name": "Bloom Growth",
+  "author": "franccesco",
+  "description": "Integrates with Bloom Growth's GraphQL API to enable interaction with growth management and analytics tools for AI-assisted workflows.",
+  "codiconIcon": "bloom",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bloom-growth",
+    "integrates",
+    "growth's",
+    "enable",
+    "interaction"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "664b3a99-3427-4a9f-bfe1-49899ff86e5d"
+}

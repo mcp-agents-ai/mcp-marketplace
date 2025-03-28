@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ilask/Redmine-MCP",
+  "githubUrl": "https://github.com/ilask/Redmine-MCP",
+  "name": "Redmine",
+  "author": "ilask",
+  "description": "Integrates with Redmine to enable project management tasks like accessing project details and creating issues through a custom API built on the node-redmine library.",
+  "codiconIcon": "redmine",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "redmine",
+    "creating",
+    "node-redmine",
+    "enable",
+    "project"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a1115048-7b7c-45c4-b72e-3ec5c0531da3"
+}

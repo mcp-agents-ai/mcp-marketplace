@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/robdodson/ollama-mcp-db",
+  "githubUrl": "https://github.com/robdodson/ollama-mcp-db",
+  "name": "Ollama PostgreSQL Data Analysis",
+  "author": "robdodson",
+  "description": "Integrates natural language querying with PostgreSQL databases to enable AI-interpreted data analysis without manual SQL writing.",
+  "codiconIcon": "ollama",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "integrates",
+    "postgresql",
+    "enable",
+    "ai-interpreted",
+    "without"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "6de609c9-92bc-4554-b641-78ff20f0158f"
+}

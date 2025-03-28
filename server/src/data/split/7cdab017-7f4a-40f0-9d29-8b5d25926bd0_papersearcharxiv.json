@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Lincest/mcp-papersearch",
+  "githubUrl": "https://github.com/Lincest/mcp-papersearch",
+  "name": "PaperSearch (arXiv)",
+  "author": "Lincest",
+  "description": "Integrates with arXiv to enable keyword searches, paper retrieval, and tracking of recent submissions across scientific categories.",
+  "codiconIcon": "papersearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tracking",
+    "recent",
+    "across",
+    "papersearch-(arxiv)",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "7cdab017-7f4a-40f0-9d29-8b5d25926bd0"
+}

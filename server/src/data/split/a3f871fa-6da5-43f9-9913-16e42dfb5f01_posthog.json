@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PostHog/posthog-mcp",
+  "githubUrl": "https://github.com/PostHog/posthog-mcp",
+  "name": "PostHog",
+  "author": "PostHog",
+  "description": "Integrates with the PostHog analytics platform to list projects and create timestamped annotations for tracking significant events and milestones in analytics data.",
+  "codiconIcon": "posthog",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "data",
+    "posthog",
+    "integrates",
+    "analytics",
+    "platform"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "a3f871fa-6da5-43f9-9913-16e42dfb5f01"
+}

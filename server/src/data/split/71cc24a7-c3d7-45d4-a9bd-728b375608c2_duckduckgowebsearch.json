@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/okdshin/duckduckgo_web_search_mcp_server",
+  "githubUrl": "https://github.com/okdshin/duckduckgo_web_search_mcp_server",
+  "name": "DuckDuckGo Web Search",
+  "author": "okdshin",
+  "description": "Integrates with DuckDuckGo to provide web search capabilities, enabling quick and easy text searches with customizable result limits for applications.",
+  "codiconIcon": "duckduckgo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "capabilities",
+    "enabling",
+    "quick",
+    "searches",
+    "customizable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "71cc24a7-c3d7-45d4-a9bd-728b375608c2"
+}

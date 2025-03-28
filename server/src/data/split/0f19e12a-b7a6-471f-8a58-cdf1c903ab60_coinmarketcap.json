@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/longmans/coin_api_mcp",
+  "githubUrl": "https://github.com/longmans/coin_api_mcp",
+  "name": "CoinMarketCap",
+  "author": "longmans",
+  "description": "Integrates with CoinMarketCap's API to fetch and analyze cryptocurrency market data, supporting customizable queries for real-time information.",
+  "codiconIcon": "coinmarketcap",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "coinmarketcap's",
+    "fetch",
+    "analyze",
+    "data"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "0f19e12a-b7a6-471f-8a58-cdf1c903ab60"
+}

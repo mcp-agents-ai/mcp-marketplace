@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kleneway/awesome-cursor-mpc-server",
+  "githubUrl": "https://github.com/kleneway/awesome-cursor-mpc-server",
+  "name": "Awesome Cursor",
+  "author": "kleneway",
+  "description": "Built for Cursor, integrates screenshot capture, web page structure analysis, and code review capabilities for automated UI testing, web scraping, and code quality checks.",
+  "codiconIcon": "awesome",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "awesome-cursor",
+    "review",
+    "capabilities",
+    "screenshot",
+    "automated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "58218f39-f32a-4074-b2ce-70d4a80920e0"
+}

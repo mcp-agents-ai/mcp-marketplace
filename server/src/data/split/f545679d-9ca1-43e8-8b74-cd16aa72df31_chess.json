@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alexandreroman/mcp-chess",
+  "githubUrl": "https://github.com/alexandreroman/mcp-chess",
+  "name": "Chess",
+  "author": "alexandreroman",
+  "description": "Integrates with Spring AI and chess libraries to enable interactive gameplay and automated analysis for AI-assisted chess applications.",
+  "codiconIcon": "chess",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "spring",
+    "gameplay",
+    "applications",
+    "chess",
+    "libraries"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "f545679d-9ca1-43e8-8b74-cd16aa72df31"
+}

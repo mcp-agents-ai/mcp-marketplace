@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DMontgomery40/mcp-canvas-lms",
+  "githubUrl": "https://github.com/DMontgomery40/mcp-canvas-lms",
+  "name": "Canvas LMS",
+  "author": "DMontgomery40",
+  "description": "Manage courses and assignments in Canvas learning system.",
+  "codiconIcon": "canvas",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "canvas",
+    "learning",
+    "system",
+    "canvas-lms",
+    "manage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "54b07f36-2b5e-48d0-8dce-258c13d89929"
+}

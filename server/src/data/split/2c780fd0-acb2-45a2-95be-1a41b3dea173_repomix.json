@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yamadashy/repomix",
+  "githubUrl": "https://github.com/yamadashy/repomix",
+  "name": "RepoMix",
+  "author": "yamadashy",
+  "description": "Package codebases into AI-friendly single files with intelligent code structure preservation and token optimization.",
+  "codiconIcon": "repomix",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "token",
+    "repomix",
+    "package",
+    "single",
+    "files"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "2c780fd0-acb2-45a2-95be-1a41b3dea173"
+}

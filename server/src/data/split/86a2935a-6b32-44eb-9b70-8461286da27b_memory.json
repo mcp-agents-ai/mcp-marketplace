@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ebailey78/mcp-memory",
+  "githubUrl": "https://github.com/ebailey78/mcp-memory",
+  "name": "Memory",
+  "author": "ebailey78",
+  "description": "Provides structured memory management for project-based work through markdown file storage, enabling persistent context across chat sessions with efficient Lunr.js indexing for retrieval, updating, and relating memories.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "persistent",
+    "context",
+    "across",
+    "efficient"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "86a2935a-6b32-44eb-9b70-8461286da27b"
+}

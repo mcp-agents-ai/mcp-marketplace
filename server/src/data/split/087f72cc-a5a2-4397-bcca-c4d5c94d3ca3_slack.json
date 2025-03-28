@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/z9905080/mcp-slack",
+  "githubUrl": "https://github.com/z9905080/mcp-slack",
+  "name": "Slack",
+  "author": "z9905080",
+  "description": "Integrates with Slack workspaces to enable channel management, messaging, thread interactions, reaction handling, and user information retrieval for team communication platforms.",
+  "codiconIcon": "slack",
+  "logoUrl": "",
+  "category": "communication",
+  "tags": [
+    "information",
+    "slack",
+    "integrates",
+    "thread",
+    "reaction"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "087f72cc-a5a2-4397-bcca-c4d5c94d3ca3"
+}

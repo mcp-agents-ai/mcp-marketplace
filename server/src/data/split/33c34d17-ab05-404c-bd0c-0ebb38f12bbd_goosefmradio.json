@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mccartykim/goose_fm",
+  "githubUrl": "https://github.com/mccartykim/goose_fm",
+  "name": "Goose FM Radio",
+  "author": "mccartykim",
+  "description": "Integrates with RTL-SDR hardware to enable FM radio tuning, playback control, and audio analysis for smart home and voice-controlled applications.",
+  "codiconIcon": "goose",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "playback",
+    "control",
+    "audio",
+    "smart",
+    "voice-controlled"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "33c34d17-ab05-404c-bd0c-0ebb38f12bbd"
+}

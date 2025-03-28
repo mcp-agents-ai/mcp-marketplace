@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JDJR2024/markdownify-mcp-utf8",
+  "githubUrl": "https://github.com/JDJR2024/markdownify-mcp-utf8",
+  "name": "Markdownify",
+  "author": "JDJR2024",
+  "description": "Integrates with the markitdown library to convert various document formats including PDF, Word, and HTML to standardized Markdown, enabling efficient document processing and format unification.",
+  "codiconIcon": "markdownify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "markdownify",
+    "document",
+    "standardized",
+    "processing",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "7a45dcf6-17e7-4448-bcf0-f8546578132f"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/simonwfarrow/worldpay-mcp",
+  "githubUrl": "https://github.com/simonwfarrow/worldpay-mcp",
+  "name": "Worldpay Checkout",
+  "author": "simonwfarrow",
+  "description": "Integrates with Worldpay's payment processing APIs to enable making and querying payments for e-commerce and financial management applications.",
+  "codiconIcon": "worldpay",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "e-commerce",
+    "financial",
+    "integrates",
+    "worldpay's",
+    "making"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "7eeb0fa9-cf42-42dc-bce2-892c3c6167cb"
+}

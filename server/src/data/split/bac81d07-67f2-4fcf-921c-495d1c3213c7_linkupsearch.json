@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/LinkupPlatform/python-mcp-server",
+  "githubUrl": "https://github.com/LinkupPlatform/python-mcp-server",
+  "name": "Linkup Search",
+  "author": "LinkupPlatform",
+  "description": "Integrates with Linkup Technologies' API to enable web searches for information gathering, fact-checking, and research tasks.",
+  "codiconIcon": "linkup",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "linkup-search",
+    "linkup",
+    "enable",
+    "searches",
+    "information"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "bac81d07-67f2-4fcf-921c-495d1c3213c7"
+}

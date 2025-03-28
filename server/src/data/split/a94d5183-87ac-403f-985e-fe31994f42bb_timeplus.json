@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jovezhong/mcp-timeplus",
+  "githubUrl": "https://github.com/jovezhong/mcp-timeplus",
+  "name": "Timeplus",
+  "author": "jovezhong",
+  "description": "Integrates with Timeplus to enable SQL query execution and database information retrieval for real-time analytics and data exploration.",
+  "codiconIcon": "timeplus",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "timeplus",
+    "integrates",
+    "database",
+    "analytics",
+    "exploration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "a94d5183-87ac-403f-985e-fe31994f42bb"
+}

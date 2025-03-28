@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Seym0n/tiktok-mcp",
+  "githubUrl": "https://github.com/Seym0n/tiktok-mcp",
+  "name": "TikTok",
+  "author": "Seym0n",
+  "description": "Integrates with TikTok through TikNeuron's API to retrieve video subtitles, content details, and engagement metrics for analyzing virality factors and enabling conversational interactions with TikTok videos.",
+  "codiconIcon": "tiktok",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieve",
+    "subtitles",
+    "engagement",
+    "metrics",
+    "analyzing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "15c0f9c0-6f9b-42c9-999a-0e8121f2a607"
+}

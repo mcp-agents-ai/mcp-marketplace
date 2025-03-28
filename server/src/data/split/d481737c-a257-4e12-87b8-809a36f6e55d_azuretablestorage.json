@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dkmaker/mcp-azure-tablestorage",
+  "githubUrl": "https://github.com/dkmaker/mcp-azure-tablestorage",
+  "name": "Azure Table Storage",
+  "author": "dkmaker",
+  "description": "Enable efficient storage, retrieval, and querying of structured data in the cloud for large-scale applications.",
+  "codiconIcon": "azure",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "azure-table-storage",
+    "efficient",
+    "retrieval",
+    "structured",
+    "large-scale"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "d481737c-a257-4e12-87b8-809a36f6e55d"
+}

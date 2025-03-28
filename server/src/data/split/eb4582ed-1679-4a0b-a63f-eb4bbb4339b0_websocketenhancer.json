@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/virajsharma2000/mcp-websocket",
+  "githubUrl": "https://github.com/virajsharma2000/mcp-websocket",
+  "name": "WebSocket Enhancer",
+  "author": "virajsharma2000",
+  "description": "Combines a standard server with WebSocket functionality to enable real-time data updates and efficient asynchronous operations for applications requiring both traditional interactions and data streaming capabilities.",
+  "codiconIcon": "websocket",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "server",
+    "updates",
+    "applications",
+    "requiring",
+    "interactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "eb4582ed-1679-4a0b-a63f-eb4bbb4339b0"
+}

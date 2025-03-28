@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Matteturtle09/mongo-mcp-server",
+  "githubUrl": "https://github.com/Matteturtle09/mongo-mcp-server",
+  "name": "MongoDB",
+  "author": "Matteturtle09",
+  "description": "Bridges MongoDB databases with AI systems, enabling document retrieval and analysis through standardized queries and operations.",
+  "codiconIcon": "mongodb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "mongodb",
+    "document",
+    "standardized",
+    "operations",
+    "bridges"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "109fb278-62e4-4135-a301-0ed90cf8e630"
+}

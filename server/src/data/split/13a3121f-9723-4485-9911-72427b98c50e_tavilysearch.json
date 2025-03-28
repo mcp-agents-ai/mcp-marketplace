@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Tomatio13/mcp-server-tavily",
+  "githubUrl": "https://github.com/Tomatio13/mcp-server-tavily",
+  "name": "Tavily Search",
+  "author": "Tomatio13",
+  "description": "Perform web searches and retrieve structured results via Tavily.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "results",
+    "tavily",
+    "tavily-search",
+    "perform",
+    "searches"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "13a3121f-9723-4485-9911-72427b98c50e"
+}

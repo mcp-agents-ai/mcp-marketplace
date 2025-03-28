@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-vscode",
+  "githubUrl": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-vscode",
+  "name": "VSCode",
+  "author": "microsoft",
+  "description": "VSCode tools and resources as a Model Context Protocol (MCP) server in a VSCode extension",
+  "codiconIcon": "vscode",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "extension",
+    "vscode",
+    "resources",
+    "context",
+    "mcp"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "b831d229-d9c1-4e94-a77b-e84ba14fcc64"
+}

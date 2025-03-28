@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Headless-Agents/headless-agents-mcp-ts",
+  "githubUrl": "https://github.com/Headless-Agents/headless-agents-mcp-ts",
+  "name": "Headless Agents",
+  "author": "Headless-Agents",
+  "description": "Integrates Claude Desktop with Headless Agents API, enabling direct interaction and leveraging agent capabilities for task automation, information retrieval, and complex decision-making processes.",
+  "codiconIcon": "headless",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "headless-agents",
+    "headless",
+    "interaction",
+    "retrieval",
+    "complex"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "f8dbdf68-5170-41eb-82fc-6509e19c5d8c"
+}

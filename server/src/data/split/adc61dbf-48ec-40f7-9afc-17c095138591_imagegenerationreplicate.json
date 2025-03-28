@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rmcendarfer2017/MCP-image-gen",
+  "githubUrl": "https://github.com/rmcendarfer2017/MCP-image-gen",
+  "name": "Image Generation (Replicate)",
+  "author": "rmcendarfer2017",
+  "description": "Integrates with Replicate's API to generate images using Stable Diffusion XL, providing endpoints for creating and checking image generation predictions with authentication and CORS support.",
+  "codiconIcon": "image",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "image",
+    "images",
+    "diffusion",
+    "authentication",
+    "support"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "adc61dbf-48ec-40f7-9afc-17c095138591"
+}

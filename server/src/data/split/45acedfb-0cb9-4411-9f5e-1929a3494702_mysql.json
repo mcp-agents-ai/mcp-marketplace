@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kerongon/mcp-server-mamp-mysql",
+  "githubUrl": "https://github.com/kerongon/mcp-server-mamp-mysql",
+  "name": "MySQL",
+  "author": "kerongon",
+  "description": "Connects to MySQL databases via sockets to enable querying, schema analysis, and read-only data retrieval.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "mysql",
+    "databases",
+    "querying",
+    "schema",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "45acedfb-0cb9-4411-9f5e-1929a3494702"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qododavid/pty-mcp",
+  "githubUrl": "https://github.com/qododavid/pty-mcp",
+  "name": "PTY Terminal",
+  "author": "qododavid",
+  "description": "Provides a stateful terminal interface for maintaining session context and executing complex, multi-step operations across multiple interactions.",
+  "codiconIcon": "pty",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "pty-terminal",
+    "stateful",
+    "interface",
+    "multiple",
+    "context"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "8a929b8b-03a7-4cc9-9003-7237b5dcb5a0"
+}

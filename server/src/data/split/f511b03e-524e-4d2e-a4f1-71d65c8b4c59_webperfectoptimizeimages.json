@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/splendasucks/webperfect-mcp-server",
+  "githubUrl": "https://github.com/splendasucks/webperfect-mcp-server",
+  "name": "WebPerfect (Optimize Images)",
+  "author": "splendasucks",
+  "description": "Optimizes web images through advanced processing techniques to reduce file sizes while maintaining quality for improved website performance.",
+  "codiconIcon": "webperfect",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "processing",
+    "while",
+    "maintaining",
+    "quality",
+    "webperfect-(optimize-images)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "f511b03e-524e-4d2e-a4f1-71d65c8b4c59"
+}

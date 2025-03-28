@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AshikNesin/pushover-mcp",
+  "githubUrl": "https://github.com/AshikNesin/pushover-mcp",
+  "name": "Pushover",
+  "author": "AshikNesin",
+  "description": "Integrates with Pushover.net to enable sending push notifications to various devices for real-time alerts and updates",
+  "codiconIcon": "pushover",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "pushover",
+    "pushover.net",
+    "enable",
+    "notifications",
+    "devices"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "500d954b-4ae7-4976-aba0-0969c4b8c7a2"
+}

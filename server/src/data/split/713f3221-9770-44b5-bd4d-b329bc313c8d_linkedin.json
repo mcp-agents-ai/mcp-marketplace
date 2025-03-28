@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Hritik003/linkedin-mcp",
+  "githubUrl": "https://github.com/Hritik003/linkedin-mcp",
+  "name": "LinkedIn",
+  "author": "Hritik003",
+  "description": "Integrates with LinkedIn to enable profile retrieval, job searching, feed post access, and resume analysis for automated platform engagement.",
+  "codiconIcon": "linkedin",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "linkedin",
+    "enable",
+    "profile",
+    "access",
+    "resume"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "713f3221-9770-44b5-bd4d-b329bc313c8d"
+}

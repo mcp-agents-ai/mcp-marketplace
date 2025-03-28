@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/duhlink/instagram-server-next-mcp",
+  "githubUrl": "https://github.com/duhlink/instagram-server-next-mcp",
+  "name": "Instagram Analytics",
+  "author": "duhlink",
+  "description": "Integrates with Instagram's API and web scraping tools to enable social media analytics, account management, and content strategy insights.",
+  "codiconIcon": "instagram",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "instagram-analytics",
+    "scraping",
+    "social",
+    "media",
+    "analytics"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "3f3c41d5-bae5-4508-9f2a-e7d69cae8f87"
+}

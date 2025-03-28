@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PhialsBasement/nmap-mcp-server",
+  "githubUrl": "https://github.com/PhialsBasement/nmap-mcp-server",
+  "name": "NMAP Scanner",
+  "author": "PhialsBasement",
+  "description": "Integrates NMAP to enable network scanning, security assessments, and automated penetration testing on Windows systems.",
+  "codiconIcon": "nmap",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "penetration",
+    "testing",
+    "windows",
+    "systems",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "462d06be-ad9c-45f7-bc84-5c4ef701e7e2"
+}

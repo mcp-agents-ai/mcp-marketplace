@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cyanheads/toolkit-mcp-server",
+  "githubUrl": "https://github.com/cyanheads/toolkit-mcp-server",
+  "name": "Toolkit (System Utilities)",
+  "author": "cyanheads",
+  "description": "Provides system utilities and tools for network diagnostics, monitoring, cryptography, and QR code generation.",
+  "codiconIcon": "toolkit",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tools",
+    "network",
+    "diagnostics",
+    "cryptography",
+    "generation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "5b9fefb3-9e0f-4b76-b166-8ae7c5fb1e62"
+}

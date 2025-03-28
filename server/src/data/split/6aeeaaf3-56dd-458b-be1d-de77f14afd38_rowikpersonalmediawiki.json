@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/roshan/rowik-mcp",
+  "githubUrl": "https://github.com/roshan/rowik-mcp",
+  "name": "Rowik (Personal MediaWiki)",
+  "author": "roshan",
+  "description": "Integrates with a personal MediaWiki instance to enable searching, retrieving, and manipulating wiki content for enhanced knowledge management and research workflows.",
+  "codiconIcon": "rowik",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "instance",
+    "manipulating",
+    "management",
+    "rowik-(personal-mediawiki)",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "6aeeaaf3-56dd-458b-be1d-de77f14afd38"
+}

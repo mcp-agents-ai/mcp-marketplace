@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/madarco/ragrabbit",
+  "githubUrl": "https://github.com/madarco/ragrabbit",
+  "name": "RagRabbit",
+  "author": "madarco",
+  "description": "Integrates with RagRabbit to crawl websites, generate vector embeddings, and enable search and question answering from indexed content for domain-specific information retrieval.",
+  "codiconIcon": "ragrabbit",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "content",
+    "retrieval",
+    "ragrabbit",
+    "enable",
+    "indexed"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "500b1fc6-08bf-44e2-858c-bec546c5ccc8"
+}

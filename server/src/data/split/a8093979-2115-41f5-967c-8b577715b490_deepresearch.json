@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JoshuaLelon/deep-research-mcp",
+  "githubUrl": "https://github.com/JoshuaLelon/deep-research-mcp",
+  "name": "Deep Research",
+  "author": "JoshuaLelon",
+  "description": "Integrates multiple AI agents to conduct in-depth research on complex topics with customizable tones, providing detailed progress reporting and error handling.",
+  "codiconIcon": "deep",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "agents",
+    "tones",
+    "reporting",
+    "conduct",
+    "research"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a8093979-2115-41f5-967c-8b577715b490"
+}

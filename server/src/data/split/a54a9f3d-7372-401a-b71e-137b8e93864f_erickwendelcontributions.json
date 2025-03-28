@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ErickWendel/erickwendel-contributions-mcp",
+  "githubUrl": "https://github.com/ErickWendel/erickwendel-contributions-mcp",
+  "name": "Erick Wendel Contributions",
+  "author": "ErickWendel",
+  "description": "Provides access to Erick Wendel's technical content contributions across platforms through specialized tools for filtering and querying talks, posts, and videos by language, title, and country.",
+  "codiconIcon": "erick",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "access",
+    "contributions",
+    "across",
+    "querying",
+    "talks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "a54a9f3d-7372-401a-b71e-137b8e93864f"
+}

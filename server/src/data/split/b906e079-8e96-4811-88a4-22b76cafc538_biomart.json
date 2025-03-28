@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jzinno/biomart-mcp",
+  "githubUrl": "https://github.com/jzinno/biomart-mcp",
+  "name": "Biomart",
+  "author": "jzinno",
+  "description": "Integrates with Biomart to enable advanced biological data queries, including gene information retrieval, ID translation, and dataset exploration using the pybiomart package.",
+  "codiconIcon": "biomart",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "information",
+    "enable",
+    "queries",
+    "package",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "b906e079-8e96-4811-88a4-22b76cafc538"
+}

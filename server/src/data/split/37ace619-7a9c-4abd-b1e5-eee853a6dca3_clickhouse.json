@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/iskakaushik/mcp-clickhouse",
+  "githubUrl": "https://github.com/iskakaushik/mcp-clickhouse",
+  "name": "ClickHouse",
+  "author": "iskakaushik",
+  "description": "Integrates with ClickHouse databases to execute read-only SQL queries, list databases, and enumerate tables for fast analytical processing of large datasets.",
+  "codiconIcon": "clickhouse",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "read-only",
+    "enumerate",
+    "analytical",
+    "processing",
+    "datasets"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "37ace619-7a9c-4abd-b1e5-eee853a6dca3"
+}

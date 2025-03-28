@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wllcnm/dingding_mcp_v2",
+  "githubUrl": "https://github.com/wllcnm/dingding_mcp_v2",
+  "name": "DingTalk v2",
+  "author": "wllcnm",
+  "description": "Provides integration with the DingTalk API, enabling easy deployment and scaling of services like chatbots and data processing pipelines.",
+  "codiconIcon": "dingtalk",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dingtalk",
+    "scaling",
+    "services",
+    "processing",
+    "pipelines"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "af31937a-4310-49bd-ac0e-eee894b566da"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/1broseidon/mcp-jira-server",
+  "githubUrl": "https://github.com/1broseidon/mcp-jira-server",
+  "name": "Jira",
+  "author": "1broseidon",
+  "description": "Integrates with Jira's REST API to enable issue management, task creation, and project tracking capabilities.",
+  "codiconIcon": "jira",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "jira's",
+    "enable",
+    "management",
+    "project"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "82590b90-3e28-468a-ac58-dba171e51b9c"
+}

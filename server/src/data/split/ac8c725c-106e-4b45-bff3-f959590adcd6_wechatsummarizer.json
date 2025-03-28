@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/chatmcp/mcp-server-chatsum",
+  "githubUrl": "https://github.com/chatmcp/mcp-server-chatsum",
+  "name": "WeChat Summarizer",
+  "author": "chatmcp",
+  "description": "Hook into your WeChat history and pull summaries of conversations.",
+  "codiconIcon": "wechat",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "history",
+    "summaries",
+    "conversations",
+    "wechat-summarizer",
+    "wechat"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "ac8c725c-106e-4b45-bff3-f959590adcd6"
+}

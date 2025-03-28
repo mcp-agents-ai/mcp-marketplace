@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mektigboy/server-hyperliquid",
+  "githubUrl": "https://github.com/mektigboy/server-hyperliquid",
+  "name": "Hyperliquid",
+  "author": "mektigboy",
+  "description": "Integrates with the Hyperliquid SDK to provide real-time cryptocurrency market data, including mid prices, historical candlesticks, and L2 order book information for traders and analysts.",
+  "codiconIcon": "hyperliquid",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "hyperliquid",
+    "data",
+    "order",
+    "traders",
+    "cryptocurrency"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "d965f4b8-0d4c-4ec7-b5a7-3bb861243d2c"
+}

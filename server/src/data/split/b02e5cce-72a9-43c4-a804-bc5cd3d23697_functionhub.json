@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/segun/mcp-server-function-hub",
+  "githubUrl": "https://github.com/segun/mcp-server-function-hub",
+  "name": "Function Hub",
+  "author": "segun",
+  "description": "Integrates with Function Hub API to provide dynamic tool listing and execution capabilities for flexible access to external functions and APIs.",
+  "codiconIcon": "function",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dynamic",
+    "listing",
+    "execution",
+    "capabilities",
+    "flexible"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "b02e5cce-72a9-43c4-a804-bc5cd3d23697"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/crazyrabbitLTC/mcp-snapshot-server",
+  "githubUrl": "https://github.com/crazyrabbitLTC/mcp-snapshot-server",
+  "name": "NWS Weather",
+  "author": "crazyrabbitLTC",
+  "description": "Integrates with the National Weather Service API to retrieve weather alerts by state and forecasts by coordinates for basic weather information access.",
+  "codiconIcon": "nws",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "weather",
+    "service",
+    "alerts",
+    "forecasts",
+    "coordinates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "ca0420ea-7328-4bbb-9481-37942c712b30"
+}

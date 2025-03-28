@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/macrat/mcp-ayd-server",
+  "githubUrl": "https://github.com/macrat/mcp-ayd-server",
+  "name": "Ayd",
+  "author": "macrat",
+  "description": "Integrates with Ayd to enable service monitoring, status checks, and log retrieval for enhanced operational visibility and incident response.",
+  "codiconIcon": "ayd",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "status",
+    "checks",
+    "retrieval",
+    "operational",
+    "visibility"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "3c511e7b-a6db-4839-ae2e-70a0d7d500b9"
+}

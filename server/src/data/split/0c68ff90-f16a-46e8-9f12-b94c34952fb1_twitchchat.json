@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TomCools/twitch-mcp",
+  "githubUrl": "https://github.com/TomCools/twitch-mcp",
+  "name": "Twitch Chat",
+  "author": "TomCools",
+  "description": "Integrates with Twitch chat using Apache Camel and Quarkus to enable real-time interaction, moderation, and analysis of live stream conversations.",
+  "codiconIcon": "twitch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "quarkus",
+    "enable",
+    "real-time",
+    "interaction",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "0c68ff90-f16a-46e8-9f12-b94c34952fb1"
+}

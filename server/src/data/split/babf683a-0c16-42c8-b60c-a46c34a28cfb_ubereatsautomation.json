@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/skudskud/test-repo-mcp",
+  "githubUrl": "https://github.com/skudskud/test-repo-mcp",
+  "name": "Uber Eats Automation",
+  "author": "skudskud",
+  "description": "Integrates with Uber Eats to enable automated menu searches and food order placements via browser interactions, streamlining the food discovery and ordering process.",
+  "codiconIcon": "uber",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "ordering",
+    "uber-eats-automation",
+    "enable",
+    "browser",
+    "streamlining"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "babf683a-0c16-42c8-b60c-a46c34a28cfb"
+}

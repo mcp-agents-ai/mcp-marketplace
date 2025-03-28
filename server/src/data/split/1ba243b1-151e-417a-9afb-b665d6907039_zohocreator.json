@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mastercode-io/scaflog-zoho-mcp-server",
+  "githubUrl": "https://github.com/mastercode-io/scaflog-zoho-mcp-server",
+  "name": "Zoho Creator",
+  "author": "mastercode-io",
+  "description": "Integrates with the Zoho Creator API to provide forms and reports capabilities.",
+  "codiconIcon": "zoho",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "creator",
+    "provide",
+    "forms",
+    "reports"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "1ba243b1-151e-417a-9afb-b665d6907039"
+}

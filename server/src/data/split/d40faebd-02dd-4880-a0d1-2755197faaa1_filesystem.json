@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mark3labs/mcp-filesystem-server",
+  "githubUrl": "https://github.com/mark3labs/mcp-filesystem-server",
+  "name": "Filesystem",
+  "author": "mark3labs",
+  "description": "Read, write, and manipulate local files through a controlled API.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "write",
+    "manipulate",
+    "local",
+    "files",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "d40faebd-02dd-4880-a0d1-2755197faaa1"
+}

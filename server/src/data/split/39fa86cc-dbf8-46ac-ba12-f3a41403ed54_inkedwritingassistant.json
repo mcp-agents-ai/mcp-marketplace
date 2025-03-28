@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/frgmt0/mcp-inked",
+  "githubUrl": "https://github.com/frgmt0/mcp-inked",
+  "name": "Inked (Writing Assistant)",
+  "author": "frgmt0",
+  "description": "Provides tools for managing and generating long-form content through conversation-based drafting and revision workflows, enabling efficient development of novels, reports, and other extensive documents.",
+  "codiconIcon": "inked",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "long-form",
+    "conversation-based",
+    "development",
+    "extensive",
+    "managing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "39fa86cc-dbf8-46ac-ba12-f3a41403ed54"
+}

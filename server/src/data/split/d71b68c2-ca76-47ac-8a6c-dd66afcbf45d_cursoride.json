@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Buga-luga/cursor-mcp",
+  "githubUrl": "https://github.com/Buga-luga/cursor-mcp",
+  "name": "Cursor IDE",
+  "author": "Buga-luga",
+  "description": "Capable of controlling and pulling from Cursor IDE, powering development workflows.",
+  "codiconIcon": "cursor",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "cursor-ide",
+    "capable",
+    "controlling",
+    "pulling",
+    "cursor"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "d71b68c2-ca76-47ac-8a6c-dd66afcbf45d"
+}

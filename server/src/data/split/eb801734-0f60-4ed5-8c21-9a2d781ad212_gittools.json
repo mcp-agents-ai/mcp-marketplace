@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/git",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/git",
+  "name": "Git Tools",
+  "author": "modelcontextprotocol",
+  "description": "Provides Git repository interaction and automation tools for reading, searching, and manipulating Git repositories through commands like status, diff, commit, branch management, and more.",
+  "codiconIcon": "git-merge",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/git-tools.png",
+  "category": "version-control",
+  "tags": [
+    "git",
+    "version-control",
+    "repository-management",
+    "source-control",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24951,
+  "downloadCount": 16621,
+  "createdAt": "2025-02-19T02:22:25.91666Z",
+  "updatedAt": "2025-02-19T02:22:25.91666Z",
+  "hubId": "eb801734-0f60-4ed5-8c21-9a2d781ad212"
+}

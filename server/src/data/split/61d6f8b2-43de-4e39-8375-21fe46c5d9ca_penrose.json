@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bmorphism/penrose-mcp",
+  "githubUrl": "https://github.com/bmorphism/penrose-mcp",
+  "name": "Penrose",
+  "author": "bmorphism",
+  "description": "Integrates with Penrose's domain-specific languages to generate mathematical diagrams from natural language inputs.",
+  "codiconIcon": "penrose",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "diagrams",
+    "natural",
+    "integrates",
+    "penrose's",
+    "domain-specific"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "61d6f8b2-43de-4e39-8375-21fe46c5d9ca"
+}

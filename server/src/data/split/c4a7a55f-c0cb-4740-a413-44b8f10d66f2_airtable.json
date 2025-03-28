@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/domdomegg/airtable-mcp-server",
+  "githubUrl": "https://github.com/domdomegg/airtable-mcp-server",
+  "name": "Airtable",
+  "author": "domdomegg",
+  "description": "Provides read and write access to Airtable databases, enabling schema inspection, record management, and table operations through comprehensive API integration.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/airtable.png",
+  "category": "databases",
+  "tags": [
+    "airtable",
+    "database-management",
+    "records",
+    "schemas",
+    "crud"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 61,
+  "downloadCount": 616,
+  "createdAt": "2025-02-19T02:22:31.761899Z",
+  "updatedAt": "2025-02-19T02:22:31.761899Z",
+  "hubId": "c4a7a55f-c0cb-4740-a413-44b8f10d66f2"
+}

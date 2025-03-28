@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jaacob/perplexity-mcp",
+  "githubUrl": "https://github.com/jaacob/perplexity-mcp",
+  "name": "Perplexity",
+  "author": "jaacob",
+  "description": "Integrates with Perplexity's API to enable real-time web searches for up-to-date information retrieval and context-aware responses.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "perplexity",
+    "integrates",
+    "real-time",
+    "searches",
+    "information"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "a53215b3-3537-41f6-ac44-62d61e9a7c3b"
+}

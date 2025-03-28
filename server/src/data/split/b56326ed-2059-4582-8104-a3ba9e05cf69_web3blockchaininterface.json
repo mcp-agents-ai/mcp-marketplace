@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/strangelove-ventures/web3-mcp",
+  "githubUrl": "https://github.com/strangelove-ventures/web3-mcp",
+  "name": "Web3 Blockchain Interface",
+  "author": "strangelove-ventures",
+  "description": "Unifies interactions with multiple blockchains like Solana and Ethereum, enabling cross-chain operations such as balance checks and token transfers.",
+  "codiconIcon": "web3",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "cross-chain",
+    "token",
+    "transfers",
+    "unifies"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "b56326ed-2059-4582-8104-a3ba9e05cf69"
+}

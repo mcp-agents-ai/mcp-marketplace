@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PhialsBasement/MCP-Puppeteer-Linux",
+  "githubUrl": "https://github.com/PhialsBasement/MCP-Puppeteer-Linux",
+  "name": "Puppeteer Linux",
+  "author": "PhialsBasement",
+  "description": "Enables browser automation on Linux systems for web interactions, screenshots, and JavaScript execution using Puppeteer",
+  "codiconIcon": "puppeteer",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "interactions",
+    "screenshots",
+    "puppeteer",
+    "enables",
+    "browser"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "ea25ce37-e2ab-4e15-b14e-5a2c592460b1"
+}

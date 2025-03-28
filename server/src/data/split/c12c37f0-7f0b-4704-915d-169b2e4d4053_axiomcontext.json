@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/axiomhq/zed-axiom-context-server",
+  "githubUrl": "https://github.com/axiomhq/zed-axiom-context-server",
+  "name": "Axiom Context",
+  "author": "axiomhq",
+  "description": "Integrates Axiom's context-aware AI capabilities with Zed workflows through a customizable command interface for enhanced flexibility and seamless deployment.",
+  "codiconIcon": "axiom",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "customizable",
+    "deployment",
+    "axiom's",
+    "context-aware"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "c12c37f0-7f0b-4704-915d-169b2e4d4053"
+}

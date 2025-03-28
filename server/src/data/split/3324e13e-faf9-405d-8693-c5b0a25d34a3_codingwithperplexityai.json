@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PoliTwit1984/mcp-perplexity-server",
+  "githubUrl": "https://github.com/PoliTwit1984/mcp-perplexity-server",
+  "name": "Coding With Perplexity AI",
+  "author": "PoliTwit1984",
+  "description": "Integrates Perplexity AI to provide intelligent coding assistance for tasks like code analysis, generation, and problem-solving across various programming languages.",
+  "codiconIcon": "coding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "generation",
+    "various",
+    "programming",
+    "integrates",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "3324e13e-faf9-405d-8693-c5b0a25d34a3"
+}

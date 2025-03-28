@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/motherduckdb/mcp-server-motherduck",
+  "githubUrl": "https://github.com/motherduckdb/mcp-server-motherduck",
+  "name": "MotherDuck",
+  "author": "motherduckdb",
+  "description": "Enables database operations with MotherDuck and local DuckDB, providing tools for connection initialization, schema reading, and query execution.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/motherduck-db.png",
+  "category": "databases",
+  "tags": [
+    "duckdb",
+    "motherduck",
+    "sql",
+    "database-management",
+    "query-execution"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 46,
+  "downloadCount": 97,
+  "createdAt": "2025-02-18T06:08:00.70702Z",
+  "updatedAt": "2025-02-18T06:08:00.70702Z",
+  "hubId": "25cc701d-11bf-46f5-a034-fa16e3eed234"
+}

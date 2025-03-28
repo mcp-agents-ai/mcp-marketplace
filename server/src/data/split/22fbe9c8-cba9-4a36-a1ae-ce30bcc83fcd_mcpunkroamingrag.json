@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jurasofish/mcpunk",
+  "githubUrl": "https://github.com/jurasofish/mcpunk",
+  "name": "MCPunk (Roaming RAG)",
+  "author": "jurasofish",
+  "description": "MCPunk provides tools for performing Roaming RAG",
+  "codiconIcon": "mcpunk",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "tools",
+    "performing",
+    "roaming",
+    "mcpunk-(roaming-rag)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "22fbe9c8-cba9-4a36-a1ae-ce30bcc83fcd"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rusiaaman/wcgw/tree/HEAD/src/wcgw/client/mcp_server",
+  "githubUrl": "https://github.com/rusiaaman/wcgw/tree/HEAD/src/wcgw/client/mcp_server",
+  "name": "wcgw",
+  "author": "rusiaaman",
+  "description": "Access shell and filesystem in order to automate tasks and run code",
+  "codiconIcon": "wcgw",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "access",
+    "shell",
+    "filesystem",
+    "order",
+    "automate"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "e17f268d-833a-4266-a062-c4629d22d6cd"
+}

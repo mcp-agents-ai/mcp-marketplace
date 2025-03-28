@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qpd-v/mcp-image-downloader",
+  "githubUrl": "https://github.com/qpd-v/mcp-image-downloader",
+  "name": "Image Download and Optimize",
+  "author": "qpd-v",
+  "description": "Integrates image downloading and optimization tools for efficient retrieval, resizing, and format conversion of web images.",
+  "codiconIcon": "image",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "downloading",
+    "tools",
+    "efficient",
+    "format",
+    "image-download-and-optimize"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "1ed09868-5bd0-4f02-aa7a-0d2d6aeee672"
+}

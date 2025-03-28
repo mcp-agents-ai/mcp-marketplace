@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tzafrir/mcp-server-replicate",
+  "githubUrl": "https://github.com/tzafrir/mcp-server-replicate",
+  "name": "Replicate",
+  "author": "tzafrir",
+  "description": "Integrates with Replicate to provide access to AI models for image generation, with features like parameter customization and output resizing.",
+  "codiconIcon": "replicate",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "features",
+    "parameter",
+    "output",
+    "resizing",
+    "replicate"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "cc8341da-f0db-442d-ac0a-793ec38b1cd3"
+}

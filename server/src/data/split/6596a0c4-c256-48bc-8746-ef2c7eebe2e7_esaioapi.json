@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/d-kimuson/esa-mcp-server",
+  "githubUrl": "https://github.com/d-kimuson/esa-mcp-server",
+  "name": "esa.io API",
+  "author": "d-kimuson",
+  "description": "Integrates with esa.io API for searching and retrieving team knowledge, enabling efficient information access and collaboration.",
+  "codiconIcon": "esa.io",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "access",
+    "collaboration",
+    "esa.io-api",
+    "retrieving",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "6596a0c4-c256-48bc-8746-ef2c7eebe2e7"
+}

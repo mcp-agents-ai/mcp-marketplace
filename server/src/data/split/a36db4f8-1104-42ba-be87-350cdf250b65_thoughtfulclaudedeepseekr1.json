@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/martinbowling/thoughtful-claude",
+  "githubUrl": "https://github.com/martinbowling/thoughtful-claude",
+  "name": "Thoughtful Claude (DeepSeek R1)",
+  "author": "martinbowling",
+  "description": "Integrates DeepSeek's R1 reasoning engine to enhance problem-solving, analysis, and decision-making capabilities.",
+  "codiconIcon": "thoughtful",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "deepseek's",
+    "problem-solving",
+    "capabilities",
+    "integrates",
+    "reasoning"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "a36db4f8-1104-42ba-be87-350cdf250b65"
+}

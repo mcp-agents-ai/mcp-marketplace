@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rhabraken/mcp-python",
+  "githubUrl": "https://github.com/rhabraken/mcp-python",
+  "name": "PostgreSQL Alchemy",
+  "author": "rhabraken",
+  "description": "Connects AI models to PostgreSQL databases using Python and SQLAlchemy, enabling flexible querying and data manipulation across SQL dialects.",
+  "codiconIcon": "postgresql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "postgresql",
+    "databases",
+    "using",
+    "python",
+    "sqlalchemy"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "4c71ea6e-e3d5-4a34-a0e0-0c35582436cf"
+}

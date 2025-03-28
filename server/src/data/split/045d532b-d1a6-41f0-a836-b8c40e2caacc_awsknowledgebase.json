@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval-server",
+  "name": "AWS Knowledge Base",
+  "author": "modelcontextprotocol",
+  "description": "Retrieves information from AWS Knowledge Base using Bedrock Agent Runtime, supporting RAG-based queries with customizable result counts.",
+  "codiconIcon": "library",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/aws-knowledge-base.png",
+  "category": "knowledge-memory",
+  "tags": [
+    "aws",
+    "bedrock",
+    "rag",
+    "knowledge-retrieval",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24568,
+  "downloadCount": 1086,
+  "createdAt": "2025-02-18T05:44:51.508867Z",
+  "updatedAt": "2025-02-18T05:44:51.508867Z",
+  "hubId": "045d532b-d1a6-41f0-a836-b8c40e2caacc"
+}

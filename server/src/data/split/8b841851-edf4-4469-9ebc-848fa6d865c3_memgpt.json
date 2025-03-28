@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Vic563/Memgpt-MCP-Server",
+  "githubUrl": "https://github.com/Vic563/Memgpt-MCP-Server",
+  "name": "MemGPT",
+  "author": "Vic563",
+  "description": "Implements a multi-provider memory system for LLMs, enabling conversation history management and seamless model switching across OpenAI, Anthropic, OpenRouter, and Ollama.",
+  "codiconIcon": "memgpt",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "across",
+    "implements",
+    "memory",
+    "system",
+    "conversation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "8b841851-edf4-4469-9ebc-848fa6d865c3"
+}

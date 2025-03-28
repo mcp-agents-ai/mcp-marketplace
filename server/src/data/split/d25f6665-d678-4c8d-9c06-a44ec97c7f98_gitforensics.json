@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/davidorex/git-forensics-mcp",
+  "githubUrl": "https://github.com/davidorex/git-forensics-mcp",
+  "name": "Git Forensics",
+  "author": "davidorex",
+  "description": "Provides deep git repository analysis tools for branch overview, time period examination, and merge recommendations to optimize development workflows.",
+  "codiconIcon": "git",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "merge",
+    "workflows",
+    "git-forensics",
+    "repository",
+    "tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "d25f6665-d678-4c8d-9c06-a44ec97c7f98"
+}

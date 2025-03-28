@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/highlight-ing/highlight-youtube-mcp",
+  "githubUrl": "https://github.com/highlight-ing/highlight-youtube-mcp",
+  "name": "YouTube Transcript Extractor",
+  "author": "highlight-ing",
+  "description": "Extracts transcripts from YouTube videos using various URL formats, enabling automated content analysis and summarization.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "summarization",
+    "extracts",
+    "youtube",
+    "using",
+    "formats"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "59193023-0add-4648-a795-915b71b573cc"
+}

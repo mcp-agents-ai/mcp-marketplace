@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jacksteamdev/mcp-sqlite-bun-server",
+  "githubUrl": "https://github.com/jacksteamdev/mcp-sqlite-bun-server",
+  "name": "SQLite",
+  "author": "jacksteamdev",
+  "description": "Integrates with SQLite to provide database querying and BI capabilities.",
+  "codiconIcon": "sqlite",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "sqlite",
+    "integrates",
+    "provide",
+    "database",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "1ac26847-fa3b-4695-a82a-68e0152a0f44"
+}

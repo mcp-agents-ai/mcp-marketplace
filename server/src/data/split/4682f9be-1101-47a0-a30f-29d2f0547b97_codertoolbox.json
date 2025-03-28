@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lamemind/coder-toolbox-mcp-server",
+  "githubUrl": "https://github.com/lamemind/coder-toolbox-mcp-server",
+  "name": "Coder Toolbox",
+  "author": "lamemind",
+  "description": "Integrates Java code analysis, manipulation, and testing tools for efficient software development workflows and automated code operations.",
+  "codiconIcon": "coder",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "coder-toolbox",
+    "analysis",
+    "manipulation",
+    "tools",
+    "efficient"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "4682f9be-1101-47a0-a30f-29d2f0547b97"
+}

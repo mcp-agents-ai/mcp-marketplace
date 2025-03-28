@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mekanixms/mcp_memory_plugin",
+  "githubUrl": "https://github.com/mekanixms/mcp_memory_plugin",
+  "name": "Memory Plugin (SQLite)",
+  "author": "mekanixms",
+  "description": "Provides SQLite-based persistent memory storage for maintaining context across conversations, enabling long-term recall and knowledge management.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sqlite-based",
+    "persistent",
+    "maintaining",
+    "context",
+    "recall"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "fbc64c14-fbd3-4a4f-836d-45bd2c1a200b"
+}

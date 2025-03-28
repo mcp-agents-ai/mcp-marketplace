@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TechNavii/mcp_sample",
+  "githubUrl": "https://github.com/TechNavii/mcp_sample",
+  "name": "Text Saver",
+  "author": "TechNavii",
+  "description": "Securely saves text content to local files with user-specified or timestamp-generated filenames through a simple interface with robust validation and error handling.",
+  "codiconIcon": "text",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "text-saver",
+    "user-specified",
+    "filenames",
+    "simple",
+    "robust"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "ff20a7e3-3b9a-4414-8d6d-05cfde19a5a6"
+}

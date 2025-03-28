@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/valyu-network/valyu-mcp-js",
+  "githubUrl": "https://github.com/valyu-network/valyu-mcp-js",
+  "name": "Valyu Knowledge Retrieval",
+  "author": "valyu-network",
+  "description": "Integrates with Valyu's knowledge retrieval and feedback APIs, enabling information search across proprietary and web sources and submission of user feedback for enhanced information retrieval and interaction scenarios.",
+  "codiconIcon": "valyu",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "submission",
+    "valyu-knowledge-retrieval",
+    "enabling",
+    "across",
+    "enhanced"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "fc02a6fb-fa5c-4147-8e8f-546924aa5b8b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jonnyhoff/mcp-browser-use",
+  "githubUrl": "https://github.com/jonnyhoff/mcp-browser-use",
+  "name": "Browser Use",
+  "author": "jonnyhoff",
+  "description": "Provides browser automation capabilities through a simple API, enabling execution of web tasks using natural language instructions",
+  "codiconIcon": "browser",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "execution",
+    "tasks",
+    "instructions",
+    "browser",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "1f19fb9e-9c50-4a10-bb8f-2a44c84be013"
+}

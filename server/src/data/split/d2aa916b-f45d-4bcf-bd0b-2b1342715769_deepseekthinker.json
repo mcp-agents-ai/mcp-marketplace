@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ruixingshi/deepseek-thinker-mcp",
+  "githubUrl": "https://github.com/ruixingshi/deepseek-thinker-mcp",
+  "name": "DeepSeek Thinker",
+  "author": "ruixingshi",
+  "description": "Integrates with DeepSeek Thinker model to enable chain-of-thought reasoning and complex problem-solving for applications requiring advanced cognitive capabilities.",
+  "codiconIcon": "deepseek",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "thinker",
+    "model",
+    "problem-solving",
+    "integrates",
+    "complex"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "d2aa916b-f45d-4bcf-bd0b-2b1342715769"
+}

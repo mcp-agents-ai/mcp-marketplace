@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/honeycombio/honeycomb-mcp",
+  "githubUrl": "https://github.com/honeycombio/honeycomb-mcp",
+  "name": "Honeycomb",
+  "author": "honeycombio",
+  "description": "Integrates with the Honeycomb API to enable direct querying and analysis of observability data for automated performance monitoring and troubleshooting.",
+  "codiconIcon": "honeycomb",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "querying",
+    "analysis",
+    "performance",
+    "troubleshooting",
+    "honeycomb"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "e18641a6-51a0-4de6-b047-508dde192611"
+}

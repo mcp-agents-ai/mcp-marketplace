@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pavel-bc/mcp-blockchain-query",
+  "githubUrl": "https://github.com/pavel-bc/mcp-blockchain-query",
+  "name": "Blockchain.com Data and Query",
+  "author": "pavel-bc",
+  "description": "Integrates with Blockchain.com's Data and Query APIs to enable Bitcoin blockchain data retrieval, analysis, and market monitoring for cryptocurrency applications.",
+  "codiconIcon": "blockchain.com",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "market",
+    "cryptocurrency",
+    "blockchain.com's",
+    "enable",
+    "bitcoin"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "bca79f7e-9875-4fcc-8b7d-ceb494d03cc3"
+}

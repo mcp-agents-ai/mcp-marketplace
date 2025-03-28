@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/mcp-server-asana",
+  "githubUrl": "https://github.com/pashpashpash/mcp-server-asana",
+  "name": "Asana",
+  "author": "pashpashpash",
+  "description": "Enables AI assistants to interact with Asana workspaces, providing comprehensive task and project management capabilities including creation, search, updates, and status tracking.",
+  "codiconIcon": "project",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/asana.png",
+  "category": "developer-tools",
+  "tags": [
+    "project-management",
+    "task-tracking",
+    "team-collaboration",
+    "workflow",
+    "asana-api"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 3,
+  "downloadCount": 150,
+  "createdAt": "2025-02-18T23:04:35.990279Z",
+  "updatedAt": "2025-02-18T23:04:35.990279Z",
+  "hubId": "ab7c3dab-25fd-4308-9267-adb57d62b167"
+}

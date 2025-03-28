@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ccc0168/modes-mcp-server",
+  "githubUrl": "https://github.com/ccc0168/modes-mcp-server",
+  "name": "Custom Modes (Roo Code)",
+  "author": "ccc0168",
+  "description": "Enables custom behavioral mode management for defining, loading, and applying tailored AI behaviors through configuration files in Roo Code",
+  "codiconIcon": "custom",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "behavioral",
+    "defining",
+    "loading",
+    "applying",
+    "configuration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "aa00751a-37a2-4291-96f0-350bcccfd629"
+}

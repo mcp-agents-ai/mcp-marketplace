@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/amgadabdelhafez/dbx-mcp-server",
+  "githubUrl": "https://github.com/amgadabdelhafez/dbx-mcp-server",
+  "name": "Dropbox",
+  "author": "amgadabdelhafez",
+  "description": "Integrates with Dropbox to enable file management operations like listing, uploading, downloading, and sharing files for cloud storage workflows.",
+  "codiconIcon": "dropbox",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "uploading",
+    "downloading",
+    "sharing",
+    "cloud",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "658a9cb6-cdef-443b-a905-7ba8f3ab15d2"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/emzimmer/server-wp-mcp",
+  "githubUrl": "https://github.com/emzimmer/server-wp-mcp",
+  "name": "WordPress",
+  "author": "emzimmer",
+  "description": "Integrates with WordPress REST API to enable secure content management, user administration, and site configuration tasks.",
+  "codiconIcon": "wordpress",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "content",
+    "administration",
+    "tasks",
+    "wordpress"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "6e6ecd6e-0148-4f9f-974a-0b1a5c4f51f6"
+}

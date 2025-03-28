@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jakedahn/deno2-playwright-mcp-server",
+  "githubUrl": "https://github.com/jakedahn/deno2-playwright-mcp-server",
+  "name": "Deno Playwright",
+  "author": "jakedahn",
+  "description": "Integrates with Playwright and Deno to enable browser automation for web navigation, interaction, and data extraction tasks.",
+  "codiconIcon": "deno",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "playwright",
+    "browser",
+    "automation",
+    "extraction",
+    "tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "e1d80421-ef38-45d5-823e-f63cc741a25d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/benyue1978/run-command-mcp",
+  "githubUrl": "https://github.com/benyue1978/run-command-mcp",
+  "name": "Run Shell Command",
+  "author": "benyue1978",
+  "description": "Enables direct execution of shell commands from chat interfaces, creating a bridge between natural language prompts and local system operations for quick developer workflows.",
+  "codiconIcon": "run",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "direct",
+    "interfaces",
+    "between",
+    "natural",
+    "developer"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "b905fac1-2eac-4fc7-9619-a70ce599664f"
+}

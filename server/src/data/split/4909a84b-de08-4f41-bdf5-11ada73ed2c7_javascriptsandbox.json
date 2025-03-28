@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/garc33/js-sandbox-mcp-server",
+  "githubUrl": "https://github.com/garc33/js-sandbox-mcp-server",
+  "name": "JavaScript Sandbox",
+  "author": "garc33",
+  "description": "Provides a secure JavaScript sandbox for executing code with configurable time and memory limits, enabling safe testing and evaluation of algorithms.",
+  "codiconIcon": "javascript",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "javascript-sandbox",
+    "configurable",
+    "memory",
+    "limits",
+    "testing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "4909a84b-de08-4f41-bdf5-11ada73ed2c7"
+}

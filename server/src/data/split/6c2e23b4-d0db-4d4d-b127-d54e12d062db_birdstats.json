@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DMontgomery40/mcp-server-birdstats",
+  "githubUrl": "https://github.com/DMontgomery40/mcp-server-birdstats",
+  "name": "BirdStats",
+  "author": "DMontgomery40",
+  "description": "Integrates BirdNET-Pi and eBird APIs to enable cross-referencing bird detection data with observation records for ecological research and bird watching insights.",
+  "codiconIcon": "birdstats",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "detection",
+    "records",
+    "ecological"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "6c2e23b4-d0db-4d4d-b127-d54e12d062db"
+}

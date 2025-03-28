@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Vikrant-Khedkar/api-tester-mcp",
+  "githubUrl": "https://github.com/Vikrant-Khedkar/api-tester-mcp",
+  "name": "API Tester (OpenAI)",
+  "author": "Vikrant-Khedkar",
+  "description": "Integrates with OpenAI's APIs to provide tools for API testing, text generation, image creation, and HTTP request handling within applications.",
+  "codiconIcon": "api",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applications",
+    "openai's",
+    "provide",
+    "testing",
+    "generation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "94a29de9-422a-410c-9397-5edcda558f8c"
+}

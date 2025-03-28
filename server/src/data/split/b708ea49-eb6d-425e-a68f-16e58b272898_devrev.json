@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kpsunil97/devrev-mcp-server",
+  "githubUrl": "https://github.com/kpsunil97/devrev-mcp-server",
+  "name": "DevRev",
+  "author": "kpsunil97",
+  "description": "Integrates with DevRev APIs to enable search and retrieval of DevRev data for automated issue tracking, customer support analysis, and data-driven decision making.",
+  "codiconIcon": "devrev",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "retrieval",
+    "customer",
+    "data-driven",
+    "decision"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "b708ea49-eb6d-425e-a68f-16e58b272898"
+}

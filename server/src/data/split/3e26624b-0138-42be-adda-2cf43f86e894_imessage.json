@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tchbw/mcp-imessage",
+  "githubUrl": "https://github.com/tchbw/mcp-imessage",
+  "name": "iMessage",
+  "author": "tchbw",
+  "description": "Enables iMessage interaction on macOS for read/send capabilities.",
+  "codiconIcon": "imessage",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "interaction",
+    "macos",
+    "read/send",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "3e26624b-0138-42be-adda-2cf43f86e894"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hekmon8/Jenkins-server-mcp",
+  "githubUrl": "https://github.com/hekmon8/Jenkins-server-mcp",
+  "name": "Jenkins",
+  "author": "hekmon8",
+  "description": "Integrates with Jenkins CI/CD pipelines to enable automated job management, build monitoring, and artifact handling for streamlined software delivery workflows.",
+  "codiconIcon": "jenkins",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "artifact",
+    "management",
+    "handling",
+    "streamlined",
+    "software"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "e74e5bae-c456-48ba-953e-b9fe334259ce"
+}

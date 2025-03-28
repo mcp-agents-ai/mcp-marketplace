@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ajbr0wn/gmail-mcp-server",
+  "githubUrl": "https://github.com/ajbr0wn/gmail-mcp-server",
+  "name": "Gmail",
+  "author": "ajbr0wn",
+  "description": "Integrates Gmail functionality to enable secure access, search, and analysis of email contents using OAuth2 authentication and the Gmail API.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "oauth2",
+    "integrates",
+    "secure",
+    "contents",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "349b4e9e-4d55-4c08-b4c8-dcf334973142"
+}

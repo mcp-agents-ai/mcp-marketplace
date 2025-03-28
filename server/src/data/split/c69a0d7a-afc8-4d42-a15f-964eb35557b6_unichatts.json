@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/amidabuddha/unichat-ts-mcp-server",
+  "githubUrl": "https://github.com/amidabuddha/unichat-ts-mcp-server",
+  "name": "Unichat (TS)",
+  "author": "amidabuddha",
+  "description": "Integrates multiple language models via the unified Unichat tool, enabling seamless interaction across OpenAI, MistralAI, Anthropic, xAI, and Google AI platforms.",
+  "codiconIcon": "unichat",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "across",
+    "openai",
+    "integrates",
+    "tool",
+    "interaction"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "c69a0d7a-afc8-4d42-a15f-964eb35557b6"
+}

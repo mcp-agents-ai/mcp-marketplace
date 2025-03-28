@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jmagar/overseerr-mcp-server",
+  "githubUrl": "https://github.com/jmagar/overseerr-mcp-server",
+  "name": "Overseerr",
+  "author": "jmagar",
+  "description": "Integrates with Overseerr to enable media searching, retrieval, request management, and personalized recommendations for Plex libraries.",
+  "codiconIcon": "overseerr",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "media",
+    "retrieval",
+    "personalized",
+    "libraries",
+    "overseerr"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "1617c356-8b2e-49a5-a246-c94991ed484b"
+}

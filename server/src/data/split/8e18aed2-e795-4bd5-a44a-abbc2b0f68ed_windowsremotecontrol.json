@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Cheffromspace/MCPControl",
+  "githubUrl": "https://github.com/Cheffromspace/MCPControl",
+  "name": "Windows Remote Control",
+  "author": "Cheffromspace",
+  "description": "Enables remote automation of Windows systems for controlling mouse, keyboard, and screen capture via nut.js.",
+  "codiconIcon": "windows",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "remote",
+    "windows",
+    "controlling",
+    "capture",
+    "nut.js"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "8e18aed2-e795-4bd5-a44a-abbc2b0f68ed"
+}

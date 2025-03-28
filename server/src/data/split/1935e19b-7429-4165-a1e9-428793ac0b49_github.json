@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/github",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/github",
+  "name": "GitHub",
+  "author": "modelcontextprotocol",
+  "description": "Comprehensive GitHub API integration enabling repository management, file operations, issue tracking, pull request handling, and advanced search functionality across code, issues, and users.",
+  "codiconIcon": "github",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/github.png",
+  "category": "version-control",
+  "tags": [
+    "github",
+    "git",
+    "repository-management",
+    "code-collaboration",
+    "version-control"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24192,
+  "downloadCount": 18647,
+  "createdAt": "2025-02-17T22:22:31.362545Z",
+  "updatedAt": "2025-02-17T22:22:31.362545Z",
+  "hubId": "1935e19b-7429-4165-a1e9-428793ac0b49"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gerred/mcpmc",
+  "githubUrl": "https://github.com/gerred/mcpmc",
+  "name": "Minecraft Bot Control",
+  "author": "gerred",
+  "description": "Integrates Mineflayer to enable AI control of Minecraft bots for navigation, block manipulation, inventory management, and real-time game state monitoring.",
+  "codiconIcon": "minecraft",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "manipulation",
+    "management",
+    "real-time",
+    "minecraft-bot-control",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "d487868c-bed9-4d1e-b6a5-b3c4906e93b6"
+}

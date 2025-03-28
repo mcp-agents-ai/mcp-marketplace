@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/tavily-ai/tavily-mcp",
+  "githubUrl": "https://github.com/tavily-ai/tavily-mcp",
+  "name": "Tavily",
+  "author": "tavily-ai",
+  "description": "Enables real-time web search and data extraction capabilities through Tavily's API, providing AI assistants with filtered search results and intelligent content extraction from web pages.",
+  "codiconIcon": "search",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/tavily.jpg",
+  "category": "search",
+  "tags": [
+    "web-search",
+    "data-extraction",
+    "real-time-information",
+    "content-filtering",
+    "news-search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 157,
+  "downloadCount": 3317,
+  "createdAt": "2025-02-17T22:46:47.267489Z",
+  "updatedAt": "2025-02-17T22:46:47.267489Z",
+  "hubId": "f74de335-ee4d-4709-b891-d0e6e8c91bc8"
+}

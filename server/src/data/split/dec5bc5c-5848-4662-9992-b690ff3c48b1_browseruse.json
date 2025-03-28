@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Saik0s/mcp-browser-use",
+  "githubUrl": "https://github.com/Saik0s/mcp-browser-use",
+  "name": "Browser Use",
+  "author": "Saik0s",
+  "description": "Integrates with web browsers to enable automated web scraping, form filling, and interaction with web applications.",
+  "codiconIcon": "browser",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "browser-use",
+    "integrates",
+    "browsers",
+    "automated",
+    "scraping"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "dec5bc5c-5848-4662-9992-b690ff3c48b1"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mgsrevolver/consolespy",
+  "githubUrl": "https://github.com/mgsrevolver/consolespy",
+  "name": "ConsoleSpy",
+  "author": "mgsrevolver",
+  "description": "Captures browser console logs and makes them available in an IDE through a server, browser extension, and web interface for seamless integration into development workflows.",
+  "codiconIcon": "consolespy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "console",
+    "makes",
+    "available",
+    "server",
+    "interface"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "1da3af1b-2edb-426c-abd3-3a76494fe011"
+}

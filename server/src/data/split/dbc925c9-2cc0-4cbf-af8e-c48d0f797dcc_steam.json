@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/exi/mcp-steam",
+  "githubUrl": "https://github.com/exi/mcp-steam",
+  "name": "Steam",
+  "author": "exi",
+  "description": "Integrates with the Steam Web API to access user data, game information, and Steam-related functionalities for analyzing gaming habits, providing recommendations, or incorporating Steam profiles into applications.",
+  "codiconIcon": "steam",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "providing",
+    "recommendations",
+    "incorporating",
+    "steam",
+    "data"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "dbc925c9-2cc0-4cbf-af8e-c48d0f797dcc"
+}

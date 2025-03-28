@@ -1,0 +1,21 @@
+{
+  "mcpId": "https://github.com/wysh3/perplexity-mcp-zerver",
+  "githubUrl": "https://github.com/wysh3/perplexity-mcp-zerver",
+  "name": "Perplexity",
+  "author": "wysh3",
+  "description": "Use Perplexity without any API keys",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "perplexity",
+    "without"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "49f67f39-11c4-4fa4-a99a-500ed1f6bb71"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hanweg/mcp-pdf-tools",
+  "githubUrl": "https://github.com/hanweg/mcp-pdf-tools",
+  "name": "PDF Manipulation",
+  "author": "hanweg",
+  "description": "Integrates PDF manipulation capabilities using Python libraries to enable merging, extraction, and content-based document retrieval tasks.",
+  "codiconIcon": "pdf",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "document",
+    "tasks",
+    "manipulation",
+    "capabilities",
+    "python"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "c50efa29-4322-4cd5-828b-a175b4a808c7"
+}

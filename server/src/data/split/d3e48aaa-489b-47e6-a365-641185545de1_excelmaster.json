@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Lipdog/excel-master-mcp",
+  "githubUrl": "https://github.com/Lipdog/excel-master-mcp",
+  "name": "Excel Master",
+  "author": "Lipdog",
+  "description": "Integrates with Excel using XLwings to enable automated data manipulation, analysis, and reporting for business workflows.",
+  "codiconIcon": "excel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "excel-master",
+    "integrates",
+    "xlwings",
+    "enable",
+    "manipulation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "d3e48aaa-489b-47e6-a365-641185545de1"
+}

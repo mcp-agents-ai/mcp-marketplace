@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/burningion/geoapify-mcp",
+  "githubUrl": "https://github.com/burningion/geoapify-mcp",
+  "name": "Geoapify Map Generator",
+  "author": "burningion",
+  "description": "Generates map images from geographic coordinates using Python libraries for geocoding and visualization tasks.",
+  "codiconIcon": "geoapify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "images",
+    "python",
+    "libraries",
+    "visualization",
+    "geographic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "339fd14d-4251-4359-a523-7bc2eabdafd5"
+}

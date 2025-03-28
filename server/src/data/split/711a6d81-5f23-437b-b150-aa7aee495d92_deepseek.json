@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sheshiyer/deepseek-mcp-with-MoE",
+  "githubUrl": "https://github.com/Sheshiyer/deepseek-mcp-with-MoE",
+  "name": "DeepSeek",
+  "author": "Sheshiyer",
+  "description": "Integrates with the DeepSeek API to provide code generation, completion, and optimization across multiple languages using tool chaining and caching strategies.",
+  "codiconIcon": "deepseek",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provide",
+    "optimization",
+    "across",
+    "using",
+    "caching"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "711a6d81-5f23-437b-b150-aa7aee495d92"
+}

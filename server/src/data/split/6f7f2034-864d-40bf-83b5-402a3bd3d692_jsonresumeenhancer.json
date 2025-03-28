@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jsonresume/mcp",
+  "githubUrl": "https://github.com/jsonresume/mcp",
+  "name": "JSON Resume Enhancer",
+  "author": "jsonresume",
+  "description": "Enhances JSON Resumes with GitHub project information by analyzing codebases, fetching existing resumes, and intelligently updating profiles with relevant project details using OpenAI's API.",
+  "codiconIcon": "json",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "information",
+    "details",
+    "relevant",
+    "resumes",
+    "codebases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "6f7f2034-864d-40bf-83b5-402a3bd3d692"
+}

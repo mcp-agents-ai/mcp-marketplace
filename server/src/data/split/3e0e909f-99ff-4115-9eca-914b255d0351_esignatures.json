@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/esignaturescom/mcp-server-esignatures",
+  "githubUrl": "https://github.com/esignaturescom/mcp-server-esignatures",
+  "name": "eSignatures",
+  "author": "esignaturescom",
+  "description": "Manages digital contract workflows including creation, sending, and template management for electronic signatures through the eSignatures platform.",
+  "codiconIcon": "file-text",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/esignatures.png",
+  "category": "license",
+  "tags": [
+    "digital-signatures",
+    "contracts",
+    "document-management",
+    "templates",
+    "collaboration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 8,
+  "downloadCount": 25,
+  "createdAt": "2025-02-18T05:46:04.573832Z",
+  "updatedAt": "2025-02-18T05:46:04.573832Z",
+  "hubId": "3e0e909f-99ff-4115-9eca-914b255d0351"
+}

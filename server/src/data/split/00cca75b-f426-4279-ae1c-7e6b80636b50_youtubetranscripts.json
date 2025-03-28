@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript",
+  "githubUrl": "https://github.com/kimtaeyoon83/mcp-server-youtube-transcript",
+  "name": "YouTube Transcripts",
+  "author": "kimtaeyoon83",
+  "description": "Extract and analyze video captions and subtitles in multiple languages.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "youtube-transcripts",
+    "extract",
+    "analyze",
+    "video",
+    "captions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "00cca75b-f426-4279-ae1c-7e6b80636b50"
+}

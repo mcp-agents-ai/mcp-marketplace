@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wricardo/grpcurl-mcp",
+  "githubUrl": "https://github.com/wricardo/grpcurl-mcp",
+  "name": "gRPC Reflection",
+  "author": "wricardo",
+  "description": "Integrates with gRPC services using grpcurl, enabling method invocation, service listing, and description with custom header support for versatile API interactions.",
+  "codiconIcon": "grpc",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "grpcurl",
+    "method",
+    "description",
+    "header",
+    "support"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "5a09dd1e-69bf-458b-8d72-64d43252353f"
+}

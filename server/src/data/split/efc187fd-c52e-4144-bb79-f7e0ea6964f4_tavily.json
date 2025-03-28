@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mcp2everything/mcp2tavily",
+  "githubUrl": "https://github.com/mcp2everything/mcp2tavily",
+  "name": "Tavily",
+  "author": "mcp2everything",
+  "description": "Integrates the Tavily search API to enable web searches and information retrieval for fact-checking and research tasks.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "information",
+    "retrieval",
+    "tasks",
+    "tavily"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "efc187fd-c52e-4144-bb79-f7e0ea6964f4"
+}

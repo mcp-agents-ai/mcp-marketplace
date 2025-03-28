@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/negokaz/excel-mcp-server",
+  "githubUrl": "https://github.com/negokaz/excel-mcp-server",
+  "name": "Excel",
+  "author": "negokaz",
+  "description": "Integrates with Microsoft Excel to enable reading and writing of text data in xlsx files for spreadsheet manipulation and analysis tasks.",
+  "codiconIcon": "excel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "microsoft",
+    "reading",
+    "writing",
+    "files",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "48eaaefb-5603-4d2e-8e00-cda31d809873"
+}

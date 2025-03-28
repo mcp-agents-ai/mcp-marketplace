@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tesla0225/mcp-create",
+  "githubUrl": "https://github.com/tesla0225/mcp-create",
+  "name": "Dynamic MCP Server Creator",
+  "author": "tesla0225",
+  "description": "Creates and manages dynamic MCP servers on-demand, enabling flexible tool execution and server lifecycle control through a TypeScript-based controller that runs in Docker for optimal isolation and security.",
+  "codiconIcon": "dynamic",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "isolation",
+    "manages",
+    "dynamic",
+    "typescript-based",
+    "on-demand"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "533a0193-26ef-4893-ac32-241035052bc5"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/meanands/mysql-mcp",
+  "githubUrl": "https://github.com/meanands/mysql-mcp",
+  "name": "MySQL",
+  "author": "meanands",
+  "description": "Enables natural language interaction with MySQL databases through Python and SQLAlchemy, providing secure query execution, connection pooling, and structured results for data analysis and database management without writing raw SQL.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "connection",
+    "results",
+    "management",
+    "through",
+    "sqlalchemy"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "eb235f1b-f749-4846-8e46-917b1cf68872"
+}

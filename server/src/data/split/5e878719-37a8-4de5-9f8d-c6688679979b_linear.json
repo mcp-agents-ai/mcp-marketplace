@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ibraheem4/linear-mcp",
+  "githubUrl": "https://github.com/ibraheem4/linear-mcp",
+  "name": "Linear",
+  "author": "ibraheem4",
+  "description": "Integrates with Linear's project management platform to enable issue tracking, team management, and project status reporting via a simplified API interface.",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "linear",
+    "linear's",
+    "platform",
+    "issue",
+    "tracking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "5e878719-37a8-4de5-9f8d-c6688679979b"
+}

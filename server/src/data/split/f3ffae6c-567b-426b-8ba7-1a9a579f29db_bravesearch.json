@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/arben-adm/brave-mcp-search",
+  "githubUrl": "https://github.com/arben-adm/brave-mcp-search",
+  "name": "Brave Search",
+  "author": "arben-adm",
+  "description": "Integrates with Brave Search API to enable web searches and local business lookups via natural language queries.",
+  "codiconIcon": "brave",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "queries",
+    "integrates",
+    "brave",
+    "search",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "f3ffae6c-567b-426b-8ba7-1a9a579f29db"
+}

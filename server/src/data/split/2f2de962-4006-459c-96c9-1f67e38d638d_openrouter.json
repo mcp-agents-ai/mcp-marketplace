@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/heltonteixeira/openrouterai",
+  "githubUrl": "https://github.com/heltonteixeira/openrouterai",
+  "name": "OpenRouter",
+  "author": "heltonteixeira",
+  "description": "Unifies access to diverse AI models via OpenRouter, enabling flexible model selection and usage for applications like chatbots and content generation.",
+  "codiconIcon": "openrouter",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "openrouter",
+    "diverse",
+    "flexible",
+    "model",
+    "selection"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "2f2de962-4006-459c-96c9-1f67e38d638d"
+}

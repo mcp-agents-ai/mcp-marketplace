@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/miguelg719/home-assistant-mcp",
+  "githubUrl": "https://github.com/miguelg719/home-assistant-mcp",
+  "name": "Home Assistant",
+  "author": "miguelg719",
+  "description": "Integrates Home Assistant devices and automation into workflows, enabling control and monitoring of smart home systems like lighting, climate, and security.",
+  "codiconIcon": "home",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "devices",
+    "workflows",
+    "enabling",
+    "systems",
+    "lighting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "612602db-dc2b-45d4-a79f-b20b845f7432"
+}

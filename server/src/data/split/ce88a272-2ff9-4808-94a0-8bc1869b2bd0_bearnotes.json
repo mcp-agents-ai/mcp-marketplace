@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/akseyh/bear-mcp-server",
+  "githubUrl": "https://github.com/akseyh/bear-mcp-server",
+  "name": "Bear Notes",
+  "author": "akseyh",
+  "description": "Integrates with Bear notes on macOS, providing direct database access for efficient retrieval and analysis of personal note content.",
+  "codiconIcon": "bear",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "notes",
+    "macos",
+    "direct",
+    "analysis",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "ce88a272-2ff9-4808-94a0-8bc1869b2bd0"
+}

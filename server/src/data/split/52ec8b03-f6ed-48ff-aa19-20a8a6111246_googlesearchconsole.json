@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AminForou/mcp-gsc",
+  "githubUrl": "https://github.com/AminForou/mcp-gsc",
+  "name": "Google Search Console",
+  "author": "AminForou",
+  "description": "Integrates with Google Search Console API to provide website search performance analytics, indexing status monitoring, and sitemap management for SEO professionals",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "search",
+    "website",
+    "performance",
+    "analytics",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "52ec8b03-f6ed-48ff-aa19-20a8a6111246"
+}

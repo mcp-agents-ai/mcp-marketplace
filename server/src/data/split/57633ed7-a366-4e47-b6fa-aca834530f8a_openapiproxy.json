@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/snaggle-ai/openapi-mcp-server",
+  "githubUrl": "https://github.com/snaggle-ai/openapi-mcp-server",
+  "name": "OpenAPI Proxy",
+  "author": "snaggle-ai",
+  "description": "Creates a proxy server that converts any OpenAPI v3.1 compliant API into Claude-compatible tools, enabling natural language interaction with APIs including file upload support.",
+  "codiconIcon": "link",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/openapi.png",
+  "category": "developer-tools",
+  "tags": [
+    "openapi",
+    "api-integration",
+    "proxy",
+    "file-upload",
+    "documentation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 356,
+  "downloadCount": 359,
+  "createdAt": "2025-02-17T22:45:43.055912Z",
+  "updatedAt": "2025-02-17T22:45:43.055912Z",
+  "hubId": "57633ed7-a366-4e47-b6fa-aca834530f8a"
+}

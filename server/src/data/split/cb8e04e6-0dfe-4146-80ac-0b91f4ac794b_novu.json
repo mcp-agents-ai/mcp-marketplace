@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/novuhq/smithery-mcp",
+  "githubUrl": "https://github.com/novuhq/smithery-mcp",
+  "name": "Novu",
+  "author": "novuhq",
+  "description": "Integrates with Novu's notification infrastructure to enable subscriber management, notification triggering, and multi-channel messaging across applications.",
+  "codiconIcon": "novu",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "multi-channel",
+    "across",
+    "applications",
+    "novu",
+    "notification"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "cb8e04e6-0dfe-4146-80ac-0b91f4ac794b"
+}

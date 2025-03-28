@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/stat-guy/retrieval-augmented-thinking",
+  "githubUrl": "https://github.com/stat-guy/retrieval-augmented-thinking",
+  "name": "Retrieval-Augmented Thinking",
+  "author": "stat-guy",
+  "description": "Enhances AI capabilities with structured, retrieval-augmented thinking processes, enabling dynamic thought chains and recursive refinement for improved reasoning and complex problem-solving.",
+  "codiconIcon": "retrieval-augmented",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "complex",
+    "capabilities",
+    "enabling",
+    "thought",
+    "retrieval-augmented-thinking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "2199dc98-c79d-4dc6-afdf-ecc19088982c"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Kallows/mcp-jira-python",
+  "githubUrl": "https://github.com/Kallows/mcp-jira-python",
+  "name": "Jira",
+  "author": "Kallows",
+  "description": "Integrates with Jira's API to enable issue tracking, project management, and workflow automation tasks.",
+  "codiconIcon": "jira",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "project",
+    "management",
+    "automation",
+    "tasks",
+    "jira"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "e51bb6ec-5e86-40d5-b8a8-3a181eb90559"
+}

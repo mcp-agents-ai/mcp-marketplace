@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://www.npmjs.com/package/@vizioz/teamwork-mcp",
+  "githubUrl": "https://www.npmjs.com/package/@vizioz/teamwork-mcp",
+  "name": "Teamwork",
+  "author": "",
+  "description": "The Teamwork MCP Server enables the Cursor Agent to interact with your Teamwork.com account. It enables users to manage projects, tasks, people, reporting, and time tracking.\n\nPlease check the installation instructions for more details, license and disclaimer. ",
+  "codiconIcon": "teamwork",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/2uasg0591sx.png",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "agent",
+    "interact",
+    "users",
+    "tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-26T05:20:13.616548+00:00",
+  "updatedAt": "2025-03-26T05:20:13.616548+00:00",
+  "hubId": "9eee4584-6acb-455a-8205-a7b78abd6350"
+}

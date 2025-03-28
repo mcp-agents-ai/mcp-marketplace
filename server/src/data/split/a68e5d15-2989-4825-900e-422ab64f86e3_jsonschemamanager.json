@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jaho5/json-schema-mcp",
+  "githubUrl": "https://github.com/jaho5/json-schema-mcp",
+  "name": "JSON Schema Manager",
+  "author": "jaho5",
+  "description": "Manages JSON schemas and generates instances with custom properties, enabling applications to maintain consistent data structures and create template-based JSON documents",
+  "codiconIcon": "json",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applications",
+    "consistent",
+    "create",
+    "json-schema-manager",
+    "instances"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a68e5d15-2989-4825-900e-422ab64f86e3"
+}

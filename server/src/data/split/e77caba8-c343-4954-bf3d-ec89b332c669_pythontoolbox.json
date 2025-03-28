@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gianlucamazza/mcp_python_toolbox",
+  "githubUrl": "https://github.com/gianlucamazza/mcp_python_toolbox",
+  "name": "Python Toolbox",
+  "author": "gianlucamazza",
+  "description": "Integrates Python development tools for file operations, code analysis, project management, and safe code execution, enabling advanced programming workflows and automated testing.",
+  "codiconIcon": "python",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "testing",
+    "development",
+    "tools",
+    "analysis",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "e77caba8-c343-4954-bf3d-ec89b332c669"
+}

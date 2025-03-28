@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/samcfinan/linear-mcp-server",
+  "githubUrl": "https://github.com/samcfinan/linear-mcp-server",
+  "name": "Linear",
+  "author": "samcfinan",
+  "description": "Integrates with Linear's project management API to enable creation, viewing, updating, and management of projects, initiatives, and issues for holistic workflow support.",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "linear",
+    "integrates",
+    "project",
+    "enable",
+    "updating"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "dd9c4bb0-f212-492b-8ea1-9c2906abd91d"
+}

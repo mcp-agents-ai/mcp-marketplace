@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gerred/mcp-server-replicate",
+  "githubUrl": "https://github.com/gerred/mcp-server-replicate",
+  "name": "Replicate",
+  "author": "gerred",
+  "description": "Integrates with Replicate API to provide seamless access to diverse machine learning models for inference and result retrieval across various domains.",
+  "codiconIcon": "replicate",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provide",
+    "models",
+    "inference",
+    "result",
+    "across"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "e074c68c-d4e9-4f53-aaec-6905a576effb"
+}

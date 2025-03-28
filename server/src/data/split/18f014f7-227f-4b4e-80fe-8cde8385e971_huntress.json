@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DynamicEndpoints/huntress-mcp-server",
+  "githubUrl": "https://github.com/DynamicEndpoints/huntress-mcp-server",
+  "name": "Huntress",
+  "author": "DynamicEndpoints",
+  "description": "Integrates with Huntress endpoint protection services to manage cybersecurity operations, threat analysis, and automated reporting.",
+  "codiconIcon": "huntress",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automated",
+    "reporting",
+    "huntress",
+    "integrates",
+    "endpoint"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "18f014f7-227f-4b4e-80fe-8cde8385e971"
+}

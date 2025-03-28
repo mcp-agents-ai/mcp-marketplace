@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/1595901624/crypto-mcp",
+  "githubUrl": "https://github.com/1595901624/crypto-mcp",
+  "name": "Crypto",
+  "author": "1595901624",
+  "description": "Provides encryption, decryption, and hashing functionalities using the crypto-js library for secure data handling and integrity verification in workflows.",
+  "codiconIcon": "crypto",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrity",
+    "encryption",
+    "decryption",
+    "library",
+    "handling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "6323d2f9-dd1c-4518-b5a1-d906c20bcf24"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/v-3/notion-server",
+  "githubUrl": "https://github.com/v-3/notion-server",
+  "name": "Notion",
+  "author": "v-3",
+  "description": "Interact with Notion workspaces by searching, reading, creating, and updating pages.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reading",
+    "creating",
+    "updating",
+    "pages",
+    "notion"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "08148a89-fbec-45bd-a137-12ff0b039a0e"
+}

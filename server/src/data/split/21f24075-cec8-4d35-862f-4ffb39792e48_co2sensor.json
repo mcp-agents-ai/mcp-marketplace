@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kmwebnet/MCP-Server-for-sensor-device",
+  "githubUrl": "https://github.com/kmwebnet/MCP-Server-for-sensor-device",
+  "name": "CO2 Sensor",
+  "author": "kmwebnet",
+  "description": "Simulates or interfaces with a CO2 sensor device, providing JSON-RPC endpoints for device information, sensor data, and network management with MQTT publishing capabilities for IoT applications.",
+  "codiconIcon": "co2",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "network",
+    "co2-sensor",
+    "json-rpc",
+    "information",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "21f24075-cec8-4d35-862f-4ffb39792e48"
+}

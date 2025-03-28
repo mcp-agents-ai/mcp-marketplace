@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tchbw/bart-mcp",
+  "githubUrl": "https://github.com/tchbw/bart-mcp",
+  "name": "BART (San Francisco Transit)",
+  "author": "tchbw",
+  "description": "Integrates with BART's API to provide real-time train departure information in San Francisco.",
+  "codiconIcon": "bart",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bart-(san-francisco-transit)",
+    "integrates",
+    "real-time",
+    "departure",
+    "information"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "c45ac091-c508-44f7-8ef5-2c6e1845643f"
+}

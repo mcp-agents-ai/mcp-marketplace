@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ihor-sokoliuk/mcp-searxng",
+  "githubUrl": "https://github.com/ihor-sokoliuk/mcp-searxng",
+  "name": "SearXNG",
+  "author": "ihor-sokoliuk",
+  "description": "Integrates SearXNG API to enable web searches with pagination control for up-to-date information retrieval and content analysis.",
+  "codiconIcon": "searxng",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "searxng",
+    "enable",
+    "pagination",
+    "control",
+    "up-to-date"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "6300b4bf-4d1b-47df-a62e-4523f8a05ecc"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/LostInBrittany/clever-doc-mcp-server",
+  "githubUrl": "https://github.com/LostInBrittany/clever-doc-mcp-server",
+  "name": "Clever Cloud Documentation",
+  "author": "LostInBrittany",
+  "description": "Exposes Clever Cloud's documentation for querying and accessing content, enabling automated lookup and integration with development workflows.",
+  "codiconIcon": "clever",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "clever",
+    "cloud's",
+    "documentation",
+    "querying",
+    "accessing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "36bbeb0d-ca1b-469e-a60d-2cfa2f370fc3"
+}

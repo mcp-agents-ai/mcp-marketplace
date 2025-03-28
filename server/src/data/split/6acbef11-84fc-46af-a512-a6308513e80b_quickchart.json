@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GongRzhe/Quickchart-MCP-Server",
+  "githubUrl": "https://github.com/GongRzhe/Quickchart-MCP-Server",
+  "name": "QuickChart",
+  "author": "GongRzhe",
+  "description": "Integrates with QuickChart to enable dynamic generation of charts and graphs for data visualization tasks.",
+  "codiconIcon": "quickchart",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "generation",
+    "charts",
+    "visualization"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "6acbef11-84fc-46af-a512-a6308513e80b"
+}

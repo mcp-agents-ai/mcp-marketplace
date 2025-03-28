@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/itsDarianNgo/mcp-server-litellm",
+  "githubUrl": "https://github.com/itsDarianNgo/mcp-server-litellm",
+  "name": "LiteLLM",
+  "author": "itsDarianNgo",
+  "description": "Integrates with LiteLLM to provide access to OpenAI language models for text completion and generation tasks across various applications.",
+  "codiconIcon": "litellm",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "generation",
+    "various",
+    "applications",
+    "litellm",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "de8ea677-78dd-4be7-87ad-3c3fa6c6788c"
+}

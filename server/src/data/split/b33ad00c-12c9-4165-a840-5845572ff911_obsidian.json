@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/smithery-ai/mcp-obsidian",
+  "githubUrl": "https://github.com/smithery-ai/mcp-obsidian",
+  "name": "Obsidian",
+  "author": "smithery-ai",
+  "description": "Enables reading and searching of Markdown notes directories (like Obsidian vaults), allowing AI assistants to access and query local knowledge bases.",
+  "codiconIcon": "notebook",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/obsidian.png",
+  "category": "note-taking",
+  "tags": [
+    "markdown",
+    "knowledge-base",
+    "notes",
+    "search",
+    "obsidian"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 448,
+  "downloadCount": 2871,
+  "createdAt": "2025-02-17T22:22:13.239338Z",
+  "updatedAt": "2025-02-17T22:22:13.239338Z",
+  "hubId": "b33ad00c-12c9-4165-a840-5845572ff911"
+}

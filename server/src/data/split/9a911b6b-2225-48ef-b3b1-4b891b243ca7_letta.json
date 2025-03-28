@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/oculairmedia/Letta-MCP-server",
+  "githubUrl": "https://github.com/oculairmedia/Letta-MCP-server",
+  "name": "Letta",
+  "author": "oculairmedia",
+  "description": "Integrates with the Letta API to enable creation and management of agents, memory blocks, and tools for advanced AI-based interactions and memory management",
+  "codiconIcon": "letta",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "letta",
+    "creation",
+    "management",
+    "agents",
+    "memory"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "9a911b6b-2225-48ef-b3b1-4b891b243ca7"
+}

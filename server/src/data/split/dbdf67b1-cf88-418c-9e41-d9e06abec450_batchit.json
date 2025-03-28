@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ryanjoachim/mcp-batchit",
+  "githubUrl": "https://github.com/ryanjoachim/mcp-batchit",
+  "name": "BatchIt",
+  "author": "ryanjoachim",
+  "description": "Combine tool calls into a single batch_execute call.",
+  "codiconIcon": "batchit",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "batchit",
+    "combine",
+    "calls",
+    "single",
+    "batch_execute"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "dbdf67b1-cf88-418c-9e41-d9e06abec450"
+}

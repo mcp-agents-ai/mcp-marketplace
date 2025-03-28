@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/misterboe/strapi-mcp-server",
+  "githubUrl": "https://github.com/misterboe/strapi-mcp-server",
+  "name": "Strapi CMS",
+  "author": "misterboe",
+  "description": "Integrates Strapi CMS content into workflows, enabling manipulation of data for content management and querying in Strapi-powered applications.",
+  "codiconIcon": "strapi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applications",
+    "integrates",
+    "strapi",
+    "content",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "f7c61db6-4ce3-44b3-b1e9-cfda53812daf"
+}

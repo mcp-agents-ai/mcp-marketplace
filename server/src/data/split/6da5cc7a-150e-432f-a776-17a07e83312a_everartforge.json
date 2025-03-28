@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/nickbaumann98/everart-forge-mcp",
+  "githubUrl": "https://github.com/nickbaumann98/everart-forge-mcp",
+  "name": "EverArt Forge",
+  "author": "nickbaumann98",
+  "description": "Advanced image generation server integrating EverArt's AI models for creating vector and raster images, supporting multiple formats and styles with flexible storage options.",
+  "codiconIcon": "image",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/everart.png",
+  "category": "image-video-processing",
+  "tags": [
+    "image-generation",
+    "vector-graphics",
+    "ai-models",
+    "file-conversion",
+    "content-creation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 1,
+  "downloadCount": 211,
+  "createdAt": "2025-02-18T23:04:08.935882Z",
+  "updatedAt": "2025-02-18T23:04:08.935882Z",
+  "hubId": "6da5cc7a-150e-432f-a776-17a07e83312a"
+}

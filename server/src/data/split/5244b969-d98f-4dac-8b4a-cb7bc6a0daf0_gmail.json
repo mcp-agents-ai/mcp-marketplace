@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vinayak-mehta/gmail-mcp",
+  "githubUrl": "https://github.com/vinayak-mehta/gmail-mcp",
+  "name": "Gmail",
+  "author": "vinayak-mehta",
+  "description": "Integrates with Gmail to enable email search, retrieval, and interaction for natural language-driven email management and analysis tasks.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tasks",
+    "enable",
+    "retrieval",
+    "interaction",
+    "natural"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "5244b969-d98f-4dac-8b4a-cb7bc6a0daf0"
+}

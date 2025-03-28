@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Fujitsu-AI/MCP-Server-for-MAS-Developments",
+  "githubUrl": "https://github.com/Fujitsu-AI/MCP-Server-for-MAS-Developments",
+  "name": "privateGPT",
+  "author": "Fujitsu-AI",
+  "description": "Integrates privateGPT with MCP-compatible applications, providing chat management, knowledge source organization, and group-based permissions for diverse AI-driven projects.",
+  "codiconIcon": "privategpt",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "group-based",
+    "permissions",
+    "privategpt",
+    "applications",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "d645bc4a-5869-4a98-b1d9-a0409e144be8"
+}

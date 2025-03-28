@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mattarnster/supabase-mcp-server",
+  "githubUrl": "https://github.com/mattarnster/supabase-mcp-server",
+  "name": "Supabase",
+  "author": "mattarnster",
+  "description": "Integrates with the Supabase CLI to enable project management, database operations, and automated workflows for Supabase projects.",
+  "codiconIcon": "supabase",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "workflows",
+    "integrates",
+    "management",
+    "database",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "3235b203-956c-4c83-a3bd-981a8e34347f"
+}

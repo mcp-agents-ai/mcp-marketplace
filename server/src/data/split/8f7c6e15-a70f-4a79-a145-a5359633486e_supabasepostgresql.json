@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/stefanraath3/mcp-supabase",
+  "githubUrl": "https://github.com/stefanraath3/mcp-supabase",
+  "name": "Supabase PostgreSQL",
+  "author": "stefanraath3",
+  "description": "Integrates with Supabase PostgreSQL databases, exposing table schemas as resources and providing tools for data analysis, including read-only SQL queries, table statistics, and relationship discovery.",
+  "codiconIcon": "supabase",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "exposing",
+    "schemas",
+    "analysis",
+    "read-only",
+    "relationship"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "8f7c6e15-a70f-4a79-a145-a5359633486e"
+}

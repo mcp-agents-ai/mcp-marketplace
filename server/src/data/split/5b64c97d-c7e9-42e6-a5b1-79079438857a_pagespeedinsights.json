@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PhialsBasement/Pagespeed-MCP-Server",
+  "githubUrl": "https://github.com/PhialsBasement/Pagespeed-MCP-Server",
+  "name": "PageSpeed Insights",
+  "author": "PhialsBasement",
+  "description": "Integrates Google's PageSpeed Insights API to provide detailed web performance metrics and optimization recommendations for websites.",
+  "codiconIcon": "pagespeed",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "detailed",
+    "performance",
+    "recommendations",
+    "integrates",
+    "google's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "5b64c97d-c7e9-42e6-a5b1-79079438857a"
+}

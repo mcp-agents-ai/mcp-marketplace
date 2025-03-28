@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/AgentDeskAI/browser-tools-mcp",
+  "githubUrl": "https://github.com/AgentDeskAI/browser-tools-mcp",
+  "name": "Browser Tools",
+  "author": "AgentDeskAI",
+  "description": "A browser monitoring and interaction toolkit that enables AI tools to capture screenshots, analyze console logs, track network activity, perform audits, and interact with DOM elements via Chrome extension.",
+  "codiconIcon": "browser",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/browser-tools.png",
+  "category": "browser-automation",
+  "tags": [
+    "chrome-extension",
+    "debugging",
+    "web-auditing",
+    "monitoring",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 2206,
+  "downloadCount": 23328,
+  "createdAt": "2025-03-11T02:29:39.738183Z",
+  "updatedAt": "2025-03-11T02:29:39.738183Z",
+  "hubId": "4e738899-f0e7-46c2-9fe4-bfbaa6fe6918"
+}

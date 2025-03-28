@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jbchouinard/mcp-document-reader",
+  "githubUrl": "https://github.com/jbchouinard/mcp-document-reader",
+  "name": "Document Reader",
+  "author": "jbchouinard",
+  "description": "Enables interaction with PDF and EPUB documents for reading, analyzing content, and extracting information from document files.",
+  "codiconIcon": "document",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "document-reader",
+    "documents",
+    "content",
+    "extracting",
+    "information"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "db865e7a-2e04-4979-9e6b-5cca39f05ed6"
+}

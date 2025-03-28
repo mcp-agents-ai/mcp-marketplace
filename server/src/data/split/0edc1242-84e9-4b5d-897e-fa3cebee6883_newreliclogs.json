@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Ivlad003/mcp_newrelic",
+  "githubUrl": "https://github.com/Ivlad003/mcp_newrelic",
+  "name": "New Relic Logs",
+  "author": "Ivlad003",
+  "description": "Bridges New Relic's log querying capabilities with a Python-based server, enabling execution of NRQL queries for performance monitoring and log analysis.",
+  "codiconIcon": "new",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "capabilities",
+    "enabling",
+    "queries",
+    "performance",
+    "monitoring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "0edc1242-84e9-4b5d-897e-fa3cebee6883"
+}

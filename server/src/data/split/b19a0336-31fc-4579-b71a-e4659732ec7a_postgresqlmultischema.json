@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/HarjjotSinghh/mcp-server-postgres-multi-schema",
+  "githubUrl": "https://github.com/HarjjotSinghh/mcp-server-postgres-multi-schema",
+  "name": "PostgreSQL Multi-Schema",
+  "author": "HarjjotSinghh",
+  "description": "Provides read-only access to PostgreSQL databases with enhanced multi-schema support, enabling schema inspection, query execution, and isolation across multiple namespaces.",
+  "codiconIcon": "postgresql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "query",
+    "across",
+    "namespaces",
+    "provides",
+    "read-only"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "b19a0336-31fc-4579-b71a-e4659732ec7a"
+}

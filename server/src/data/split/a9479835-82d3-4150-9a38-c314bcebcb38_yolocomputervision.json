@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GongRzhe/YOLO-MCP-Server",
+  "githubUrl": "https://github.com/GongRzhe/YOLO-MCP-Server",
+  "name": "YOLO Computer Vision",
+  "author": "GongRzhe",
+  "description": "Enables computer vision capabilities using YOLO models for object detection, segmentation, classification, and pose estimation on images and camera feeds",
+  "codiconIcon": "yolo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "yolo-computer-vision",
+    "detection",
+    "segmentation",
+    "classification",
+    "estimation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a9479835-82d3-4150-9a38-c314bcebcb38"
+}

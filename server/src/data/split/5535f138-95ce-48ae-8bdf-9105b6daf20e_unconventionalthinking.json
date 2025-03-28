@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/stagsz/Unconventional-thinking",
+  "githubUrl": "https://github.com/stagsz/Unconventional-thinking",
+  "name": "Unconventional Thinking",
+  "author": "stagsz",
+  "description": "Integrates unconventional ideation techniques to facilitate structured brainstorming and creative problem-solving sessions.",
+  "codiconIcon": "unconventional",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "ideation",
+    "techniques",
+    "creative",
+    "problem-solving",
+    "sessions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "5535f138-95ce-48ae-8bdf-9105b6daf20e"
+}

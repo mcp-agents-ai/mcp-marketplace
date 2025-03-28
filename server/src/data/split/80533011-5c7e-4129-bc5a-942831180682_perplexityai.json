@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rileyedwards77/perplexity-mcp-server",
+  "githubUrl": "https://github.com/rileyedwards77/perplexity-mcp-server",
+  "name": "Perplexity AI",
+  "author": "rileyedwards77",
+  "description": "Integrates with Perplexity AI to enable advanced search, documentation retrieval, and conversational capabilities for AI systems and developers.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "documentation",
+    "retrieval",
+    "systems",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "80533011-5c7e-4129-bc5a-942831180682"
+}

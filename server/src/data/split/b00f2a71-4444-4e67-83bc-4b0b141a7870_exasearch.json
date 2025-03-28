@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/exa-labs/exa-mcp-server",
+  "githubUrl": "https://github.com/exa-labs/exa-mcp-server",
+  "name": "Exa Search",
+  "author": "exa-labs",
+  "description": "Enables AI assistants to perform real-time web searches using Exa's AI Search API, providing structured results with titles, URLs, and content snippets.",
+  "codiconIcon": "search",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/exa.jpg",
+  "category": "search",
+  "tags": [
+    "web-search",
+    "exa-api",
+    "real-time-data",
+    "content-discovery",
+    "information-retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 427,
+  "downloadCount": 476,
+  "createdAt": "2025-02-17T22:46:53.872366Z",
+  "updatedAt": "2025-02-17T22:46:53.872366Z",
+  "hubId": "b00f2a71-4444-4e67-83bc-4b0b141a7870"
+}

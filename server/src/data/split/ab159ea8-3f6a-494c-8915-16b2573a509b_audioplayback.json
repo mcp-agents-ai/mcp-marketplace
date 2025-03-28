@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mamertofabian/audio-mcp-server",
+  "githubUrl": "https://github.com/mamertofabian/audio-mcp-server",
+  "name": "Audio Playback",
+  "author": "mamertofabian",
+  "description": "Integrates with the play-sound library to enable cross-platform audio playback for voice notifications, sound effects, and audio cues.",
+  "codiconIcon": "audio",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "voice",
+    "cues",
+    "audio-playback",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "ab159ea8-3f6a-494c-8915-16b2573a509b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/muka/web-search-mcp",
+  "githubUrl": "https://github.com/muka/web-search-mcp",
+  "name": "Web Search (Serper)",
+  "author": "muka",
+  "description": "Integrates with the Serper API to perform web searches, enabling efficient retrieval and processing of up-to-date web content for applications.",
+  "codiconIcon": "web",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "web-search-(serper)",
+    "integrates",
+    "serper",
+    "searches",
+    "processing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "ec7635ed-fa8e-43ab-ab50-56b1306deee9"
+}

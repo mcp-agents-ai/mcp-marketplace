@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MatthewLaw1/Near-Intents-MCP-Agentkit",
+  "githubUrl": "https://github.com/MatthewLaw1/Near-Intents-MCP-Agentkit",
+  "name": "CrewAI (Near Intents)",
+  "author": "MatthewLaw1",
+  "description": "Leverages the CrewAI framework in combination with OpenAI API to orchestrate multi-agent workflows for automated research, data analysis, and problem-solving across domains.",
+  "codiconIcon": "crewai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "combination",
+    "domains",
+    "orchestrate",
+    "problem-solving",
+    "crewai-(near-intents)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "7001dc0d-c261-432c-a752-2b9f94309966"
+}

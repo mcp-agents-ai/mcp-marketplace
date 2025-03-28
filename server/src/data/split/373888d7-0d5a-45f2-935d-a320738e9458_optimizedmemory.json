@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AgentWong/optimized-memory-mcp-server",
+  "githubUrl": "https://github.com/AgentWong/optimized-memory-mcp-server",
+  "name": "Optimized Memory",
+  "author": "AgentWong",
+  "description": "Integrates with SQLite to provide a persistent knowledge graph for efficient memory management and relationship modeling across conversations.",
+  "codiconIcon": "optimized",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "persistent",
+    "knowledge",
+    "graph",
+    "memory",
+    "relationship"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "373888d7-0d5a-45f2-935d-a320738e9458"
+}

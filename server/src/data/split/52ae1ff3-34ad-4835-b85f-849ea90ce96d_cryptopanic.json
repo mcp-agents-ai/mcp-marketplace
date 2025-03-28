@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kukapay/cryptopanic-mcp-server",
+  "githubUrl": "https://github.com/kukapay/cryptopanic-mcp-server",
+  "name": "CryptoPanic",
+  "author": "kukapay",
+  "description": "Integrates with CryptoPanic to provide real-time cryptocurrency news, analysis, and video content with configurable pagination for financial analysis and investment decision support.",
+  "codiconIcon": "cryptopanic",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provide",
+    "real-time",
+    "analysis",
+    "configurable",
+    "pagination"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "52ae1ff3-34ad-4835-b85f-849ea90ce96d"
+}

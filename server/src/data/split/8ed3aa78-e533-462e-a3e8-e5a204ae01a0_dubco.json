@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Gitmaxd/dubco-mcp-server",
+  "githubUrl": "https://github.com/Gitmaxd/dubco-mcp-server",
+  "name": "Dub.co",
+  "author": "Gitmaxd",
+  "description": "Integrates with Dub.co link shortener API to create, update, and manage shortened URLs with custom slugs and automatic domain selection.",
+  "codiconIcon": "dub.co",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "create",
+    "update",
+    "shortened",
+    "automatic",
+    "domain"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "8ed3aa78-e533-462e-a3e8-e5a204ae01a0"
+}

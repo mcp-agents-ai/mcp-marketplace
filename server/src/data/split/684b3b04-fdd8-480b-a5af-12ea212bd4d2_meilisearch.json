@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cnosuke/mcp-meilisearch",
+  "githubUrl": "https://github.com/cnosuke/mcp-meilisearch",
+  "name": "Meilisearch",
+  "author": "cnosuke",
+  "description": "Integrates with Meilisearch to enable powerful search operations with filtering and sorting capabilities for structured data retrieval",
+  "codiconIcon": "meilisearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "capabilities",
+    "retrieval",
+    "meilisearch",
+    "enable",
+    "powerful"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "684b3b04-fdd8-480b-a5af-12ea212bd4d2"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DeepSRT/deepsrt-mcp",
+  "githubUrl": "https://github.com/DeepSRT/deepsrt-mcp",
+  "name": "DeepSRT",
+  "author": "DeepSRT",
+  "description": "Integrates with DeepSRT's API to generate multi-language video summaries in narrative or bullet-point formats, leveraging content caching and CDN edge delivery for efficient retrieval.",
+  "codiconIcon": "deepsrt",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "deepsrt",
+    "integrates",
+    "multi-language",
+    "summaries",
+    "bullet-point"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "749e3d56-1ffb-4880-9b10-602b721358ea"
+}

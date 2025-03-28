@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/oopsyz/mcp",
+  "githubUrl": "https://github.com/oopsyz/mcp",
+  "name": "TMF620 Product Catalog Management",
+  "author": "oopsyz",
+  "description": "Integrates with TMF620 Product Catalog Management API to enable listing, retrieving, and creating catalogs, product offerings, and specifications for e-commerce or telecom service providers.",
+  "codiconIcon": "tmf620",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieving",
+    "catalogs",
+    "telecom",
+    "service",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "c3279d7d-cbf6-4d8b-8527-478cc83a3022"
+}

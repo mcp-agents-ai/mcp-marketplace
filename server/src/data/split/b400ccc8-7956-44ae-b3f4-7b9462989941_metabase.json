@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/imlewc/metabase-server",
+  "githubUrl": "https://github.com/imlewc/metabase-server",
+  "name": "Metabase",
+  "author": "imlewc",
+  "description": "Integrates with Metabase to enable querying dashboards, executing SQL, and retrieving structured data for data analysis and insights generation.",
+  "codiconIcon": "metabase",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieving",
+    "analysis",
+    "generation",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "b400ccc8-7956-44ae-b3f4-7b9462989941"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/siddontang/tidb-ai-mcp",
+  "githubUrl": "https://github.com/siddontang/tidb-ai-mcp",
+  "name": "TiDB AI",
+  "author": "siddontang",
+  "description": "Integrates with TiDB AI to enable direct querying and response streaming within code editors through a lightweight Go-based bridge.",
+  "codiconIcon": "tidb",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "go-based",
+    "tidb-ai",
+    "enable",
+    "response",
+    "streaming"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "2b5f82bd-63ae-4b3c-b1ea-8c38f441edbf"
+}

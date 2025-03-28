@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shivay-couchbase/couchbase-mcp",
+  "githubUrl": "https://github.com/shivay-couchbase/couchbase-mcp",
+  "name": "Star Wars Planet Data (Couchbase)",
+  "author": "shivay-couchbase",
+  "description": "Integrates Couchbase vector search for semantic similarity queries on Star Wars planet data.",
+  "codiconIcon": "star",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "vector",
+    "semantic",
+    "queries",
+    "star-wars-planet-data-(couchbase)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "b2a6f4f0-2644-47c8-9d77-1f1c058e57f5"
+}

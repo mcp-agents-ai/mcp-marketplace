@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sethbang/mcp-screenshot-server",
+  "githubUrl": "https://github.com/sethbang/mcp-screenshot-server",
+  "name": "Screenshot Server",
+  "author": "sethbang",
+  "description": "Captures web page screenshots using TypeScript and Puppeteer, enabling automated visual content processing for web testing, archiving, and data collection.",
+  "codiconIcon": "screenshot",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "archiving",
+    "collection",
+    "screenshot-server",
+    "captures",
+    "screenshots"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "87fd9553-88fc-43a5-9f12-974116cd7a9b"
+}

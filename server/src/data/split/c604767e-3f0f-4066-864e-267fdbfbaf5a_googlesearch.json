@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gradusnikov/google-search-mcp-server",
+  "githubUrl": "https://github.com/gradusnikov/google-search-mcp-server",
+  "name": "Google Search",
+  "author": "gradusnikov",
+  "description": "Integrates with Google Custom Search API to perform web searches and retrieve formatted results with titles, links, and snippets for research tasks and fact-checking.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "links",
+    "integrates",
+    "google",
+    "searches",
+    "retrieve"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "c604767e-3f0f-4066-864e-267fdbfbaf5a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Jehan26/MCP-Inspector-v0.6.0",
+  "githubUrl": "https://github.com/Jehan26/MCP-Inspector-v0.6.0",
+  "name": "GitHub Repository Inspector",
+  "author": "Jehan26",
+  "description": "Integrates with GitHub repositories to enable repository searching, issue management, and pull request handling through authenticated API endpoints that format data for easy access within conversations.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "enable",
+    "issue",
+    "endpoints",
+    "github-repository-inspector",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "5ab649ed-46fb-4bdd-bf04-23f2b480716c"
+}

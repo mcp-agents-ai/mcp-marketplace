@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/crazyrabbitLTC/mpc-tally-api-server",
+  "githubUrl": "https://github.com/crazyrabbitLTC/mpc-tally-api-server",
+  "name": "Tally DAO Governance",
+  "author": "crazyrabbitLTC",
+  "description": "Integrates with the Tally API to query and analyze DAO governance data, enabling insights into decentralized decision-making processes.",
+  "codiconIcon": "tally",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "processes",
+    "tally-dao-governance",
+    "tally",
+    "query",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "c43e38c7-23ab-4e1a-be58-7acf1a6659b5"
+}

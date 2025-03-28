@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/crawlab-team/crawlab-mcp",
+  "githubUrl": "https://github.com/crawlab-team/crawlab-mcp",
+  "name": "Crawlab",
+  "author": "crawlab-team",
+  "description": "Integrates with Crawlab to enable AI-driven web scraping, task automation, and data extraction workflows through spider management, file operations, and resource access tools.",
+  "codiconIcon": "crawlab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "extraction",
+    "management",
+    "scraping",
+    "spider",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "6a251458-1220-4e96-af42-f78726c62ef1"
+}

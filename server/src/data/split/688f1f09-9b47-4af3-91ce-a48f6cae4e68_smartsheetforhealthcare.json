@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/terilios/smartsheet-server",
+  "githubUrl": "https://github.com/terilios/smartsheet-server",
+  "name": "Smartsheet for Healthcare",
+  "author": "terilios",
+  "description": "Integrates Smartsheet for healthcare analytics, enabling efficient data management and analysis in clinical research and hospital operations.",
+  "codiconIcon": "smartsheet",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "operations",
+    "enabling",
+    "efficient",
+    "management",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "688f1f09-9b47-4af3-91ce-a48f6cae4e68"
+}

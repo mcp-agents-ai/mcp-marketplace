@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/the-freetech-company/mcp-sse-authenticated-cloud-run",
+  "githubUrl": "https://github.com/the-freetech-company/mcp-sse-authenticated-cloud-run",
+  "name": "Authenticated Cloud Run",
+  "author": "the-freetech-company",
+  "description": "Enables secure hosting on Google Cloud Run with user-based IAM authentication, providing controlled access to custom servers over the internet for team collaboration.",
+  "codiconIcon": "authenticated",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "enables",
+    "secure",
+    "cloud",
+    "internet",
+    "collaboration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "4862d1c3-e61c-4d8e-89d2-0f75e0c250ca"
+}

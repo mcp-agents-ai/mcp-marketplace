@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/suhail-ak-s/mcp-typesense-server",
+  "githubUrl": "https://github.com/suhail-ak-s/mcp-typesense-server",
+  "name": "Typesense",
+  "author": "suhail-ak-s",
+  "description": "Integrates with Typesense search engine instances to enable efficient searching and listing of collections as resources, supporting both local and remote connections.",
+  "codiconIcon": "typesense",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "search",
+    "engine",
+    "instances",
+    "searching"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "dc113350-35c2-443d-99ac-199624b7dd8f"
+}

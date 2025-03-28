@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jasperket/clanki",
+  "githubUrl": "https://github.com/jasperket/clanki",
+  "name": "Anki Cards (Clanki)",
+  "author": "jasperket",
+  "description": "Integrates with Anki flashcards to provide card creation and deck management capabilities.",
+  "codiconIcon": "anki",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "capabilities",
+    "anki-cards-(clanki)",
+    "integrates",
+    "flashcards",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "ef88e9a7-5475-4fc2-bd47-0dd9e7037a39"
+}

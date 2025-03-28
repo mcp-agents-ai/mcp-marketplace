@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yonaka15/mcp-server-runner",
+  "githubUrl": "https://github.com/yonaka15/mcp-server-runner",
+  "name": "WebSocket MCP Bridge",
+  "author": "yonaka15",
+  "description": "Provides a WebSocket connection between clients and MCP servers.",
+  "codiconIcon": "websocket",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "websocket",
+    "connection",
+    "between",
+    "clients"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "7332b57a-9ae4-4efe-a858-2149c0711b33"
+}

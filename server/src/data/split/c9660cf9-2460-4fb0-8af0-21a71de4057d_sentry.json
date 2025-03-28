@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sentry",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sentry",
+  "name": "Sentry",
+  "author": "modelcontextprotocol",
+  "description": "Retrieve and analyze application error reports for debugging support.",
+  "codiconIcon": "sentry",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "debugging",
+    "support",
+    "sentry",
+    "retrieve",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "c9660cf9-2460-4fb0-8af0-21a71de4057d"
+}

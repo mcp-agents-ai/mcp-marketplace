@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/worldnine/scrapbox-cosense-mcp",
+  "githubUrl": "https://github.com/worldnine/scrapbox-cosense-mcp",
+  "name": "Scrapbox",
+  "author": "worldnine",
+  "description": "Integrates with Scrapbox to enable reading and writing pages for knowledge management, collaborative note-taking, and chatbot applications.",
+  "codiconIcon": "scrapbox",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "writing",
+    "pages",
+    "knowledge",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "887084c3-79a9-4ae9-8788-6ef9c7ff98fd"
+}

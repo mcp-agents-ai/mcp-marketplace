@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TimHolden/figma-mcp-server",
+  "githubUrl": "https://github.com/TimHolden/figma-mcp-server",
+  "name": "Figma REST API",
+  "author": "TimHolden",
+  "description": "Integrates with the Figma REST API to manage design system elements, enabling variable handling, file operations, and collaborative workflows.",
+  "codiconIcon": "figma",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "system",
+    "variable",
+    "operations",
+    "collaborative",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "7e60df8a-2f58-49c7-a292-87e6941427a2"
+}

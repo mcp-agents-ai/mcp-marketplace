@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/debedb/mcprfkgw",
+  "githubUrl": "https://github.com/debedb/mcprfkgw",
+  "name": "RFK Jr Gateway",
+  "author": "debedb",
+  "description": "Bridges campaign tools and data to enable dynamic tool registration, endpoint discovery, and information retrieval for RFK Jr's presidential campaign.",
+  "codiconIcon": "rfk",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "rfk-jr-gateway",
+    "bridges",
+    "tools",
+    "enable",
+    "registration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "384bec2e-3ed5-4b3e-aae2-e48d9d81543c"
+}

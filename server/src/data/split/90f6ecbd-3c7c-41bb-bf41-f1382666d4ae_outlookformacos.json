@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/syedazharmbnr1/claude-outlook-mcp",
+  "githubUrl": "https://github.com/syedazharmbnr1/claude-outlook-mcp",
+  "name": "Outlook for macOS",
+  "author": "syedazharmbnr1",
+  "description": "Integrates with Microsoft Outlook for macOS using AppleScript to enable email, calendar, and contact management operations for automated workflows and scheduling assistance.",
+  "codiconIcon": "outlook",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "outlook-for-macos",
+    "microsoft",
+    "outlook",
+    "email",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "90f6ecbd-3c7c-41bb-bf41-f1382666d4ae"
+}

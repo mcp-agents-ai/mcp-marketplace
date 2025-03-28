@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/maccam912/searxng-mcp-server",
+  "githubUrl": "https://github.com/maccam912/searxng-mcp-server",
+  "name": "SearXNG",
+  "author": "maccam912",
+  "description": "Integrates with SearXNG instances to provide unified search capabilities across multiple engines for tasks like information gathering and fact-checking.",
+  "codiconIcon": "searxng",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "instances",
+    "provide",
+    "capabilities",
+    "engines",
+    "gathering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "65db6881-319e-49b7-8230-3f363ffb6ad6"
+}

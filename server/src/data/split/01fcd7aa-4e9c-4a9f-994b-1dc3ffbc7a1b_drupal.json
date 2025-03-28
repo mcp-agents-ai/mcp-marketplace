@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Omedia/mcp-server-drupal",
+  "githubUrl": "https://github.com/Omedia/mcp-server-drupal",
+  "name": "Drupal",
+  "author": "Omedia",
+  "description": "Integrates with Drupal's API to enable content management, user administration, and site configuration for automated website operations and personalized content delivery.",
+  "codiconIcon": "drupal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automated",
+    "operations",
+    "enable",
+    "administration",
+    "website"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "01fcd7aa-4e9c-4a9f-994b-1dc3ffbc7a1b"
+}

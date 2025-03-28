@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/1RB/mongo-mcp",
+  "githubUrl": "https://github.com/1RB/mongo-mcp",
+  "name": "MongoDB",
+  "author": "1RB",
+  "description": "Enables interaction with MongoDB databases through TypeScript and the MongoDB driver, providing seamless integration of MongoDB operations into workflows.",
+  "codiconIcon": "mongodb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "enables",
+    "databases",
+    "through",
+    "typescript",
+    "driver"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "7ea0576c-2b00-446d-9e77-a9832e0bdb01"
+}

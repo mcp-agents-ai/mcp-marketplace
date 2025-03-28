@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/l33tdawg/strapi-mcp",
+  "githubUrl": "https://github.com/l33tdawg/strapi-mcp",
+  "name": "Strapi CMS",
+  "author": "l33tdawg",
+  "description": "Integrates with Strapi CMS to enable creating, reading, updating, and deleting content entries with support for filtering, pagination, sorting, and media uploads through URI-based resource patterns.",
+  "codiconIcon": "strapi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "strapi",
+    "reading",
+    "filtering",
+    "through",
+    "resource"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "f79f16a8-67da-43cf-89dc-f4f31fc6e3b3"
+}

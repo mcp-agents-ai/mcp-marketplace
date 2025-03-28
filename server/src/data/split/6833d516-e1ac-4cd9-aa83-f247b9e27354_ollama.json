@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vincentf305/mcp-server-ollama",
+  "githubUrl": "https://github.com/vincentf305/mcp-server-ollama",
+  "name": "Ollama",
+  "author": "vincentf305",
+  "description": "Bridges to Ollama, enabling local language model capabilities for writing assistance, code generation, and data analysis.",
+  "codiconIcon": "ollama",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bridges",
+    "local",
+    "language",
+    "model",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "6833d516-e1ac-4cd9-aa83-f247b9e27354"
+}

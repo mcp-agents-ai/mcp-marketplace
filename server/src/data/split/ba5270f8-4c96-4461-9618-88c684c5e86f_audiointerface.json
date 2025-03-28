@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GongRzhe/Audio-MCP-Server",
+  "githubUrl": "https://github.com/GongRzhe/Audio-MCP-Server",
+  "name": "Audio Interface",
+  "author": "GongRzhe",
+  "description": "Enables voice interaction with Claude through audio recording and playback capabilities, supporting customizable device selection and temporary file management for accessible spoken communication.",
+  "codiconIcon": "audio",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "claude",
+    "audio",
+    "capabilities",
+    "supporting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "ba5270f8-4c96-4461-9618-88c684c5e86f"
+}

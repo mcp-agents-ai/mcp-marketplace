@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zannyonear1h1/mcp-memory-bank-1",
+  "githubUrl": "https://github.com/zannyonear1h1/mcp-memory-bank-1",
+  "name": "Zanny's Persistent Memory Manager",
+  "author": "zannyonear1h1",
+  "description": "Provides persistent memory storage, retrieval, and search capabilities for maintaining conversation context across sessions through JSON-RPC endpoints with tagging support.",
+  "codiconIcon": "zanny's",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "memory",
+    "capabilities",
+    "endpoints",
+    "tagging",
+    "provides"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "735ec5a3-8035-492d-bd69-501e2f99ef28"
+}

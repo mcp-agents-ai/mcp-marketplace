@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dennismartis/mcp-todo",
+  "githubUrl": "https://github.com/dennismartis/mcp-todo",
+  "name": "Coding Todo",
+  "author": "dennismartis",
+  "description": "Integrates project management tools for viewing, adding, updating, and deleting todo items with priority setting, tagging, and project assignment capabilities, enabling efficient task tracking and AI-assisted prioritization for software development workflows.",
+  "codiconIcon": "coding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "deleting",
+    "priority",
+    "enabling",
+    "efficient",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "5e8a7488-13f9-425d-b666-ccfa16850e9c"
+}

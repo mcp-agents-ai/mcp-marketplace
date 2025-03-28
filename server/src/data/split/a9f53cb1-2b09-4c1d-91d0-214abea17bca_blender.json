@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/ahujasid/blender-mcp",
+  "githubUrl": "https://github.com/ahujasid/blender-mcp",
+  "name": "Blender",
+  "author": "ahujasid",
+  "description": "Enables AI assistants to control Blender for 3D modeling, scene creation, and asset management through socket-based communication, with support for Poly Haven assets and Hyper3D Rodin models.",
+  "codiconIcon": "symbol-cube",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/blender-control.png",
+  "category": "image-video-processing",
+  "tags": [
+    "3d-modeling",
+    "blender",
+    "asset-management",
+    "scene-creation",
+    "visualization"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 8094,
+  "downloadCount": 4327,
+  "createdAt": "2025-03-17T01:52:54.102355Z",
+  "updatedAt": "2025-03-17T01:52:54.102355Z",
+  "hubId": "a9f53cb1-2b09-4c1d-91d0-214abea17bca"
+}

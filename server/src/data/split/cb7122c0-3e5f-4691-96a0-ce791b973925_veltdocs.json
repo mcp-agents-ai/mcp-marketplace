@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://docs.velt.dev/llms.txt",
+  "githubUrl": "https://docs.velt.dev/llms.txt",
+  "name": "Velt Docs",
+  "author": "",
+  "description": "Documentation for Velt SDK. Velt provides ready-made enterprise grade collaboration features like Comments, Notifications, Recording, Live Editing etc.\n\nhttps://velt.dev/",
+  "codiconIcon": "velt",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/diff6k07bwh.png",
+  "category": "tools",
+  "tags": [
+    "velt-docs",
+    "documentation",
+    "ready-made",
+    "grade",
+    "features"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-23T18:26:29.215973+00:00",
+  "updatedAt": "2025-03-23T18:26:29.215973+00:00",
+  "hubId": "cb7122c0-3e5f-4691-96a0-ce791b973925"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/5ajaki/veri5ight",
+  "githubUrl": "https://github.com/5ajaki/veri5ight",
+  "name": "ENS DAO Operations",
+  "author": "5ajaki",
+  "description": "Integrates with local Ethereum nodes to simplify ENS DAO operations like domain management and governance participation.",
+  "codiconIcon": "ens",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "ens-dao-operations",
+    "local",
+    "ethereum",
+    "operations",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "2d5f4bc4-2277-4b8f-8b55-d633eb69650a"
+}

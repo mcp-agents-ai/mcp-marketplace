@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JustasMonkev/mcp-accessibility-scanner",
+  "githubUrl": "https://github.com/JustasMonkev/mcp-accessibility-scanner",
+  "name": "Accessibility Scanner",
+  "author": "JustasMonkev",
+  "description": "Integrates Axe Core with Playwright to perform automated web accessibility testing, enabling continuous integration, compliance auditing, and identification of accessibility barriers.",
+  "codiconIcon": "accessibility",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automated",
+    "integration",
+    "compliance",
+    "identification",
+    "barriers"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "c2c07053-dbf4-403f-ae1e-643b9c6ad6a0"
+}

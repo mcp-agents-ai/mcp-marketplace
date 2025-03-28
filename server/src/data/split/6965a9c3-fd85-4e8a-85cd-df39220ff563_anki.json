@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/scorzeth/anki-mcp-server",
+  "githubUrl": "https://github.com/scorzeth/anki-mcp-server",
+  "name": "Anki",
+  "author": "scorzeth",
+  "description": "Integrates with Anki to enable AI-driven flashcard creation, retrieval, and review processes for enhanced spaced repetition learning.",
+  "codiconIcon": "anki",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieval",
+    "review",
+    "processes",
+    "learning",
+    "anki"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "6965a9c3-fd85-4e8a-85cd-df39220ff563"
+}

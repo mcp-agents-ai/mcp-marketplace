@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/EZ-Walk/weather-mcp-server",
+  "githubUrl": "https://github.com/EZ-Walk/weather-mcp-server",
+  "name": "National Weather Service",
+  "author": "EZ-Walk",
+  "description": "Integrates with National Weather Service APIs to provide current weather alerts by state code and detailed forecasts by location coordinates for planning activities and monitoring severe weather conditions.",
+  "codiconIcon": "national",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "national-weather-service",
+    "weather",
+    "monitoring",
+    "conditions",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "72ca18c7-e029-4685-816b-96ff182801b1"
+}

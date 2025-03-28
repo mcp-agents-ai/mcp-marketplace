@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/5ajaki/mcp-etherscan-server",
+  "githubUrl": "https://github.com/5ajaki/mcp-etherscan-server",
+  "name": "Etherscan Tools",
+  "author": "5ajaki",
+  "description": "Integrates with Etherscan's API to provide Ethereum blockchain data tools for balance checking, transaction tracking, and smart contract interactions.",
+  "codiconIcon": "etherscan",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "ethereum",
+    "tools",
+    "transaction",
+    "tracking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "f3a91cb7-46ee-4306-b936-b03a6ba419e4"
+}

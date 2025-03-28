@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/KS-GEN-AI/confluence-mcp-server",
+  "githubUrl": "https://github.com/KS-GEN-AI/confluence-mcp-server",
+  "name": "Confluence",
+  "author": "KS-GEN-AI",
+  "description": "Integrates with Confluence's API to execute CQL queries and retrieve page content, enabling efficient search and access of wiki information.",
+  "codiconIcon": "confluence",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "confluence's",
+    "enabling",
+    "efficient",
+    "execute",
+    "queries"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "b40280d0-6b2c-4e66-99d4-a3e5f8dbcf6c"
+}

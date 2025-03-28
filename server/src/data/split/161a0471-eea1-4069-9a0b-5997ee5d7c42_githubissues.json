@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/timbuchinger/mcp-github",
+  "githubUrl": "https://github.com/timbuchinger/mcp-github",
+  "name": "GitHub Issues",
+  "author": "timbuchinger",
+  "description": "Integrates with GitHub's issue tracking system to enable listing and creating issues, facilitating automated issue management and workflow integration.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "workflow",
+    "integrates",
+    "enable",
+    "creating",
+    "facilitating"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "161a0471-eea1-4069-9a0b-5997ee5d7c42"
+}

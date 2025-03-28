@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kuzushilabsorg/mcp-servers",
+  "githubUrl": "https://github.com/kuzushilabsorg/mcp-servers",
+  "name": "Weather",
+  "author": "kuzushilabsorg",
+  "description": "Integrates with weather data APIs to provide current conditions and forecasts for trip planning and outdoor event scheduling.",
+  "codiconIcon": "weather",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "provide",
+    "current",
+    "forecasts",
+    "scheduling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "21933478-0ade-43ba-9ec9-f653c0c2e200"
+}

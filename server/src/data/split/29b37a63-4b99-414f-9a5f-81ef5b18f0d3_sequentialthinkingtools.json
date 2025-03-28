@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-sequentialthinking-tools",
+  "githubUrl": "https://github.com/spences10/mcp-sequentialthinking-tools",
+  "name": "Sequential Thinking Tools",
+  "author": "spences10",
+  "description": "Provides structured problem-solving tools for step-by-step analysis, branching thoughts, and adaptive reasoning strategies in complex decision-making processes.",
+  "codiconIcon": "sequential",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "step-by-step",
+    "analysis",
+    "strategies",
+    "provides",
+    "problem-solving"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "29b37a63-4b99-414f-9a5f-81ef5b18f0d3"
+}

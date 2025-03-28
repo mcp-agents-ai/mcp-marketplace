@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kazuph/mcp-docs-rag",
+  "githubUrl": "https://github.com/kazuph/mcp-docs-rag",
+  "name": "Docs RAG",
+  "author": "kazuph",
+  "description": "Enables AI to query and analyze local documents and Git repositories through a RAG system built with TypeScript, LlamaIndex, and Gemini embeddings.",
+  "codiconIcon": "docs",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "query",
+    "analyze",
+    "documents",
+    "built",
+    "typescript"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "7ccd8e05-3dff-4801-9f8e-98b1a65ccabc"
+}

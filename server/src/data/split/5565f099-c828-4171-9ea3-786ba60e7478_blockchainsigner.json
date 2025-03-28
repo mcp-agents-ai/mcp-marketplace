@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zhangzhongnan928/mcp-blockchain-server",
+  "githubUrl": "https://github.com/zhangzhongnan928/mcp-blockchain-server",
+  "name": "Blockchain Signer",
+  "author": "zhangzhongnan928",
+  "description": "Enables secure blockchain interactions with user-controlled private keys and transaction signing, featuring a Node.js backend, PostgreSQL database, Redis caching, and integration with Ethereum and EVM-compatible chains via Infura.",
+  "codiconIcon": "blockchain",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "backend",
+    "database",
+    "infura",
+    "blockchain-signer",
+    "featuring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "5565f099-c828-4171-9ea3-786ba60e7478"
+}

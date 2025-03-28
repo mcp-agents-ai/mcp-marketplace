@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://docs.convex.dev/ai/using-cursor#setup-the-convex-mcp-server",
+  "githubUrl": "https://docs.convex.dev/ai/using-cursor#setup-the-convex-mcp-server",
+  "name": "Convex",
+  "author": "",
+  "description": "Cursor, the AI code editor, makes it easy to write and maintain apps built with Convex. Let's walk through how to setup Cursor for the best possible results with Convex.",
+  "codiconIcon": "convex",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/9jk3ypz9c7.webp",
+  "category": "tools",
+  "tags": [
+    "convex",
+    "makes",
+    "maintain",
+    "possible",
+    "results"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T09:13:46.24724+00:00",
+  "updatedAt": "2025-03-14T09:13:46.24724+00:00",
+  "hubId": "17627981-d3d7-404a-a98b-ffbc47cb8a2b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/obsidian-mcp",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/obsidian-mcp",
+  "name": "Obsidian",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates with Obsidian vaults to enable querying, creating, and modifying notes for enhanced personal knowledge management workflows.",
+  "codiconIcon": "obsidian",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "notes",
+    "enhanced",
+    "workflows",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "5879df44-135c-4ba9-ba36-33f3950b04a4"
+}

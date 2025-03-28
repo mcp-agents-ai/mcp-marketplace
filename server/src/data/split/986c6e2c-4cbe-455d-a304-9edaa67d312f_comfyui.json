@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jonpojonpo/comfy-ui-mcp-server",
+  "githubUrl": "https://github.com/jonpojonpo/comfy-ui-mcp-server",
+  "name": "ComfyUI",
+  "author": "jonpojonpo",
+  "description": "Integrates ComfyUI's stable diffusion interface to enable programmatic image generation through customizable node-based workflows.",
+  "codiconIcon": "comfyui",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "programmatic",
+    "image",
+    "comfyui's",
+    "generation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "986c6e2c-4cbe-455d-a304-9edaa67d312f"
+}

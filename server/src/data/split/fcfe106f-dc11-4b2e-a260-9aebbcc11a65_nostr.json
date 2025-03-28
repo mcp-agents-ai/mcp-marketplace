@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AbdelStark/nostr-mcp",
+  "githubUrl": "https://github.com/AbdelStark/nostr-mcp",
+  "name": "Nostr",
+  "author": "AbdelStark",
+  "description": "Integrates with Nostr to enable posting notes and interacting with relays, simplifying decentralized social network engagement and content publishing.",
+  "codiconIcon": "nostr",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "engagement",
+    "publishing",
+    "nostr",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "fcfe106f-dc11-4b2e-a260-9aebbcc11a65"
+}

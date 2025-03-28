@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ZZZHDW/mcp-server-kusto",
+  "githubUrl": "https://github.com/ZZZHDW/mcp-server-kusto",
+  "name": "Kusto (Azure Data Explorer)",
+  "author": "ZZZHDW",
+  "description": "Integrates with Azure Data Explorer to enable read-only querying, table listing, and schema retrieval for large-scale telemetry data analysis.",
+  "codiconIcon": "kusto",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "table",
+    "schema",
+    "retrieval",
+    "telemetry",
+    "azure"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "f0a4e74f-19f4-4bec-aff0-b8045520a807"
+}

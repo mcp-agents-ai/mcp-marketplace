@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RafalWilinski/aws-mcp",
+  "githubUrl": "https://github.com/RafalWilinski/aws-mcp",
+  "name": "AWS",
+  "author": "RafalWilinski",
+  "description": "Bridges AWS services with the AWS SDK v2, enabling secure access and management of AWS resources for cloud infrastructure and data processing tasks.",
+  "codiconIcon": "aws",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "aws",
+    "services",
+    "enabling",
+    "secure",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "74d8157b-17ba-4a8d-a0a7-0cebfe917562"
+}

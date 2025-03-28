@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-jinaai-reader",
+  "githubUrl": "https://github.com/spences10/mcp-jinaai-reader",
+  "name": "JinaAI",
+  "author": "spences10",
+  "description": "Extracts and processes web content for efficient parsing and analysis of online information",
+  "codiconIcon": "jinaai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "jinaai",
+    "extracts",
+    "processes",
+    "efficient",
+    "parsing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "a57190bb-65f4-4043-93db-7d471a1ca4a4"
+}

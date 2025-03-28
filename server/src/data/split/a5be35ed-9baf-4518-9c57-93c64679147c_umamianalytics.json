@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jakeyShakey/umami_mcp_server",
+  "githubUrl": "https://github.com/jakeyShakey/umami_mcp_server",
+  "name": "Umami Analytics",
+  "author": "jakeyShakey",
+  "description": "Integrates with Umami analytics to enable website performance analysis, user behavior tracking, and data-driven insights generation through semantic search and web crawling capabilities.",
+  "codiconIcon": "umami",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "crawling",
+    "integrates",
+    "data-driven",
+    "umami",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a5be35ed-9baf-4518-9c57-93c64679147c"
+}

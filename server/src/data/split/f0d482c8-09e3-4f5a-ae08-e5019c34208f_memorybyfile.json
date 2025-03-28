@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/g0t4/mcp-server-memory-file",
+  "githubUrl": "https://github.com/g0t4/mcp-server-memory-file",
+  "name": "Memory by File",
+  "author": "g0t4",
+  "description": "Lightweight, file-based memory storage for maintaining persistent context across conversations using simple text operations.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "memory-by-file",
+    "lightweight",
+    "file-based",
+    "memory",
+    "storage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "f0d482c8-09e3-4f5a-ae08-e5019c34208f"
+}

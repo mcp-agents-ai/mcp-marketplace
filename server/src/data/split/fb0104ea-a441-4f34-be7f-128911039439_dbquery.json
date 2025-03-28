@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ALX99/db-mcp",
+  "githubUrl": "https://github.com/ALX99/db-mcp",
+  "name": "DB Query",
+  "author": "ALX99",
+  "description": "Connects AI models to multiple database systems for executing queries and retrieving results across PostgreSQL, MySQL, and SQLite.",
+  "codiconIcon": "db",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "postgresql",
+    "mysql",
+    "sqlite",
+    "connects",
+    "models"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "fb0104ea-a441-4f34-be7f-128911039439"
+}

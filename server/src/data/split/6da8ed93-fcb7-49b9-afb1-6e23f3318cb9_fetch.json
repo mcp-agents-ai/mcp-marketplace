@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/fetch",
+  "name": "Fetch",
+  "author": "modelcontextprotocol",
+  "description": "Fetch is a Model Context Protocol (MCP) server designed for web content fetching and conversion, allowing Large Language Models (LLMs) to retrieve and process content from web pages by converting HTML into markdown for easier consumption.",
+  "codiconIcon": "fetch",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/x9m6r946ut.png",
+  "category": "tools",
+  "tags": [
+    "protocol",
+    "allowing",
+    "models",
+    "consumption",
+    "context"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T15:32:40.972465+00:00",
+  "updatedAt": "2025-03-14T15:32:40.972465+00:00",
+  "hubId": "6da8ed93-fcb7-49b9-afb1-6e23f3318cb9"
+}

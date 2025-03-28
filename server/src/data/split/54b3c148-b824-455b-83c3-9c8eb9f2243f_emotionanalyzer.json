@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/leovoon/mcp-emotion",
+  "githubUrl": "https://github.com/leovoon/mcp-emotion",
+  "name": "Emotion Analyzer",
+  "author": "leovoon",
+  "description": "Analyzes text for 19 different emotional states and provides personalized, constructive interpretations to help understand and work with identified emotions.",
+  "codiconIcon": "emotion",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "understand",
+    "emotions",
+    "analyzes",
+    "emotional",
+    "provides"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "54b3c148-b824-455b-83c3-9c8eb9f2243f"
+}

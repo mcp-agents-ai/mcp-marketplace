@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/seanivore/mcp-file-preview",
+  "githubUrl": "https://github.com/seanivore/mcp-file-preview",
+  "name": "HTML Page Preview",
+  "author": "seanivore",
+  "description": "Provides HTML file preview and analysis capabilities by leveraging Puppeteer for screenshot capture and content parsing, enabling web testing and content visualization tasks.",
+  "codiconIcon": "html",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "html-page-preview",
+    "puppeteer",
+    "screenshot",
+    "capture",
+    "testing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "2f2a0019-168c-4682-a7ae-93c08c6fa177"
+}

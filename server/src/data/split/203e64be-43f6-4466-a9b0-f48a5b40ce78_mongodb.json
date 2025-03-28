@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nickiiitu/MongoDB-Model-Context-Protocol-MCP-",
+  "githubUrl": "https://github.com/nickiiitu/MongoDB-Model-Context-Protocol-MCP-",
+  "name": "MongoDB",
+  "author": "nickiiitu",
+  "description": "Integrates with MongoDB databases to enable querying, inserting, and updating documents for data analysis, content management, or automated database operations.",
+  "codiconIcon": "mongodb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "querying",
+    "updating",
+    "documents",
+    "operations",
+    "databases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "203e64be-43f6-4466-a9b0-f48a5b40ce78"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Geeksfino/kb-mcp-server",
+  "githubUrl": "https://github.com/Geeksfino/kb-mcp-server",
+  "name": "Knowledge Base",
+  "author": "Geeksfino",
+  "description": "Integrates with knowledge bases to enable searching, retrieving, and potentially updating information from structured repositories for enhanced information access workflows.",
+  "codiconIcon": "knowledge",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieving",
+    "structured",
+    "knowledge",
+    "information",
+    "repositories"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "1cb19540-59b7-43da-83f5-ad0d1fb991b5"
+}

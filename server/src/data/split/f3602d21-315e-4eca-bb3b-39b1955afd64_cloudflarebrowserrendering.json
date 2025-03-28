@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/amotivv/cloudflare-browser-rendering",
+  "githubUrl": "https://github.com/amotivv/cloudflare-browser-rendering",
+  "name": "Cloudflare Browser Rendering",
+  "author": "amotivv",
+  "description": "Integrates with Cloudflare's Browser Rendering API to enable web scraping and screenshot capture using Puppeteer for dynamic content processing and automated visual testing.",
+  "codiconIcon": "cloudflare",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "cloudflare-browser-rendering",
+    "rendering",
+    "screenshot",
+    "dynamic",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "f3602d21-315e-4eca-bb3b-39b1955afd64"
+}

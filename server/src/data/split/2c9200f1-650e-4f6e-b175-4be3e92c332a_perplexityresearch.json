@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/perplexity-mcp",
+  "githubUrl": "https://github.com/pashpashpash/perplexity-mcp",
+  "name": "Perplexity Research",
+  "author": "pashpashpash",
+  "description": "Leverages Perplexity's Sonar Pro API to provide comprehensive research capabilities, including documentation search, API discovery, and code deprecation analysis with chain-of-thought reasoning.",
+  "codiconIcon": "search",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/perplexity-ai-icon.png",
+  "category": "research-data",
+  "tags": [
+    "research",
+    "documentation",
+    "api-discovery",
+    "code-analysis",
+    "perplexity"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 11,
+  "downloadCount": 5692,
+  "createdAt": "2025-02-19T00:44:43.25332Z",
+  "updatedAt": "2025-02-19T00:44:43.25332Z",
+  "hubId": "2c9200f1-650e-4f6e-b175-4be3e92c332a"
+}

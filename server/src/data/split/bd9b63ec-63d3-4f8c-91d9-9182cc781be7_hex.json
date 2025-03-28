@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/franccesco/hex-mcp",
+  "githubUrl": "https://github.com/franccesco/hex-mcp",
+  "name": "Hex",
+  "author": "franccesco",
+  "description": "Integrates with the Hex API to enable retrieval of project details, management of project runs, and execution of Hex workflows for automated data analysis and report generation.",
+  "codiconIcon": "hex",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "details",
+    "analysis",
+    "report",
+    "generation",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "bd9b63ec-63d3-4f8c-91d9-9182cc781be7"
+}

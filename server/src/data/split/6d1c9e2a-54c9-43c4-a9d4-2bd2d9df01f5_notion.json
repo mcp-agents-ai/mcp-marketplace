@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ccabanillas/notion-mcp",
+  "githubUrl": "https://github.com/ccabanillas/notion-mcp",
+  "name": "Notion",
+  "author": "ccabanillas",
+  "description": "Integrates Notion's API, enabling workflows to interact with Notion databases and pages for dynamic content management and retrieval.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "pages",
+    "content",
+    "management",
+    "notion",
+    "databases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "6d1c9e2a-54c9-43c4-a9d4-2bd2d9df01f5"
+}

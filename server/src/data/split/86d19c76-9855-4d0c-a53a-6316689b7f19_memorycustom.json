@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/BRO3886/mcp-memory-custom",
+  "githubUrl": "https://github.com/BRO3886/mcp-memory-custom",
+  "name": "Memory Custom",
+  "author": "BRO3886",
+  "description": "Provides a knowledge graph-based memory system for creating, managing, and querying structured information with features like custom file paths, timestamping, and advanced search capabilities.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "system",
+    "managing",
+    "querying",
+    "information",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "86d19c76-9855-4d0c-a53a-6316689b7f19"
+}

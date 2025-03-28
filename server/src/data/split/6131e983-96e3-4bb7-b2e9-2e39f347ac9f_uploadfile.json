@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sujianqingfeng/mcp-upload-file",
+  "githubUrl": "https://github.com/sujianqingfeng/mcp-upload-file",
+  "name": "Upload File",
+  "author": "sujianqingfeng",
+  "description": "Provides a bridge for efficient file uploads within AI-assisted workflows, enabling seamless integration of file handling capabilities into existing systems.",
+  "codiconIcon": "upload",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "upload-file",
+    "bridge",
+    "seamless",
+    "handling",
+    "systems"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "6131e983-96e3-4bb7-b2e9-2e39f347ac9f"
+}

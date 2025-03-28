@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kklab-com/trinity-mcp",
+  "githubUrl": "https://github.com/kklab-com/trinity-mcp",
+  "name": "Trinity",
+  "author": "kklab-com",
+  "description": "Bridges AI systems with Trinity's formula-based tools through a Go-based server that enables access to Trinity API capabilities via JSON-RPC interface",
+  "codiconIcon": "trinity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "json-rpc",
+    "interface",
+    "trinity",
+    "bridges",
+    "systems"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "cd1cad19-e1ac-49b7-9f66-f77d4106f364"
+}

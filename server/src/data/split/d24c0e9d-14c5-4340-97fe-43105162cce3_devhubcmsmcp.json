@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/devhub/devhub-cms-mcp",
+  "githubUrl": "https://github.com/devhub/devhub-cms-mcp",
+  "name": "DevHub CMS MCP",
+  "author": "devhub",
+  "description": "Manage and utilize content within DevHub CMS (blog posts, hours of operation and other content)",
+  "codiconIcon": "devhub",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/4h967aops0z.png",
+  "category": "tools",
+  "tags": [
+    "hours",
+    "other",
+    "content",
+    "within",
+    "devhub"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T22:55:43.866632+00:00",
+  "updatedAt": "2025-03-17T22:55:43.866632+00:00",
+  "hubId": "d24c0e9d-14c5-4340-97fe-43105162cce3"
+}

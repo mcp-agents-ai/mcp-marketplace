@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/thadius83/mcp-server-openai",
+  "githubUrl": "https://github.com/thadius83/mcp-server-openai",
+  "name": "OpenAI",
+  "author": "thadius83",
+  "description": "Integrates with OpenAI's API to enable direct querying of various language models, supporting efficient text generation and question answering tasks.",
+  "codiconIcon": "openai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "supporting",
+    "efficient",
+    "openai's",
+    "enable",
+    "various"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "c4a1d9e8-084f-4442-9e47-d992be4281ad"
+}

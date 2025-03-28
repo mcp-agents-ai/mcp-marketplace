@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/esh2n/mcp-servers",
+  "githubUrl": "https://github.com/esh2n/mcp-servers",
+  "name": "Nexus Data Processor",
+  "author": "esh2n",
+  "description": "Integrates data processing libraries and external services to facilitate complex data operations, transformations, and API interactions across multiple formats and sources.",
+  "codiconIcon": "nexus",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "processing",
+    "external",
+    "facilitate",
+    "complex",
+    "interactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "ae0a2351-f5d4-4b98-a7c8-333dd42cc102"
+}

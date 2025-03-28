@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/memory",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/memory",
+  "name": "Knowledge Graph Memory",
+  "author": "modelcontextprotocol",
+  "description": "A persistent memory system using a local knowledge graph that enables AI assistants to remember information about users across conversations through entities, relations, and observations.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/knowledge-graph-memory.png",
+  "category": "knowledge-memory",
+  "tags": [
+    "knowledge-graph",
+    "persistent-memory",
+    "entity-management",
+    "graph-database",
+    "memory-storage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24197,
+  "downloadCount": 3655,
+  "createdAt": "2025-02-17T22:22:24.982087Z",
+  "updatedAt": "2025-02-17T22:22:24.982087Z",
+  "hubId": "a437569c-42c2-466a-a155-eb74f7475cd3"
+}

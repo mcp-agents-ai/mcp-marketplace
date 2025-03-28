@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tedlikeskix/mcp-ip-geolocator",
+  "githubUrl": "https://github.com/tedlikeskix/mcp-ip-geolocator",
+  "name": "IP Geolocator",
+  "author": "tedlikeskix",
+  "description": "Integrates with IP-API.com to provide IP geolocation services, enabling location-based insights without API keys or complex integrations.",
+  "codiconIcon": "ip",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "insights",
+    "without",
+    "integrates",
+    "location-based",
+    "complex"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "bc04a0b1-fd8f-46cd-aa8b-2bce430f23e1"
+}

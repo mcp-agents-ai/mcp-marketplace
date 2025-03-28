@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sqlite",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/sqlite",
+  "name": "SQLite",
+  "author": "modelcontextprotocol",
+  "description": "Query and analyze SQLite databases directly.",
+  "codiconIcon": "sqlite",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "query",
+    "analyze",
+    "databases",
+    "directly",
+    "sqlite"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "db6fbd68-5c48-49b3-87a1-ed2681e07448"
+}

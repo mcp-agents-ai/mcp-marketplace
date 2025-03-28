@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hrs-asano/claude-mcp-trello",
+  "githubUrl": "https://github.com/hrs-asano/claude-mcp-trello",
+  "name": "Trello",
+  "author": "hrs-asano",
+  "description": "Integrates with Trello to enable task management operations like retrieving cards, managing lists, and monitoring board activity for project planning and workflow automation.",
+  "codiconIcon": "trello",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "operations",
+    "managing",
+    "activity",
+    "trello",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "f13f917e-19b7-45d5-9c45-167fcdd6b307"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/graphlit/graphlit-mcp-server",
+  "githubUrl": "https://github.com/graphlit/graphlit-mcp-server",
+  "name": "Graphlit",
+  "author": "graphlit",
+  "description": "Create a personalized knowledge base from tools like Linear, GitHub, Jira, and Discord, and empower AI Agents to retrieve associated content with built-in reranking for enhanced relevance.",
+  "codiconIcon": "library",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/graphlit.png",
+  "category": "knowledge-memory",
+  "tags": [
+    "content-management",
+    "data-ingestion",
+    "document-processing",
+    "search-retrieval",
+    "multi-platform"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 89,
+  "downloadCount": 1169,
+  "createdAt": "2025-03-03T19:20:12.867689Z",
+  "updatedAt": "2025-03-03T19:20:12.867689Z",
+  "hubId": "6772cafd-fdc0-42ad-a3ce-fc8cd0f426b4"
+}

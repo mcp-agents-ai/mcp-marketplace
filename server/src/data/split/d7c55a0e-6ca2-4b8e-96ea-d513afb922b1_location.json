@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alexandreroman/mcp-location",
+  "githubUrl": "https://github.com/alexandreroman/mcp-location",
+  "name": "Location",
+  "author": "alexandreroman",
+  "description": "Integrates with geolocation APIs to provide location-based functionality, enabling personalized recommendations and localized content delivery based on user IP addresses.",
+  "codiconIcon": "location",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "based",
+    "integrates",
+    "geolocation",
+    "provide",
+    "functionality"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "d7c55a0e-6ca2-4b8e-96ea-d513afb922b1"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hdresearch/mcp-python",
+  "githubUrl": "https://github.com/hdresearch/mcp-python",
+  "name": "Python REPL",
+  "author": "hdresearch",
+  "description": "Provides a persistent Python execution environment for interactive code development, data analysis, and rapid prototyping.",
+  "codiconIcon": "python",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "python",
+    "environment",
+    "interactive",
+    "development",
+    "rapid"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "6140e294-4286-4ad8-bd6a-44ae43e344b9"
+}

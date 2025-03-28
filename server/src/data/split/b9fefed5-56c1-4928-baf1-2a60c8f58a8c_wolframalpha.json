@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SecretiveShell/MCP-wolfram-alpha",
+  "githubUrl": "https://github.com/SecretiveShell/MCP-wolfram-alpha",
+  "name": "WolframAlpha",
+  "author": "SecretiveShell",
+  "description": "Integrates with WolframAlpha to enable computational knowledge queries, scientific calculations, and data analysis across diverse disciplines.",
+  "codiconIcon": "wolframalpha",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "scientific",
+    "calculations",
+    "analysis",
+    "across",
+    "diverse"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "b9fefed5-56c1-4928-baf1-2a60c8f58a8c"
+}

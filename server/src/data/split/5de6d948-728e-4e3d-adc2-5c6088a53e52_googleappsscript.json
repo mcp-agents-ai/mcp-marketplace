@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/KaishuShito/gas-interpreter-mcp",
+  "githubUrl": "https://github.com/KaishuShito/gas-interpreter-mcp",
+  "name": "Google Apps Script",
+  "author": "KaishuShito",
+  "description": "Integrates Google Apps Script to enable advanced data analysis, content generation, and workflow automation within Google Workspace applications.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "enable",
+    "analysis",
+    "content",
+    "generation",
+    "workflow"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "5de6d948-728e-4e3d-adc2-5c6088a53e52"
+}

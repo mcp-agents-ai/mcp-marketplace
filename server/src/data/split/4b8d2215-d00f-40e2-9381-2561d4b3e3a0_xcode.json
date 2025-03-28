@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/r-huijts/xcode-mcp-server",
+  "githubUrl": "https://github.com/r-huijts/xcode-mcp-server",
+  "name": "Xcode",
+  "author": "r-huijts",
+  "description": "Integrates with Xcode to streamline iOS development workflows, automate build processes, and facilitate code generation for efficient app creation.",
+  "codiconIcon": "xcode",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "development",
+    "workflows",
+    "build",
+    "facilitate",
+    "generation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "4b8d2215-d00f-40e2-9381-2561d4b3e3a0"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/geelen/workers-mcp",
+  "githubUrl": "https://github.com/geelen/workers-mcp",
+  "name": "Cloudflare Workers",
+  "author": "geelen",
+  "description": "Cloudflare Workers-based MCP implementation enables AI assistants to execute custom serverless logic at the edge.",
+  "codiconIcon": "cloudflare",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "execute",
+    "serverless",
+    "logic",
+    "edge",
+    "workers-based"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "1beb3882-239d-4f0f-b41a-c570a73c541c"
+}

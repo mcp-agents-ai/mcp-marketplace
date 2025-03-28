@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ducthinh993/mcp-server-endoflife",
+  "githubUrl": "https://github.com/ducthinh993/mcp-server-endoflife",
+  "name": "End-of-Life API",
+  "author": "ducthinh993",
+  "description": "Integrates with the endoflife.date API to provide software end-of-life status checks for dependency management, security auditing, and upgrade planning.",
+  "codiconIcon": "end-of-life",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "planning",
+    "end-of-life-api",
+    "endoflife.date",
+    "provide",
+    "end-of-life"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "599a244b-4bad-42a2-9cba-1117b6fd27d9"
+}

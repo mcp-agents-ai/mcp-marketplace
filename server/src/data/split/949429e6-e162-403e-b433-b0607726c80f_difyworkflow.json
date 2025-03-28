@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/localSummer/dify-workflow-mcp",
+  "githubUrl": "https://github.com/localSummer/dify-workflow-mcp",
+  "name": "Dify Workflow",
+  "author": "localSummer",
+  "description": "Integrates with Dify to enable text generation, data analysis, and conversational flow management through Dify's API, streamlining AI-powered application development.",
+  "codiconIcon": "dify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "dify's",
+    "streamlining",
+    "ai-powered",
+    "dify-workflow"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "949429e6-e162-403e-b433-b0607726c80f"
+}

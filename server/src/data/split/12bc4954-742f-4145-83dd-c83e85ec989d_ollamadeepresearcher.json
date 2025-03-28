@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Cam10001110101/mcp-server-ollama-deep-researcher",
+  "githubUrl": "https://github.com/Cam10001110101/mcp-server-ollama-deep-researcher",
+  "name": "Ollama Deep Researcher",
+  "author": "Cam10001110101",
+  "description": "Leverage Ollama as your LLM, and Tavily or Perplexity to do your deep web research",
+  "codiconIcon": "ollama",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "ollama-deep-researcher",
+    "leverage",
+    "ollama",
+    "tavily",
+    "perplexity"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "12bc4954-742f-4145-83dd-c83e85ec989d"
+}

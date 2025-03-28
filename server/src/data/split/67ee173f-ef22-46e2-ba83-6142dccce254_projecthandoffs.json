@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/davidorex/project-handoffs",
+  "githubUrl": "https://github.com/davidorex/project-handoffs",
+  "name": "Project Handoffs",
+  "author": "davidorex",
+  "description": "Coordinates workflows across multiple sessions or models to maintain context and enable seamless handoffs for complex, multi-stage processes.",
+  "codiconIcon": "project",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "project-handoffs",
+    "workflows",
+    "across",
+    "models",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "67ee173f-ef22-46e2-ba83-6142dccce254"
+}

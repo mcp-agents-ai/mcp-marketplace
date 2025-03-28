@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/happyZYM/mcp-server-reposearch",
+  "githubUrl": "https://github.com/happyZYM/mcp-server-reposearch",
+  "name": "Repository Search",
+  "author": "happyZYM",
+  "description": "Provides efficient file search functionality within repositories, respecting ignore patterns and offering configurable text content matching for development tools and applications.",
+  "codiconIcon": "repository",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "repositories",
+    "ignore",
+    "patterns",
+    "offering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "d1aa7426-aeff-4135-a82c-52bbc08a6793"
+}

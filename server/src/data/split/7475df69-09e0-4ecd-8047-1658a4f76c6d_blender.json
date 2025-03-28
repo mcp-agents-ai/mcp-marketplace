@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cwahlfeldt/blender-mcp",
+  "githubUrl": "https://github.com/cwahlfeldt/blender-mcp",
+  "name": "Blender",
+  "author": "cwahlfeldt",
+  "description": "Integrates with Blender's Python API to enable natural language-driven 3D modeling, scene generation, and animation scripting within the Blender environment.",
+  "codiconIcon": "blender",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "language-driven",
+    "modeling",
+    "animation",
+    "scripting",
+    "within"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "7475df69-09e0-4ecd-8047-1658a4f76c6d"
+}

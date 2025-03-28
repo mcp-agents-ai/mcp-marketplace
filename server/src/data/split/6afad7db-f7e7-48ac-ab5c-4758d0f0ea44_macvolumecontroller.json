@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/samsel/onesies",
+  "githubUrl": "https://github.com/samsel/onesies",
+  "name": "Mac Volume Controller",
+  "author": "samsel",
+  "description": "Enables macOS volume control via osascript, providing mute and unmute functionality for system audio management.",
+  "codiconIcon": "mac",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "system",
+    "management",
+    "mac-volume-controller",
+    "enables",
+    "volume"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "6afad7db-f7e7-48ac-ab5c-4758d0f0ea44"
+}

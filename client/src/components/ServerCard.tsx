@@ -1,4 +1,6 @@
-import { Database, Download, ExternalLink, Star } from 'lucide-react';
+import React from 'react';
+import { Link } from 'react-router-dom';
+import { Star, Download, ExternalLink, Database } from 'lucide-react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { MCPServer } from '../types';
 
@@ -11,8 +13,8 @@ export function ServerCard({ server }: ServerCardProps) {
   
   return (
     <div className="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300">
-      <div className="p-4 sm:p-6">
-        <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between">
+      <Link to={server.hubId ? `/server/${server.hubId}` : '#'} className="block p-6">
+        <div className="flex items-start justify-between">
           <div className="flex items-center space-x-3">
             {server.logoUrl ? (
               <img src={server.logoUrl} alt={server.name} className="h-10 w-10 sm:h-12 sm:w-12 rounded-lg flex-shrink-0" />
@@ -62,13 +64,14 @@ export function ServerCard({ server }: ServerCardProps) {
             href={server.githubUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center px-3 py-1 sm:py-1.5 border border-blue-500 text-xs sm:text-sm leading-4 font-medium rounded-md text-blue-600 bg-white hover:bg-blue-50 focus:outline-none focus:ring-1 focus:ring-blue-500 w-full sm:w-auto justify-center sm:justify-start transition-colors duration-150"
+            onClick={(e) => e.stopPropagation()}
+            className="inline-flex items-center px-3 py-1 sm:py-1.5 border border-blue-500 text-xs sm:text-sm leading-4 font-medium rounded-md text-blue-600 bg-white hover:bg-blue-50 focus:outline-none focus:ring-1 focus:ring-blue-500 transition-colors duration-150"
           >
             <ExternalLink className="h-3 w-3 sm:h-3.5 sm:w-3.5 mr-1.5 sm:mr-2" />
             {t('server.viewOnGithub')}
           </a>
         </div>
-      </div>
+      </Link>
     </div>
   );
 }

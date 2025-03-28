@@ -1,0 +1,23 @@
+{
+  "mcpId": "https://github.com/AllAboutAI-YT/mcp-servers/tree/HEAD/openai-server",
+  "githubUrl": "https://github.com/AllAboutAI-YT/mcp-servers/tree/HEAD/openai-server",
+  "name": "OpenAI Chat Completions",
+  "author": "AllAboutAI-YT",
+  "description": "Make calls to OpenAI's chat completions.",
+  "codiconIcon": "openai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "openai-chat-completions",
+    "calls",
+    "openai's",
+    "completions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "94231a4f-3010-42f1-b870-83b77c75bbe6"
+}

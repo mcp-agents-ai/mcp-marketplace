@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/release-notes-generator-iris-mcp-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/release-notes-generator-iris-mcp-server",
+  "name": "Git & Code Analysis",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates with Git to provide version control, project management, and code analysis capabilities for TypeScript projects.",
+  "codiconIcon": "git",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "version",
+    "control",
+    "project",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "41cd0fbc-5075-45f7-8ac7-ec238fef669f"
+}

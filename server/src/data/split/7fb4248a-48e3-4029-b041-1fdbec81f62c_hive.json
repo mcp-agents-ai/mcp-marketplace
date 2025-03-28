@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gluneau/hive-mcp-server",
+  "githubUrl": "https://github.com/gluneau/hive-mcp-server",
+  "name": "Hive",
+  "author": "gluneau",
+  "description": "Integrates with the Hive blockchain to enable querying data, posting content, and managing accounts for content creation, social media automation, and blockchain analysis tasks.",
+  "codiconIcon": "hive",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "blockchain",
+    "automation",
+    "enable",
+    "posting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "7fb4248a-48e3-4029-b041-1fdbec81f62c"
+}

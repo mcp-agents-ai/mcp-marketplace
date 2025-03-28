@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/manimohans/farcaster-mcp",
+  "githubUrl": "https://github.com/manimohans/farcaster-mcp",
+  "name": "Farcaster",
+  "author": "manimohans",
+  "description": "Integrates with the Farcaster Hubble API to fetch and analyze social data, enabling real-time content monitoring and user engagement tracking on the Farcaster network.",
+  "codiconIcon": "farcaster",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "content",
+    "monitoring",
+    "network",
+    "integrates",
+    "hubble"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "8e2af5fb-5093-4067-aa66-0e77e755e253"
+}

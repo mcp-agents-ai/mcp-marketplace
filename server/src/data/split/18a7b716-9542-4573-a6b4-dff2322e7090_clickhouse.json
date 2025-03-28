@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ClickHouse/mcp-clickhouse",
+  "githubUrl": "https://github.com/ClickHouse/mcp-clickhouse",
+  "name": "ClickHouse",
+  "author": "ClickHouse",
+  "description": "Integrates with ClickHouse to enable natural language querying and exploration of large datasets while maintaining read-only safeguards.",
+  "codiconIcon": "clickhouse",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "natural",
+    "exploration",
+    "large",
+    "maintaining",
+    "safeguards"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "18a7b716-9542-4573-a6b4-dff2322e7090"
+}

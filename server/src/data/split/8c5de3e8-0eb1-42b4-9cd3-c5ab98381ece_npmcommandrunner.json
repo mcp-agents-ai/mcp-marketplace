@@ -1,0 +1,22 @@
+{
+  "mcpId": "https://github.com/seido/mcp_npm",
+  "githubUrl": "https://github.com/seido/mcp_npm",
+  "name": "NPM Command Runner",
+  "author": "seido",
+  "description": "Execute npm and npx commands.",
+  "codiconIcon": "npm",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "commands",
+    "npm-command-runner",
+    "execute"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "8c5de3e8-0eb1-42b4-9cd3-c5ab98381ece"
+}

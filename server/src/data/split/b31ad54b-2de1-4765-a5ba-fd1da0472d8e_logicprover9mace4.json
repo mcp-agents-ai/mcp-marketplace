@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/angrysky56/mcp-logic",
+  "githubUrl": "https://github.com/angrysky56/mcp-logic",
+  "name": "Logic (Prover9/Mace4)",
+  "author": "angrysky56",
+  "description": "Integrates Prover9/Mace4 for automated reasoning, theorem proving, and logical analysis.",
+  "codiconIcon": "logic",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "logic-(prover9/mace4)",
+    "integrates",
+    "theorem",
+    "proving",
+    "logical"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "b31ad54b-2de1-4765-a5ba-fd1da0472d8e"
+}

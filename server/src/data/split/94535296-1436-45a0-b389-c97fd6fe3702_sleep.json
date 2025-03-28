@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/Garoth/sleep-mcp",
+  "githubUrl": "https://github.com/Garoth/sleep-mcp",
+  "name": "Sleep",
+  "author": "Garoth",
+  "description": "Provides timing control with configurable delays between operations, useful for rate limiting, API call spacing, and testing eventually consistent systems.",
+  "codiconIcon": "clock",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/sleep.png",
+  "category": "developer-tools",
+  "tags": [
+    "timing",
+    "rate-limiting",
+    "delays",
+    "testing",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 6,
+  "downloadCount": 1980,
+  "createdAt": "2025-02-23T01:49:49.815207Z",
+  "updatedAt": "2025-02-23T01:49:49.815207Z",
+  "hubId": "94535296-1436-45a0-b389-c97fd6fe3702"
+}

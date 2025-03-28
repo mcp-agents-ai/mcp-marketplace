@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ThomAub/clickhouse_mcp_server",
+  "githubUrl": "https://github.com/ThomAub/clickhouse_mcp_server",
+  "name": "ClickHouse",
+  "author": "ThomAub",
+  "description": "Integrates with ClickHouse databases to enable data analysis, querying, and exploration for large-scale analytical workloads.",
+  "codiconIcon": "clickhouse",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "databases",
+    "analysis",
+    "exploration",
+    "large-scale",
+    "analytical"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "14bbe443-7b41-4ee7-8d52-b8896a13d100"
+}

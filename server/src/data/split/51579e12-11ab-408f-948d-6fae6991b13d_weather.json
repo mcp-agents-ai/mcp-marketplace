@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/mcp-weather-service-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/mcp-weather-service-server",
+  "name": "Weather",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates real-time weather data from OpenWeather to provide location-specific forecasts.",
+  "codiconIcon": "weather",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "real-time",
+    "openweather",
+    "provide",
+    "location-specific"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "51579e12-11ab-408f-948d-6fae6991b13d"
+}

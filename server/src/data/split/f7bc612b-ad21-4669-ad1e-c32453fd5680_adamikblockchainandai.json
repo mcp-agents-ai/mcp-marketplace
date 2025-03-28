@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AdamikHQ/adamik-mcp-server",
+  "githubUrl": "https://github.com/AdamikHQ/adamik-mcp-server",
+  "name": "Adamik (Blockchain and AI)",
+  "author": "AdamikHQ",
+  "description": "Integrates with the Adamik API to enable blockchain operations and custom AI functionalities via Starknet, supporting secure API key management and efficient request handling.",
+  "codiconIcon": "adamik",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "functionalities",
+    "request",
+    "enable",
+    "starknet"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "f7bc612b-ad21-4669-ad1e-c32453fd5680"
+}

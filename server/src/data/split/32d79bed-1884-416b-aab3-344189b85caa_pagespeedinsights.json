@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/enemyrr/mcp-server-pagespeed",
+  "githubUrl": "https://github.com/enemyrr/mcp-server-pagespeed",
+  "name": "PageSpeed Insights",
+  "author": "enemyrr",
+  "description": "Integrates with Google PageSpeed Insights to analyze webpage performance and provide optimization recommendations for improved loading speed and user experience",
+  "codiconIcon": "pagespeed",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "webpage",
+    "performance",
+    "recommendations",
+    "pagespeed-insights",
+    "google"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "32d79bed-1884-416b-aab3-344189b85caa"
+}

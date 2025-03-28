@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/getAlby/lightning-tools-mcp-server",
+  "githubUrl": "https://github.com/getAlby/lightning-tools-mcp-server",
+  "name": "Lightning Tools",
+  "author": "getAlby",
+  "description": "Integrates with the Bitcoin Lightning Network to enable cryptocurrency payment capabilities and lightning address interactions for conversational workflows.",
+  "codiconIcon": "lightning",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "lightning-tools",
+    "lightning",
+    "network",
+    "payment",
+    "address"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "2a3294b0-9bcb-48a3-b07d-2e6d6e6d681a"
+}

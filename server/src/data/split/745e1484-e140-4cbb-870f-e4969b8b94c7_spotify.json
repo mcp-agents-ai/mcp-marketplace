@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/superseoworld/mcp-spotify",
+  "githubUrl": "https://github.com/superseoworld/mcp-spotify",
+  "name": "Spotify",
+  "author": "superseoworld",
+  "description": "Integrates with Spotify Web API to enable music search, playback control, and playlist management for applications needing music data and content access.",
+  "codiconIcon": "spotify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "music",
+    "playback",
+    "control",
+    "playlist"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "745e1484-e140-4cbb-870f-e4969b8b94c7"
+}

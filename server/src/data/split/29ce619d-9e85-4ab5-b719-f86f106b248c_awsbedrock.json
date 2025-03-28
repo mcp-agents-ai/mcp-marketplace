@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/davidshtian/MCP-on-AWS-Bedrock",
+  "githubUrl": "https://github.com/davidshtian/MCP-on-AWS-Bedrock",
+  "name": "AWS Bedrock",
+  "author": "davidshtian",
+  "description": "Integrates AWS Bedrock, enabling natural language processing and task automation.",
+  "codiconIcon": "aws",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "bedrock",
+    "enabling",
+    "natural",
+    "language",
+    "processing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "29ce619d-9e85-4ab5-b719-f86f106b248c"
+}

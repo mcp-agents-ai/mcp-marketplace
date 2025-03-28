@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bartwisch/MCPRules",
+  "githubUrl": "https://github.com/bartwisch/MCPRules",
+  "name": "Style Guidelines",
+  "author": "bartwisch",
+  "description": "Integrates with development tools to enforce consistent coding standards by managing and serving programming guidelines and rules across projects.",
+  "codiconIcon": "style",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "coding",
+    "programming",
+    "integrates",
+    "standards",
+    "guidelines"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "1d142b61-2b3d-4dc6-9069-47a02ad0fce8"
+}

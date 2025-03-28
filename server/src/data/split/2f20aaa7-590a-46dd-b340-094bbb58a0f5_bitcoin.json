@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AbdelStark/bitcoin-mcp",
+  "githubUrl": "https://github.com/AbdelStark/bitcoin-mcp",
+  "name": "Bitcoin",
+  "author": "AbdelStark",
+  "description": "Integrates with Bitcoin network and blockchain data via Blockstream API to enable transaction monitoring, wallet management, and blockchain analysis",
+  "codiconIcon": "bitcoin",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "wallet",
+    "bitcoin",
+    "integrates",
+    "network"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "2f20aaa7-590a-46dd-b340-094bbb58a0f5"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cablate/mcp-google-gmail",
+  "githubUrl": "https://github.com/cablate/mcp-google-gmail",
+  "name": "Gmail",
+  "author": "cablate",
+  "description": "Integrates with Gmail's API to enable email operations including sending, receiving, and managing emails for automation and workflow integration",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sending",
+    "emails",
+    "automation",
+    "gmail",
+    "gmail's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "4a4eb23d-facb-4bf1-9972-b80c0b48e903"
+}

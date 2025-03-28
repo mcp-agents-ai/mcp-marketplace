@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ipfans/postgres-mcp",
+  "githubUrl": "https://github.com/ipfans/postgres-mcp",
+  "name": "Postgres",
+  "author": "ipfans",
+  "description": "Connects to PostgreSQL databases to enable secure, read-only SQL querying and resource exploration for data analysis applications",
+  "codiconIcon": "postgres",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "exploration",
+    "analysis",
+    "applications",
+    "connects",
+    "postgresql"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "1a1804aa-2118-4641-aae4-4327167bc061"
+}

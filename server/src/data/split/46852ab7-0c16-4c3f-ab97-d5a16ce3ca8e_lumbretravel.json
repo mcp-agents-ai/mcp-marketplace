@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lumile/lumbretravel-mcp",
+  "githubUrl": "https://github.com/lumile/lumbretravel-mcp",
+  "name": "LumbreTravel",
+  "author": "lumile",
+  "description": "Integrates with the Argentinian LumbreTravel API to manage travel programs, activities, and bookings for efficient itinerary planning and service coordination.",
+  "codiconIcon": "lumbretravel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "argentinian",
+    "travel",
+    "activities",
+    "efficient"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "46852ab7-0c16-4c3f-ab97-d5a16ce3ca8e"
+}

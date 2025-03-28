@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ilyazub/serpapi-mcp-server",
+  "githubUrl": "https://github.com/ilyazub/serpapi-mcp-server",
+  "name": "SerpApi Google Search",
+  "author": "ilyazub",
+  "description": "Integrates with the SerpApi Google Search API to enable access to structured search results data for SEO tools, market research, or data aggregation services.",
+  "codiconIcon": "serpapi",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "serpapi-google-search",
+    "enable",
+    "structured",
+    "tools",
+    "market"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "ed69f1d5-8f99-4c7b-9182-03d863fbbf71"
+}

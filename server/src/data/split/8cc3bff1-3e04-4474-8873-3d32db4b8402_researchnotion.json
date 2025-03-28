@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/h-yanagawa/research-mcp-server",
+  "githubUrl": "https://github.com/h-yanagawa/research-mcp-server",
+  "name": "Research Notion",
+  "author": "h-yanagawa",
+  "description": "Integrates with Notion to enable AI-powered survey creation, data retrieval, and analysis for research projects.",
+  "codiconIcon": "research",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "projects",
+    "research-notion",
+    "enable",
+    "ai-powered"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "8cc3bff1-3e04-4474-8873-3d32db4b8402"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ivarvd-hldng/isoplanner-mcp-server",
+  "githubUrl": "https://github.com/ivarvd-hldng/isoplanner-mcp-server",
+  "name": "ISOPlanner",
+  "author": "ivarvd-hldng",
+  "description": "Integrates with the ISOPlanner API to enable retrieval of planning data and management of ISO-related tasks for compliance and process management workflows.",
+  "codiconIcon": "isoplanner",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "planning",
+    "management",
+    "iso-related",
+    "compliance",
+    "process"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "7ef48c3b-d72d-4f31-970b-0f602bc81abd"
+}

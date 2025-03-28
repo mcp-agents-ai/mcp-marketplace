@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sammcj/mcp-data-extractor",
+  "githubUrl": "https://github.com/sammcj/mcp-data-extractor",
+  "name": "Data Extractor",
+  "author": "sammcj",
+  "description": "Extracts data from TypeScript/JavaScript code into JSON configuration files, facilitating code refactoring and improved maintainability.",
+  "codiconIcon": "data",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "files",
+    "facilitating",
+    "refactoring",
+    "improved",
+    "maintainability"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "3b60d184-43fc-418f-b528-226a24011aa8"
+}

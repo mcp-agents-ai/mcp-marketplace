@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Shak2000/StockMCP",
+  "githubUrl": "https://github.com/Shak2000/StockMCP",
+  "name": "Yahoo Finance",
+  "author": "Shak2000",
+  "description": "Integrates with Yahoo Finance API to provide real-time stock prices, company information, historical data, and market news through LLaMA 3.2 3B while preserving all regular model capabilities.",
+  "codiconIcon": "yahoo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "prices",
+    "information",
+    "capabilities",
+    "yahoo",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "da7a626d-4211-43a3-a058-26079058fe8a"
+}

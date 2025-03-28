@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yaoxiaolinglong/mcp-mongodb-mysql-server",
+  "githubUrl": "https://github.com/yaoxiaolinglong/mcp-mongodb-mysql-server",
+  "name": "MongoDB-MySQL Database",
+  "author": "yaoxiaolinglong",
+  "description": "Provides a unified interface for MySQL and MongoDB operations, enabling seamless interaction with both database systems through TypeScript and Node.js with flexible deployment options.",
+  "codiconIcon": "mongodb-mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "enabling",
+    "options",
+    "unified",
+    "operations",
+    "database"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "12a84cb8-629d-4355-b21e-8a4fac311307"
+}

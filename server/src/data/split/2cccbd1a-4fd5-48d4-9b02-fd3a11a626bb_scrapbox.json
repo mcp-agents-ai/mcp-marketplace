@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/YuheiNakasaka/scrapbox-mcp",
+  "githubUrl": "https://github.com/YuheiNakasaka/scrapbox-mcp",
+  "name": "Scrapbox",
+  "author": "YuheiNakasaka",
+  "description": "Integrates with Scrapbox to retrieve page content, enabling incorporation of collaborative note-taking and knowledge management data into workflows",
+  "codiconIcon": "scrapbox",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "scrapbox",
+    "integrates",
+    "retrieve",
+    "incorporation",
+    "note-taking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "2cccbd1a-4fd5-48d4-9b02-fd3a11a626bb"
+}

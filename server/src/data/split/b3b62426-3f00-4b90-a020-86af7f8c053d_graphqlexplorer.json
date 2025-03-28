@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/larshvidsten/mcp_af_graph",
+  "githubUrl": "https://github.com/larshvidsten/mcp_af_graph",
+  "name": "GraphQL Explorer",
+  "author": "larshvidsten",
+  "description": "Integrates with GraphQL APIs to enable secure data retrieval, query execution, and schema exploration for AI applications",
+  "codiconIcon": "graphql",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "schema",
+    "exploration",
+    "applications",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "b3b62426-3f00-4b90-a020-86af7f8c053d"
+}

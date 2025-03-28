@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MadeByNando/mcp-postgres-server",
+  "githubUrl": "https://github.com/MadeByNando/mcp-postgres-server",
+  "name": "PostgreSQL",
+  "author": "MadeByNando",
+  "description": "Integrates with PostgreSQL databases to enable schema exploration and SQL query execution for data analysis and reporting tasks.",
+  "codiconIcon": "postgresql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "enable",
+    "schema",
+    "exploration",
+    "execution",
+    "reporting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "feb2774d-8a34-49c1-8c95-394f2e682d74"
+}

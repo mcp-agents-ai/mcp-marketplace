@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/danilop/MCP2Lambda",
+  "githubUrl": "https://github.com/danilop/MCP2Lambda",
+  "name": "AWS Lambda",
+  "author": "danilop",
+  "description": "Enables LLMs to interact with AWS Lambda functions, providing access to private resources, AWS services, and Lambda's capabilities for data processing and external API integration.",
+  "codiconIcon": "aws",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "resources",
+    "external",
+    "aws-lambda",
+    "providing",
+    "private"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "b5786f40-7296-418a-ab30-c2f795baf203"
+}

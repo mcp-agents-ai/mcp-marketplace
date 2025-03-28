@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mikkohei13/mcp-biodiversity",
+  "githubUrl": "https://github.com/mikkohei13/mcp-biodiversity",
+  "name": "Biodiversity",
+  "author": "mikkohei13",
+  "description": "Provides a simple interface for adding numbers and generating personalized greetings using FastMCP framework and custom helper functions.",
+  "codiconIcon": "biodiversity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "generating",
+    "personalized",
+    "provides",
+    "interface",
+    "greetings"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "910d5628-d9dc-4d7e-a05c-f4ec6040219b"
+}

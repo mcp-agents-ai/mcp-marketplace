@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/mcp-atlassian",
+  "githubUrl": "https://github.com/pashpashpash/mcp-atlassian",
+  "name": "Atlassian",
+  "author": "pashpashpash",
+  "description": "Integrates with Atlassian Cloud products (Confluence and Jira) to enable searching, accessing, and managing pages, spaces, issues, and projects via their respective APIs.",
+  "codiconIcon": "organization",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/atlassian.png",
+  "category": "developer-tools",
+  "tags": [
+    "atlassian",
+    "confluence",
+    "jira",
+    "project-management",
+    "documentation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 3,
+  "downloadCount": 1400,
+  "createdAt": "2025-02-18T23:04:29.548307Z",
+  "updatedAt": "2025-02-18T23:04:29.548307Z",
+  "hubId": "d7f04041-b366-46b5-a394-f873a04ad7fe"
+}

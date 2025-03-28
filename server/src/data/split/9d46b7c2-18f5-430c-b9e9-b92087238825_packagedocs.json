@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sammcj/mcp-package-docs",
+  "githubUrl": "https://github.com/sammcj/mcp-package-docs",
+  "name": "Package Docs",
+  "author": "sammcj",
+  "description": "Provides efficient access to NPM/Go/Python package documentation through smart parsing and caching, enabling quick retrieval of up-to-date library information.",
+  "codiconIcon": "package",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "smart",
+    "information",
+    "npm/go/python",
+    "documentation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "9d46b7c2-18f5-430c-b9e9-b92087238825"
+}

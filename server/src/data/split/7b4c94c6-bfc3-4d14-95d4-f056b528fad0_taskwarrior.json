@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/0xbeedao/mcp-taskwarrior",
+  "githubUrl": "https://github.com/0xbeedao/mcp-taskwarrior",
+  "name": "Taskwarrior",
+  "author": "0xbeedao",
+  "description": "Integrates with Taskwarrior to enable task management through adding, updating, deleting, and listing tasks with project organization and priority level support.",
+  "codiconIcon": "taskwarrior",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "listing",
+    "tasks",
+    "project",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "7b4c94c6-bfc3-4d14-95d4-f056b528fad0"
+}

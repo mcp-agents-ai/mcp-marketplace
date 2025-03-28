@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/topoteretes/cognee/tree/HEAD/cognee-mcp",
+  "githubUrl": "https://github.com/topoteretes/cognee/tree/HEAD/cognee-mcp",
+  "name": "Cognee",
+  "author": "topoteretes",
+  "description": "AI-friendly database and knowledge-management capabilities via various database schemes.",
+  "codiconIcon": "cognee",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "capabilities",
+    "various",
+    "schemes",
+    "cognee",
+    "ai-friendly"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "05e19a5d-df7f-497e-9272-b36744db5cd5"
+}

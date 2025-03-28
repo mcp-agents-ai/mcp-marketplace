@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/famano/mcp-server-office",
+  "githubUrl": "https://github.com/famano/mcp-server-office",
+  "name": "MS Word",
+  "author": "famano",
+  "description": "Integrates with Microsoft Word documents to enable reading, writing, and editing of text, tables, and images for automated document processing and content generation.",
+  "codiconIcon": "ms",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tables",
+    "images",
+    "content",
+    "reading",
+    "document"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "112a4dd5-9ecd-4b8c-bbfd-fd40f512cc77"
+}

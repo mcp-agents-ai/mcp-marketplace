@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Rami-0/python_mcp",
+  "githubUrl": "https://github.com/Rami-0/python_mcp",
+  "name": "File Search Service",
+  "author": "Rami-0",
+  "description": "Provides a robust file search service, enabling efficient querying of local directories with detailed results including file metadata and content matching.",
+  "codiconIcon": "file",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "querying",
+    "matching",
+    "service",
+    "detailed"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "53795714-4d57-4403-a7ff-db3e5b1f2165"
+}

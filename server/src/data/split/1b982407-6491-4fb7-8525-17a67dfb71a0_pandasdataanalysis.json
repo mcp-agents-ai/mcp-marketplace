@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alistairwalsh/mcp_pandas",
+  "githubUrl": "https://github.com/alistairwalsh/mcp_pandas",
+  "name": "Pandas Data Analysis",
+  "author": "alistairwalsh",
+  "description": "Leverages pandas, numpy, and matplotlib to enable powerful data manipulation, statistical analysis, and visualization for data-driven projects.",
+  "codiconIcon": "pandas",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "statistical",
+    "visualization",
+    "data-driven",
+    "projects",
+    "leverages"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "1b982407-6491-4fb7-8525-17a67dfb71a0"
+}

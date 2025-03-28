@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/metatool-ai/mcp-server-metamcp",
+  "githubUrl": "https://github.com/metatool-ai/mcp-server-metamcp",
+  "name": "MetaMCP",
+  "author": "metatool-ai",
+  "description": "Centralizes management of multiple AI services, providing secure API key handling and unified access for streamlined interactions across diverse platforms.",
+  "codiconIcon": "metamcp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "metamcp",
+    "multiple",
+    "services",
+    "providing",
+    "access"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "a478ff5c-a9f4-49bb-a403-96cf5e706ddf"
+}

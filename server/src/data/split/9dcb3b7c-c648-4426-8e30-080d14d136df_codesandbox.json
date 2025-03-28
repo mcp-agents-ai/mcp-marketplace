@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
+  "githubUrl": "https://github.com/Automata-Labs-team/code-sandbox-mcp",
+  "name": "Code Sandbox",
+  "author": "Automata-Labs-team",
+  "description": "Provides a sandboxed code execution environment for secure, multi-language code running with resource limits and network restrictions.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "execution",
+    "environment",
+    "multi-language",
+    "running"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "9dcb3b7c-c648-4426-8e30-080d14d136df"
+}

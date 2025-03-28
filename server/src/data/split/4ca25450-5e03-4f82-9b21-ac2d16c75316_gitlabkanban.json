@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/gitlab-kanban-mcp-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/gitlab-kanban-mcp-server",
+  "name": "GitLab Kanban",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates with GitLab's API to enable Kanban-style project management and issue tracking for streamlined software development workflows.",
+  "codiconIcon": "gitlab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "gitlab's",
+    "kanban-style",
+    "project",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "4ca25450-5e03-4f82-9b21-ac2d16c75316"
+}

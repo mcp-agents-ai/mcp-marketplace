@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tanevanwifferen/mcp-inception",
+  "githubUrl": "https://github.com/tanevanwifferen/mcp-inception",
+  "name": "MCP-Inception",
+  "author": "tanevanwifferen",
+  "description": "Enables MCP clients communicating with other MCP clients through this MCP server.",
+  "codiconIcon": "mcp-inception",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "clients",
+    "communicating",
+    "other",
+    "through",
+    "server"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "5d68c24b-248e-4c92-b08b-009f49dad55e"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/joshrutkowski/applescript-mcp",
+  "githubUrl": "https://github.com/joshrutkowski/applescript-mcp",
+  "name": "AppleScript",
+  "author": "joshrutkowski",
+  "description": "Integrates AppleScript to enable natural language control of macOS applications and system functions.",
+  "codiconIcon": "applescript",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applescript",
+    "integrates",
+    "enable",
+    "language",
+    "macos"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "16961c08-dc3c-4f91-9d22-c27dfff1f440"
+}

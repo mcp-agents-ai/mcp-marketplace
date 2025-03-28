@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/LucasHild/mcp-server-bigquery",
+  "githubUrl": "https://github.com/LucasHild/mcp-server-bigquery",
+  "name": "BigQuery",
+  "author": "LucasHild",
+  "description": "Inspect schemas and execute SQL queries on Google BigQuery.",
+  "codiconIcon": "bigquery",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "schemas",
+    "execute",
+    "queries",
+    "google",
+    "bigquery"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "0c6258a2-ec34-451b-964e-4e411d5be1f7"
+}

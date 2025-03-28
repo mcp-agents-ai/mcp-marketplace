@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wonderwhy-er/ClaudeComputerCommander",
+  "githubUrl": "https://github.com/wonderwhy-er/ClaudeComputerCommander",
+  "name": "CLI (Computer Commander)",
+  "author": "wonderwhy-er",
+  "description": "Integrates terminal and filesystem capabilities for executing system commands, managing processes, and performing advanced file operations on the local system.",
+  "codiconIcon": "cli",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "executing",
+    "processes",
+    "advanced",
+    "operations",
+    "local"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "29d4cd10-ad18-4109-b416-494a09cb1db9"
+}

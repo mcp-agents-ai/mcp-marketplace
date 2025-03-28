@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/folderr-tech/folderr-mcp-server",
+  "githubUrl": "https://github.com/folderr-tech/folderr-mcp-server",
+  "name": "Folderr",
+  "author": "folderr-tech",
+  "description": "Integrates with Folderr's API to enable management and communication with Folderr Assistants, facilitating tasks like listing assistants and sending questions.",
+  "codiconIcon": "folderr",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "listing",
+    "sending",
+    "folderr",
+    "folderr's",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "54affb58-6541-4c24-b691-4900e7a3725d"
+}

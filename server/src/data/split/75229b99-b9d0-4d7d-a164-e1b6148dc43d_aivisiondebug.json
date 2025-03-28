@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/samihalawa/mcp-server-ai-vision",
+  "githubUrl": "https://github.com/samihalawa/mcp-server-ai-vision",
+  "name": "AI Vision Debug",
+  "author": "samihalawa",
+  "description": "Integrates with the Gemini API to analyze UI screenshots, providing automated visual QA and insights for application testing and UX evaluation.",
+  "codiconIcon": "ai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "insights",
+    "testing",
+    "integrates",
+    "gemini",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "75229b99-b9d0-4d7d-a164-e1b6148dc43d"
+}

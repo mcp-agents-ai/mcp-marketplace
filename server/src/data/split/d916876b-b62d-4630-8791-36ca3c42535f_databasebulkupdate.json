@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AnuragRai017/database-updater-MCP-Server",
+  "githubUrl": "https://github.com/AnuragRai017/database-updater-MCP-Server",
+  "name": "Database Bulk Update",
+  "author": "AnuragRai017",
+  "description": "Streamlines database updates from CSV and Excel files, supporting multiple database types for efficient data migration and synchronization tasks.",
+  "codiconIcon": "database",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "database-bulk-update",
+    "updates",
+    "excel",
+    "files",
+    "supporting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "d916876b-b62d-4630-8791-36ca3c42535f"
+}

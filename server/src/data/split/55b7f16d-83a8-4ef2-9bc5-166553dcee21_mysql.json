@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wwwyo/mysql-mcp",
+  "githubUrl": "https://github.com/wwwyo/mysql-mcp",
+  "name": "MySQL",
+  "author": "wwwyo",
+  "description": "Integrates with MySQL databases to enable SQL query execution, connection management, and data retrieval for applications requiring relational database interactions.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "requiring",
+    "relational",
+    "database",
+    "enable",
+    "query"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "55b7f16d-83a8-4ef2-9bc5-166553dcee21"
+}

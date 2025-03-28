@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spencerhhubert/illustrator-mcp-server",
+  "githubUrl": "https://github.com/spencerhhubert/illustrator-mcp-server",
+  "name": "Adobe Illustrator",
+  "author": "spencerhhubert",
+  "description": "Integrates with Adobe Illustrator on MacOS using JavaScript and AppleScript to enable creation and manipulation of vector graphics for automated design tasks.",
+  "codiconIcon": "adobe",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "macos",
+    "javascript",
+    "enable",
+    "manipulation",
+    "vector"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "fdd57302-bc86-4253-8e10-5ac5c15b3fa1"
+}

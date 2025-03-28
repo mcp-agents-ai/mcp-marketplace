@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/privetin/chroma",
+  "githubUrl": "https://github.com/privetin/chroma",
+  "name": "ChromaDB",
+  "author": "privetin",
+  "description": "Integrates ChromaDB vector database capabilities for efficient semantic document search, storage, and retrieval in natural language processing and information retrieval applications.",
+  "codiconIcon": "chromadb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "chromadb",
+    "capabilities",
+    "storage",
+    "retrieval",
+    "natural"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "7f26cad1-71b4-4c6c-86c0-e2133899fbad"
+}

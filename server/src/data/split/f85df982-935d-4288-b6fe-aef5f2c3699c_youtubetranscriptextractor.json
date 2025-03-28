@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MalikElate/yt-description-mcp",
+  "githubUrl": "https://github.com/MalikElate/yt-description-mcp",
+  "name": "YouTube Transcript Extractor",
+  "author": "MalikElate",
+  "description": "Extracts and processes complete transcripts from YouTube videos using a single tool that accepts video URLs, enabling content analysis without watching the videos.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "videos",
+    "single",
+    "enabling",
+    "analysis",
+    "video"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "f85df982-935d-4288-b6fe-aef5f2c3699c"
+}

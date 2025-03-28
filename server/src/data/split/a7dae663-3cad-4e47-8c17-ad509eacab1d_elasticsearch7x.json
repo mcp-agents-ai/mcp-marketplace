@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/imlewc/elasticsearch7-mcp-server",
+  "githubUrl": "https://github.com/imlewc/elasticsearch7-mcp-server",
+  "name": "Elasticsearch 7.x",
+  "author": "imlewc",
+  "description": "Integrates with Elasticsearch 7.x, providing efficient data management and search capabilities for projects requiring robust analytics within the ecosystem.",
+  "codiconIcon": "elasticsearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analytics",
+    "within",
+    "ecosystem",
+    "elasticsearch-7.x",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a7dae663-3cad-4e47-8c17-ad509eacab1d"
+}

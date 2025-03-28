@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/codegen-sh/codegen-sdk/tree/develop/codegen-examples/examples/codegen-mcp-server",
+  "githubUrl": "https://github.com/codegen-sh/codegen-sdk/tree/develop/codegen-examples/examples/codegen-mcp-server",
+  "name": "Codegen",
+  "author": "codegen-sh",
+  "description": "Enables parsing codebases and executing codemods through standardized model inference, supporting various LLM providers via integration with the Codegen SDK.",
+  "codiconIcon": "code",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/codegen.png",
+  "category": "developer-tools",
+  "tags": [
+    "code-generation",
+    "codemod",
+    "code-parsing",
+    "sdk-integration",
+    "llm-tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 404,
+  "downloadCount": 1042,
+  "createdAt": "2025-02-18T23:04:15.445062Z",
+  "updatedAt": "2025-02-18T23:04:15.445062Z",
+  "hubId": "22ef699f-4980-4e32-8538-2b7c036e2e43"
+}

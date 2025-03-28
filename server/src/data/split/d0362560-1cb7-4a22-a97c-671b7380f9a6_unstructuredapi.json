@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Unstructured-IO/UNS-MCP",
+  "githubUrl": "https://github.com/Unstructured-IO/UNS-MCP",
+  "name": "Unstructured API",
+  "author": "Unstructured-IO",
+  "description": "Integrates with the Unstructured API to enable document processing operations including managing connectors and workflows for extracting structured information from documents without switching tools.",
+  "codiconIcon": "unstructured",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "document",
+    "operations",
+    "including",
+    "extracting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "d0362560-1cb7-4a22-a97c-671b7380f9a6"
+}

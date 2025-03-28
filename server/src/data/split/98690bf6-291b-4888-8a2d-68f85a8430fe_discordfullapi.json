@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hanweg/mcp-discord-raw",
+  "githubUrl": "https://github.com/hanweg/mcp-discord-raw",
+  "name": "Discord (Full API)",
+  "author": "hanweg",
+  "description": "Integrates with Discord's API to enable flexible bot development and management through simplified REST and slash command interfaces.",
+  "codiconIcon": "discord",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "discord-(full-api)",
+    "discord's",
+    "development",
+    "through",
+    "simplified"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "98690bf6-291b-4888-8a2d-68f85a8430fe"
+}

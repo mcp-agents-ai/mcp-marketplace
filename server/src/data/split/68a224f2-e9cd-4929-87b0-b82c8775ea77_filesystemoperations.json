@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/codyde/mcp-file-tool",
+  "githubUrl": "https://github.com/codyde/mcp-file-tool",
+  "name": "File System Operations",
+  "author": "codyde",
+  "description": "Provides file system operations for reading, creating, and listing files on the local file system, with performance monitoring through Sentry integration.",
+  "codiconIcon": "file",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "creating",
+    "files",
+    "local",
+    "monitoring",
+    "sentry"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "68a224f2-e9cd-4929-87b0-b82c8775ea77"
+}

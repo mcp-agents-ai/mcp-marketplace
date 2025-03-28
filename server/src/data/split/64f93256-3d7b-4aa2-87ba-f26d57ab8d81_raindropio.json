@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/anarcher/raindrop-io-mcp-server",
+  "githubUrl": "https://github.com/anarcher/raindrop-io-mcp-server",
+  "name": "Raindrop.io",
+  "author": "anarcher",
+  "description": "Integrates with the Raindrop.io API to enable bookmark creation, searching, tagging, and collection management for automated bookmark organization and retrieval.",
+  "codiconIcon": "raindrop.io",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automated",
+    "organization",
+    "retrieval",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "64f93256-3d7b-4aa2-87ba-f26d57ab8d81"
+}

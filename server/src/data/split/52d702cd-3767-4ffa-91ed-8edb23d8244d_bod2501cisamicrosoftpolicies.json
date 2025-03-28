@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DynamicEndpoints/Automated-BOD-25-01-CISA-Microsoft-Policies-MCP",
+  "githubUrl": "https://github.com/DynamicEndpoints/Automated-BOD-25-01-CISA-Microsoft-Policies-MCP",
+  "name": "BOD 25-01 CISA Microsoft Policies",
+  "author": "DynamicEndpoints",
+  "description": "Integrates with Microsoft Graph API to enforce CISA Directive 25-01 security controls for Microsoft 365, enabling automated policy management and compliance monitoring.",
+  "codiconIcon": "bod",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "policy",
+    "bod-25-01-cisa-microsoft-policies",
+    "integrates",
+    "security"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "52d702cd-3767-4ffa-91ed-8edb23d8244d"
+}

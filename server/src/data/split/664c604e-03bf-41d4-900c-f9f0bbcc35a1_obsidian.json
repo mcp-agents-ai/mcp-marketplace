@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kazuph/mcp-obsidian",
+  "githubUrl": "https://github.com/kazuph/mcp-obsidian",
+  "name": "Obsidian",
+  "author": "kazuph",
+  "description": "Integrates with Obsidian vaults, enabling natural language queries and updates to notes through secure read/write access.",
+  "codiconIcon": "obsidian",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "language",
+    "updates",
+    "through",
+    "secure",
+    "read/write"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "664c604e-03bf-41d4-900c-f9f0bbcc35a1"
+}

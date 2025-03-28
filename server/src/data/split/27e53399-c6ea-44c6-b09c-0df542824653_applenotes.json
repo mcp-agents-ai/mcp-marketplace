@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RafalWilinski/mcp-apple-notes",
+  "githubUrl": "https://github.com/RafalWilinski/mcp-apple-notes",
+  "name": "Apple Notes",
+  "author": "RafalWilinski",
+  "description": "Search and reference Apple Notes from your local machine using on-device embeddings.",
+  "codiconIcon": "apple",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "on-device",
+    "embeddings",
+    "search",
+    "reference"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "27e53399-c6ea-44c6-b09c-0df542824653"
+}

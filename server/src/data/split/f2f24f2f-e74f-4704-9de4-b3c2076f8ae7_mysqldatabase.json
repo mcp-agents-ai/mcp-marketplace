@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/f4ww4z/mcp-mysql-server",
+  "githubUrl": "https://github.com/f4ww4z/mcp-mysql-server",
+  "name": "MySQL Database",
+  "author": "f4ww4z",
+  "description": "Interact with MySQL databases to execute queries and manage connections.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "mysql",
+    "databases",
+    "execute",
+    "queries",
+    "manage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "f2f24f2f-e74f-4704-9de4-b3c2076f8ae7"
+}

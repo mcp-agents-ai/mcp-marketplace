@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/0xshellming/mcp-summarizer",
+  "githubUrl": "https://github.com/0xshellming/mcp-summarizer",
+  "name": "Summarizer",
+  "author": "0xshellming",
+  "description": "Provides intelligent summarization capabilities for various types of content.",
+  "codiconIcon": "summarizer",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "types",
+    "content",
+    "summarizer",
+    "provides",
+    "intelligent"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "58133145-6912-43cf-b303-17e212dcd0ff"
+}

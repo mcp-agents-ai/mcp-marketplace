@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/twolven/mcp-server-puppeteer-py",
+  "githubUrl": "https://github.com/twolven/mcp-server-puppeteer-py",
+  "name": "Puppeteer Browser Automation",
+  "author": "twolven",
+  "description": "Integrates with Puppeteer to provide browser automation capabilities for web navigation, interaction, and data extraction.",
+  "codiconIcon": "puppeteer",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "navigation",
+    "interaction",
+    "puppeteer-browser-automation",
+    "integrates",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "ab41b8a1-2d67-4398-a30d-300b300499bc"
+}

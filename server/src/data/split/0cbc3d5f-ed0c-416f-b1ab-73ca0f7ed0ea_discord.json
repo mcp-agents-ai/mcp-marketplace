@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hanweg/mcp-discord",
+  "githubUrl": "https://github.com/hanweg/mcp-discord",
+  "name": "Discord",
+  "author": "hanweg",
+  "description": "Integrates Discord to enable automated server management, moderation, and bot development.",
+  "codiconIcon": "discord",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automated",
+    "server",
+    "management",
+    "moderation",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "0cbc3d5f-ed0c-416f-b1ab-73ca0f7ed0ea"
+}

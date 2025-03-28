@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jankowtf/mcp-hitchcode",
+  "githubUrl": "https://github.com/jankowtf/mcp-hitchcode",
+  "name": "Simple Website Fetcher",
+  "author": "jankowtf",
+  "description": "Exposes a simple website fetching tool for retrieving web content, supporting local development and cloud deployment with real-time communication via Server-Sent Events.",
+  "codiconIcon": "simple",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "exposes",
+    "simple",
+    "fetching",
+    "deployment",
+    "real-time"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "08a1d57e-8c09-4d25-b0a1-2361e9f080ef"
+}

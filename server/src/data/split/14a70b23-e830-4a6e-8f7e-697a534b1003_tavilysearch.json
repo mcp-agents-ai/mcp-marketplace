@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/arben-adm/tavily-mcp-search",
+  "githubUrl": "https://github.com/arben-adm/tavily-mcp-search",
+  "name": "Tavily Search",
+  "author": "arben-adm",
+  "description": "Integrates with Tavily search API to enable natural language web queries for retrieving up-to-date, contextual information from across the internet.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "natural",
+    "language",
+    "queries",
+    "retrieving",
+    "up-to-date"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "14a70b23-e830-4a6e-8f7e-697a534b1003"
+}

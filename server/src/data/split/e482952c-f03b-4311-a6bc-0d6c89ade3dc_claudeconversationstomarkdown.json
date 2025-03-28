@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/29decibel/record-to-markdown",
+  "githubUrl": "https://github.com/29decibel/record-to-markdown",
+  "name": "Claude Conversations to Markdown",
+  "author": "29decibel",
+  "description": "Integrates with markdown files and Apple Notes to automatically save and format Claude conversation content for easy reference and sharing.",
+  "codiconIcon": "claude",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "claude-conversations-to-markdown",
+    "files",
+    "apple",
+    "format",
+    "claude"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "e482952c-f03b-4311-a6bc-0d6c89ade3dc"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ktanaka101/mcp-server-duckdb",
+  "githubUrl": "https://github.com/ktanaka101/mcp-server-duckdb",
+  "name": "DuckDB",
+  "author": "ktanaka101",
+  "description": "Execute SQL queries and analyze data in DuckDB databases.",
+  "codiconIcon": "duckdb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "databases",
+    "duckdb",
+    "execute",
+    "queries",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "72193b44-dce2-442a-a7d6-15dc31435085"
+}

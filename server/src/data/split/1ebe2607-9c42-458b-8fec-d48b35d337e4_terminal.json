@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dillip285/mcp-terminal",
+  "githubUrl": "https://github.com/dillip285/mcp-terminal",
+  "name": "Terminal",
+  "author": "dillip285",
+  "description": "Provides a secure terminal environment for executing system commands within allowed paths, enabling controlled file management and script execution.",
+  "codiconIcon": "terminal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "system",
+    "enabling",
+    "management",
+    "script",
+    "environment"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "1ebe2607-9c42-458b-8fec-d48b35d337e4"
+}

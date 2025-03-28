@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/anaisbetts/mcp-youtube",
+  "githubUrl": "https://github.com/anaisbetts/mcp-youtube",
+  "name": "YouTube Subtitles",
+  "author": "anaisbetts",
+  "description": "Downloads and extracts YouTube video subtitles using yt-dlp, enabling AI assistants to analyze and summarize video content through subtitle text.",
+  "codiconIcon": "play-circle",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/youtube-subtitles.png",
+  "category": "entertainment-media",
+  "tags": [
+    "youtube",
+    "subtitles",
+    "video-analysis",
+    "content-summarization",
+    "yt-dlp"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 217,
+  "downloadCount": 912,
+  "createdAt": "2025-02-17T22:27:37.384353Z",
+  "updatedAt": "2025-02-17T22:27:37.384353Z",
+  "hubId": "0092c98a-a48a-41fd-bdc8-e69c66e207a8"
+}

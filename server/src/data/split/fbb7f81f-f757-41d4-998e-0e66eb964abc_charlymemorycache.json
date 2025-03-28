@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ibproduct/ib-mcp-cache-server",
+  "githubUrl": "https://github.com/ibproduct/ib-mcp-cache-server",
+  "name": "Charly Memory Cache",
+  "author": "ibproduct",
+  "description": "Caches data between language model queries to optimize token consumption and reduce costs in AI interactions.",
+  "codiconIcon": "charly",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reduce",
+    "costs",
+    "charly-memory-cache",
+    "language",
+    "queries"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "fbb7f81f-f757-41d4-998e-0e66eb964abc"
+}

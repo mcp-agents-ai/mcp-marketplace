@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Andrew-Beniash/mcp-command-server",
+  "githubUrl": "https://github.com/Andrew-Beniash/mcp-command-server",
+  "name": "Command Security Layer",
+  "author": "Andrew-Beniash",
+  "description": "Implements a robust security layer for command processing, utilizing multi-step verification and auditing to enable high-security use cases like critical infrastructure management.",
+  "codiconIcon": "command",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "robust",
+    "utilizing",
+    "verification",
+    "auditing",
+    "infrastructure"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "eea53112-b6d3-4f94-b5ea-cc8b84cb0991"
+}

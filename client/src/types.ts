@@ -14,4 +14,5 @@ export interface MCPServer {
   downloadCount: number;
   createdAt: string;
   updatedAt: string;
+  hubId?: string; // Added hubId field for server details navigation
 }

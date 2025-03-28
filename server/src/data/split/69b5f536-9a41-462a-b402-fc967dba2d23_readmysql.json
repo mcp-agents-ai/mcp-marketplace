@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/benborla/mcp-server-mysql",
+  "githubUrl": "https://github.com/benborla/mcp-server-mysql",
+  "name": "Read MySQL",
+  "author": "benborla",
+  "description": "Secure read-only MySQL database access to execute queries and analyze data patterns.",
+  "codiconIcon": "read",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "secure",
+    "access",
+    "queries",
+    "patterns",
+    "read-mysql"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "69b5f536-9a41-462a-b402-fc967dba2d23"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zaycruz/docker_mcp",
+  "githubUrl": "https://github.com/zaycruz/docker_mcp",
+  "name": "Docker Executor",
+  "author": "zaycruz",
+  "description": "Provides a secure Docker-based environment for executing code in isolated containers, enabling safe running of commands and scripts in any language with robust error handling and resource management.",
+  "codiconIcon": "docker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "scripts",
+    "language",
+    "executing",
+    "containers"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "a7ffa004-b367-43e1-9183-d4f05c4aa978"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Birdsmith/Gauntlet-Incept-MCP",
+  "githubUrl": "https://github.com/Birdsmith/Gauntlet-Incept-MCP",
+  "name": "Gauntlet Incept",
+  "author": "Birdsmith",
+  "description": "Integrates with QTI services and LLMs to generate personalized educational content tailored to students' knowledge levels and interests, streamlining the creation of adaptive learning materials.",
+  "codiconIcon": "gauntlet",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "educational",
+    "adaptive",
+    "materials",
+    "streamlining",
+    "creation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "b0c4aac3-3df1-4eaa-878a-2b3c4d716101"
+}

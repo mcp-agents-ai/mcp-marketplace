@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/scmdr/sourcesyncai-mcp",
+  "githubUrl": "https://github.com/scmdr/sourcesyncai-mcp",
+  "name": "SourceSync.ai",
+  "author": "scmdr",
+  "description": "Integrates with SourceSync.ai's knowledge management platform to enable semantic search, document management, and content ingestion from diverse sources for AI-driven knowledge retrieval and document analysis.",
+  "codiconIcon": "sourcesync.ai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "semantic",
+    "search",
+    "retrieval",
+    "knowledge",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "50d9210c-0ac0-4c1b-b799-82d4b2ed553c"
+}

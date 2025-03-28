@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/iaptic/mcp-server-iaptic",
+  "githubUrl": "https://github.com/iaptic/mcp-server-iaptic",
+  "name": "Iaptic",
+  "author": "iaptic",
+  "description": "Integrates with Iaptic's customer and transaction data to enable querying, analysis, and insights for e-commerce and customer support tasks.",
+  "codiconIcon": "iaptic",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tasks",
+    "iaptic",
+    "integrates",
+    "iaptic's",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a38869b3-f907-4151-9567-0ef3eedcbbb4"
+}

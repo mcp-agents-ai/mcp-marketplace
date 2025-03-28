@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/i-tozer/excalidraw-mcp",
+  "githubUrl": "https://github.com/i-tozer/excalidraw-mcp",
+  "name": "Excalidraw",
+  "author": "i-tozer",
+  "description": "Enables creation and management of Excalidraw drawings with tools for creating, updating, exporting, and storing visual content directly within conversational workflows.",
+  "codiconIcon": "excalidraw",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tools",
+    "creating",
+    "exporting",
+    "storing",
+    "enables"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "911a4899-8a8c-497c-a0fb-740ad5fb0638"
+}

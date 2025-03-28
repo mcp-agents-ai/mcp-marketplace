@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Tsuchijo/sandbox-mcp",
+  "githubUrl": "https://github.com/Tsuchijo/sandbox-mcp",
+  "name": "Docker Sandbox",
+  "author": "Tsuchijo",
+  "description": "Creates isolated Docker environments for executing code in multiple languages, with persistent containers and Dockerfile generation for reproducible setups.",
+  "codiconIcon": "docker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "isolated",
+    "docker",
+    "dockerfile",
+    "reproducible",
+    "setups"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "b911584e-3b63-4eb7-a84e-37829bd4f777"
+}

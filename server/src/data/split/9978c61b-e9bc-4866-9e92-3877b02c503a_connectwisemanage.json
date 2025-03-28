@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ethangillani/connectwise-mcp-server",
+  "githubUrl": "https://github.com/ethangillani/connectwise-mcp-server",
+  "name": "ConnectWise Manage",
+  "author": "ethangillani",
+  "description": "Integrates with ConnectWise Manage API to enable direct access to service tickets, companies, and contacts for MSPs and IT service providers without switching contexts.",
+  "codiconIcon": "connectwise",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tickets",
+    "contacts",
+    "without",
+    "switching",
+    "contexts"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "9978c61b-e9bc-4866-9e92-3877b02c503a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bmorphism/hypernym-mcp-server",
+  "githubUrl": "https://github.com/bmorphism/hypernym-mcp-server",
+  "name": "Hypernym Semantic Analysis",
+  "author": "bmorphism",
+  "description": "Provides semantic text analysis and compression tools for advanced content processing, enabling summarization, search optimization, and efficient storage while preserving core meaning.",
+  "codiconIcon": "hypernym",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "processing",
+    "summarization",
+    "search",
+    "storage",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "0514c4da-6200-4c5e-add6-da68acf182ce"
+}

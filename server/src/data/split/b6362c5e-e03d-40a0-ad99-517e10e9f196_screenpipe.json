@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mediar-ai/screenpipe/tree/HEAD/screenpipe-integrations/screenpipe-mcp",
+  "githubUrl": "https://github.com/mediar-ai/screenpipe/tree/HEAD/screenpipe-integrations/screenpipe-mcp",
+  "name": "Screenpipe",
+  "author": "mediar-ai",
+  "description": "Enable searching and retrieving screen recordings and associated data for productivity tracking, user behavior analysis, and workflow documentation.",
+  "codiconIcon": "screenpipe",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "workflow",
+    "documentation",
+    "screenpipe",
+    "searching",
+    "screen"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "b6362c5e-e03d-40a0-ad99-517e10e9f196"
+}

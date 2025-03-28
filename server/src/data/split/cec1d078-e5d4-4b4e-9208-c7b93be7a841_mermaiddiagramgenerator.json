@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/reblabers/mermaid-mcp",
+  "githubUrl": "https://github.com/reblabers/mermaid-mcp",
+  "name": "Mermaid Diagram Generator",
+  "author": "reblabers",
+  "description": "Integrates with Mermaid to render diagrams as images, enabling on-the-fly generation of visual representations for data structures, workflows, or system architectures.",
+  "codiconIcon": "mermaid",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "render",
+    "enabling",
+    "representations",
+    "images",
+    "system"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "cec1d078-e5d4-4b4e-9208-c7b93be7a841"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Larkooo/dojo-mcp-go",
+  "githubUrl": "https://github.com/Larkooo/dojo-mcp-go",
+  "name": "Dojo",
+  "author": "Larkooo",
+  "description": "Integrates with the Dojo framework to provide customizable tools and prompts for real-time, interactive development environments using Server-Sent Events.",
+  "codiconIcon": "dojo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "events",
+    "dojo",
+    "integrates",
+    "framework",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "7fd7ce10-d6b5-4982-b0b4-ca49730fe4cb"
+}

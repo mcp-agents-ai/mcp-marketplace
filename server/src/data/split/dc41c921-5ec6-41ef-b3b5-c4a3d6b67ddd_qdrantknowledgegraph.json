@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/delorenj/mcp-qdrant-memory",
+  "githubUrl": "https://github.com/delorenj/mcp-qdrant-memory",
+  "name": "Qdrant Knowledge Graph",
+  "author": "delorenj",
+  "description": "Integrates a knowledge graph with semantic search capabilities, enabling efficient storage, retrieval, and querying of structured information for context-aware applications.",
+  "codiconIcon": "qdrant",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "knowledge",
+    "querying",
+    "enabling",
+    "information",
+    "context-aware"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "dc41c921-5ec6-41ef-b3b5-c4a3d6b67ddd"
+}

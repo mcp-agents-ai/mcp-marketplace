@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dcSpark/mcp-server-jupiter",
+  "githubUrl": "https://github.com/dcSpark/mcp-server-jupiter",
+  "name": "Jupiter",
+  "author": "dcSpark",
+  "description": "Integrates with Jupiter's swap API on the Solana blockchain, enabling operations like getting quotes, building swap transactions, and sending swap transactions for decentralized exchange functionality.",
+  "codiconIcon": "jupiter",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "building",
+    "getting",
+    "quotes",
+    "exchange"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "f2d0d019-136b-4169-a0b3-1004b8113f15"
+}

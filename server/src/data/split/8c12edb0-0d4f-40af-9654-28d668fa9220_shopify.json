@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/shopify-mcp-server",
+  "githubUrl": "https://github.com/pashpashpash/shopify-mcp-server",
+  "name": "Shopify",
+  "author": "pashpashpash",
+  "description": "Integrates with Shopify's GraphQL Admin API to manage store data, including products, customers, orders, collections, discounts, and webhooks.",
+  "codiconIcon": "cart",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/shopify.png",
+  "category": "ecommerce-retail",
+  "tags": [
+    "shopify",
+    "ecommerce",
+    "store-management",
+    "graphql",
+    "retail"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 4,
+  "downloadCount": 526,
+  "createdAt": "2025-02-19T01:26:05.505451Z",
+  "updatedAt": "2025-02-19T01:26:05.505451Z",
+  "hubId": "8c12edb0-0d4f-40af-9654-28d668fa9220"
+}

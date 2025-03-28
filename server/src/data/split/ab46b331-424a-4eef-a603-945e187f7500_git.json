@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cyanheads/git-mcp-server",
+  "githubUrl": "https://github.com/cyanheads/git-mcp-server",
+  "name": "Git",
+  "author": "cyanheads",
+  "description": "Integrates with Git repositories using simple-git to enable core version control operations like cloning, committing, and branch management.",
+  "codiconIcon": "git",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "version",
+    "cloning",
+    "management",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "ab46b331-424a-4eef-a603-945e187f7500"
+}

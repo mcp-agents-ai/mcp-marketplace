@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://zapier.com/mcp",
+  "githubUrl": "https://zapier.com/mcp",
+  "name": "Zapier",
+  "author": "",
+  "description": "The fastest way to let your AI assistant interact with thousands of apps. No complex API integrations required.",
+  "codiconIcon": "zapier",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/qjf97njyq1.svg",
+  "category": "tools",
+  "tags": [
+    "zapier",
+    "fastest",
+    "assistant",
+    "apps",
+    "complex"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-24T14:03:12.013729+00:00",
+  "updatedAt": "2025-03-24T14:03:12.013729+00:00",
+  "hubId": "08a3a158-62d5-46de-873e-c3583ab03e3f"
+}

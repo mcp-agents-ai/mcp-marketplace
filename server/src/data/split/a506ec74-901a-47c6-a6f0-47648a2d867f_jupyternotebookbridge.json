@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bitrsky/jupyter_mcp_server",
+  "githubUrl": "https://github.com/bitrsky/jupyter_mcp_server",
+  "name": "Jupyter Notebook Bridge",
+  "author": "bitrsky",
+  "description": "Provides a bridge between Jupyter notebooks and AI systems, enabling code execution, markdown creation, and Earth data interaction through specialized tools and kernel manipulation.",
+  "codiconIcon": "jupyter",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bridge",
+    "jupyter",
+    "execution",
+    "creation",
+    "interaction"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "a506ec74-901a-47c6-a6f0-47648a2d867f"
+}

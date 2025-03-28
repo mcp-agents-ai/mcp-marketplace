@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ericzakariasson/uber-eats-mcp-server",
+  "githubUrl": "https://github.com/ericzakariasson/uber-eats-mcp-server",
+  "name": "Uber Eats",
+  "author": "ericzakariasson",
+  "description": "Integrates with Uber Eats using browser automation to enable restaurant searches, menu exploration, and food order placement for applications requiring food delivery capabilities.",
+  "codiconIcon": "uber",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "order",
+    "applications",
+    "integrates",
+    "browser",
+    "placement"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "b00a63dd-ce5d-4040-9e0e-8c100618faf6"
+}

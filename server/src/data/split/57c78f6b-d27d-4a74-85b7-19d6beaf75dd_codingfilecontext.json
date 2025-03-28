@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bsmi021/mcp-file-context-server",
+  "githubUrl": "https://github.com/bsmi021/mcp-file-context-server",
+  "name": "Coding File Context",
+  "author": "bsmi021",
+  "description": "Provides advanced file system access and code analysis capabilities, enabling efficient reading, searching, and analysis of large codebases for automated quality assessment and intelligent navigation.",
+  "codiconIcon": "coding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "access",
+    "reading",
+    "large",
+    "automated",
+    "codebases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "57c78f6b-d27d-4a74-85b7-19d6beaf75dd"
+}

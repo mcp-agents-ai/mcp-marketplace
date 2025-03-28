@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bytebase/dbhub/",
+  "githubUrl": "https://github.com/bytebase/dbhub/",
+  "name": "DBHub",
+  "author": "bytebase",
+  "description": "Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, SQLite, and etc.",
+  "codiconIcon": "dbhub",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/qjijyd4za5.svg",
+  "category": "database",
+  "tags": [
+    "mysql",
+    "postgresql",
+    "sqlite",
+    "dbhub",
+    "universal"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-16T16:11:58.135874+00:00",
+  "updatedAt": "2025-03-16T16:11:58.135874+00:00",
+  "hubId": "62d9832d-e102-4f98-9afb-1677ddb96809"
+}

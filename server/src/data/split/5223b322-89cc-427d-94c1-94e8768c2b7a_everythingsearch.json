@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mamertofabian/mcp-everything-search",
+  "githubUrl": "https://github.com/mamertofabian/mcp-everything-search",
+  "name": "Everything Search",
+  "author": "mamertofabian",
+  "description": "Integrates with the Everything SDK to enable rapid file searches and metadata retrieval on Windows.",
+  "codiconIcon": "everything",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "rapid",
+    "searches",
+    "retrieval",
+    "everything-search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "5223b322-89cc-427d-94c1-94e8768c2b7a"
+}

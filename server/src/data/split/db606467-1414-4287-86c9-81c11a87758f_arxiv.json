@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/blazickjp/arxiv-mcp-server",
+  "githubUrl": "https://github.com/blazickjp/arxiv-mcp-server",
+  "name": "ArXiv",
+  "author": "blazickjp",
+  "description": "Search and analyze academic papers from the arXiv repository.",
+  "codiconIcon": "arxiv",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "arxiv",
+    "search",
+    "analyze",
+    "academic",
+    "papers"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "db606467-1414-4287-86c9-81c11a87758f"
+}

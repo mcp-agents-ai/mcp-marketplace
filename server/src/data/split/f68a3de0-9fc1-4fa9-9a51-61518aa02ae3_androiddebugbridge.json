@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/minhalvp/android-mcp-server",
+  "githubUrl": "https://github.com/minhalvp/android-mcp-server",
+  "name": "Android Debug Bridge",
+  "author": "minhalvp",
+  "description": "Integrates with Android Debug Bridge (ADB) to enable remote control, testing, and analysis of Android devices, offering capabilities like package management, UI inspection, and screenshot capture.",
+  "codiconIcon": "android",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "analysis",
+    "management",
+    "debug",
+    "testing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "f68a3de0-9fc1-4fa9-9a51-61518aa02ae3"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ragieai/ragie-mcp-server",
+  "githubUrl": "https://github.com/ragieai/ragie-mcp-server",
+  "name": "Ragie",
+  "author": "ragieai",
+  "description": "Integrates with Ragie's knowledge base retrieval system to enable efficient querying and information extraction from large-scale datasets.",
+  "codiconIcon": "ragie",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "efficient",
+    "large-scale",
+    "datasets",
+    "ragie's",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "4f267a95-9a32-478c-9f12-a301994c3491"
+}

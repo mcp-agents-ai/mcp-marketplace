@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/0xKoda/eth-mcp",
+  "githubUrl": "https://github.com/0xKoda/eth-mcp",
+  "name": "Ethereum RPC",
+  "author": "0xKoda",
+  "description": "Provides a bridge to the Ethereum blockchain for querying contract bytecode, gas prices, and account balances through standard JSON-RPC calls to public endpoints.",
+  "codiconIcon": "ethereum",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bridge",
+    "bytecode",
+    "prices",
+    "account",
+    "ethereum-rpc"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "4a33f166-5f03-4e74-ad08-f8441e7714b2"
+}

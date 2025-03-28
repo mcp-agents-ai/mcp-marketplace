@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/BurtTheCoder/mcp-dnstwist",
+  "githubUrl": "https://github.com/BurtTheCoder/mcp-dnstwist",
+  "name": "DNSTwist",
+  "author": "BurtTheCoder",
+  "description": "Integrates with dnstwist to automate DNS fuzzing for detecting typosquatting, phishing, and corporate espionage threats.",
+  "codiconIcon": "dnstwist",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "fuzzing",
+    "detecting",
+    "typosquatting",
+    "corporate"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "c8bee655-d836-458d-a24d-c24205331ab8"
+}

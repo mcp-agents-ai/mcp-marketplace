@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hrmeetsingh/mcp-browser-automation",
+  "githubUrl": "https://github.com/hrmeetsingh/mcp-browser-automation",
+  "name": "Browser Automation",
+  "author": "hrmeetsingh",
+  "description": "Integrates Playwright with MCP to enable automated web interactions, scraping, and testing across browsers.",
+  "codiconIcon": "browser",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "browser-automation",
+    "interactions",
+    "testing",
+    "across",
+    "browsers"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "4ea6318b-d93c-49ac-a240-9ec05f42e48d"
+}

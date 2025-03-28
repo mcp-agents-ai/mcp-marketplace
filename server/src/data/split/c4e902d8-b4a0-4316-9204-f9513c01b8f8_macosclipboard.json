@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/newbeb/clipboard-mcp",
+  "githubUrl": "https://github.com/newbeb/clipboard-mcp",
+  "name": "MacOS Clipboard",
+  "author": "newbeb",
+  "description": "Integrates with the MacOS clipboard to enable reading and writing of system clipboard content for text processing and data transfer tasks.",
+  "codiconIcon": "macos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "macos-clipboard",
+    "integrates",
+    "macos",
+    "clipboard",
+    "reading"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "c4e902d8-b4a0-4316-9204-f9513c01b8f8"
+}

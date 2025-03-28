@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zereight/confluence-mcp",
+  "githubUrl": "https://github.com/zereight/confluence-mcp",
+  "name": "Confluence and JIRA",
+  "author": "zereight",
+  "description": "Integrates with Confluence and JIRA APIs to enable querying and management of Atlassian project data, documentation, and issues.",
+  "codiconIcon": "confluence",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "confluence-and-jira",
+    "integrates",
+    "confluence",
+    "enable",
+    "atlassian"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "01352c19-5e98-4d7a-9084-5cdf5da4e515"
+}

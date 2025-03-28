@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/zcaceres/fetch-mcp",
+  "githubUrl": "https://github.com/zcaceres/fetch-mcp",
+  "name": "Fetch",
+  "author": "zcaceres",
+  "description": "Provides functionality to fetch web content in various formats, including HTML, JSON, plain text, and Markdown, with support for custom headers and content transformation.",
+  "codiconIcon": "cloud-download",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/fetch.png",
+  "category": "search",
+  "tags": [
+    "web-fetching",
+    "html",
+    "json",
+    "markdown",
+    "content-extraction"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 168,
+  "downloadCount": 10772,
+  "createdAt": "2025-02-19T00:55:59.104097Z",
+  "updatedAt": "2025-02-19T00:55:59.104097Z",
+  "hubId": "c922dfc5-5412-4b67-b68c-0243a1d2d31a"
+}

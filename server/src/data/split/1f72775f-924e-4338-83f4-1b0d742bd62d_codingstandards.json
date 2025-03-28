@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ggerve/coding-standards-mcp",
+  "githubUrl": "https://github.com/ggerve/coding-standards-mcp",
+  "name": "Coding Standards",
+  "author": "ggerve",
+  "description": "Provides coding style guidelines and best practices for Java, Python, and React in Markdown format to enhance development workflows and maintain consistent code quality.",
+  "codiconIcon": "coding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "coding",
+    "java",
+    "react",
+    "maintain",
+    "coding-standards"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "1f72775f-924e-4338-83f4-1b0d742bd62d"
+}

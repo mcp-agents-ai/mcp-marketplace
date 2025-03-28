@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/WeirdBrains/onesignal-mcp",
+  "githubUrl": "https://github.com/WeirdBrains/onesignal-mcp",
+  "name": "OneSignal",
+  "author": "WeirdBrains",
+  "description": "Integrates with OneSignal to manage push notifications, emails, and SMS across multiple applications with support for device management, segmentation, and template operations.",
+  "codiconIcon": "onesignal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "onesignal",
+    "integrates",
+    "manage",
+    "emails",
+    "multiple"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "7c02394c-6f52-47c4-9b07-2770c500fa14"
+}

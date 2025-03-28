@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dragonkhoi/mixpanel-mcp",
+  "githubUrl": "https://github.com/dragonkhoi/mixpanel-mcp",
+  "name": "Mixpanel",
+  "author": "dragonkhoi",
+  "description": "Integrates with Mixpanel's API to enable querying of events data, retention, and funnels for on-demand analytics and custom report generation.",
+  "codiconIcon": "mixpanel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "report",
+    "integrates",
+    "mixpanel's",
+    "enable",
+    "events"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "ecb3eb05-909b-4d2e-b5cd-525596d0cbaf"
+}

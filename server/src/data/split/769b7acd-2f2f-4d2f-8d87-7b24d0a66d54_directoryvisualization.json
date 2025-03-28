@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/source-sage-mcp-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/source-sage-mcp-server",
+  "name": "Directory Visualization",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates directory structure visualization and analysis tools to generate and reason about project file hierarchies for codebase understanding.",
+  "codiconIcon": "directory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reason",
+    "codebase",
+    "understanding",
+    "directory-visualization",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "769b7acd-2f2f-4d2f-8d87-7b24d0a66d54"
+}

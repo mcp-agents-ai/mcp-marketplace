@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shanggqm/hefeng-mcp-weather",
+  "githubUrl": "https://github.com/shanggqm/hefeng-mcp-weather",
+  "name": "HeFeng Weather",
+  "author": "shanggqm",
+  "description": "Integrates with the HeFeng Weather API to provide real-time weather information and forecasts for locations in China, supporting queries by coordinates and offering hourly and daily data.",
+  "codiconIcon": "hefeng",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "weather",
+    "locations",
+    "queries",
+    "hourly",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "f705a54d-c2b6-4d78-8ce2-b4debfbf6e5a"
+}

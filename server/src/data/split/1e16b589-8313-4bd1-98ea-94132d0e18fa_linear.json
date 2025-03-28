@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cpropster/linear-mcp-server",
+  "githubUrl": "https://github.com/cpropster/linear-mcp-server",
+  "name": "Linear",
+  "author": "cpropster",
+  "description": "Integrates with Linear's project management platform, enabling AI-assisted workflows for team, issue, project, and cycle management through API operations.",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "platform",
+    "ai-assisted",
+    "workflows",
+    "team",
+    "issue"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "1e16b589-8313-4bd1-98ea-94132d0e18fa"
+}

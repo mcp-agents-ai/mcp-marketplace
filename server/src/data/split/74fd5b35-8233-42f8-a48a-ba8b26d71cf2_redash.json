@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/suthio/redash-mcp",
+  "githubUrl": "https://github.com/suthio/redash-mcp",
+  "name": "Redash",
+  "author": "suthio",
+  "description": "Integrates with Redash data visualization platform to enable natural language querying, dashboard creation, and data source management for analyzing and visualizing data through conversational interfaces.",
+  "codiconIcon": "redash",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "redash",
+    "visualization",
+    "enable",
+    "natural",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "74fd5b35-8233-42f8-a48a-ba8b26d71cf2"
+}

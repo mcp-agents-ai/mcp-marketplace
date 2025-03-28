@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/langfuse/mcp-server-langfuse",
+  "githubUrl": "https://github.com/langfuse/mcp-server-langfuse",
+  "name": "Langfuse Prompt Management",
+  "author": "langfuse",
+  "description": "Integrates with Langfuse to enable dynamic prompt management, version control, and retrieval for AI applications",
+  "codiconIcon": "langfuse",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "control",
+    "retrieval",
+    "applications",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "dd030288-ec72-4b20-9804-c07c51cc2e9e"
+}

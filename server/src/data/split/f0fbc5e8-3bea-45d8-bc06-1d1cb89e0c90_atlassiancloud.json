@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sooperset/mcp-atlassian",
+  "githubUrl": "https://github.com/sooperset/mcp-atlassian",
+  "name": "Atlassian Cloud",
+  "author": "sooperset",
+  "description": "Access Confluence pages and Jira issues via Atlassian API.",
+  "codiconIcon": "atlassian",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "atlassian",
+    "atlassian-cloud",
+    "access",
+    "confluence",
+    "pages"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "f0fbc5e8-3bea-45d8-bc06-1d1cb89e0c90"
+}

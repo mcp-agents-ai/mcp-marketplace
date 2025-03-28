@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/crazyrabbitLTC/mcp-ethers-server",
+  "githubUrl": "https://github.com/crazyrabbitLTC/mcp-ethers-server",
+  "name": "Ethers Wallet",
+  "author": "crazyrabbitLTC",
+  "description": "Integrates with Ethereum networks and smart contracts using ethers.js to enable wallet operations, transaction management, and blockchain interactions.",
+  "codiconIcon": "ethers",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "contracts",
+    "using",
+    "management",
+    "blockchain",
+    "interactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "6e4ffd2f-c431-4c1e-8d93-8176ce25669e"
+}

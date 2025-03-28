@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mokafari/orchestrator-server",
+  "githubUrl": "https://github.com/mokafari/orchestrator-server",
+  "name": "Orchestrator",
+  "author": "mokafari",
+  "description": "Orchestrates distributed task management by coordinating workflows, enforcing dependencies, and tracking execution across instances for complex data processing and computing jobs.",
+  "codiconIcon": "orchestrator",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "computing",
+    "orchestrates",
+    "distributed",
+    "enforcing",
+    "jobs"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "12d07347-1dcd-4cac-bb5d-de6c10e791df"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/esshka/okx-mcp",
+  "githubUrl": "https://github.com/esshka/okx-mcp",
+  "name": "OKX Cryptocurrency",
+  "author": "esshka",
+  "description": "Provides real-time cryptocurrency market data from OKX exchange through API endpoints for historical candlestick patterns and current price information",
+  "codiconIcon": "okx",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "patterns",
+    "price",
+    "cryptocurrency",
+    "endpoints",
+    "historical"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "69f7cb79-03fe-474e-a870-a3862debe640"
+}

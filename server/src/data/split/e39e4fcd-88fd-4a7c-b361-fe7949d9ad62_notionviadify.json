@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rickydata-indexer/notion_mcp_server",
+  "githubUrl": "https://github.com/rickydata-indexer/notion_mcp_server",
+  "name": "Notion (via Dify)",
+  "author": "rickydata-indexer",
+  "description": "Bridges Cline and Notion knowledge bases via Dify API, enabling direct querying of Notion databases for seamless documentation access during coding.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "notion-(via-dify)",
+    "cline",
+    "direct",
+    "databases",
+    "seamless"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "e39e4fcd-88fd-4a7c-b361-fe7949d9ad62"
+}

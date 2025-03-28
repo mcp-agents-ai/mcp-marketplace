@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nloui/paperless-mcp",
+  "githubUrl": "https://github.com/nloui/paperless-mcp",
+  "name": "Paperless-NGX",
+  "author": "nloui",
+  "description": "Integrates with Paperless-NGX API to provide document management operations including listing, searching, editing, and uploading for efficient organization and retrieval of digital files.",
+  "codiconIcon": "paperless-ngx",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "searching",
+    "organization",
+    "integrates",
+    "provide",
+    "editing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "f04a187f-a37a-4586-8fbb-74b50919aa0f"
+}

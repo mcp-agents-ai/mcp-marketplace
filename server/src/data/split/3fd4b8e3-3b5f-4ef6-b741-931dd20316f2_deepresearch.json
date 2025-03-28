@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ssdeanx/deep-research-mcp-server",
+  "githubUrl": "https://github.com/ssdeanx/deep-research-mcp-server",
+  "name": "Deep Research",
+  "author": "ssdeanx",
+  "description": "Integrates search engines, web scraping, and Gemini models to perform iterative, deep research on any topic, generating insights and detailed reports with source citations.",
+  "codiconIcon": "deep",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "scraping",
+    "models",
+    "detailed",
+    "search",
+    "topic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "3fd4b8e3-3b5f-4ef6-b741-931dd20316f2"
+}

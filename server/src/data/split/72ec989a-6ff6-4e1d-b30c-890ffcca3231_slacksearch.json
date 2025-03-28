@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/takuya0206/slack_search_function_mcp",
+  "githubUrl": "https://github.com/takuya0206/slack_search_function_mcp",
+  "name": "Slack Search",
+  "author": "takuya0206",
+  "description": "Integrates with Slack workspaces to provide direct access to users, channels, messages, and search functionality through a TypeScript-based server that handles pagination and API errors automatically.",
+  "codiconIcon": "slack",
+  "logoUrl": "",
+  "category": "communication",
+  "tags": [
+    "provide",
+    "handles",
+    "workspaces",
+    "direct",
+    "access"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "72ec989a-6ff6-4e1d-b30c-890ffcca3231"
+}

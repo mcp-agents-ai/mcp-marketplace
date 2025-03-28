@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/saiprashanths/code-analysis-mcp",
+  "githubUrl": "https://github.com/saiprashanths/code-analysis-mcp",
+  "name": "Code Analysis",
+  "author": "saiprashanths",
+  "description": "Integrates code analysis with scraping capabilities to enable code review, static analysis, and automated refactoring suggestions for development teams.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "scraping",
+    "capabilities",
+    "enable",
+    "review"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "2dbc840a-b937-4fd8-a449-93a2058296a7"
+}

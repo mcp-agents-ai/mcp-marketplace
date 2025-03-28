@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/carterlasalle/mac_messages_mcp",
+  "githubUrl": "https://github.com/carterlasalle/mac_messages_mcp",
+  "name": "Mac Messages MCP",
+  "author": "carterlasalle",
+  "description": " An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs to query and analyze iMessage conversations. It includes robust phone number validation, attachment processing, contact management, group chat handling, and full support for sending and receiving messages. ",
+  "codiconIcon": "mac",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/dsm4wxyodti.png",
+  "category": "database",
+  "tags": [
+    "mac-messages-mcp",
+    "interfaces",
+    "server",
+    "imessage",
+    "database"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-16T20:43:43.695524+00:00",
+  "updatedAt": "2025-03-16T20:43:43.695524+00:00",
+  "hubId": "9cc533f1-2a77-4e01-ab91-17434d6cf9ba"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/matthewhand/mcp-flowise",
+  "githubUrl": "https://github.com/matthewhand/mcp-flowise",
+  "name": "Flowise",
+  "author": "matthewhand",
+  "description": "Integrates Flowise chatflows and assistants with MCP, enabling seamless incorporation of AI-powered conversational interfaces into existing systems.",
+  "codiconIcon": "flowise",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "flowise",
+    "integrates",
+    "assistants",
+    "enabling",
+    "ai-powered"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "5e84df1d-ce5a-4b76-8e50-4f79bc00d9f0"
+}

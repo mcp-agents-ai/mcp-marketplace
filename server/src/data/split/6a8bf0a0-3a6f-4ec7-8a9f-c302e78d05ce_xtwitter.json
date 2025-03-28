@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/EnesCinr/twitter-mcp",
+  "githubUrl": "https://github.com/EnesCinr/twitter-mcp",
+  "name": "X (Twitter)",
+  "author": "EnesCinr",
+  "description": "Interact with X (Twitter) by posting tweets and searching for tweets through the X API.",
+  "codiconIcon": "x",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "posting",
+    "tweets",
+    "searching",
+    "through",
+    "x-(twitter)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "6a8bf0a0-3a6f-4ec7-8a9f-c302e78d05ce"
+}

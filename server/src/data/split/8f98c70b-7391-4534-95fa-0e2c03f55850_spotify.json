@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/mcp-spotify",
+  "githubUrl": "https://github.com/pashpashpash/mcp-spotify",
+  "name": "Spotify",
+  "author": "pashpashpash",
+  "description": "Enables interaction with Spotify's music catalog, including search, artist information, playlist management, and audiobook access through the Spotify Web API.",
+  "codiconIcon": "music",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/spotify.png",
+  "category": "entertainment-media",
+  "tags": [
+    "music",
+    "spotify-api",
+    "playlist-management",
+    "audiobooks",
+    "streaming"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 2,
+  "downloadCount": 615,
+  "createdAt": "2025-02-19T01:25:58.60191Z",
+  "updatedAt": "2025-02-19T01:25:58.60191Z",
+  "hubId": "8f98c70b-7391-4534-95fa-0e2c03f55850"
+}

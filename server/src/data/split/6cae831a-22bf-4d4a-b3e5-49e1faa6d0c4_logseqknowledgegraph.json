@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/joelhooks/logseq-mcp-tools",
+  "githubUrl": "https://github.com/joelhooks/logseq-mcp-tools",
+  "name": "Logseq Knowledge Graph",
+  "author": "joelhooks",
+  "description": "Integrates with Logseq knowledge graphs to enable retrieval, analysis, and manipulation of personal knowledge bases through tools for page content access, journal summaries, connection analysis, and concept linking.",
+  "codiconIcon": "logseq",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "personal",
+    "bases",
+    "linking",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "6cae831a-22bf-4d4a-b3e5-49e1faa6d0c4"
+}

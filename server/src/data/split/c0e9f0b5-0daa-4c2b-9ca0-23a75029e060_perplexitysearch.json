@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-perplexity-search",
+  "githubUrl": "https://github.com/spences10/mcp-perplexity-search",
+  "name": "Perplexity Search",
+  "author": "spences10",
+  "description": "Integrates with Perplexity's web search API to enable real-time fact-checking, research, and content generation using up-to-date information.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "information",
+    "search",
+    "enable",
+    "real-time"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "c0e9f0b5-0daa-4c2b-9ca0-23a75029e060"
+}

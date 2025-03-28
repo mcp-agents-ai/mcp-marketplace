@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/r3-yamauchi/mcp-server-blastengine-mailer",
+  "githubUrl": "https://github.com/r3-yamauchi/mcp-server-blastengine-mailer",
+  "name": "Blastengine Mailer",
+  "author": "r3-yamauchi",
+  "description": "Integrates with Blastengine to enable sending emails via API, supporting automated notification and marketing campaign functionalities",
+  "codiconIcon": "blastengine",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "blastengine",
+    "enable",
+    "sending",
+    "emails",
+    "automated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "d7224d49-c0a9-4606-8282-14f352bc2568"
+}

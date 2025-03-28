@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/softgridinc-pte-ltd/mcp-excel-reader-server",
+  "githubUrl": "https://github.com/softgridinc-pte-ltd/mcp-excel-reader-server",
+  "name": "Excel Reader",
+  "author": "softgridinc-pte-ltd",
+  "description": "Integrates with Excel files to extract and process data from sheets, enabling automated analysis and reporting tasks",
+  "codiconIcon": "excel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reporting",
+    "tasks",
+    "excel",
+    "extract",
+    "sheets"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "4a69ad6c-8a46-40c3-b809-fa8957f148f1"
+}

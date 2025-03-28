@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ntropy-network/ntropy-mcp",
+  "githubUrl": "https://github.com/ntropy-network/ntropy-mcp",
+  "name": "Ntropy",
+  "author": "ntropy-network",
+  "description": "Integrates with Ntropy's API to enrich banking data, enabling detailed financial transaction analysis and categorization for AI applications.",
+  "codiconIcon": "ntropy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "detailed",
+    "analysis",
+    "categorization",
+    "applications",
+    "ntropy's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "e64dca3b-14b0-4885-a149-25ef7c891ed6"
+}

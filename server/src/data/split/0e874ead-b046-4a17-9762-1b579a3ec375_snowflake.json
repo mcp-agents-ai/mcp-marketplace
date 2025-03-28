@@ -1,0 +1,22 @@
+{
+  "mcpId": "https://github.com/datawiz168/mcp-snowflake-service",
+  "githubUrl": "https://github.com/datawiz168/mcp-snowflake-service",
+  "name": "Snowflake",
+  "author": "datawiz168",
+  "description": "Interact with Snowflake databases",
+  "codiconIcon": "snowflake",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/0zcv3459unjm.png",
+  "category": "database",
+  "tags": [
+    "snowflake",
+    "interact",
+    "databases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-15T07:56:24.774146+00:00",
+  "updatedAt": "2025-03-15T07:56:24.774146+00:00",
+  "hubId": "0e874ead-b046-4a17-9762-1b579a3ec375"
+}

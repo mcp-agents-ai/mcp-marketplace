@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ckz/flux-img-mcp",
+  "githubUrl": "https://github.com/ckz/flux-img-mcp",
+  "name": "Flux Schnell",
+  "author": "ckz",
+  "description": "Integrates with the Flux Schnell model on Replicate to generate images from text prompts, enabling visual content creation and creative workflows.",
+  "codiconIcon": "flux",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "model",
+    "replicate",
+    "generate",
+    "prompts",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "d77ba6b7-4d0f-4f94-bdd9-28c0271421d7"
+}

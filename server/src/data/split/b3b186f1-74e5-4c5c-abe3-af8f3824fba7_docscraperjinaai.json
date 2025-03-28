@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/askjohngeorge/mcp-doc-scraper",
+  "githubUrl": "https://github.com/askjohngeorge/mcp-doc-scraper",
+  "name": "Doc Scraper (Jina.ai)",
+  "author": "askjohngeorge",
+  "description": "Converts web documentation to clean markdown using Jina.ai's API, enabling easy transformation of online docs for content migration or offline use.",
+  "codiconIcon": "doc",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "online",
+    "content",
+    "migration",
+    "offline",
+    "converts"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "b3b186f1-74e5-4c5c-abe3-af8f3824fba7"
+}

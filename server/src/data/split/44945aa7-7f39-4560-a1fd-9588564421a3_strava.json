@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rbctmz/mcp-server-strava",
+  "githubUrl": "https://github.com/rbctmz/mcp-server-strava",
+  "name": "Strava",
+  "author": "rbctmz",
+  "description": "Integrates with the Strava API to enable access to fitness and activity tracking data for analyzing athletic performance, tracking fitness goals, and building custom applications leveraging user activity information.",
+  "codiconIcon": "strava",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "building",
+    "enable",
+    "access",
+    "fitness",
+    "athletic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "44945aa7-7f39-4560-a1fd-9588564421a3"
+}

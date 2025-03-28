@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lars-hagen/slack-user-mcp",
+  "githubUrl": "https://github.com/lars-hagen/slack-user-mcp",
+  "name": "Slack",
+  "author": "lars-hagen",
+  "description": "Integrates with Slack workspaces to enable user-level interactions like messaging, reactions, and channel management without bot permissions.",
+  "codiconIcon": "slack",
+  "logoUrl": "",
+  "category": "communication",
+  "tags": [
+    "reactions",
+    "channel",
+    "workspaces",
+    "management",
+    "without"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "1db790f5-ae1d-4621-87d6-eee8de32b9a1"
+}

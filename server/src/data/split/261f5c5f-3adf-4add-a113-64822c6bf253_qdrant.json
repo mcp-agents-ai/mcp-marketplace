@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/qdrant/mcp-server-qdrant",
+  "githubUrl": "https://github.com/qdrant/mcp-server-qdrant",
+  "name": "Qdrant",
+  "author": "qdrant",
+  "description": "A semantic memory layer enabling storage and retrieval of vector-based memories using the Qdrant vector search engine, with support for both cloud and local deployments.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/qdrant.png",
+  "category": "knowledge-memory",
+  "tags": [
+    "vector-search",
+    "semantic-memory",
+    "embeddings",
+    "storage",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 278,
+  "downloadCount": 435,
+  "createdAt": "2025-02-18T05:47:07.82849Z",
+  "updatedAt": "2025-02-18T05:47:07.82849Z",
+  "hubId": "261f5c5f-3adf-4add-a113-64822c6bf253"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dasheck0/face-generator",
+  "githubUrl": "https://github.com/dasheck0/face-generator",
+  "name": "Face Generator",
+  "author": "dasheck0",
+  "description": "Generates customizable human face images using thispersondoesnotexist.com, offering options for shape, dimensions, and batch processing for UI prototyping and dataset creation.",
+  "codiconIcon": "face",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "creation",
+    "customizable",
+    "thispersondoesnotexist.com",
+    "offering",
+    "dataset"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "bd5174b9-d1f5-445c-a4fc-56fffa74467b"
+}

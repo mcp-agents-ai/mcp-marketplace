@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/meilisearch/meilisearch-mcp",
+  "githubUrl": "https://github.com/meilisearch/meilisearch-mcp",
+  "name": "Meilisearch",
+  "author": "meilisearch",
+  "description": "Integrates Meilisearch's search capabilities for fast, typo-tolerant indexing and querying of documents in AI-powered applications.",
+  "codiconIcon": "meilisearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "capabilities",
+    "fast",
+    "documents",
+    "ai-powered"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "efdcf0f1-93aa-4bb0-b720-809b8d8d07e8"
+}

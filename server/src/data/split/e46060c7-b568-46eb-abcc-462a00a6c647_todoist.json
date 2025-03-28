@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/miottid/todoist-mcp",
+  "githubUrl": "https://github.com/miottid/todoist-mcp",
+  "name": "Todoist",
+  "author": "miottid",
+  "description": "Integrates with Todoist API to enable task creation, project management, and workflow optimization for enhanced productivity",
+  "codiconIcon": "todoist",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "productivity",
+    "enable",
+    "management",
+    "optimization",
+    "todoist"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "e46060c7-b568-46eb-abcc-462a00a6c647"
+}

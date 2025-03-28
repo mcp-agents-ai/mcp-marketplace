@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server",
+  "githubUrl": "https://github.com/GongRzhe/TRAVEL-PLANNER-MCP-Server",
+  "name": "Google Maps (Travel Planner)",
+  "author": "GongRzhe",
+  "description": "Integrates with Google Maps to enable AI-driven travel planning, itinerary optimization, and location-based services for automated trip management.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "ai-driven",
+    "travel",
+    "planning",
+    "itinerary",
+    "optimization"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "c840c2b4-5621-4350-a042-9113eca28fba"
+}

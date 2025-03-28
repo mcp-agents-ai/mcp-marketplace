@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/twolven/mcp-stockflow",
+  "githubUrl": "https://github.com/twolven/mcp-stockflow",
+  "name": "Stockflow (Yahoo Finance)",
+  "author": "twolven",
+  "description": "Integrates with the Yahoo Finance API to provide real-time stock market data and analysis tools for financial research and trading strategies.",
+  "codiconIcon": "stockflow",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "market",
+    "analysis",
+    "tools",
+    "trading",
+    "yahoo"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "f8d9b89a-a22a-41dc-9ee8-8864f4042486"
+}

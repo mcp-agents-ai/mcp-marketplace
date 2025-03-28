@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zhangzhongnan928/mcp-pa-ai-agent",
+  "githubUrl": "https://github.com/zhangzhongnan928/mcp-pa-ai-agent",
+  "name": "Personal Assistant",
+  "author": "zhangzhongnan928",
+  "description": "Integrates with external services like Google APIs, Home Assistant, and DuckDuckGo to provide a modular framework for calendar management, task tracking, email handling, knowledge retrieval, and smart home control.",
+  "codiconIcon": "personal",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "external",
+    "duckduckgo",
+    "modular",
+    "control",
+    "personal-assistant"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "e9e06e71-b6b3-4021-92f7-9d44227f6f10"
+}

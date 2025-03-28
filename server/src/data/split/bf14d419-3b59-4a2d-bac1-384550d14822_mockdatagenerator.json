@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rhitune2/mock-data-mcp",
+  "githubUrl": "https://github.com/rhitune2/mock-data-mcp",
+  "name": "Mock Data Generator",
+  "author": "rhitune2",
+  "description": "Provides tools for generating realistic mock data including personal information, company details, and custom fields using TypeScript and Faker.js for testing and development purposes.",
+  "codiconIcon": "mock",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "company",
+    "fields",
+    "using",
+    "faker.js",
+    "purposes"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "bf14d419-3b59-4a2d-bac1-384550d14822"
+}

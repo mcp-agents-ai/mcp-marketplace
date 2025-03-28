@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pbohannon/notion-api-mcp",
+  "githubUrl": "https://github.com/pbohannon/notion-api-mcp",
+  "name": "Notion",
+  "author": "pbohannon",
+  "description": "Integrates with Notion's API to enable document management, knowledge base interactions, and project tracking tasks.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "document",
+    "management",
+    "notion's",
+    "enable",
+    "knowledge"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "55fe7dd0-244f-496e-a8fd-a7c7bd8c8d86"
+}

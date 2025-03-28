@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/michaelbuckner/servicenow-mcp",
+  "githubUrl": "https://github.com/michaelbuckner/servicenow-mcp",
+  "name": "ServiceNow",
+  "author": "michaelbuckner",
+  "description": "Integrates with ServiceNow to enable incident management, user information retrieval, and knowledge base article access for automated IT service management and natural language interactions with ServiceNow data.",
+  "codiconIcon": "servicenow",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "servicenow",
+    "integrates",
+    "enable",
+    "incident",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "845ed901-024d-4357-88b0-af4a75f283fd"
+}

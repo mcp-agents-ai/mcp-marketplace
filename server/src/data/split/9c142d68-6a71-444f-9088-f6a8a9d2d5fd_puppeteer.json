@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/merajmehrabi/puppeteer-mcp-server",
+  "githubUrl": "https://github.com/merajmehrabi/puppeteer-mcp-server",
+  "name": "Puppeteer",
+  "author": "merajmehrabi",
+  "description": "Integrates with Puppeteer to enable browser automation for web navigation, interaction, and data extraction tasks.",
+  "codiconIcon": "puppeteer",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "automation",
+    "navigation",
+    "interaction",
+    "browser"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "9c142d68-6a71-444f-9088-f6a8a9d2d5fd"
+}

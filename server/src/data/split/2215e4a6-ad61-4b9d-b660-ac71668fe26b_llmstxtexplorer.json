@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/thedaviddias/mcp-llms-txt-explorer",
+  "githubUrl": "https://github.com/thedaviddias/mcp-llms-txt-explorer",
+  "name": "LLMs.txt Explorer",
+  "author": "thedaviddias",
+  "description": "Provides a bridge for exploring websites with llms.txt files, enabling fetching and parsing of website-specific language model instructions for context-aware interactions in web-based environments.",
+  "codiconIcon": "llms.txt",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "instructions",
+    "websites",
+    "enabling",
+    "language",
+    "context-aware"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "2215e4a6-ad61-4b9d-b660-ac71668fe26b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alexwohletz/language-server-mcp",
+  "githubUrl": "https://github.com/alexwohletz/language-server-mcp",
+  "name": "Language Server",
+  "author": "alexwohletz",
+  "description": "Integrates language server capabilities to provide code analysis, completion, and diagnostics for developing in various languages.",
+  "codiconIcon": "language",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "language",
+    "server",
+    "capabilities",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "953a050a-57c6-42ae-8d86-228a6a61c02a"
+}

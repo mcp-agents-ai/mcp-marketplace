@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/cloudflare/mcp-server-cloudflare",
+  "githubUrl": "https://github.com/cloudflare/mcp-server-cloudflare",
+  "name": "Cloudflare",
+  "author": "cloudflare",
+  "description": "Manages Cloudflare resources including Workers, KV stores, R2 storage, D1 databases, and analytics through natural language interactions.",
+  "codiconIcon": "cloud",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/cloudflare.png",
+  "category": "cloud-platforms",
+  "tags": [
+    "cloudflare",
+    "serverless",
+    "edge-computing",
+    "cloud-storage",
+    "database-management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 976,
+  "downloadCount": 627,
+  "createdAt": "2025-02-17T22:22:47.133329Z",
+  "updatedAt": "2025-02-17T22:22:47.133329Z",
+  "hubId": "7c57a782-cb7f-487e-b65a-e2a3b2e798b0"
+}

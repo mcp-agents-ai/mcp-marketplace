@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Props-Labs/fireflies-mcp",
+  "githubUrl": "https://github.com/Props-Labs/fireflies-mcp",
+  "name": "Fireflies",
+  "author": "Props-Labs",
+  "description": "Integrates with Fireflies.ai API to enable retrieval, search, and summarization of meeting transcripts for natural language processing of meeting content.",
+  "codiconIcon": "fireflies",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "content",
+    "retrieval",
+    "search",
+    "summarization",
+    "language"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "19d8ade8-3085-48d8-adca-687c818428ec"
+}

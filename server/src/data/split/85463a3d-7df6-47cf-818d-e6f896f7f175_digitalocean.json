@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/luc-io/mcp-digitalocean-server",
+  "githubUrl": "https://github.com/luc-io/mcp-digitalocean-server",
+  "name": "DigitalOcean",
+  "author": "luc-io",
+  "description": "Integrates with DigitalOcean's API to enable automated server management, scaling, and infrastructure operations through natural language commands.",
+  "codiconIcon": "digitalocean",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "scaling",
+    "infrastructure",
+    "integrates",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "85463a3d-7df6-47cf-818d-e6f896f7f175"
+}

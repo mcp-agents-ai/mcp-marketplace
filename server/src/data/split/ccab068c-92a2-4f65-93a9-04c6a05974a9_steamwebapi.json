@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dsp/mcp-server-steam",
+  "githubUrl": "https://github.com/dsp/mcp-server-steam",
+  "name": "Steam Web API",
+  "author": "dsp",
+  "description": "Integrates with the Steam Web API. Allows for querying various stats, such as games in your library and their respective playtime.",
+  "codiconIcon": "steam",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "allows",
+    "querying",
+    "various",
+    "stats",
+    "games"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "ccab068c-92a2-4f65-93a9-04c6a05974a9"
+}

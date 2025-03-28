@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zoomeye-ai/mcp_zoomeye",
+  "githubUrl": "https://github.com/zoomeye-ai/mcp_zoomeye",
+  "name": "ZoomEye",
+  "author": "zoomeye-ai",
+  "description": "Integrates with ZoomEye API to enable network asset reconnaissance through specialized search tools, supporting dork queries, IP filtering, and field selection with built-in caching and error handling for cybersecurity workflows.",
+  "codiconIcon": "zoomeye",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "asset",
+    "search",
+    "supporting",
+    "field"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "8b15fcda-f1fb-4a95-89fc-08d0f94752e0"
+}

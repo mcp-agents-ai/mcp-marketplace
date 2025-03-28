@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/firebase/genkit/tree/HEAD/js/plugins/mcp",
+  "githubUrl": "https://github.com/firebase/genkit/tree/HEAD/js/plugins/mcp",
+  "name": "Genkit Integration",
+  "author": "firebase",
+  "description": "Enables bi-directional integration with Model Context Protocol, allowing applications to both consume MCP tools/prompts as a client and expose Genkit tools/prompts as an MCP server.",
+  "codiconIcon": "extensions",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/genkit-integration.png",
+  "category": "developer-tools",
+  "tags": [
+    "mcp-integration",
+    "client-server",
+    "tools-prompts",
+    "plugin",
+    "genkit"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 1239,
+  "downloadCount": 176,
+  "createdAt": "2025-02-17T22:27:07.661085Z",
+  "updatedAt": "2025-02-17T22:27:07.661085Z",
+  "hubId": "cd0fbf70-5370-4924-805a-43e5ca9c0794"
+}

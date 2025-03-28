@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/datalayer/jupyter-mcp-server",
+  "githubUrl": "https://github.com/datalayer/jupyter-mcp-server",
+  "name": "Jupyter Notebook",
+  "author": "datalayer",
+  "description": "Integrates Jupyter notebooks with MCP to enable code execution, content manipulation, and interactive data exploration within notebook environments.",
+  "codiconIcon": "jupyter",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "notebooks",
+    "enable",
+    "execution",
+    "interactive",
+    "within"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "72bbd35b-97ef-40f9-9f94-b827151f8c74"
+}

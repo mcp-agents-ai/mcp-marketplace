@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/emzimmer/server-moz-readability",
+  "githubUrl": "https://github.com/emzimmer/server-moz-readability",
+  "name": "Fetch (Mozilla Readability)",
+  "author": "emzimmer",
+  "description": "Integrates Mozilla's Readability algorithm to extract and transform webpage content into clean, LLM-optimized Markdown.",
+  "codiconIcon": "fetch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "mozilla's",
+    "algorithm",
+    "extract",
+    "transform"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "23f5c653-2045-472f-8e51-f17c6fe632ec"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ozgrozer/mcp-get-terminal-logs",
+  "githubUrl": "https://github.com/ozgrozer/mcp-get-terminal-logs",
+  "name": "Terminal Log Manager",
+  "author": "ozgrozer",
+  "description": "Retrieves and manages terminal logs from a specified directory, offering functionality to read recent entries and clear log contents for efficient monitoring and debugging.",
+  "codiconIcon": "terminal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "manages",
+    "offering",
+    "functionality",
+    "contents",
+    "monitoring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "f834ed95-8ece-4fb5-a807-9e631a095b66"
+}

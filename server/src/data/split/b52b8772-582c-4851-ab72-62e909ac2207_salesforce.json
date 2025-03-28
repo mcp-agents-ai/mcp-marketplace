@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SurajAdsul/mcp-server-salesforce",
+  "githubUrl": "https://github.com/SurajAdsul/mcp-server-salesforce",
+  "name": "Salesforce",
+  "author": "SurajAdsul",
+  "description": "Integrates Claude with Salesforce, enabling natural language interactions for object management, schema exploration, data querying, and manipulation across Salesforce objects.",
+  "codiconIcon": "salesforce",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "natural",
+    "salesforce",
+    "claude",
+    "language"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "b52b8772-582c-4851-ab72-62e909ac2207"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/quintonwall/mcp-airbyte-list-sources",
+  "githubUrl": "https://github.com/quintonwall/mcp-airbyte-list-sources",
+  "name": "Airbyte Status Checker",
+  "author": "quintonwall",
+  "description": "Integrates with Airbyte API to monitor data pipeline health, check connection statuses, and manage streams for real-time ETL process oversight.",
+  "codiconIcon": "airbyte",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "statuses",
+    "manage",
+    "streams",
+    "real-time",
+    "process"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "27cd80c8-1b18-41f8-af0b-418da9032af8"
+}

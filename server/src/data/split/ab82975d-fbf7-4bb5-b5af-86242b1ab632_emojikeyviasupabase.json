@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/identimoji/mcp-server-emojikey",
+  "githubUrl": "https://github.com/identimoji/mcp-server-emojikey",
+  "name": "Emojikey (via Supabase)",
+  "author": "identimoji",
+  "description": "Integrates with Supabase to persist and retrieve LLM interaction styles using emojikeys, enabling consistent personalized experiences across conversations.",
+  "codiconIcon": "emojikey",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "personalized",
+    "retrieve",
+    "styles",
+    "using",
+    "emojikey-(via-supabase)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "ab82975d-fbf7-4bb5-b5af-86242b1ab632"
+}

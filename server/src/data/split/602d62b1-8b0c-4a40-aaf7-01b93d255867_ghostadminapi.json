@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mtane0412/ghost-mcp-server",
+  "githubUrl": "https://github.com/mtane0412/ghost-mcp-server",
+  "name": "Ghost Admin API",
+  "author": "mtane0412",
+  "description": "Integrates with Ghost CMS's Admin API to enable automated content management and custom publishing workflows for Ghost blogs.",
+  "codiconIcon": "ghost",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "content",
+    "custom",
+    "publishing",
+    "workflows",
+    "blogs"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "602d62b1-8b0c-4a40-aaf7-01b93d255867"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Scrapezy/mcp",
+  "githubUrl": "https://github.com/Scrapezy/mcp",
+  "name": "Scrapezy",
+  "author": "Scrapezy",
+  "description": "Integrates with the Scrapezy API to extract structured data from websites based on user-specified prompts, enabling flexible web scraping for data collection, content aggregation, and automated research tasks.",
+  "codiconIcon": "scrapezy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "structured",
+    "enabling",
+    "scraping",
+    "research",
+    "tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "fb8e56f5-e01f-4969-a242-09a32b4419b5"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/stefanskiasan/togetherai-image-mcp-server",
+  "githubUrl": "https://github.com/stefanskiasan/togetherai-image-mcp-server",
+  "name": "Together AI Image Generation",
+  "author": "stefanskiasan",
+  "description": "Integrates with Together AI's image generation models to create custom images based on text prompts, dimensions, and output settings.",
+  "codiconIcon": "together",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "together-ai-image-generation",
+    "integrates",
+    "image",
+    "create",
+    "custom"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "0b74f2ce-ada5-4b7a-bd1f-e454c04fcdc8"
+}

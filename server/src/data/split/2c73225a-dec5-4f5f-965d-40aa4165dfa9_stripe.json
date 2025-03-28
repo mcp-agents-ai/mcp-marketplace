@@ -1,0 +1,21 @@
+{
+  "mcpId": "https://github.com/stripe/agent-toolkit/tree/main/modelcontextprotocol",
+  "githubUrl": "https://github.com/stripe/agent-toolkit/tree/main/modelcontextprotocol",
+  "name": "Stripe",
+  "author": "stripe",
+  "description": "Interact with the Stripe API",
+  "codiconIcon": "stripe",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/1u8f676t4bi.jpg",
+  "category": "tools",
+  "tags": [
+    "stripe",
+    "interact"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-15T07:50:26.498329+00:00",
+  "updatedAt": "2025-03-15T07:50:26.498329+00:00",
+  "hubId": "2c73225a-dec5-4f5f-965d-40aa4165dfa9"
+}

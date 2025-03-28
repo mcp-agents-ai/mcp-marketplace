@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kydlikebtc/mcp-server-bn",
+  "githubUrl": "https://github.com/kydlikebtc/mcp-server-bn",
+  "name": "Binance Spot Trading",
+  "author": "kydlikebtc",
+  "description": "Integrates with Binance spot trading API to enable automated cryptocurrency trading strategies using SQLite for data storage and secure credential management.",
+  "codiconIcon": "binance",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "binance",
+    "trading",
+    "automated",
+    "cryptocurrency",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "70bde119-1ad1-4a2b-8e47-6f7c6d6727bd"
+}

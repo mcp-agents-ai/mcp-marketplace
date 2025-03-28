@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol",
+  "githubUrl": "https://github.com/chargebee/agentkit/tree/main/modelcontextprotocol",
+  "name": "Chargebee",
+  "author": "chargebee",
+  "description": "MCP Server that connects Cursor AI Agent to Chargebee platform.",
+  "codiconIcon": "chargebee",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/8tqww3t4gtr.png",
+  "category": "tools",
+  "tags": [
+    "chargebee",
+    "server",
+    "connects",
+    "cursor",
+    "agent"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-25T07:02:28.928549+00:00",
+  "updatedAt": "2025-03-25T07:02:28.928549+00:00",
+  "hubId": "e188d192-fe64-4c5d-ba03-75ad75752abe"
+}

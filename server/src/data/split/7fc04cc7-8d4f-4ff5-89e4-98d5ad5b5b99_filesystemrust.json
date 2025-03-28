@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/FellowTraveler/rs_filesystem",
+  "githubUrl": "https://github.com/FellowTraveler/rs_filesystem",
+  "name": "Filesystem (Rust)",
+  "author": "FellowTraveler",
+  "description": "Provides secure filesystem operations within allowed directories for controlled file management and data processing tasks.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "operations",
+    "within",
+    "allowed",
+    "directories"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "7fc04cc7-8d4f-4ff5-89e4-98d5ad5b5b99"
+}

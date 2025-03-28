@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dailydaniel/logseq-mcp",
+  "githubUrl": "https://github.com/dailydaniel/logseq-mcp",
+  "name": "LogSeq",
+  "author": "dailydaniel",
+  "description": "Integrates with LogSeq API to enable automated note-taking, knowledge graph analysis, and workflow automation for developers and knowledge workers.",
+  "codiconIcon": "logseq",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "developers",
+    "integrates",
+    "automated",
+    "note-taking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "ae9a6e43-aa37-43ba-8c29-9b2b84e43010"
+}

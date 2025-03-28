@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/arben-adm/mcp-sequential-thinking",
+  "githubUrl": "https://github.com/arben-adm/mcp-sequential-thinking",
+  "name": "Sequential Thinking",
+  "author": "arben-adm",
+  "description": "Implements structured step-by-step reasoning to break down and methodically analyze complex problems.",
+  "codiconIcon": "sequential",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sequential-thinking",
+    "step-by-step",
+    "methodically",
+    "analyze",
+    "implements"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "33a38b70-d476-4ce3-881b-275f4a99ef2a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/BerryKuipers/mcp_services_radarr_sonarr",
+  "githubUrl": "https://github.com/BerryKuipers/mcp_services_radarr_sonarr",
+  "name": "Radarr and Sonarr",
+  "author": "BerryKuipers",
+  "description": "Integrates with Radarr and Sonarr to enable natural language querying and filtering of movie and TV show collections by various criteria like year, watched status, and actors.",
+  "codiconIcon": "radarr",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "watched",
+    "status",
+    "radarr-and-sonarr",
+    "querying",
+    "filtering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "6787aca3-e896-4dfd-8644-f51cae41b7a9"
+}

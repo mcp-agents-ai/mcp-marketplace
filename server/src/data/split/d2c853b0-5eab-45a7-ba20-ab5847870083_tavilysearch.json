@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/algonacci/mcp-tavily-search",
+  "githubUrl": "https://github.com/algonacci/mcp-tavily-search",
+  "name": "Tavily Search",
+  "author": "algonacci",
+  "description": "Integrates with the Tavily API to provide web search capabilities, enabling internet searches and fact-checking for up-to-date information retrieval.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "up-to-date",
+    "retrieval",
+    "tavily-search",
+    "tavily",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "d2c853b0-5eab-45a7-ba20-ab5847870083"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nkkko/daytona-mcp-interpreter",
+  "githubUrl": "https://github.com/nkkko/daytona-mcp-interpreter",
+  "name": "Daytona Python Interpreter",
+  "author": "nkkko",
+  "description": "Integrates with Daytona's secure Python execution environment to enable isolated code running and workspace management for testing and educational purposes.",
+  "codiconIcon": "daytona",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "purposes",
+    "daytona-python-interpreter",
+    "execution",
+    "management",
+    "daytona's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "db80e2e2-59f2-41b8-831d-bc5b405bdc4f"
+}

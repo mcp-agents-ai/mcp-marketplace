@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tecton-ai/tecton-mcp",
+  "githubUrl": "https://github.com/tecton-ai/tecton-mcp",
+  "name": "Tecton",
+  "author": "tecton-ai",
+  "description": "Integrates with Tecton clusters to enable feature store management, workspace listing, and configuration retrieval for data scientists and engineers.",
+  "codiconIcon": "tecton",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "clusters",
+    "store",
+    "workspace",
+    "configuration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "a3a24e56-024e-4375-8061-a23dd7b1ca99"
+}

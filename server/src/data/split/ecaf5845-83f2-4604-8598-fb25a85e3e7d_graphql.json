@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/blurrah/mcp-graphql",
+  "githubUrl": "https://github.com/blurrah/mcp-graphql",
+  "name": "GraphQL",
+  "author": "blurrah",
+  "description": "Provides a GraphQL interface for querying and manipulating structured data from diverse GraphQL sources.",
+  "codiconIcon": "graphql",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "structured",
+    "diverse",
+    "sources",
+    "graphql",
+    "provides"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "ecaf5845-83f2-4604-8598-fb25a85e3e7d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fengin/image-gen-server",
+  "githubUrl": "https://github.com/fengin/image-gen-server",
+  "name": "Image Gen (Jimeng AI)",
+  "author": "fengin",
+  "description": "Accepts text descriptions, generates corresponding images, and offers image download and save functions.",
+  "codiconIcon": "image",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "descriptions",
+    "corresponding",
+    "offers",
+    "image",
+    "accepts"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "6e59aad6-f36c-4d67-b1c3-87b36bf8e998"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lishenxydlgzs/aws-athena-mcp",
+  "githubUrl": "https://github.com/lishenxydlgzs/aws-athena-mcp",
+  "name": "AWS Athena",
+  "author": "lishenxydlgzs",
+  "description": "Integrates with AWS SDK to execute SQL queries against Athena databases, enabling large-scale data analysis and business intelligence for AWS data lakes.",
+  "codiconIcon": "aws",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "integrates",
+    "execute",
+    "against",
+    "athena",
+    "databases"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "b5fde9f8-e172-46ee-b38c-123782f962d1"
+}

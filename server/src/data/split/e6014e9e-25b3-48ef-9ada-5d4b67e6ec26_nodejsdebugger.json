@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hyperdrive-eng/mcp-nodejs-debugger",
+  "githubUrl": "https://github.com/hyperdrive-eng/mcp-nodejs-debugger",
+  "name": "Node.js Debugger",
+  "author": "hyperdrive-eng",
+  "description": "An MCP server that gives Cursor or Claude Code access to Node.js at runtime to help you debug:\n\n1. set breakpoints\n2. step in, step out, continue\n3. fetch the current execution location\n4. read console output\n5. run JS using eval",
+  "codiconIcon": "node.js",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/l4ev5kypabq.png",
+  "category": "tools",
+  "tags": [
+    "node.js-debugger",
+    "gives",
+    "fetch",
+    "current",
+    "location"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-24T12:50:44.485788+00:00",
+  "updatedAt": "2025-03-24T12:50:44.485788+00:00",
+  "hubId": "e6014e9e-25b3-48ef-9ada-5d4b67e6ec26"
+}

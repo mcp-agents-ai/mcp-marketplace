@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/moonray/mcp-figma",
+  "githubUrl": "https://github.com/moonray/mcp-figma",
+  "name": "Figma Node Explorer",
+  "author": "moonray",
+  "description": "Integrates with the Figma API to extract and analyze design file structures, enabling exploration of node hierarchies and supporting design system management workflows.",
+  "codiconIcon": "figma",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "figma-node-explorer",
+    "figma",
+    "extract",
+    "analyze",
+    "design"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "a9375fcc-45b7-45f5-bdcd-3084cc71add2"
+}

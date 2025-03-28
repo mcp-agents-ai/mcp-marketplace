@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mixelpixx/Google-Search-MCP-Server",
+  "githubUrl": "https://github.com/mixelpixx/Google-Search-MCP-Server",
+  "name": "Google Search",
+  "author": "mixelpixx",
+  "description": "Integrates with Google Custom Search API and web scraping tools to enable web searches, content extraction, and analysis for research and data aggregation tasks.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "integrates",
+    "google",
+    "search",
+    "tools",
+    "tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "9f539ff3-81e6-4a65-b44a-a2a0a867c725"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/robertoamoreno/couchdb-mcp-server",
+  "githubUrl": "https://github.com/robertoamoreno/couchdb-mcp-server",
+  "name": "CouchDB",
+  "author": "robertoamoreno",
+  "description": "Integrates with CouchDB to enable database management, document operations, and Mango queries for applications requiring document-based storage and retrieval.",
+  "codiconIcon": "couchdb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "operations",
+    "mango",
+    "queries",
+    "applications",
+    "requiring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "dd58309c-abe3-4418-a38b-d4c34effaf82"
+}

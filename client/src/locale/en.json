@@ -50,6 +50,26 @@
     "recommended": "Recommended",
     "viewOnGithub": "View on GitHub"
   },
+  "details": {
+    "loading": "Loading server details...",
+    "fetchError": "Failed to fetch server details",
+    "errorLoading": "Error loading server data",
+    "serverNotFound": "Server not found",
+    "backToServers": "Back to Servers",
+    "description": "Description",
+    "tags": "Tags",
+    "serverInfo": "Server Information",
+    "category": "Category",
+    "requiresApiKey": "Requires API Key",
+    "createdAt": "Created At",
+    "updatedAt": "Updated At",
+    "notSpecified": "Not specified",
+    "viewOnGithub": "View on GitHub"
+  },
+  "common": {
+    "yes": "Yes",
+    "no": "No"
+  },
   "footer": {
     "copyright": "© 2025 MCP Marketplace. All rights reserved."
   },

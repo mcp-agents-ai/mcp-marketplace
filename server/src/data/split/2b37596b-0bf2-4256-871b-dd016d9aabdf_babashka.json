@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bmorphism/babashka-mcp-server",
+  "githubUrl": "https://github.com/bmorphism/babashka-mcp-server",
+  "name": "Babashka",
+  "author": "bmorphism",
+  "description": "Integrates with Babashka to enable dynamic Clojure code execution and interaction for scripting, data processing, and system automation tasks.",
+  "codiconIcon": "babashka",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "scripting",
+    "tasks",
+    "integrates",
+    "processing",
+    "system"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "2b37596b-0bf2-4256-871b-dd016d9aabdf"
+}

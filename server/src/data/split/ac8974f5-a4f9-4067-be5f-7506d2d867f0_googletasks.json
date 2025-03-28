@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mstfe/mcp-google-tasks",
+  "githubUrl": "https://github.com/mstfe/mcp-google-tasks",
+  "name": "Google Tasks",
+  "author": "mstfe",
+  "description": "Integrates with the Google Tasks API to provide structured task management capabilities for creating, listing, updating, and toggling tasks in default lists.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "google",
+    "structured",
+    "management",
+    "listing",
+    "updating"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "ac8974f5-a4f9-4067-be5f-7506d2d867f0"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/suekou/mcp-notion-server",
+  "githubUrl": "https://github.com/suekou/mcp-notion-server",
+  "name": "Notion",
+  "author": "suekou",
+  "description": "Manage pages and databases in Notion workspaces.",
+  "codiconIcon": "notion",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "notion",
+    "manage",
+    "pages",
+    "databases",
+    "workspaces"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "535b432c-4104-405f-ab82-bca44c030375"
+}

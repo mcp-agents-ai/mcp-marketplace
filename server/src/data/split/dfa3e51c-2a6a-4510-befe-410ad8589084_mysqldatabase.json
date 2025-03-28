@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/enemyrr/mcp-mysql-server",
+  "githubUrl": "https://github.com/enemyrr/mcp-mysql-server",
+  "name": "MySQL Database",
+  "author": "enemyrr",
+  "description": "Integrates with MySQL databases to enable secure query execution, schema management, and CRUD operations for structured data access and manipulation",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "query",
+    "schema",
+    "operations",
+    "access",
+    "manipulation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "dfa3e51c-2a6a-4510-befe-410ad8589084"
+}

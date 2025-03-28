@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aldrin-labs/metal-mcp-server",
+  "githubUrl": "https://github.com/aldrin-labs/metal-mcp-server",
+  "name": "Metal Framework",
+  "author": "aldrin-labs",
+  "description": "Integrates Metal Framework documentation search and code generation capabilities for graphics-intensive application development.",
+  "codiconIcon": "metal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "search",
+    "development",
+    "metal-framework",
+    "framework",
+    "documentation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "4dc07517-b6f2-4c5c-afe0-ad0836b74d6a"
+}

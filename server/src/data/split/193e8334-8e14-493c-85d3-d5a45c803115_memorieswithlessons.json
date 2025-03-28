@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/T1nker-1220/memories-with-lessons-mcp-server",
+  "githubUrl": "https://github.com/T1nker-1220/memories-with-lessons-mcp-server",
+  "name": "Memories with Lessons",
+  "author": "T1nker-1220",
+  "description": "Enables persistent memory and error tracking for assistants using a local knowledge graph structure with transactional operations, file management, and caching.",
+  "codiconIcon": "memories",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "memories-with-lessons",
+    "persistent",
+    "assistants",
+    "graph",
+    "caching"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "193e8334-8e14-493c-85d3-d5a45c803115"
+}

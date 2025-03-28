@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lalanikarim/comfy-mcp-server",
+  "githubUrl": "https://github.com/lalanikarim/comfy-mcp-server",
+  "name": "Comfy (Stable Diffusion)",
+  "author": "lalanikarim",
+  "description": "Integrates with ComfyUI to enable text-to-image generation using customizable Stable Diffusion workflows.",
+  "codiconIcon": "comfy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "comfy-(stable-diffusion)",
+    "comfyui",
+    "generation",
+    "customizable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "3091ba65-9d6a-4d8f-92b8-5bd01b66b388"
+}

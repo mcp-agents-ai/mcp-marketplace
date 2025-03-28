@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kujenga/zotero-mcp",
+  "githubUrl": "https://github.com/kujenga/zotero-mcp",
+  "name": "Zotero",
+  "author": "kujenga",
+  "description": "Integrates with Zotero to enable searching libraries, retrieving metadata, and accessing full-text content for scholarly research workflows.",
+  "codiconIcon": "zotero",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "accessing",
+    "content",
+    "searching",
+    "full-text",
+    "scholarly"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "2079006e-ffdf-4e23-9a5e-1e513882148e"
+}

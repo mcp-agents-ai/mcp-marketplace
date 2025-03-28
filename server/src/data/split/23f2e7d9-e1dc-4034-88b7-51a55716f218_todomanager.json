@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mutker/mcp-todo-server",
+  "githubUrl": "https://github.com/mutker/mcp-todo-server",
+  "name": "Todo Manager",
+  "author": "mutker",
+  "description": "Manages TODO.md and CHANGELOG.md files with precise, line-based editing, multiple character encodings, and atomic operations for structured task and release management.",
+  "codiconIcon": "todo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "todo-manager",
+    "atomic",
+    "operations",
+    "manages",
+    "changelog.md"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "23f2e7d9-e1dc-4034-88b7-51a55716f218"
+}

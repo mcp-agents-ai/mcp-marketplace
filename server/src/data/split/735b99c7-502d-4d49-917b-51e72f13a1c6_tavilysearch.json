@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/apappascs/tavily-search-mcp-server",
+  "githubUrl": "https://github.com/apappascs/tavily-search-mcp-server",
+  "name": "Tavily Search",
+  "author": "apappascs",
+  "description": "Integrates the Tavily Search API to perform real-time web searches for fact-checking, research, and content generation.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tavily-search",
+    "tavily",
+    "search",
+    "perform",
+    "searches"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "735b99c7-502d-4d49-917b-51e72f13a1c6"
+}

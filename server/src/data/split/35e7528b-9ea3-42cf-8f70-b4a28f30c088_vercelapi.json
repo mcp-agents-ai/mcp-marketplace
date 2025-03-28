@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zueai/vercel-api-mcp",
+  "githubUrl": "https://github.com/zueai/vercel-api-mcp",
+  "name": "Vercel API",
+  "author": "zueai",
+  "description": "Integrates with Vercel's API to enable natural language-driven project management and deployment automation for streamlined development workflows.",
+  "codiconIcon": "vercel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "natural",
+    "management",
+    "deployment",
+    "streamlined",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "35e7528b-9ea3-42cf-8f70-b4a28f30c088"
+}

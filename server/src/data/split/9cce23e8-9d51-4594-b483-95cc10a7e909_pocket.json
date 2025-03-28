@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kazuph/mcp-pocket",
+  "githubUrl": "https://github.com/kazuph/mcp-pocket",
+  "name": "Pocket",
+  "author": "kazuph",
+  "description": "Integrates with the Pocket API to enable natural language-based retrieval and management of saved articles.",
+  "codiconIcon": "pocket",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "natural",
+    "language-based",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "9cce23e8-9d51-4594-b483-95cc10a7e909"
+}

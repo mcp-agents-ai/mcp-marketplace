@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pavelanni/mcp-server-minio-go",
+  "githubUrl": "https://github.com/pavelanni/mcp-server-minio-go",
+  "name": "MinIO Object Storage",
+  "author": "pavelanni",
+  "description": "Bridges MinIO object storage servers to enable bucket/object management, file operations, and server monitoring for cloud-native applications.",
+  "codiconIcon": "minio",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "servers",
+    "server",
+    "cloud-native",
+    "minio",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "65c810ff-939c-4e87-8d8d-384f0b194961"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/c0h1b4/mssql-mcp-server",
+  "githubUrl": "https://github.com/c0h1b4/mssql-mcp-server",
+  "name": "MSSQL",
+  "author": "c0h1b4",
+  "description": "Enables secure AI-driven interactions with Microsoft SQL Server databases for automated data analysis, dynamic reporting, and intelligent database management.",
+  "codiconIcon": "mssql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "microsoft",
+    "databases",
+    "database",
+    "management",
+    "automated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "424c12f1-3379-4908-8ddd-f7f0cf8eca9c"
+}

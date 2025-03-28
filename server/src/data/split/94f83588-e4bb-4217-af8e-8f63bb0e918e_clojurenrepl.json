@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JohanCodinha/nrepl-mcp-server",
+  "githubUrl": "https://github.com/JohanCodinha/nrepl-mcp-server",
+  "name": "Clojure nREPL",
+  "author": "JohanCodinha",
+  "description": "Integrates with Clojure nREPL instances to enable code evaluation, namespace listing, and public var inspection for AI-assisted Clojure development.",
+  "codiconIcon": "clojure",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "namespace",
+    "listing",
+    "public",
+    "integrates",
+    "nrepl"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "94f83588-e4bb-4217-af8e-8f63bb0e918e"
+}

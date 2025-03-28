@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kumartheashwani/paypal-java-mcp-server",
+  "githubUrl": "https://github.com/kumartheashwani/paypal-java-mcp-server",
+  "name": "PayPal Java",
+  "author": "kumartheashwani",
+  "description": "Integrates with PayPal's Java API to provide payment processing analysis tools, including authorization rate analysis and a basic calculator, supporting both REST and JSON-RPC interfaces for versatile deployment.",
+  "codiconIcon": "paypal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "calculator",
+    "paypal-java",
+    "analysis",
+    "tools",
+    "supporting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "5a76baf6-f32e-4285-af70-6dd1bcbfce1b"
+}

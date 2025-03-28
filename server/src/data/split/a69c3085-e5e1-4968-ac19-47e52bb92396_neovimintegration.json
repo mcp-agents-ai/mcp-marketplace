@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bigcodegen/mcp-neovim-server",
+  "githubUrl": "https://github.com/bigcodegen/mcp-neovim-server",
+  "name": "Neovim Integration",
+  "author": "bigcodegen",
+  "description": "Integrates Claude Desktop with Neovim, enabling AI-enhanced coding assistance within the familiar Vim environment through direct interaction with buffers and commands.",
+  "codiconIcon": "neovim",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "coding",
+    "familiar",
+    "commands",
+    "neovim-integration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "a69c3085-e5e1-4968-ac19-47e52bb92396"
+}

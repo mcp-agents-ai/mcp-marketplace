@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ruchernchong/mcp-server-google-analytics",
+  "githubUrl": "https://github.com/ruchernchong/mcp-server-google-analytics",
+  "name": "Google Analytics",
+  "author": "ruchernchong",
+  "description": "Integrates GA4 data to provide web analytics metrics and insights for analyzing website performance and user engagement.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "integrates",
+    "provide",
+    "performance",
+    "engagement",
+    "google-analytics"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "8a120ee6-7c8b-43b7-b6eb-58b15a23034f"
+}

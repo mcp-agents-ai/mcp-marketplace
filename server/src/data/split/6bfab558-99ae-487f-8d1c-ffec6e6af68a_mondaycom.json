@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sakce/mcp-server-monday",
+  "githubUrl": "https://github.com/sakce/mcp-server-monday",
+  "name": "Monday.com",
+  "author": "sakce",
+  "description": "Integrates with Monday.com to enable creating items, retrieving board groups, adding comments, listing boards, and managing sub-items for project management and team collaboration workflows.",
+  "codiconIcon": "monday.com",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "boards",
+    "items",
+    "board",
+    "groups",
+    "comments"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "6bfab558-99ae-487f-8d1c-ffec6e6af68a"
+}

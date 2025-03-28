@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/daipendency/daipendency-mcp",
+  "githubUrl": "https://github.com/daipendency/daipendency-mcp",
+  "name": "Daipendency (Public API docs)",
+  "author": "daipendency",
+  "description": "Extracts public API documentation from a library and outputs it in an LLM-friendly format.",
+  "codiconIcon": "daipendency",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "documentation",
+    "library",
+    "outputs",
+    "llm-friendly",
+    "format"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "371acb11-29bf-4d5f-9e0e-1c14f4816143"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/capecoma/winterm-mcp",
+  "githubUrl": "https://github.com/capecoma/winterm-mcp",
+  "name": "Windows Terminal",
+  "author": "capecoma",
+  "description": "Enables interaction with the Windows command line interface, allowing for writing commands, reading terminal output, and sending control characters for automation tasks and integrations.",
+  "codiconIcon": "windows",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "windows-terminal",
+    "writing",
+    "terminal",
+    "automation",
+    "enables"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "1030540b-1599-457a-955a-52040ebbd4b5"
+}

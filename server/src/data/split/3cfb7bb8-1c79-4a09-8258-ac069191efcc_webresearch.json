@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/mcp-webresearch",
+  "githubUrl": "https://github.com/pashpashpash/mcp-webresearch",
+  "name": "Web Research",
+  "author": "pashpashpash",
+  "description": "Enables comprehensive web research with Google search integration, webpage content extraction, session tracking, and screenshot capabilities for real-time information gathering.",
+  "codiconIcon": "search",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/web-research.png",
+  "category": "search",
+  "tags": [
+    "web-research",
+    "google-search",
+    "content-extraction",
+    "screenshots",
+    "session-tracking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 11,
+  "downloadCount": 2506,
+  "createdAt": "2025-02-18T23:05:09.409851Z",
+  "updatedAt": "2025-02-18T23:05:09.409851Z",
+  "hubId": "3cfb7bb8-1c79-4a09-8258-ac069191efcc"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/taylor-lindores-reeves/mcp-github-projects",
+  "githubUrl": "https://github.com/taylor-lindores-reeves/mcp-github-projects",
+  "name": "GitHub Projects",
+  "author": "taylor-lindores-reeves",
+  "description": "Integrates with GitHub Projects to streamline Agile Sprint-based workflows, enabling project creation, task management, and sprint planning within the GitHub ecosystem.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "github",
+    "project",
+    "ecosystem",
+    "github-projects",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "0006b282-ac88-4c32-b76c-02476e972a04"
+}

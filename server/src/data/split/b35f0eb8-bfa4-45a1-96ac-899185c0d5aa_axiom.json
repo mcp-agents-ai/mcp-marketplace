@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/axiomhq/mcp-server-axiom",
+  "githubUrl": "https://github.com/axiomhq/mcp-server-axiom",
+  "name": "Axiom",
+  "author": "axiomhq",
+  "description": "Query and analyze data using Axiom Processing Language (APL), enabling AI agents to interact with Axiom datasets through natural language.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/axiom-query.png",
+  "category": "databases",
+  "tags": [
+    "data-query",
+    "log-analysis",
+    "apl",
+    "datasets",
+    "analytics"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 21,
+  "downloadCount": 37,
+  "createdAt": "2025-02-18T05:45:45.629989Z",
+  "updatedAt": "2025-02-18T05:45:45.629989Z",
+  "hubId": "b35f0eb8-bfa4-45a1-96ac-899185c0d5aa"
+}

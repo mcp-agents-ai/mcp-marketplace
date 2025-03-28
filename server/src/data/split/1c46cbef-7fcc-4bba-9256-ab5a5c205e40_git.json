@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/git",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/git",
+  "name": "Git",
+  "author": "modelcontextprotocol",
+  "description": "Interact with local Git repositories for version control tasks.",
+  "codiconIcon": "git",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "git",
+    "interact",
+    "local",
+    "repositories",
+    "version"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "1c46cbef-7fcc-4bba-9256-ab5a5c205e40"
+}

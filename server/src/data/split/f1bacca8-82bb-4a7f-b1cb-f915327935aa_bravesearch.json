@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/brave-search",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/brave-search",
+  "name": "Brave Search",
+  "author": "modelcontextprotocol",
+  "description": "Retrieve web pages, news, and local business results via Brave API.",
+  "codiconIcon": "brave",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "news",
+    "local",
+    "business",
+    "results",
+    "brave"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "f1bacca8-82bb-4a7f-b1cb-f915327935aa"
+}

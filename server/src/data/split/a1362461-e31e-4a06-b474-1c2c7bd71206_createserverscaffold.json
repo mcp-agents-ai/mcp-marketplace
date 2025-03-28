@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/maoxiaoke/create-mcp-server",
+  "githubUrl": "https://github.com/maoxiaoke/create-mcp-server",
+  "name": "Create Server Scaffold",
+  "author": "maoxiaoke",
+  "description": "Streamlines MCP server creation with a structured development protocol and example templates, offering an npx-invokable tool for efficient setup of server scaffolds.",
+  "codiconIcon": "create",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "efficient",
+    "server",
+    "creation",
+    "development",
+    "offering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "a1362461-e31e-4a06-b474-1c2c7bd71206"
+}

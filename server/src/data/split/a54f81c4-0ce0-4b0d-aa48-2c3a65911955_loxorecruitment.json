@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tbensonwest/loxo-mcp-server",
+  "githubUrl": "https://github.com/tbensonwest/loxo-mcp-server",
+  "name": "Loxo Recruitment",
+  "author": "tbensonwest",
+  "description": "Integrates with Loxo's recruitment platform API to streamline hiring processes through automated candidate tracking, job matching, and task management.",
+  "codiconIcon": "loxo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "automated",
+    "candidate",
+    "tracking",
+    "loxo-recruitment"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "a54f81c4-0ce0-4b0d-aa48-2c3a65911955"
+}

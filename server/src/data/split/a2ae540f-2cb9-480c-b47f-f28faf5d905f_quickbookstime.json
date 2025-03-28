@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aallsbury/qb-time-mcp-server",
+  "githubUrl": "https://github.com/aallsbury/qb-time-mcp-server",
+  "name": "QuickBooks Time",
+  "author": "aallsbury",
+  "description": "Integrates with QuickBooks Time API to provide unified access for managing timesheets, users, projects, and generating reports.",
+  "codiconIcon": "quickbooks",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "quickbooks-time",
+    "integrates",
+    "provide",
+    "access",
+    "managing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "a2ae540f-2cb9-480c-b47f-f28faf5d905f"
+}

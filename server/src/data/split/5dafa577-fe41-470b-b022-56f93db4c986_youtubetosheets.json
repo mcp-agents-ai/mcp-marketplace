@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Rickyyy1116/mcp-youtube-sheets",
+  "githubUrl": "https://github.com/Rickyyy1116/mcp-youtube-sheets",
+  "name": "YouTube to Sheets",
+  "author": "Rickyyy1116",
+  "description": "Integrates YouTube search with Google Sheets to automate video data collection and analysis for content creators, marketers, and researchers.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "search",
+    "automate",
+    "video",
+    "collection",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "5dafa577-fe41-470b-b022-56f93db4c986"
+}

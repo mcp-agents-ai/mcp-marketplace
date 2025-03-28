@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JayZeeDesign/figma-mcp",
+  "githubUrl": "https://github.com/JayZeeDesign/figma-mcp",
+  "name": "Figma",
+  "author": "JayZeeDesign",
+  "description": "Integrates with Figma's API to enable direct access to design files and prototypes for generating code and answering UI implementation queries.",
+  "codiconIcon": "figma",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "direct",
+    "files",
+    "prototypes"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "2a1224ce-bdd2-4252-9a22-43ae469adc1c"
+}

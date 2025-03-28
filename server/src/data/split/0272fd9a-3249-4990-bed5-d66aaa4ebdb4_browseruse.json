@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ztobs/cline-browser-use-mcp",
+  "githubUrl": "https://github.com/ztobs/cline-browser-use-mcp",
+  "name": "Browser Use",
+  "author": "ztobs",
+  "description": "Provides browser automation capabilities for capturing screenshots, retrieving HTML, executing JavaScript, and accessing console logs from web pages.",
+  "codiconIcon": "browser",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automation",
+    "screenshots",
+    "executing",
+    "javascript",
+    "console"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "0272fd9a-3249-4990-bed5-d66aaa4ebdb4"
+}

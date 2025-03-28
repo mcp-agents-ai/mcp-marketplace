@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rmtech1/txtai-assistant-mcp",
+  "githubUrl": "https://github.com/rmtech1/txtai-assistant-mcp",
+  "name": "txtai",
+  "author": "rmtech1",
+  "description": "Configurable server environment for efficient memory-based operations with customizable settings and flexible limits for scalable applications.",
+  "codiconIcon": "txtai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "customizable",
+    "settings",
+    "scalable",
+    "applications",
+    "txtai"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "b3d33d28-f658-4dd5-8893-65ab38896a82"
+}

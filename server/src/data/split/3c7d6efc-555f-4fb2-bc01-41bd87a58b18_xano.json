@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SarimSiddd/xano_mcp",
+  "githubUrl": "https://github.com/SarimSiddd/xano_mcp",
+  "name": "Xano",
+  "author": "SarimSiddd",
+  "description": "Integrates with Xano's no-code backend platform to enable data querying, manipulation, and CRUD operations for rapid application development and prototyping.",
+  "codiconIcon": "xano",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "development",
+    "xano",
+    "xano's",
+    "no-code",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "3c7d6efc-555f-4fb2-bc01-41bd87a58b18"
+}

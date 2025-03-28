@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://hyperbrowser.ai/hb-logo.png",
+  "githubUrl": "https://hyperbrowser.ai/hb-logo.png",
+  "name": "Hyperbrowser",
+  "author": "",
+  "description": "Cloud Browsers for AI Agents. Scrape, navigate, and interact with the web using Hyperbrowser's Model Context Protocol (MCP) servers.",
+  "codiconIcon": "hyperbrowser",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/barthebx7ws.png",
+  "category": "tools",
+  "tags": [
+    "browsers",
+    "scrape",
+    "using",
+    "context",
+    "mcp"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-15T07:48:35.930801+00:00",
+  "updatedAt": "2025-03-15T07:48:35.930801+00:00",
+  "hubId": "0a18e1c1-8c3b-4fd4-b806-b2dc0326d734"
+}

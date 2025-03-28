@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dkpoulsen/flutter-tools",
+  "githubUrl": "https://github.com/dkpoulsen/flutter-tools",
+  "name": "Flutter Tools",
+  "author": "dkpoulsen",
+  "description": "Integrates with the Flutter SDK to analyze and fix Dart/Flutter files, enabling automated code analysis and improvement suggestions for Flutter development.",
+  "codiconIcon": "flutter",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "files",
+    "improvement",
+    "suggestions",
+    "development",
+    "flutter-tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "64c089ba-90da-4db9-be77-c5225b6c9a80"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Siddhant-K-code/mcp-devto-server",
+  "githubUrl": "https://github.com/Siddhant-K-code/mcp-devto-server",
+  "name": "Dev.to",
+  "author": "Siddhant-K-code",
+  "description": "Integrates with Dev.to's API, enabling article publishing, content retrieval, and user interactions on the platform.",
+  "codiconIcon": "dev.to",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "interactions",
+    "platform",
+    "dev.to",
+    "integrates",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "fc838746-a1a4-4c60-86a3-d04b6f5b1baf"
+}

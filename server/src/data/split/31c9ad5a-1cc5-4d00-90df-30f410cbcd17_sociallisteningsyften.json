@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fred-em/social-listening",
+  "githubUrl": "https://github.com/fred-em/social-listening",
+  "name": "Social Listening (Syften)",
+  "author": "fred-em",
+  "description": "Integrates with Syften's API to enable real-time social listening, content categorization, and trend analysis for enhanced social media strategies.",
+  "codiconIcon": "social",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "categorization",
+    "strategies",
+    "social-listening-(syften)",
+    "syften's",
+    "real-time"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "31c9ad5a-1cc5-4d00-90df-30f410cbcd17"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/CaesarYangs/prometheus_mcp_server",
+  "githubUrl": "https://github.com/CaesarYangs/prometheus_mcp_server",
+  "name": "Prometheus",
+  "author": "CaesarYangs",
+  "description": "Integrates with Prometheus to query and analyze time-series metrics data for real-time system monitoring and performance insights.",
+  "codiconIcon": "prometheus",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analyze",
+    "time-series",
+    "metrics",
+    "real-time",
+    "insights"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "1cfdad21-3e66-4d38-8f01-0fc2567626e3"
+}

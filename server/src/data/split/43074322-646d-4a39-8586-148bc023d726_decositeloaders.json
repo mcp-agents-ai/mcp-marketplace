@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/deco-sites/mcp",
+  "githubUrl": "https://github.com/deco-sites/mcp",
+  "name": "Deco Site Loaders",
+  "author": "deco-sites",
+  "description": "Transforms Deco site loaders into dynamic tools by extracting schemas from metadata, enabling seamless discovery and invocation of website capabilities through Server-Sent Events",
+  "codiconIcon": "deco",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "loaders",
+    "extracting",
+    "seamless",
+    "through",
+    "deco-site-loaders"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "43074322-646d-4a39-8586-148bc023d726"
+}

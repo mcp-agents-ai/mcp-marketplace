@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mashriram/azure_mcp_server",
+  "githubUrl": "https://github.com/mashriram/azure_mcp_server",
+  "name": "Azure",
+  "author": "mashriram",
+  "description": "Integrates with Azure Blob Storage and Cosmos DB to enable secure reading, manipulation, and querying of cloud data resources.",
+  "codiconIcon": "azure",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "storage",
+    "secure",
+    "querying",
+    "resources",
+    "cosmos"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "ff8ec593-c675-4b66-a958-c1b09a851dd4"
+}

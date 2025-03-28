@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/human-spider/mcp-server-brave",
+  "githubUrl": "https://github.com/human-spider/mcp-server-brave",
+  "name": "Brave Search",
+  "author": "human-spider",
+  "description": "Integrates with Brave Search API to enable secure and privacy-focused web searches for research and content aggregation tasks.",
+  "codiconIcon": "brave",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "searches",
+    "content",
+    "tasks",
+    "brave",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "00f1dd3a-7ee1-4987-a944-6416f50ff770"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jwaldor/mcp-scrape-copilot",
+  "githubUrl": "https://github.com/jwaldor/mcp-scrape-copilot",
+  "name": "Puppeteer",
+  "author": "jwaldor",
+  "description": "Integrates Puppeteer-based browser automation for web scraping, testing, and AI model interaction with live web content.",
+  "codiconIcon": "puppeteer",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "scraping",
+    "testing",
+    "interaction",
+    "puppeteer",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "5b3b74f8-62ae-40fe-9a95-fb25a887e61d"
+}

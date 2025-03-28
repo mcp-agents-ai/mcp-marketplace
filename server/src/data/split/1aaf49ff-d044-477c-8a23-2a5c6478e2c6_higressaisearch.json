@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cr7258/higress-ai-search-mcp-server",
+  "githubUrl": "https://github.com/cr7258/higress-ai-search-mcp-server",
+  "name": "Higress AI Search",
+  "author": "cr7258",
+  "description": "Enhances AI model responses with real-time search results from various engines through Higress ai-search, supporting internet, academic, and internal knowledge searches.",
+  "codiconIcon": "higress",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enhances",
+    "responses",
+    "real-time",
+    "various",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "1aaf49ff-d044-477c-8a23-2a5c6478e2c6"
+}

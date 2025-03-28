@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/puppeteer",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/puppeteer",
+  "name": "Puppeteer",
+  "author": "modelcontextprotocol",
+  "description": "Navigate websites, fill forms, and capture screenshots programmatically.",
+  "codiconIcon": "puppeteer",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "programmatically",
+    "puppeteer",
+    "navigate",
+    "websites",
+    "forms"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "f0870244-ee05-414c-929f-1eb917daf855"
+}

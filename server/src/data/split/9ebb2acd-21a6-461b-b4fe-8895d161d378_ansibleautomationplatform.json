@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rlopez133/mcp",
+  "githubUrl": "https://github.com/rlopez133/mcp",
+  "name": "Ansible Automation Platform",
+  "author": "rlopez133",
+  "description": "Integrates with Ansible Automation Platform, OpenShift, and Event-Driven Ansible to enable advanced automation workflows, inventory management, and job template execution for DevOps teams.",
+  "codiconIcon": "ansible",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "ansible",
+    "automation",
+    "platform",
+    "enable",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "9ebb2acd-21a6-461b-b4fe-8895d161d378"
+}

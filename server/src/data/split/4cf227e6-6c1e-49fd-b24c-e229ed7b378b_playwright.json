@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Automata-Labs-team/MCP-Server-Playwright",
+  "githubUrl": "https://github.com/Automata-Labs-team/MCP-Server-Playwright",
+  "name": "Playwright",
+  "author": "Automata-Labs-team",
+  "description": "Control browsers to perform sophisticated web interactions and visual tasks.",
+  "codiconIcon": "playwright",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "playwright",
+    "control",
+    "browsers",
+    "perform",
+    "sophisticated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "4cf227e6-6c1e-49fd-b24c-e229ed7b378b"
+}

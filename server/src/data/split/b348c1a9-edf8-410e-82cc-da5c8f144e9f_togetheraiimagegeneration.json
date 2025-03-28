@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zym9863/together-ai-image-server",
+  "githubUrl": "https://github.com/zym9863/together-ai-image-server",
+  "name": "Together AI Image Generation",
+  "author": "zym9863",
+  "description": "Integrates with Together AI's API to enable text-to-image generation, offering tools for creating visual content based on text prompts.",
+  "codiconIcon": "together",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "together",
+    "enable",
+    "text-to-image",
+    "tools",
+    "creating"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "b348c1a9-edf8-410e-82cc-da5c8f144e9f"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jamie7893/statsource-mcp",
+  "githubUrl": "https://github.com/jamie7893/statsource-mcp",
+  "name": "StatSource Analytics",
+  "author": "jamie7893",
+  "description": "Integrates with statistical and machine learning tools to perform data analysis, calculations, and time-series forecasting on user data from various sources including CSV files and databases.",
+  "codiconIcon": "statsource",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "calculations",
+    "files",
+    "analysis",
+    "forecasting",
+    "various"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "66253c5c-3b0a-489f-bbdc-69f437e939e5"
+}

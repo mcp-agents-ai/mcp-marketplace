@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tizee/mcp-unix-manual",
+  "githubUrl": "https://github.com/tizee/mcp-unix-manual",
+  "name": "Unix Manual",
+  "author": "tizee",
+  "description": "Provides Unix command documentation, including help pages, man pages, and usage information, enabling retrieval and exploration of system commands within conversations.",
+  "codiconIcon": "unix",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "unix-manual",
+    "documentation",
+    "pages",
+    "provides",
+    "usage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "32bd9740-67ad-46b4-b347-548e6856ef63"
+}

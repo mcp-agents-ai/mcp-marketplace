@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zcaceres/gtasks-mcp",
+  "githubUrl": "https://github.com/zcaceres/gtasks-mcp",
+  "name": "Google Tasks",
+  "author": "zcaceres",
+  "description": "Integrates with Google Tasks API to enable task management capabilities like listing, creating, and updating tasks.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "google",
+    "tasks",
+    "enable",
+    "listing",
+    "google-tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "d0f0e12c-b83b-404b-94e4-7e8cda0c38ae"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TrackerXXX23/dev_memory_mcp",
+  "githubUrl": "https://github.com/TrackerXXX23/dev_memory_mcp",
+  "name": "Dev Memory",
+  "author": "TrackerXXX23",
+  "description": "Provides persistent cross-project memory storage and retrieval for maintaining development context and knowledge across sessions.",
+  "codiconIcon": "dev",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "context",
+    "sessions",
+    "dev-memory",
+    "provides",
+    "cross-project"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "9c3f9ce6-8e6f-47dd-b51d-2b2a0d8fcc9e"
+}

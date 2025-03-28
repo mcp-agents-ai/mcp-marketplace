@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/blake365/usgs-quakes-mcp",
+  "githubUrl": "https://github.com/blake365/usgs-quakes-mcp",
+  "name": "USGS Earthquake Data",
+  "author": "blake365",
+  "description": "Integrates with USGS earthquake data to provide real-time access for querying and analyzing seismic events, enabling applications in disaster response, geological research, and risk assessment.",
+  "codiconIcon": "usgs",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "real-time",
+    "enabling",
+    "geological",
+    "research",
+    "assessment"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "6b2729a0-eb2b-4109-bfa2-cbeb85a08f9b"
+}

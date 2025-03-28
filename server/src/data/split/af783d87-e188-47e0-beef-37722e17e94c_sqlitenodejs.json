@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/johnnyoshika/mcp-server-sqlite-npx",
+  "githubUrl": "https://github.com/johnnyoshika/mcp-server-sqlite-npx",
+  "name": "SQLite (Node.js)",
+  "author": "johnnyoshika",
+  "description": "Implements SQLite functionality in Node.js.",
+  "codiconIcon": "sqlite",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "node.js",
+    "sqlite-(node.js)",
+    "implements",
+    "sqlite",
+    "functionality"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "af783d87-e188-47e0-beef-37722e17e94c"
+}

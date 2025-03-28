@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ibrooksSDX/mcp-server-opensearch",
+  "githubUrl": "https://github.com/ibrooksSDX/mcp-server-opensearch",
+  "name": "OpenSearch",
+  "author": "ibrooksSDX",
+  "description": "Integrates with OpenSearch to enable powerful full-text search, data aggregation, and real-time analytics capabilities for applications requiring advanced search and log analysis.",
+  "codiconIcon": "opensearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "opensearch",
+    "powerful",
+    "real-time",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "e7179cc1-5de6-4d7c-9562-74544eadaffc"
+}

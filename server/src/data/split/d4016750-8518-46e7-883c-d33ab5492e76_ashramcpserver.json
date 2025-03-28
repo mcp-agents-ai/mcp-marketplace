@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/getrupt/ashra-mcp/tree/main/src/operations",
+  "githubUrl": "https://github.com/getrupt/ashra-mcp/tree/main/src/operations",
+  "name": "Ashra MCP Server",
+  "author": "getrupt",
+  "description": "Extract structured data from any website with a simple SDK call. No scraping code, no headless browsers - just prompt and get JSON.",
+  "codiconIcon": "ashra",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/o9tfdlsaej9.svg",
+  "category": "tools",
+  "tags": [
+    "simple",
+    "code",
+    "headless",
+    "json",
+    "ashra-mcp-server"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-26T18:59:29.969558+00:00",
+  "updatedAt": "2025-03-26T18:59:29.969558+00:00",
+  "hubId": "d4016750-8518-46e7-883c-d33ab5492e76"
+}

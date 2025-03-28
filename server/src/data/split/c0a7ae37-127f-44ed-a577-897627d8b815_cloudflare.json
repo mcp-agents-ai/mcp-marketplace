@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GutMutCode/mcp-server-cloudflare",
+  "githubUrl": "https://github.com/GutMutCode/mcp-server-cloudflare",
+  "name": "Cloudflare",
+  "author": "GutMutCode",
+  "description": "Integrates with Cloudflare's API to enable management of DNS, CDN, and security configurations for web infrastructure automation.",
+  "codiconIcon": "cloudflare",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "cloudflare",
+    "integrates",
+    "cloudflare's",
+    "enable",
+    "configurations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "c0a7ae37-127f-44ed-a577-897627d8b815"
+}

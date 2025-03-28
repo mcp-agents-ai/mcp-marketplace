@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/knmurphy/glide-api-mcp-server",
+  "githubUrl": "https://github.com/knmurphy/glide-api-mcp-server",
+  "name": "Glide API",
+  "author": "knmurphy",
+  "description": "Bridges Glide's API with MCP to enable automated management and data operations for Glide applications.",
+  "codiconIcon": "glide",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bridges",
+    "glide's",
+    "automated",
+    "glide",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "a5811e14-d5ab-4538-ba31-273ea540f98f"
+}

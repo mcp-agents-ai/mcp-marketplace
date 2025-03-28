@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Nazruden/clickup-mcp-server",
+  "githubUrl": "https://github.com/Nazruden/clickup-mcp-server",
+  "name": "ClickUp",
+  "author": "Nazruden",
+  "description": "Integrates with ClickUp to enable task creation, project management, and workflow automation for teams using AI-powered assistants.",
+  "codiconIcon": "clickup",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "automation",
+    "using",
+    "ai-powered",
+    "clickup"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "648bf24e-bd18-462b-8a50-ee5a523c813a"
+}

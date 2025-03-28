@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/baba786/angleone-mcp-server",
+  "githubUrl": "https://github.com/baba786/angleone-mcp-server",
+  "name": "AngelOne",
+  "author": "baba786",
+  "description": "Integrates AngelOne India trading platform to provide real-time market data access, order management, and portfolio tracking for automated financial analysis and trading operations.",
+  "codiconIcon": "angelone",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "india",
+    "trading",
+    "access",
+    "management",
+    "tracking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "a6b95c5b-fd4d-45e9-a2f7-1fdd5f4f349f"
+}

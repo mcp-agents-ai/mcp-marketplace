@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qdrant/mcp-server-qdrant/",
+  "githubUrl": "https://github.com/qdrant/mcp-server-qdrant/",
+  "name": "Qdrant",
+  "author": "qdrant",
+  "description": "Implement semantic memory using the Qdrant vector search engine",
+  "codiconIcon": "qdrant",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/tc9emb3zgon.png",
+  "category": "tools",
+  "tags": [
+    "memory",
+    "using",
+    "vector",
+    "search",
+    "engine"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-15T07:52:50.154684+00:00",
+  "updatedAt": "2025-03-15T07:52:50.154684+00:00",
+  "hubId": "8fbb6867-b9b5-4493-a3d5-feb141f69732"
+}

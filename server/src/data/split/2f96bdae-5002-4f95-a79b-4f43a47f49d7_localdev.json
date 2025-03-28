@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/txbm/mcp-local-dev",
+  "githubUrl": "https://github.com/txbm/mcp-local-dev",
+  "name": "Local Dev",
+  "author": "txbm",
+  "description": "Creates sandboxed local dev environments directly from GitHub; run tests, report coverage and more.",
+  "codiconIcon": "local",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "environments",
+    "directly",
+    "coverage",
+    "more",
+    "local-dev"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "2f96bdae-5002-4f95-a79b-4f43a47f49d7"
+}

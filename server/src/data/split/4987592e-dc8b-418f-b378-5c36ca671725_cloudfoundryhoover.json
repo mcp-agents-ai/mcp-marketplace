@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cf-toolsuite/cf-kaizen/tree/HEAD/hoover",
+  "githubUrl": "https://github.com/cf-toolsuite/cf-kaizen/tree/HEAD/hoover",
+  "name": "Cloud Foundry Hoover",
+  "author": "cf-toolsuite",
+  "description": "Registry and aggregator for Cloud Foundry. Queries for and aggregates cf-butler instances' data",
+  "codiconIcon": "cloud",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "registry",
+    "cloud",
+    "aggregates",
+    "cf-butler",
+    "instances'"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "4987592e-dc8b-418f-b378-5c36ca671725"
+}

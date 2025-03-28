@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/itsanishjain/alchemy-sdk-mcp",
+  "githubUrl": "https://github.com/itsanishjain/alchemy-sdk-mcp",
+  "name": "Alchemy SDK",
+  "author": "itsanishjain",
+  "description": "Integrates with the Alchemy SDK to enable blockchain and NFT operations, including retrieving metadata, fetching token balances, and querying blockchain data.",
+  "codiconIcon": "alchemy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "blockchain",
+    "including",
+    "metadata",
+    "token",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a11ffe08-792f-47fb-84ad-94feda7333b5"
+}

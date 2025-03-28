@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/arthurcolle/openai-mcp",
+  "githubUrl": "https://github.com/arthurcolle/openai-mcp",
+  "name": "OpenAI MCP",
+  "author": "arthurcolle",
+  "description": "Provides a high-performance bridge between OpenAI and Anthropic models with prompt templating, response streaming, and efficient caching for applications requiring customizable LLM access.",
+  "codiconIcon": "openai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "requiring",
+    "bridge",
+    "between",
+    "prompt",
+    "customizable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "84cf07d2-c481-4611-a9fb-dd1966c0b72e"
+}

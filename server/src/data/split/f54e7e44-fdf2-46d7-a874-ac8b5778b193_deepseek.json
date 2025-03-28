@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vincentf305/mcp-server-deepseek",
+  "githubUrl": "https://github.com/vincentf305/mcp-server-deepseek",
+  "name": "Deepseek",
+  "author": "vincentf305",
+  "description": "Integrates with Deepseek models via a simple API bridge.",
+  "codiconIcon": "deepseek",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "simple",
+    "bridge",
+    "deepseek",
+    "integrates",
+    "models"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "f54e7e44-fdf2-46d7-a874-ac8b5778b193"
+}

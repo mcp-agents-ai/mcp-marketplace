@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zacco16/gmail-mcp-server",
+  "githubUrl": "https://github.com/zacco16/gmail-mcp-server",
+  "name": "Gmail",
+  "author": "zacco16",
+  "description": "Integrates with Gmail API to enable email listing, reading, and filtering of emails.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "gmail",
+    "integrates",
+    "enable",
+    "email",
+    "listing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "bb7d9155-a717-4729-b931-1203de958eeb"
+}

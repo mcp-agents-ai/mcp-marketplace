@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/Flux159/mcp-server-kubernetes",
+  "githubUrl": "https://github.com/Flux159/mcp-server-kubernetes",
+  "name": "Kubernetes",
+  "author": "Flux159",
+  "description": "Connects to and manages Kubernetes clusters, enabling pod, service, and deployment operations through kubectl integration.",
+  "codiconIcon": "server-environment",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/kubernetes.png",
+  "category": "virtualization",
+  "tags": [
+    "kubernetes",
+    "containers",
+    "cluster-management",
+    "kubectl",
+    "deployments"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 194,
+  "downloadCount": 414,
+  "createdAt": "2025-02-17T22:30:26.383193Z",
+  "updatedAt": "2025-02-17T22:30:26.383193Z",
+  "hubId": "00739d70-842d-4d36-bb98-04bde51a2220"
+}

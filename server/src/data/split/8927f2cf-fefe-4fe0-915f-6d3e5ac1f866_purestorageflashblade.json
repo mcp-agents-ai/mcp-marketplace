@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jboothomas/pure-model-context-protocol",
+  "githubUrl": "https://github.com/jboothomas/pure-model-context-protocol",
+  "name": "Pure Storage FlashBlade",
+  "author": "jboothomas",
+  "description": "Integrates with Pure Storage FlashBlade arrays to enable real-time monitoring, troubleshooting, and resource management.",
+  "codiconIcon": "pure",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "monitoring",
+    "storage",
+    "flashblade",
+    "arrays",
+    "real-time"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "8927f2cf-fefe-4fe0-915f-6d3e5ac1f866"
+}

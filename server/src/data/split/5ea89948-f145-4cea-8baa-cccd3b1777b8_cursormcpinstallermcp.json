@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/matthewdcage/cursor-mcp-installer",
+  "githubUrl": "https://github.com/matthewdcage/cursor-mcp-installer",
+  "name": "Cursor MCP Installer MCP",
+  "author": "matthewdcage",
+  "description": "A Model Context Protocol (MCP) server for installing and configuring other MCP servers within Cursor IDE.\n\n",
+  "codiconIcon": "cursor",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/kyjpkg2cahe.jpeg",
+  "category": "tools",
+  "tags": [
+    "server",
+    "other",
+    "servers",
+    "within",
+    "model"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-20T03:17:48.441778+00:00",
+  "updatedAt": "2025-03-20T03:17:48.441778+00:00",
+  "hubId": "5ea89948-f145-4cea-8baa-cccd3b1777b8"
+}

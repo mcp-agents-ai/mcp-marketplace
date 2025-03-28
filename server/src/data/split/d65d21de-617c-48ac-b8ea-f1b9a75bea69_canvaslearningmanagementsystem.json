@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vishalsachdev/canvas-mcp",
+  "githubUrl": "https://github.com/vishalsachdev/canvas-mcp",
+  "name": "Canvas Learning Management System",
+  "author": "vishalsachdev",
+  "description": "Integrates with the Canvas Learning Management System API to enable course management, assignment tracking, and student engagement analysis in educational settings.",
+  "codiconIcon": "canvas",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "engagement",
+    "analysis",
+    "management",
+    "system",
+    "student"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "d65d21de-617c-48ac-b8ea-f1b9a75bea69"
+}

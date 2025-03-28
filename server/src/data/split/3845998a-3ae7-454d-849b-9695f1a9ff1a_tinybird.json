@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tinybirdco/mcp-tinybird",
+  "githubUrl": "https://github.com/tinybirdco/mcp-tinybird",
+  "name": "Tinybird",
+  "author": "tinybirdco",
+  "description": "Interface with the Tinybird serverless ClickHouse platform",
+  "codiconIcon": "tinybird",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/6ry45t95rr4.webp",
+  "category": "tools",
+  "tags": [
+    "serverless",
+    "clickhouse",
+    "platform",
+    "tinybird",
+    "interface"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T12:22:58.890099+00:00",
+  "updatedAt": "2025-03-14T12:22:58.890099+00:00",
+  "hubId": "3845998a-3ae7-454d-849b-9695f1a9ff1a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/livehybrid/splunk-mcp",
+  "githubUrl": "https://github.com/livehybrid/splunk-mcp",
+  "name": "Splunk",
+  "author": "livehybrid",
+  "description": "Integrates with Splunk Enterprise/Cloud to enable natural language-driven searches, index management, user handling, and KV store operations through a Python-based interface supporting both command-line and web server integration.",
+  "codiconIcon": "splunk",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "operations",
+    "interface",
+    "command-line",
+    "enterprise/cloud",
+    "language-driven"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "eeb592be-dfa0-4f33-b5d3-db59a2f894c9"
+}

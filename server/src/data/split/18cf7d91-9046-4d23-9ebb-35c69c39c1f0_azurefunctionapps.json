@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dkmaker/mcp-function-app-tester",
+  "githubUrl": "https://github.com/dkmaker/mcp-function-app-tester",
+  "name": "Azure Function Apps",
+  "author": "dkmaker",
+  "description": "Enables testing of Azure Function Apps through a command-line interface supporting various HTTP methods, custom headers, and multiple authentication options.",
+  "codiconIcon": "azure",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "multiple",
+    "testing",
+    "azure",
+    "function",
+    "various"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "18cf7d91-9046-4d23-9ebb-35c69c39c1f0"
+}

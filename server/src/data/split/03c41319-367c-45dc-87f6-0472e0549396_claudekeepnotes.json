@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sdairs/claudekeep",
+  "githubUrl": "https://github.com/sdairs/claudekeep",
+  "name": "ClaudeKeep (Notes)",
+  "author": "sdairs",
+  "description": "Integrates a personal knowledge management system for storing, retrieving, and organizing conversation notes locally.",
+  "codiconIcon": "claudekeep",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "claudekeep-(notes)",
+    "integrates",
+    "knowledge",
+    "management",
+    "system"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "03c41319-367c-45dc-87f6-0472e0549396"
+}

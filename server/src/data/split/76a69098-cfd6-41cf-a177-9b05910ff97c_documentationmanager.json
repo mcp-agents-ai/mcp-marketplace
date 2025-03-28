@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alekspetrov/mcp-docs-service",
+  "githubUrl": "https://github.com/alekspetrov/mcp-docs-service",
+  "name": "Documentation Manager",
+  "author": "alekspetrov",
+  "description": "Enables AI interaction with markdown documentation files through a SQL-like query format for creating, reading, updating, and searching documentation with YAML frontmatter metadata support in Node.js and Deno environments.",
+  "codiconIcon": "documentation",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "format",
+    "frontmatter",
+    "interaction",
+    "files",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "76a69098-cfd6-41cf-a177-9b05910ff97c"
+}

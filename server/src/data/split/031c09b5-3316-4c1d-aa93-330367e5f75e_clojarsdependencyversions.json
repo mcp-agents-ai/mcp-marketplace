@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Bigsy/Clojars-MCP-Server",
+  "githubUrl": "https://github.com/Bigsy/Clojars-MCP-Server",
+  "name": "Clojars Dependency Versions",
+  "author": "Bigsy",
+  "description": "Retrieves information related to Clojure dependency management.",
+  "codiconIcon": "clojars",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "clojars-dependency-versions",
+    "retrieves",
+    "information",
+    "related"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "031c09b5-3316-4c1d-aa93-330367e5f75e"
+}

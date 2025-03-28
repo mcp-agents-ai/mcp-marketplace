@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/j3k0/mcp-elastic-memory",
+  "githubUrl": "https://github.com/j3k0/mcp-elastic-memory",
+  "name": "Elasticsearch Knowledge Graph",
+  "author": "j3k0",
+  "description": "Elasticsearch-based knowledge graph that tracks access patterns to prioritize recent, important, and frequently accessed information with advanced search capabilities and complete CRUD operations.",
+  "codiconIcon": "elasticsearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tracks",
+    "prioritize",
+    "important",
+    "frequently",
+    "advanced"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "ef53701e-6ed4-463c-9d56-a7293b9d75d7"
+}

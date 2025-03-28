@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TannisaS/MCP-Server/tree/HEAD/X_twee",
+  "githubUrl": "https://github.com/TannisaS/MCP-Server/tree/HEAD/X_twee",
+  "name": "X Tweets",
+  "author": "TannisaS",
+  "description": "Automates tweet scheduling and posting by integrating Google Sheets with Twitter using web automation.",
+  "codiconIcon": "x",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "tweet",
+    "posting",
+    "sheets",
+    "twitter",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "6652b261-fc56-49a3-bdab-e9acccddab71"
+}

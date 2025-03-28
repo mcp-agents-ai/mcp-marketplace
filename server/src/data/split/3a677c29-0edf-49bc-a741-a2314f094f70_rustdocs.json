@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/0xKoda/mcp-rust-docs",
+  "githubUrl": "https://github.com/0xKoda/mcp-rust-docs",
+  "name": "Rust Docs",
+  "author": "0xKoda",
+  "description": "Fetches and returns Rust crate documentation from docs.rs, providing essential context for working with Rust code.",
+  "codiconIcon": "rust",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "rust-docs",
+    "returns",
+    "providing",
+    "working",
+    "fetches"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "3a677c29-0edf-49bc-a741-a2314f094f70"
+}

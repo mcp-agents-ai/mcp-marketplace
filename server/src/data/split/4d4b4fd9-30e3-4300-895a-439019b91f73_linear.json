@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jerhadf/linear-mcp-server",
+  "githubUrl": "https://github.com/jerhadf/linear-mcp-server",
+  "name": "Linear",
+  "author": "jerhadf",
+  "description": "Track and manage issues via Linear's project management API.",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "manage",
+    "issues",
+    "linear's",
+    "project",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "4d4b4fd9-30e3-4300-895a-439019b91f73"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yeakub108/mcp-server",
+  "githubUrl": "https://github.com/yeakub108/mcp-server",
+  "name": "Windsurf Tools",
+  "author": "yeakub108",
+  "description": "Integrates with OpenAI's API and Puppeteer to provide screenshot capture, code architecture analysis, and code review capabilities for software development tasks.",
+  "codiconIcon": "windsurf",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "software",
+    "development",
+    "tasks",
+    "integrates",
+    "openai's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "1e6d6f51-61b2-4191-ba65-2d41060d4b0a"
+}

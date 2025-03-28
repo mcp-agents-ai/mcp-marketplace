@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cpage-pivotal/time-mcp",
+  "githubUrl": "https://github.com/cpage-pivotal/time-mcp",
+  "name": "World Time",
+  "author": "cpage-pivotal",
+  "description": "Integrates with the World Time API to enable retrieval of current time information for global locations, supporting applications that require accurate clock data.",
+  "codiconIcon": "world",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "global",
+    "supporting",
+    "world-time",
+    "world"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "559cf7cf-c99b-418e-8811-9d03c32d3159"
+}

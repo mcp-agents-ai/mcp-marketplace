@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/sendaifun/solana-mcp",
+  "githubUrl": "https://github.com/sendaifun/solana-mcp",
+  "name": "Solana Agent Kit",
+  "author": "sendaifun",
+  "description": "Provides tools for interacting with the Solana blockchain, enabling operations like token management, NFT minting, trading, and wallet interactions through a standardized interface.",
+  "codiconIcon": "link",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/sendai.jpg",
+  "category": "finance",
+  "tags": [
+    "blockchain",
+    "solana",
+    "cryptocurrency",
+    "web3",
+    "tokens"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 24,
+  "downloadCount": 557,
+  "createdAt": "2025-03-10T20:11:10.747447Z",
+  "updatedAt": "2025-03-10T20:11:10.747447Z",
+  "hubId": "3aa84ed8-ff63-4f06-a7bf-5e26ad04d1ba"
+}

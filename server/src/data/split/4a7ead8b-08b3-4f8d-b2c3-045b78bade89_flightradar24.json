@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sunsetcoder/flightradar24-mcp-server",
+  "githubUrl": "https://github.com/sunsetcoder/flightradar24-mcp-server",
+  "name": "Flightradar24",
+  "author": "sunsetcoder",
+  "description": "Integrates Flightradar24 data to provide real-time flight tracking capabilities.",
+  "codiconIcon": "flightradar24",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provide",
+    "real-time",
+    "flight",
+    "tracking",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "4a7ead8b-08b3-4f8d-b2c3-045b78bade89"
+}

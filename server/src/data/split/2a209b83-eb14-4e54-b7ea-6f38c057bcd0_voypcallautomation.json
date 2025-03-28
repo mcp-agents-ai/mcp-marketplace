@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/paulotaylor/voyp-mcp",
+  "githubUrl": "https://github.com/paulotaylor/voyp-mcp",
+  "name": "VOYP Call Automation",
+  "author": "paulotaylor",
+  "description": "Integrates with VOYP API to enable automated call handling, routing, and intelligent voice responses for enhanced call center operations.",
+  "codiconIcon": "voyp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "voyp-call-automation",
+    "integrates",
+    "enable",
+    "automated",
+    "routing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "2a209b83-eb14-4e54-b7ea-6f38c057bcd0"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TheSethRose/Fetch-Browser",
+  "githubUrl": "https://github.com/TheSethRose/Fetch-Browser",
+  "name": "Fetch Browser",
+  "author": "TheSethRose",
+  "description": "Fetch Browser enables headless web content retrieval and Google searching without API keys, supporting multiple output formats for web scraping and content analysis tasks.",
+  "codiconIcon": "fetch",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "supporting",
+    "analysis",
+    "enables",
+    "multiple",
+    "output"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "09e836ab-c4db-42ab-a714-dd6cf3797c21"
+}

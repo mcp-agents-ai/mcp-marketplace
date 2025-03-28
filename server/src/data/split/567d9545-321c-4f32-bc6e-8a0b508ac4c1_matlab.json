@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/WilliamCloudQi/matlab-mcp-server",
+  "githubUrl": "https://github.com/WilliamCloudQi/matlab-mcp-server",
+  "name": "MATLAB",
+  "author": "WilliamCloudQi",
+  "description": "Integrates with MATLAB to execute code, generate scripts from natural language, and access documentation, enabling complex mathematical operations and data analysis using MATLAB's toolsets.",
+  "codiconIcon": "matlab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "documentation",
+    "enabling",
+    "operations",
+    "using",
+    "code"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "567d9545-321c-4f32-bc6e-8a0b508ac4c1"
+}

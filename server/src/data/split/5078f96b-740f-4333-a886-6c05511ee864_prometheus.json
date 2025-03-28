@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/loglmhq/mcp-server-prometheus",
+  "githubUrl": "https://github.com/loglmhq/mcp-server-prometheus",
+  "name": "Prometheus",
+  "author": "loglmhq",
+  "description": "Bridges Prometheus metrics data to enable easy retrieval and analysis of monitoring information for automated system health checks, performance tracking, and anomaly detection.",
+  "codiconIcon": "prometheus",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bridges",
+    "metrics",
+    "enable",
+    "prometheus",
+    "monitoring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "5078f96b-740f-4333-a886-6c05511ee864"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RonaldDegsa/server-everything",
+  "githubUrl": "https://github.com/RonaldDegsa/server-everything",
+  "name": "Everything Local Commands",
+  "author": "RonaldDegsa",
+  "description": "Provides system-level operations for file handling, information retrieval, HTTP requests, and command execution, enabling versatile system management and task automation.",
+  "codiconIcon": "everything",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "command",
+    "enabling",
+    "versatile",
+    "management",
+    "everything-local-commands"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "3f3453b7-e3ec-4926-8a64-ead5b0bea1ec"
+}

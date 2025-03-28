@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kazuph/mcp-gmail-gas",
+  "githubUrl": "https://github.com/kazuph/mcp-gmail-gas",
+  "name": "Gmail",
+  "author": "kazuph",
+  "description": "Integrates Gmail functionality, enabling email search, message retrieval, and attachment downloads via Google Apps Script.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "gmail",
+    "integrates",
+    "functionality",
+    "email",
+    "downloads"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "5ada9541-74d7-44aa-a677-b5cb266f4e86"
+}

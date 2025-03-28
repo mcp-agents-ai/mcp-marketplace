@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jezweb/openai-mcp",
+  "githubUrl": "https://github.com/jezweb/openai-mcp",
+  "name": "DALL-E",
+  "author": "jezweb",
+  "description": "Integrates with OpenAI's DALL-E API to enable image generation with fine-grained control over parameters including model selection, size, quality, and style through a command-line interface.",
+  "codiconIcon": "dall-e",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "quality",
+    "dall-e",
+    "integrates",
+    "image",
+    "selection"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "b6f193c8-a198-4ebb-a911-2ac4b35d4742"
+}

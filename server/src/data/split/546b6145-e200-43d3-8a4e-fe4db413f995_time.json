@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alexandreroman/mcp-time",
+  "githubUrl": "https://github.com/alexandreroman/mcp-time",
+  "name": "Time",
+  "author": "alexandreroman",
+  "description": "Integrates with Spring AI to provide time-related services, enabling precise time management and scheduling functionalities in Java applications.",
+  "codiconIcon": "time",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "time",
+    "integrates",
+    "provide",
+    "precise",
+    "functionalities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "546b6145-e200-43d3-8a4e-fe4db413f995"
+}

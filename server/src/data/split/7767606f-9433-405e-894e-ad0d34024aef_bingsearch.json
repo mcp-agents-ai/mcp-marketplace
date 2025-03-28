@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/seanivore/bing-searches-mcp",
+  "githubUrl": "https://github.com/seanivore/bing-searches-mcp",
+  "name": "Bing Search",
+  "author": "seanivore",
+  "description": "Integrates with Bing Search API to collect, parse, and analyze search data.",
+  "codiconIcon": "bing",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "bing-search",
+    "integrates",
+    "search",
+    "collect",
+    "parse"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "7767606f-9433-405e-894e-ad0d34024aef"
+}

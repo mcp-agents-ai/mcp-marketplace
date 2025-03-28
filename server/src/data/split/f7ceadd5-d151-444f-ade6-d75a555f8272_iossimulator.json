@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JoshuaRileyDev/simulator-mcp-server",
+  "githubUrl": "https://github.com/JoshuaRileyDev/simulator-mcp-server",
+  "name": "iOS Simulator",
+  "author": "JoshuaRileyDev",
+  "description": "Control iOS simulators for automated testing and app deployment.",
+  "codiconIcon": "ios",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "simulators",
+    "automated",
+    "testing",
+    "deployment",
+    "ios-simulator"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "f7ceadd5-d151-444f-ade6-d75a555f8272"
+}

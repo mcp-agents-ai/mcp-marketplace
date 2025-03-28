@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wricardo/go-mcp",
+  "githubUrl": "https://github.com/wricardo/go-mcp",
+  "name": "Go Documentation",
+  "author": "wricardo",
+  "description": "Exposes Go documentation and package listing capabilities through 'go doc' and 'go list' commands, enabling efficient querying of official Go documentation and codebase understanding.",
+  "codiconIcon": "go",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "codebase",
+    "understanding",
+    "documentation",
+    "package",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "414993a2-fb24-4957-83a3-a237183a5baa"
+}

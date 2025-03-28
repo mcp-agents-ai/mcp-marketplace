@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zereight/gitlab-mcp",
+  "githubUrl": "https://github.com/zereight/gitlab-mcp",
+  "name": "GitLab",
+  "author": "zereight",
+  "description": "Integrates with GitLab's API to enable repository management, issue tracking, merge request handling, and file operations for automated development workflows.",
+  "codiconIcon": "gitlab",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "automated",
+    "integrates",
+    "management",
+    "issue",
+    "tracking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "28ec4e66-3c1b-4e37-b1fa-6daaea6ca0d3"
+}

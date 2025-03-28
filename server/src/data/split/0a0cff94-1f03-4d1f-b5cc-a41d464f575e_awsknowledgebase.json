@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sammcj/mcp-aws-kb",
+  "githubUrl": "https://github.com/sammcj/mcp-aws-kb",
+  "name": "AWS Knowledge Base",
+  "author": "sammcj",
+  "description": "Integrates with AWS Knowledge Bases to retrieve information using Bedrock Agent Runtime, enabling RAG operations with structured metadata for organizational knowledge access.",
+  "codiconIcon": "aws",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "enabling",
+    "operations",
+    "structured",
+    "integrates",
+    "knowledge"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "0a0cff94-1f03-4d1f-b5cc-a41d464f575e"
+}

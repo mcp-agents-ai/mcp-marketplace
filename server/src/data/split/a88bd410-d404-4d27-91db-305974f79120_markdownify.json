@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/zcaceres/markdownify-mcp",
+  "githubUrl": "https://github.com/zcaceres/markdownify-mcp",
+  "name": "Markdownify",
+  "author": "zcaceres",
+  "description": "Converts various file types and web content (PDFs, images, audio, Office documents, web pages) into standardized Markdown format for easy reading and sharing.",
+  "codiconIcon": "markdown",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/markdownify.png",
+  "category": "file-systems",
+  "tags": [
+    "file-conversion",
+    "markdown",
+    "document-processing",
+    "content-transformation",
+    "format-conversion"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 1058,
+  "downloadCount": 3570,
+  "createdAt": "2025-02-19T00:55:54.241944Z",
+  "updatedAt": "2025-02-19T00:55:54.241944Z",
+  "hubId": "a88bd410-d404-4d27-91db-305974f79120"
+}

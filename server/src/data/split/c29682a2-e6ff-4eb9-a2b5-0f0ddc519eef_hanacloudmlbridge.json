@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/HatriGt/hana-mcp-server",
+  "githubUrl": "https://github.com/HatriGt/hana-mcp-server",
+  "name": "HANA Cloud ML Bridge",
+  "author": "HatriGt",
+  "description": "Bridges SAP HANA Cloud databases with machine learning operations through a three-layer architecture that enables model management, execution contexts, and standardized communication for both inference and training workflows.",
+  "codiconIcon": "hana",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "training",
+    "workflows",
+    "bridges",
+    "learning",
+    "enables"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "c29682a2-e6ff-4eb9-a2b5-0f0ddc519eef"
+}

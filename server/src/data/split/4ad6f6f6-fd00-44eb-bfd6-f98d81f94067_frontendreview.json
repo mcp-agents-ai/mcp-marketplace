@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zueai/frontend-review-mcp",
+  "githubUrl": "https://github.com/zueai/frontend-review-mcp",
+  "name": "Frontend Review",
+  "author": "zueai",
+  "description": "Integrates with Hyperbolic's AI models to perform visual reviews of UI edit requests, providing automated visual QA for frontend development workflows.",
+  "codiconIcon": "frontend",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "workflows",
+    "frontend-review",
+    "integrates",
+    "hyperbolic's",
+    "reviews"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "4ad6f6f6-fd00-44eb-bfd6-f98d81f94067"
+}

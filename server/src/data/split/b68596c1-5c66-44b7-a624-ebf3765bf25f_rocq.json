@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/angrysky56/mcp-rocq",
+  "githubUrl": "https://github.com/angrysky56/mcp-rocq",
+  "name": "RoCQ",
+  "author": "angrysky56",
+  "description": "Integrates the Coq proof assistant with natural language inputs to enable automated dependent type checking, inductive type definition, and property proving for formal verification and theorem proving tasks.",
+  "codiconIcon": "rocq",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "theorem",
+    "rocq",
+    "integrates",
+    "proof",
+    "automated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "b68596c1-5c66-44b7-a624-ebf3765bf25f"
+}

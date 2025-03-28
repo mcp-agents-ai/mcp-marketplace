@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tonyhschu/test-and-typecheck-mcp-server",
+  "githubUrl": "https://github.com/tonyhschu/test-and-typecheck-mcp-server",
+  "name": "Vitest & Type Checking",
+  "author": "tonyhschu",
+  "description": "Integrates Vitest and TypeScript for automated test execution and type checking in development workflows.",
+  "codiconIcon": "vitest",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "vitest",
+    "typescript",
+    "automated",
+    "execution",
+    "checking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "71978ad4-3a5f-4071-86e2-9dddc1b15647"
+}

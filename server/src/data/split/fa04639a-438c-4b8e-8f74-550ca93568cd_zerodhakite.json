@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rhnvrm/kite-mcp-server",
+  "githubUrl": "https://github.com/rhnvrm/kite-mcp-server",
+  "name": "Zerodha Kite",
+  "author": "rhnvrm",
+  "description": "Integrates with Zerodha Kite trading platform to enable algorithmic trading and portfolio management for Indian stock markets.",
+  "codiconIcon": "zerodha",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "markets",
+    "zerodha-kite",
+    "integrates",
+    "trading",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "fa04639a-438c-4b8e-8f74-550ca93568cd"
+}

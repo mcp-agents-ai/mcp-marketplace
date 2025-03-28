@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/odysseus0/mcp-server-shell",
+  "githubUrl": "https://github.com/odysseus0/mcp-server-shell",
+  "name": "Shell",
+  "author": "odysseus0",
+  "description": "Enables secure execution of shell commands on host systems for tasks like system diagnostics, file manipulation, and automation.",
+  "codiconIcon": "shell",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "manipulation",
+    "automation",
+    "secure",
+    "execution",
+    "system"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "0df7a696-e9a4-4377-b6fc-fbbcb0491388"
+}

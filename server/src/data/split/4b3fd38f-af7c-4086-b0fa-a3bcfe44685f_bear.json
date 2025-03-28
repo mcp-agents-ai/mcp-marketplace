@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jkawamoto/mcp-bear",
+  "githubUrl": "https://github.com/jkawamoto/mcp-bear",
+  "name": "Bear",
+  "author": "jkawamoto",
+  "description": "Integrates with Bear note-taking software to enable note creation, search, and organization operations for enhanced knowledge management.",
+  "codiconIcon": "bear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "creation",
+    "organization",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "4b3fd38f-af7c-4086-b0fa-a3bcfe44685f"
+}

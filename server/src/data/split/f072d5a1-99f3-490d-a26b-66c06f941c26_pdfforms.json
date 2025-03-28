@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Wildebeest/mcp_pdf_forms",
+  "githubUrl": "https://github.com/Wildebeest/mcp_pdf_forms",
+  "name": "PDF Forms",
+  "author": "Wildebeest",
+  "description": "Provides tools for finding PDF files, extracting form field information, and visualizing form fields in PDF documents using PyMuPDF.",
+  "codiconIcon": "pdf",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "files",
+    "extracting",
+    "information",
+    "fields",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "f072d5a1-99f3-490d-a26b-66c06f941c26"
+}

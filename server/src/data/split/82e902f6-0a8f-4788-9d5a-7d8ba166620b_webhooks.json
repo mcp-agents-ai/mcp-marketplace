@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kevinwatt/mcp-webhook",
+  "githubUrl": "https://github.com/kevinwatt/mcp-webhook",
+  "name": "Webhooks",
+  "author": "kevinwatt",
+  "description": "Enables sending customizable messages to external webhook endpoints, facilitating automated notifications and workflow integrations.",
+  "codiconIcon": "webhooks",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "facilitating",
+    "automated",
+    "webhooks",
+    "enables",
+    "messages"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "82e902f6-0a8f-4788-9d5a-7d8ba166620b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/AviOfLagos/MCP-coding-assistant",
+  "githubUrl": "https://github.com/AviOfLagos/MCP-coding-assistant",
+  "name": "Coding Assistant",
+  "author": "AviOfLagos",
+  "description": "Enhances coding capabilities by providing context-aware suggestions and documentation integration through code analysis, technology detection, and intelligent completion.",
+  "codiconIcon": "coding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "suggestions",
+    "through",
+    "context-aware",
+    "integration",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "51b24bb9-e247-461e-965e-0784908bab54"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cpage-pivotal/cloud-foundry-mcp",
+  "githubUrl": "https://github.com/cpage-pivotal/cloud-foundry-mcp",
+  "name": "Cloud Foundry",
+  "author": "cpage-pivotal",
+  "description": "Integrates with Cloud Foundry foundations to enable management of applications, services, and resources.",
+  "codiconIcon": "cloud",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "applications",
+    "resources",
+    "cloud-foundry",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "295be428-3289-4cd0-aacd-4531aa663be9"
+}

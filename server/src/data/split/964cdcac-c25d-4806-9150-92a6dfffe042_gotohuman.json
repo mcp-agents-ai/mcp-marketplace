@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gotohuman/gotohuman-mcp-server",
+  "githubUrl": "https://github.com/gotohuman/gotohuman-mcp-server",
+  "name": "gotoHuman",
+  "author": "gotohuman",
+  "description": "Add human review and approval steps to your AI agents and automations with gotoHuman.",
+  "codiconIcon": "gotohuman",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/8j4xxg9relb.jpg",
+  "category": "tools",
+  "tags": [
+    "automations",
+    "gotohuman",
+    "human",
+    "review",
+    "approval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-21T20:10:18.737441+00:00",
+  "updatedAt": "2025-03-21T20:10:18.737441+00:00",
+  "hubId": "964cdcac-c25d-4806-9150-92a6dfffe042"
+}

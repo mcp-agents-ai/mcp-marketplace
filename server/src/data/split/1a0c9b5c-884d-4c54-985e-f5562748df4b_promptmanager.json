@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sparesparrow/mcp-prompts",
+  "githubUrl": "https://github.com/sparesparrow/mcp-prompts",
+  "name": "Prompt Manager",
+  "author": "sparesparrow",
+  "description": "Manages and serves customizable prompt templates with variable substitution and tag-based organization for streamlined LLM interactions in development workflows and code reviews.",
+  "codiconIcon": "prompt",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "customizable",
+    "templates",
+    "prompt-manager",
+    "manages",
+    "serves"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "1a0c9b5c-884d-4c54-985e-f5562748df4b"
+}

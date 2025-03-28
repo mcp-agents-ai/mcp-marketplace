@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/milancermak/starknet-mcp",
+  "githubUrl": "https://github.com/milancermak/starknet-mcp",
+  "name": "Starknet",
+  "author": "milancermak",
+  "description": "Integrates with Starknet's JSON-RPC API to enable querying blockchain state, retrieving transaction data, and executing contract calls for blockchain analytics and smart contract interactions.",
+  "codiconIcon": "starknet",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "blockchain",
+    "transaction",
+    "starknet",
+    "retrieving",
+    "data"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "da1a6095-8573-4382-9b6c-d308a44abc3e"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bsmi021/mcp-file-operations-server",
+  "githubUrl": "https://github.com/bsmi021/mcp-file-operations-server",
+  "name": "File Operations",
+  "author": "bsmi021",
+  "description": "Enhances file and directory management with streaming, patching, and change tracking for advanced manipulation, real-time monitoring, and integration into automated workflows.",
+  "codiconIcon": "file",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "change",
+    "directory",
+    "streaming",
+    "patching",
+    "manipulation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "d375b620-3ea2-4f74-ad32-1de33b6f05e8"
+}

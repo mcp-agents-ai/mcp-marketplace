@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/mcp-discord",
+  "githubUrl": "https://github.com/pashpashpash/mcp-discord",
+  "name": "Discord",
+  "author": "pashpashpash",
+  "description": "Provides comprehensive Discord server management capabilities including message handling, channel management, role administration, and webhook integration.",
+  "codiconIcon": "comment-discussion",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/discord.png",
+  "category": "communication",
+  "tags": [
+    "discord",
+    "chat",
+    "server-management",
+    "webhooks",
+    "messaging"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 6,
+  "downloadCount": 568,
+  "createdAt": "2025-02-19T01:25:52.857709Z",
+  "updatedAt": "2025-02-19T01:25:52.857709Z",
+  "hubId": "db741688-46f2-4b6f-8fef-98475acf5a10"
+}

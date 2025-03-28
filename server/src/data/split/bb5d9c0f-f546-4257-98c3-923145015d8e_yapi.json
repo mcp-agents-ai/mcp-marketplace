@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lzsheng/Yapi-MCP",
+  "githubUrl": "https://github.com/lzsheng/Yapi-MCP",
+  "name": "YApi",
+  "author": "lzsheng",
+  "description": "Integrates with YApi for API management, enabling seamless access to API documentation for tasks like code generation, testing, and integration planning.",
+  "codiconIcon": "yapi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tasks",
+    "generation",
+    "seamless",
+    "testing",
+    "integration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "bb5d9c0f-f546-4257-98c3-923145015d8e"
+}

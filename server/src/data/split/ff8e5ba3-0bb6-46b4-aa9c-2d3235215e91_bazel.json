@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nacgarg/bazel-mcp-server",
+  "githubUrl": "https://github.com/nacgarg/bazel-mcp-server",
+  "name": "Bazel",
+  "author": "nacgarg",
+  "description": "Bridges AI with Bazel build system, enabling target building, dependency querying, test running, and workspace management even in environments with misconfigured shells.",
+  "codiconIcon": "bazel",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dependency",
+    "shells",
+    "bazel",
+    "workspace",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "ff8e5ba3-0bb6-46b4-aa9c-2d3235215e91"
+}

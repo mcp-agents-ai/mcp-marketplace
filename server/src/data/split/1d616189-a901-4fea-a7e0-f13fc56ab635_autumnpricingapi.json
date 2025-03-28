@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SirTenzin/autumn-mcp-server",
+  "githubUrl": "https://github.com/SirTenzin/autumn-mcp-server",
+  "name": "Autumn (Pricing API)",
+  "author": "SirTenzin",
+  "description": "Integrates with Autumn's pricing API to enable subscription management, customer information retrieval, invoice handling, and billing portal generation for businesses using Claude and other assistants.",
+  "codiconIcon": "autumn",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieval",
+    "generation",
+    "claude",
+    "autumn-(pricing-api)",
+    "autumn's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "1d616189-a901-4fea-a7e0-f13fc56ab635"
+}

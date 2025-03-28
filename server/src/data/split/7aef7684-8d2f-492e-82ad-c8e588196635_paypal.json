@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DynamicEndpoints/Paypal-MCP",
+  "githubUrl": "https://github.com/DynamicEndpoints/Paypal-MCP",
+  "name": "PayPal",
+  "author": "DynamicEndpoints",
+  "description": "Integrates with PayPal's APIs to enable payment processing, order management, and financial operations for e-commerce and billing workflows.",
+  "codiconIcon": "paypal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "operations",
+    "workflows",
+    "integrates",
+    "paypal's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "7aef7684-8d2f-492e-82ad-c8e588196635"
+}

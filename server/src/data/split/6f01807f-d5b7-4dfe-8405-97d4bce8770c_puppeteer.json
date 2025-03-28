@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer",
+  "name": "Puppeteer",
+  "author": "modelcontextprotocol",
+  "description": "Provides browser automation capabilities using Puppeteer, enabling web page interaction, screenshots, and JavaScript execution in a real browser environment.",
+  "codiconIcon": "browser",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/puppeteer.png",
+  "category": "browser-automation",
+  "tags": [
+    "web-automation",
+    "screenshots",
+    "browser-control",
+    "javascript",
+    "testing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24374,
+  "downloadCount": 8443,
+  "createdAt": "2025-02-18T05:45:10.813537Z",
+  "updatedAt": "2025-02-18T05:45:10.813537Z",
+  "hubId": "6f01807f-d5b7-4dfe-8405-97d4bce8770c"
+}

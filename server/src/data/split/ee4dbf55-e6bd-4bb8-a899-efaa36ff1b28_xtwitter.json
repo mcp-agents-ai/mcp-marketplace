@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TaazKareem/twitter-mcp-server",
+  "githubUrl": "https://github.com/TaazKareem/twitter-mcp-server",
+  "name": "X (Twitter)",
+  "author": "TaazKareem",
+  "description": "Integrates with X's API to enable tweet retrieval, user interactions, and social media analysis capabilities",
+  "codiconIcon": "x",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "capabilities",
+    "enable",
+    "tweet",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "ee4dbf55-e6bd-4bb8-a899-efaa36ff1b28"
+}

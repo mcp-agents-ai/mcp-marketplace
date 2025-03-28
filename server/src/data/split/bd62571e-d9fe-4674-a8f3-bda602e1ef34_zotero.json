@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/swairshah/zotero-mcp-server",
+  "githubUrl": "https://github.com/swairshah/zotero-mcp-server",
+  "name": "Zotero",
+  "author": "swairshah",
+  "description": "Integrates with Zotero to enable searching papers, managing notes, and interacting with local libraries for enhanced research workflows and library management tasks.",
+  "codiconIcon": "zotero",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enhanced",
+    "enable",
+    "local",
+    "workflows",
+    "tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "bd62571e-d9fe-4674-a8f3-bda602e1ef34"
+}

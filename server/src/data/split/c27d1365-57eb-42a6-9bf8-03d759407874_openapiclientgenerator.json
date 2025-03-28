@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/orhanveli/openapi-client-generator-mcp",
+  "githubUrl": "https://github.com/orhanveli/openapi-client-generator-mcp",
+  "name": "OpenAPI Client Generator",
+  "author": "orhanveli",
+  "description": "Generates API clients from OpenAPI specs, enabling rapid integration and interaction with multiple RESTful APIs.",
+  "codiconIcon": "openapi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "openapi-client-generator",
+    "clients",
+    "openapi",
+    "enabling",
+    "interaction"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "c27d1365-57eb-42a6-9bf8-03d759407874"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nzkdevsaider/mcp_server_postgredb_finder",
+  "githubUrl": "https://github.com/nzkdevsaider/mcp_server_postgredb_finder",
+  "name": "PostgreSQL Finder",
+  "author": "nzkdevsaider",
+  "description": "Integrates with PostgreSQL databases to enable natural language interactions for executing SQL queries, retrieving results, and performing data analysis tasks.",
+  "codiconIcon": "postgresql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "integrates",
+    "enable",
+    "interactions",
+    "results",
+    "postgresql-finder"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "b9099118-2a3c-46da-8500-3ad9d91de733"
+}

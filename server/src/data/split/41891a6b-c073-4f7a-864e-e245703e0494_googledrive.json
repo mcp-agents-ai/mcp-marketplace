@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/gdrive",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/gdrive",
+  "name": "Google Drive",
+  "author": "modelcontextprotocol",
+  "description": "Enables searching, listing, and reading files from Google Drive, with automatic export of Google Workspace files to common formats like Markdown, CSV, and PNG.",
+  "codiconIcon": "file-directory",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/google-drive.png",
+  "category": "cloud-storage",
+  "tags": [
+    "google-drive",
+    "file-management",
+    "document-storage",
+    "workspace",
+    "file-search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24471,
+  "downloadCount": 1791,
+  "createdAt": "2025-02-18T05:45:06.878261Z",
+  "updatedAt": "2025-02-18T05:45:06.878261Z",
+  "hubId": "41891a6b-c073-4f7a-864e-e245703e0494"
+}

@@ -1,0 +1,23 @@
+{
+  "mcpId": "https://github.com/exoticknight/mcp-file-merger",
+  "githubUrl": "https://github.com/exoticknight/mcp-file-merger",
+  "name": "File Merger",
+  "author": "exoticknight",
+  "description": "Merge multiple files into one.",
+  "codiconIcon": "file",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "file-merger",
+    "merge",
+    "multiple",
+    "files"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "f5590297-e638-42fe-ac21-59e739d615d0"
+}

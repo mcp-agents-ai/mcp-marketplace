@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/namin/livecode-mcp",
+  "githubUrl": "https://github.com/namin/livecode-mcp",
+  "name": "Livecode.ch",
+  "author": "namin",
+  "description": "Executes code snippets from GitHub repositories on io.livecode.ch's backend, enabling live code execution across various languages and frameworks without local setup.",
+  "codiconIcon": "livecode.ch",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "local",
+    "livecode.ch",
+    "snippets",
+    "repositories",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "7c799cfc-3ee1-4e47-8ebe-5d5781be660d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/afshawnlotfi/mcp-configurable-puppeteer",
+  "githubUrl": "https://github.com/afshawnlotfi/mcp-configurable-puppeteer",
+  "name": "Configurable Puppeteer",
+  "author": "afshawnlotfi",
+  "description": "Enables browser automation through Puppeteer with configurable launch options for Chrome and Firefox, supporting web testing, data extraction, form filling, and interactive demonstrations",
+  "codiconIcon": "configurable",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enables",
+    "browser",
+    "testing",
+    "automation",
+    "puppeteer"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "9ae3bfc0-5ad0-4058-99b1-0f55b32df2ba"
+}

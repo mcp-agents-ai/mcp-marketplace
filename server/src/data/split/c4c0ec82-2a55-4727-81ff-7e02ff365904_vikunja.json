@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lowlyocean/mcp-vikunja",
+  "githubUrl": "https://github.com/lowlyocean/mcp-vikunja",
+  "name": "Vikunja",
+  "author": "lowlyocean",
+  "description": "Integrates with Vikunja's API to enable task creation, retrieval, and management for automated to-do list operations and workflow integration.",
+  "codiconIcon": "vikunja",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "vikunja",
+    "integrates",
+    "retrieval",
+    "management",
+    "to-do"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "c4c0ec82-2a55-4727-81ff-7e02ff365904"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/andypost/mcp-server-ts-trello",
+  "githubUrl": "https://github.com/andypost/mcp-server-ts-trello",
+  "name": "Trello",
+  "author": "andypost",
+  "description": "Integrates with Trello API to enable natural language interactions for managing boards, lists, and cards for project tracking and workflow optimization.",
+  "codiconIcon": "trello",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "trello",
+    "enable",
+    "language",
+    "boards",
+    "lists"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "710e5f5e-229e-49f7-a615-59fd52345dec"
+}

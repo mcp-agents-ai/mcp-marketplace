@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jmh108/md-webcrawl-mcp",
+  "githubUrl": "https://github.com/jmh108/md-webcrawl-mcp",
+  "name": "Markdown Web Crawl",
+  "author": "jmh108",
+  "description": "Python-based web crawler extracts website content into markdown files, enabling efficient content aggregation and site archiving.",
+  "codiconIcon": "markdown",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "extracts",
+    "website",
+    "enabling",
+    "efficient",
+    "python-based"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "871e716f-d751-47d5-9bad-b6d64d4faad4"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Deep070203/docling-mcp",
+  "githubUrl": "https://github.com/Deep070203/docling-mcp",
+  "name": "Docling",
+  "author": "Deep070203",
+  "description": "Integrates IBM's Docling software to parse and convert various document formats into standardized Markdown, enabling efficient document processing and analysis workflows.",
+  "codiconIcon": "docling",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "software",
+    "formats",
+    "analysis",
+    "convert",
+    "various"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "53545cfb-2b0c-4e46-ba30-e894557efb9a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kablewy/salesforce-mcp-server",
+  "githubUrl": "https://github.com/kablewy/salesforce-mcp-server",
+  "name": "Salesforce",
+  "author": "kablewy",
+  "description": "Integrates with Salesforce's REST API to enable querying, metadata retrieval, and CRUD operations on Salesforce data for tasks like customer analysis and CRM automation.",
+  "codiconIcon": "salesforce",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "salesforce",
+    "integrates",
+    "salesforce's",
+    "enable",
+    "querying"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "7a2f1bb7-5586-478e-83f3-cad101eae05c"
+}

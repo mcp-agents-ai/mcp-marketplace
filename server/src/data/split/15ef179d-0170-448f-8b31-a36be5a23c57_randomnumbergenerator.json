@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shahanneda/wallpaper-mcp",
+  "githubUrl": "https://github.com/shahanneda/wallpaper-mcp",
+  "name": "Random Number Generator",
+  "author": "shahanneda",
+  "description": "Provides random number generation capabilities for generating integers and floats within specified ranges, suitable for simulations, games, or statistical sampling.",
+  "codiconIcon": "random",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "specified",
+    "suitable",
+    "games",
+    "statistical",
+    "random-number-generator"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "15ef179d-0170-448f-8b31-a36be5a23c57"
+}

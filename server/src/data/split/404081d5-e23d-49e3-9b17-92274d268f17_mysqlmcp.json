@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sussa3007/mysql-mcp",
+  "githubUrl": "https://github.com/sussa3007/mysql-mcp",
+  "name": "MySQL-MCP",
+  "author": "sussa3007",
+  "description": "Connect and interact with MySQL databases seamlessly. Execute SQL queries, manage database connections, and retrieve data directly through AI assistants. Enhance your AI capabilities with structured access to your MySQL data.\n",
+  "codiconIcon": "mysql-mcp",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/7v0alymo3fj.png",
+  "category": "database",
+  "tags": [
+    "access",
+    "execute",
+    "queries",
+    "database",
+    "directly"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-22T12:58:21.65817+00:00",
+  "updatedAt": "2025-03-22T12:58:21.65817+00:00",
+  "hubId": "404081d5-e23d-49e3-9b17-92274d268f17"
+}

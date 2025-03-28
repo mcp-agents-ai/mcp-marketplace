@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/NewbieNL/enhanced-google-maps-mcp",
+  "githubUrl": "https://github.com/NewbieNL/enhanced-google-maps-mcp",
+  "name": "Google Maps",
+  "author": "NewbieNL",
+  "description": "Integrates with Google Maps API to provide geocoding, place search, and routing capabilities for location-based applications and services.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "routing",
+    "capabilities",
+    "location-based",
+    "applications",
+    "google-maps"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "05954c67-0d3b-48d8-9417-19cb8156fb48"
+}

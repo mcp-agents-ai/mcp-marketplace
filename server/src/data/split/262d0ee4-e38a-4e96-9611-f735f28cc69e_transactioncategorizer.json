@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/francesliang/custom_mcp_servers",
+  "githubUrl": "https://github.com/francesliang/custom_mcp_servers",
+  "name": "Transaction Categorizer",
+  "author": "francesliang",
+  "description": "Processes and categorizes financial transaction data into predefined expense and income categories, outputting organized CSV files for personal finance management and expense tracking.",
+  "codiconIcon": "transaction",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "transaction-categorizer",
+    "processes",
+    "organized",
+    "files",
+    "financial"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "262d0ee4-e38a-4e96-9611-f735f28cc69e"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kazuph/mcp-youtube",
+  "githubUrl": "https://github.com/kazuph/mcp-youtube",
+  "name": "YouTube Subtitles",
+  "author": "kazuph",
+  "description": "Integrates YouTube subtitle retrieval for natural language queries about video content.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "content",
+    "youtube-subtitles",
+    "youtube",
+    "retrieval",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "f21c919c-f5d8-4895-918f-215ac48db5a8"
+}

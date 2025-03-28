@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GongRzhe/JSON-MCP-Server",
+  "githubUrl": "https://github.com/GongRzhe/JSON-MCP-Server",
+  "name": "JSON Manipulation",
+  "author": "GongRzhe",
+  "description": "Provides a JSON manipulation interface using JSONPath syntax for querying, transforming, and analyzing structured data across diverse datasets.",
+  "codiconIcon": "json",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "manipulation",
+    "interface",
+    "jsonpath",
+    "syntax",
+    "transforming"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "e804a5b5-a4f5-4992-aa9f-92ed6b15ac49"
+}

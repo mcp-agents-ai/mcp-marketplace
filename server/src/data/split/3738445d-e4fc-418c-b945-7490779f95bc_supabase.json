@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/NightTrek/Supabase-MCP",
+  "githubUrl": "https://github.com/NightTrek/Supabase-MCP",
+  "name": "Supabase",
+  "author": "NightTrek",
+  "description": "Bridges Supabase databases with natural language commands for querying tables, generating TypeScript types, and exploring schemas.",
+  "codiconIcon": "supabase",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "generating",
+    "types",
+    "schemas",
+    "natural",
+    "language"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "3738445d-e4fc-418c-b945-7490779f95bc"
+}

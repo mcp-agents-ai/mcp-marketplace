@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dwrtz/mcpterm",
+  "githubUrl": "https://github.com/dwrtz/mcpterm",
+  "name": "Terminal Session",
+  "author": "dwrtz",
+  "description": "Provides stateful, TUI-compatible terminal sessions for executing commands and running interactive applications, enabling persistent interaction with command-line interfaces and programs.",
+  "codiconIcon": "terminal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "stateful",
+    "terminal",
+    "commands",
+    "running"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "5f1dfd43-e4a8-4c0b-9259-a0038a487c98"
+}

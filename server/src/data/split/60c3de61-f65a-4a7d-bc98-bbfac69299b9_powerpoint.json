@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/supercurses/powerpoint",
+  "githubUrl": "https://github.com/supercurses/powerpoint",
+  "name": "PowerPoint",
+  "author": "supercurses",
+  "description": "Create PowerPoint presentations leveraging TogetherAI image generation",
+  "codiconIcon": "powerpoint",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "powerpoint",
+    "create",
+    "presentations",
+    "leveraging",
+    "togetherai"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "60c3de61-f65a-4a7d-bc98-bbfac69299b9"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SecretiveShell/MCP-llms-txt",
+  "githubUrl": "https://github.com/SecretiveShell/MCP-llms-txt",
+  "name": "Llms.txt",
+  "author": "SecretiveShell",
+  "description": "Integrates with Awesome-llms-txt to enhance conversations by incorporating relevant documentation snippets for improved technical support, code explanations, and educational dialogues.",
+  "codiconIcon": "llms.txt",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "educational",
+    "awesome-llms-txt",
+    "incorporating",
+    "documentation",
+    "improved"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "dc447317-e595-4eb7-998b-070de9eabc96"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/QuantGeekDev/fiscal-data-mcp",
+  "githubUrl": "https://github.com/QuantGeekDev/fiscal-data-mcp",
+  "name": "US Fiscal Data",
+  "author": "QuantGeekDev",
+  "description": "Integrates with the US Treasury's Fiscal Data API to fetch, analyze, and generate reports on treasury statements and historical financial data.",
+  "codiconIcon": "us",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "treasury's",
+    "fetch",
+    "analyze",
+    "generate",
+    "reports"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "f1eb13ca-c840-4f4b-835b-11b8beab60ad"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/algonacci/mcp-unlock-pdf",
+  "githubUrl": "https://github.com/algonacci/mcp-unlock-pdf",
+  "name": "PDF Reader",
+  "author": "algonacci",
+  "description": "Provides functionality to read and extract content from protected and unprotected PDF files, enabling document analysis, content indexing, and data extraction workflows.",
+  "codiconIcon": "pdf",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "functionality",
+    "extract",
+    "unprotected",
+    "files",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "22803a90-6d5c-41dc-afc5-1ebb8df41926"
+}

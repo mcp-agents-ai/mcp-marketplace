@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/genm/switchbot-mcp",
+  "githubUrl": "https://github.com/genm/switchbot-mcp",
+  "name": "SwitchBot",
+  "author": "genm",
+  "description": "Integrates with SwitchBot devices to enable smart home automation, device control, and status monitoring using the SwitchBot API.",
+  "codiconIcon": "switchbot",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "devices",
+    "enable",
+    "automation",
+    "control"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "cc4b2c82-0b4d-465d-a32f-a49e968b1c17"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/GLips/Figma-Context-MCP",
+  "githubUrl": "https://github.com/GLips/Figma-Context-MCP",
+  "name": "Figma",
+  "author": "GLips",
+  "description": "Provides AI assistants with access to Figma design data, enabling accurate code generation from design files by fetching and simplifying Figma API responses for optimal context.",
+  "codiconIcon": "symbol-color",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/figma.png",
+  "category": "developer-tools",
+  "tags": [
+    "figma",
+    "design",
+    "ui-development",
+    "code-generation",
+    "cursor-integration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 3045,
+  "downloadCount": 4493,
+  "createdAt": "2025-02-17T22:27:13.107046Z",
+  "updatedAt": "2025-02-17T22:27:13.107046Z",
+  "hubId": "7cc27a1a-3516-4cec-8c75-8dfbe090a7bb"
+}

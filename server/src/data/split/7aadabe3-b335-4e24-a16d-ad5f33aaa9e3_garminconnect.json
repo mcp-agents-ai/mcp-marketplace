@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Taxuspt/garmin_mcp",
+  "githubUrl": "https://github.com/Taxuspt/garmin_mcp",
+  "name": "Garmin Connect",
+  "author": "Taxuspt",
+  "description": "Integrates with Garmin Connect to expose fitness and health data, enabling access to activities, detailed workout information, and health metrics like heart rate through natural language interactions.",
+  "codiconIcon": "garmin",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "interactions",
+    "connect",
+    "fitness",
+    "health",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "7aadabe3-b335-4e24-a16d-ad5f33aaa9e3"
+}

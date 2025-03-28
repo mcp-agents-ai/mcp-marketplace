@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/agree-able/room-mcp",
+  "githubUrl": "https://github.com/agree-able/room-mcp",
+  "name": "Room",
+  "author": "agree-able",
+  "description": "Enables creation and interaction with virtual rooms in a peer-to-peer space, facilitating multi-agent collaboration and communication in decentralized environments.",
+  "codiconIcon": "room",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "creation",
+    "interaction",
+    "virtual",
+    "rooms",
+    "collaboration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "8c843911-4940-4706-bcb0-307e65e92886"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ranveer0323/stock-analysis-mcp",
+  "githubUrl": "https://github.com/ranveer0323/stock-analysis-mcp",
+  "name": "Alpha Vantage",
+  "author": "ranveer0323",
+  "description": "Integrates with Alpha Vantage API to provide real-time and historical stock market data, enabling portfolio analysis, trading strategy development, and financial reporting applications.",
+  "codiconIcon": "alpha",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "strategy",
+    "reporting",
+    "alpha",
+    "vantage",
+    "real-time"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "2dce6f4c-66fc-485d-aa86-62fee8b60125"
+}

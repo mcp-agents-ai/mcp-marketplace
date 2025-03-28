@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ravinahp/email-checker-mcp",
+  "githubUrl": "https://github.com/ravinahp/email-checker-mcp",
+  "name": "Email Validator",
+  "author": "ravinahp",
+  "description": "Integrates with external email verification services to perform real-time email address validation, improving data quality and reducing bounced emails.",
+  "codiconIcon": "email",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "external",
+    "verification",
+    "quality",
+    "emails"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "2cdb12ec-f825-4b2c-b49f-0fa48db3c68a"
+}

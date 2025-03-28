@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/donghao1393/mcp-dbutils",
+  "githubUrl": "https://github.com/donghao1393/mcp-dbutils",
+  "name": "MCP DB Utils",
+  "author": "donghao1393",
+  "description": "DButils is an all-in-one MCP service that enables your AI to do data analysis by accessing versatile types of database (sqlite, mysql, postgres, and more) within a unified connection configuration in a safe way.",
+  "codiconIcon": "mcp",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "mcp-db-utils",
+    "analysis",
+    "versatile",
+    "more",
+    "within"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "505d73bb-195c-4a2c-b152-ac1dfc0e54f9"
+}

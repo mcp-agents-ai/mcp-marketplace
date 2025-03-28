@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mkusaka/mcp-server-perplexity",
+  "githubUrl": "https://github.com/mkusaka/mcp-server-perplexity",
+  "name": "Perplexity AI Search",
+  "author": "mkusaka",
+  "description": "Integrates with Perplexity AI's search capabilities to enable AI-powered web search queries using TypeScript and the OpenAI SDK.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "openai",
+    "integrates",
+    "search",
+    "typescript"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "d7a1e19b-044b-4988-95a1-72730df49002"
+}

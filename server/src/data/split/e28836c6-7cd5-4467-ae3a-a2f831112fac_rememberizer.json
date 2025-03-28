@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/skydeckai/mcp-server-rememberizer",
+  "githubUrl": "https://github.com/skydeckai/mcp-server-rememberizer",
+  "name": "Rememberizer",
+  "author": "skydeckai",
+  "description": "Leverage Rememberizer's document API for AI-powered semantic search and retrieval of enterprise knowledge.",
+  "codiconIcon": "rememberizer",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "rememberizer",
+    "leverage",
+    "ai-powered",
+    "semantic",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "e28836c6-7cd5-4467-ae3a-a2f831112fac"
+}

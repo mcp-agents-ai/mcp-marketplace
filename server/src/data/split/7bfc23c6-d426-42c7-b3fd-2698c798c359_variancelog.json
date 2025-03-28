@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/truaxki/mcp-variance-log",
+  "githubUrl": "https://github.com/truaxki/mcp-variance-log",
+  "name": "Variance Log",
+  "author": "truaxki",
+  "description": "Analyzes statistical variations in conversation structures and logs unusual events to a SQLite database for monitoring AI behavior and detecting anomalies.",
+  "codiconIcon": "variance",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "variations",
+    "structures",
+    "monitoring",
+    "behavior",
+    "detecting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "7bfc23c6-d426-42c7-b3fd-2698c798c359"
+}

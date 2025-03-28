@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/huntsyea/mcp-tasks-organizer",
+  "githubUrl": "https://github.com/huntsyea/mcp-tasks-organizer",
+  "name": "Tasks Organizer",
+  "author": "huntsyea",
+  "description": "Converts Cursor agent plans into markdown task lists for organizing and structuring project plans into readable, actionable formats.",
+  "codiconIcon": "tasks",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "actionable",
+    "formats",
+    "tasks-organizer",
+    "converts",
+    "plans"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "a9405542-f163-4c9c-a652-6d512a003244"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/YUZongmin/literature-memory-server-fastmcp-mcp",
+  "githubUrl": "https://github.com/YUZongmin/literature-memory-server-fastmcp-mcp",
+  "name": "Literature Memory",
+  "author": "YUZongmin",
+  "description": "Integrates academic literature management with knowledge graphs to enable efficient source analysis, note-taking, and entity linking across diverse academic materials.",
+  "codiconIcon": "literature",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "analysis",
+    "literature-memory",
+    "graphs",
+    "across"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "a6c1bca8-14f4-4a58-926b-e07f92ac7b33"
+}

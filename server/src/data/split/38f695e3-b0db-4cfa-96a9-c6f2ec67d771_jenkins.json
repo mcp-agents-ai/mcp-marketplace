@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kjozsa/jenkins-mcp",
+  "githubUrl": "https://github.com/kjozsa/jenkins-mcp",
+  "name": "Jenkins",
+  "author": "kjozsa",
+  "description": "Integrates with Jenkins CI/CD operations, enabling job listing, build triggering, and status checking for streamlined DevOps automation and pipeline management.",
+  "codiconIcon": "jenkins",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "status",
+    "streamlined",
+    "automation",
+    "management",
+    "triggering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "38f695e3-b0db-4cfa-96a9-c6f2ec67d771"
+}

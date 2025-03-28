@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wricardo/gpt-mcp-proxy",
+  "githubUrl": "https://github.com/wricardo/gpt-mcp-proxy",
+  "name": "GPT-MCP-Proxy",
+  "author": "wricardo",
+  "description": "Bridges HTTP clients with tool servers, enabling tool discovery and execution via REST endpoints, featuring automatic HTTPS exposure and OpenAPI 3.1.0 specification for seamless integration with custom GPTs and AI-assisted applications.",
+  "codiconIcon": "gpt-mcp-proxy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "exposure",
+    "openapi",
+    "bridges",
+    "endpoints",
+    "featuring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "5a7db3fa-b4fb-4d24-9b62-937a87bdb5f7"
+}

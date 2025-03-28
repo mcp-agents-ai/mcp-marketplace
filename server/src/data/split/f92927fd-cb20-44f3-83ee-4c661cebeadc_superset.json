@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aptro/superset-mcp",
+  "githubUrl": "https://github.com/aptro/superset-mcp",
+  "name": "Superset",
+  "author": "aptro",
+  "description": "Integrates with Apache Superset to enable data visualization, SQL query execution, dashboard management, and analytics workflows through authenticated API calls without leaving your conversational interface.",
+  "codiconIcon": "superset",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "apache",
+    "visualization",
+    "management",
+    "interface",
+    "query"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "f92927fd-cb20-44f3-83ee-4c661cebeadc"
+}

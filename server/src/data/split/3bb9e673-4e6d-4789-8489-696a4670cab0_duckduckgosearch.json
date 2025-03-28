@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nickclyde/duckduckgo-mcp-server",
+  "githubUrl": "https://github.com/nickclyde/duckduckgo-mcp-server",
+  "name": "DuckDuckGo Search",
+  "author": "nickclyde",
+  "description": "Integrates with DuckDuckGo to provide web search capabilities, content fetching, and parsing, with results formatted for large language model consumption.",
+  "codiconIcon": "duckduckgo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "capabilities",
+    "large",
+    "duckduckgo",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "3bb9e673-4e6d-4789-8489-696a4670cab0"
+}

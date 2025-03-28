@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MyBlockcities/mcp-server-heroku",
+  "githubUrl": "https://github.com/MyBlockcities/mcp-server-heroku",
+  "name": "Simple Tool (Website Fetcher)",
+  "author": "MyBlockcities",
+  "description": "Integrates with web servers to fetch and retrieve webpage content for analysis and processing tasks.",
+  "codiconIcon": "simple",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "servers",
+    "retrieve",
+    "webpage",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "56bfa195-7042-4ea2-bceb-859453790b49"
+}

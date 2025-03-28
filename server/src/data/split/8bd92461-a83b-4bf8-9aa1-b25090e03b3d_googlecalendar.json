@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/eliasuran/mcp_server_google_calendar",
+  "githubUrl": "https://github.com/eliasuran/mcp_server_google_calendar",
+  "name": "Google Calendar",
+  "author": "eliasuran",
+  "description": "Integrates the Google Calendar API to enable querying, creation, and modification of calendar entries and events.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "creation",
+    "modification",
+    "events",
+    "google-calendar",
+    "calendar"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "8bd92461-a83b-4bf8-9aa1-b25090e03b3d"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wong2/mcp-jina-reader",
+  "githubUrl": "https://github.com/wong2/mcp-jina-reader",
+  "name": "Jina Reader",
+  "author": "wong2",
+  "description": "Convert web content to readable Markdown format.",
+  "codiconIcon": "jina",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "jina-reader",
+    "convert",
+    "content",
+    "readable",
+    "markdown"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "cba0f7ab-1222-4072-974c-31800110aebc"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DeDeveloper23/codebase-mcp",
+  "githubUrl": "https://github.com/DeDeveloper23/codebase-mcp",
+  "name": "Codebase Retrieval (RepoMix)",
+  "author": "DeDeveloper23",
+  "description": "Integrates with RepoMix to enable codebase retrieval and analysis for tasks like code review, dependency tracking, and automated documentation generation.",
+  "codiconIcon": "codebase",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tracking",
+    "automated",
+    "documentation",
+    "generation",
+    "codebase-retrieval-(repomix)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "0b86c44c-4c08-4335-ba4f-251ad2bc63ee"
+}

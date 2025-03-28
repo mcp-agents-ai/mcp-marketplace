@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DynamicEndpoints/cloudflare-github-backup-mcp",
+  "githubUrl": "https://github.com/DynamicEndpoints/cloudflare-github-backup-mcp",
+  "name": "Cloudflare Backup",
+  "author": "DynamicEndpoints",
+  "description": "Automates backing up Cloudflare configurations to GitHub repositories, enabling version control and disaster recovery for DNS, Workers, and security settings.",
+  "codiconIcon": "cloudflare",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "recovery",
+    "repositories",
+    "enabling",
+    "control",
+    "cloudflare"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "295ff930-04d8-4ac5-8cd8-4289cd858fb3"
+}

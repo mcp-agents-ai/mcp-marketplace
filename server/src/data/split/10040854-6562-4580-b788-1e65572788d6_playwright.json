@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/showfive/playwright-mcp-server",
+  "githubUrl": "https://github.com/showfive/playwright-mcp-server",
+  "name": "Playwright",
+  "author": "showfive",
+  "description": "Integrates Playwright browser automation with AI models to enable intelligent web interactions, testing, and data extraction.",
+  "codiconIcon": "playwright",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "intelligent",
+    "extraction",
+    "models",
+    "interactions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "10040854-6562-4580-b788-1e65572788d6"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Chrusic/todoist-mcp-server-extended",
+  "githubUrl": "https://github.com/Chrusic/todoist-mcp-server-extended",
+  "name": "Todoist",
+  "author": "Chrusic",
+  "description": "Integrates with Todoist API to enable advanced task and project management capabilities including natural language processing for task creation and updates.",
+  "codiconIcon": "todoist",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "todoist",
+    "enable",
+    "advanced",
+    "project",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "9c5fe507-381d-4e17-b601-394e2faa96ee"
+}

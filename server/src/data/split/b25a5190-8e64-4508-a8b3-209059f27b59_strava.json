@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tomekkorbak/strava-mcp-server",
+  "githubUrl": "https://github.com/tomekkorbak/strava-mcp-server",
+  "name": "Strava",
+  "author": "tomekkorbak",
+  "description": "Integrates with the Strava API to retrieve and analyze athlete activities data, enabling fitness tracking and performance monitoring over time.",
+  "codiconIcon": "strava",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analyze",
+    "athlete",
+    "data",
+    "fitness",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "b25a5190-8e64-4508-a8b3-209059f27b59"
+}

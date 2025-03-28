@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/readingdancer/Swagger-MCP",
+  "githubUrl": "https://github.com/readingdancer/Swagger-MCP",
+  "name": "Swagger API",
+  "author": "readingdancer",
+  "description": "Integrates with Swagger API specifications to download, cache, and extract endpoints, HTTP methods, models, and service connections for generating API interfaces from Swagger documentation.",
+  "codiconIcon": "swagger",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "swagger",
+    "cache",
+    "connections",
+    "download",
+    "extract"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "aa36a389-ddf4-4746-bf57-804d25b9d877"
+}

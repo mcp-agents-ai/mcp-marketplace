@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/evangstav/python-memory-mcp-server",
+  "githubUrl": "https://github.com/evangstav/python-memory-mcp-server",
+  "name": "Knowledge Graph Memory",
+  "author": "evangstav",
+  "description": "Provides a knowledge graph management system for storing, retrieving, and querying information to build and maintain long-term memory across conversations.",
+  "codiconIcon": "knowledge",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "knowledge",
+    "retrieving",
+    "information",
+    "build"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "7bac04dc-cef0-4810-a497-14b728454768"
+}

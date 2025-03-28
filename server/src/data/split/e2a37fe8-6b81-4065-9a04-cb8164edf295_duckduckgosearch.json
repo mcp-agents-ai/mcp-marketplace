@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/misanthropic-ai/ddg-mcp",
+  "githubUrl": "https://github.com/misanthropic-ai/ddg-mcp",
+  "name": "DuckDuckGo Search",
+  "author": "misanthropic-ai",
+  "description": "Integrates with DuckDuckGo to provide web, image, news, and video search capabilities with configurable parameters for region, safesearch, and time limits.",
+  "codiconIcon": "duckduckgo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "video",
+    "search",
+    "safesearch",
+    "limits",
+    "duckduckgo-search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "e2a37fe8-6b81-4065-9a04-cb8164edf295"
+}

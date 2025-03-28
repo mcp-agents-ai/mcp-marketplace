@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/postgres",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/postgres",
+  "name": "PostgreSQL Reader",
+  "author": "modelcontextprotocol",
+  "description": "Provides read-only access to PostgreSQL databases, allowing LLMs to inspect database schemas and execute read-only queries within protected transactions.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/postgresql-reader.png",
+  "category": "databases",
+  "tags": [
+    "postgresql",
+    "database-queries",
+    "schema-inspection",
+    "read-only",
+    "sql"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24252,
+  "downloadCount": 2175,
+  "createdAt": "2025-02-17T22:23:06.685298Z",
+  "updatedAt": "2025-02-17T22:23:06.685298Z",
+  "hubId": "85084afd-507d-4140-ae75-d0dc471eb898"
+}

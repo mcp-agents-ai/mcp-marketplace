@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MarkusPfundstein/mcp-gsuite",
+  "githubUrl": "https://github.com/MarkusPfundstein/mcp-gsuite",
+  "name": "Google Workspace",
+  "author": "MarkusPfundstein",
+  "description": "Interact with Google Docs, Sheets, and other Workspace products.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "products",
+    "google-workspace",
+    "interact",
+    "google",
+    "docs"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "2273c621-d44e-4981-b2d7-66966877efb0"
+}

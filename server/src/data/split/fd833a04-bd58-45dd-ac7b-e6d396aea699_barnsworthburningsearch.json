@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Aias/barnsworthburning-mcp",
+  "githubUrl": "https://github.com/Aias/barnsworthburning-mcp",
+  "name": "Barnsworthburning Search",
+  "author": "Aias",
+  "description": "Integrates with barnsworthburning.net's API to enable direct querying of website content for design, typography, and user experience information",
+  "codiconIcon": "barnsworthburning",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "barnsworthburning.net's",
+    "enable",
+    "querying",
+    "website",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "fd833a04-bd58-45dd-ac7b-e6d396aea699"
+}

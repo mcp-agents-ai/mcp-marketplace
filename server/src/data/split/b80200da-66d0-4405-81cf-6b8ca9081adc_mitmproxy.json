@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lucasoeth/mitmproxy-mcp",
+  "githubUrl": "https://github.com/lucasoeth/mitmproxy-mcp",
+  "name": "Mitmproxy",
+  "author": "lucasoeth",
+  "description": "Integrates mitmproxy for network traffic analysis, debugging, and API testing.",
+  "codiconIcon": "mitmproxy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "mitmproxy",
+    "integrates",
+    "network",
+    "traffic",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "b80200da-66d0-4405-81cf-6b8ca9081adc"
+}

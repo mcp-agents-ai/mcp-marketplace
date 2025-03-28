@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server",
+  "githubUrl": "https://github.com/hannesrudolph/imessage-query-fastmcp-mcp-server",
+  "name": "iMessage Query",
+  "author": "hannesrudolph",
+  "description": "Query and analyze iMessage conversations on macOS.",
+  "codiconIcon": "imessage",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "query",
+    "analyze",
+    "imessage",
+    "conversations",
+    "macos"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "d3f7052d-3b90-4fd9-b4dd-128e9d73dd7d"
+}

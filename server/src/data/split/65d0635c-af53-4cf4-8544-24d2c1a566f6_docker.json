@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/suvarchal/docker-mcp",
+  "githubUrl": "https://github.com/suvarchal/docker-mcp",
+  "name": "Docker",
+  "author": "suvarchal",
+  "description": "Enables Docker container management with tools for listing, running, stopping, removing containers and pulling images from registries through a TypeScript-based interface",
+  "codiconIcon": "docker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "management",
+    "removing",
+    "containers",
+    "images"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "65d0635c-af53-4cf4-8544-24d2c1a566f6"
+}

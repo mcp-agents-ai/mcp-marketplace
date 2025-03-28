@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/davidvc/code-knowledge-mcptool",
+  "githubUrl": "https://github.com/davidvc/code-knowledge-mcptool",
+  "name": "Code Embeddings",
+  "author": "davidvc",
+  "description": "A knowledge management tool for code repositories using vector embeddings.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "knowledge",
+    "management",
+    "repositories",
+    "using",
+    "vector"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "965083c9-f44c-4797-a6ca-4c63ef2755c7"
+}

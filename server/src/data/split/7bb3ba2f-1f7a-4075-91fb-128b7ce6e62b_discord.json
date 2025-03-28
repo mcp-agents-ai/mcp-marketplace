@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/koladev32/mcp-discord-chat",
+  "githubUrl": "https://github.com/koladev32/mcp-discord-chat",
+  "name": "Discord",
+  "author": "koladev32",
+  "description": "Integrates Discord chat, enabling message sending and reading.",
+  "codiconIcon": "discord",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "reading",
+    "discord",
+    "integrates",
+    "chat",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "7bb3ba2f-1f7a-4075-91fb-128b7ce6e62b"
+}

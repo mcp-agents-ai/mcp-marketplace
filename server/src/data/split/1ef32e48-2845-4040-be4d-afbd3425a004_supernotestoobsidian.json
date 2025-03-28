@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/al-how/supernotes-to-obsidian",
+  "githubUrl": "https://github.com/al-how/supernotes-to-obsidian",
+  "name": "Supernotes to Obsidian",
+  "author": "al-how",
+  "description": "Automates importing Supernotes exports into Obsidian daily notes, formatting content and adding wikilinks for seamless note migration.",
+  "codiconIcon": "supernotes",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "migration",
+    "supernotes-to-obsidian",
+    "automates",
+    "supernotes",
+    "exports"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "1ef32e48-2845-4040-be4d-afbd3425a004"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tacticlaunch/mcp-linear",
+  "githubUrl": "https://github.com/tacticlaunch/mcp-linear",
+  "name": "Linear",
+  "author": "tacticlaunch",
+  "description": "Integrates Linear's project management system with the Model Context Protocol (MCP) to allow Cursor to interact with Linear.",
+  "codiconIcon": "linear",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/2l2eoknp33n.png",
+  "category": "tools",
+  "tags": [
+    "linear",
+    "management",
+    "system",
+    "context",
+    "protocol"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-24T02:03:10.166753+00:00",
+  "updatedAt": "2025-03-24T02:03:10.166753+00:00",
+  "hubId": "07fc60ed-12ed-41c5-90ea-9a4d0b1fa829"
+}

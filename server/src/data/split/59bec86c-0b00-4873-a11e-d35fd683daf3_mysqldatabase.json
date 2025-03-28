@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/yuru-sha/mcp-server-mysql",
+  "githubUrl": "https://github.com/yuru-sha/mcp-server-mysql",
+  "name": "MySQL Database",
+  "author": "yuru-sha",
+  "description": "Integrates with MySQL databases to enable read-only schema inspection and query execution, ensuring data integrity and security for analytical applications.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "mysql-database",
+    "integrates",
+    "execution",
+    "read-only",
+    "query"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "59bec86c-0b00-4873-a11e-d35fd683daf3"
+}

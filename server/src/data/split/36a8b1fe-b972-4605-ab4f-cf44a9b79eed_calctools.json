@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nbiish/mcp-calc-tools",
+  "githubUrl": "https://github.com/nbiish/mcp-calc-tools",
+  "name": "Calc Tools",
+  "author": "nbiish",
+  "description": "Integrates with NumPy, SciPy, and SymPy to provide advanced calculus tools for complex mathematical calculations and analysis within applications.",
+  "codiconIcon": "calc",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sympy",
+    "calculus",
+    "tools",
+    "mathematical",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "36a8b1fe-b972-4605-ab4f-cf44a9b79eed"
+}

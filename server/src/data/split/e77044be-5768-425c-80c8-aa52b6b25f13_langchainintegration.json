@@ -1,0 +1,23 @@
+{
+  "mcpId": "https://github.com/shashwat001/mcptools-langchain-integration",
+  "githubUrl": "https://github.com/shashwat001/mcptools-langchain-integration",
+  "name": "Langchain Integration",
+  "author": "shashwat001",
+  "description": "Integrates Langchain with MCP tools.",
+  "codiconIcon": "langchain",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "langchain",
+    "tools",
+    "langchain-integration",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "e77044be-5768-425c-80c8-aa52b6b25f13"
+}

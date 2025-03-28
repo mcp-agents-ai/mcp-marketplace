@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/DataWhisker/x-mcp-server",
+  "githubUrl": "https://github.com/DataWhisker/x-mcp-server",
+  "name": "X (Twitter)",
+  "author": "DataWhisker",
+  "description": "Integrates with the X (Twitter) API to enable posting tweets, retrieving user data, and analyzing trends.",
+  "codiconIcon": "x",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "twitter",
+    "tweets",
+    "retrieving",
+    "trends",
+    "x-(twitter)"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "8cd40822-2a7a-4497-a5d5-1e4cce65e1d7"
+}

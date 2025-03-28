@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/r3-yamauchi/cdata-connect-cloud-mcp-server",
+  "githubUrl": "https://github.com/r3-yamauchi/cdata-connect-cloud-mcp-server",
+  "name": "CData Connect Cloud",
+  "author": "r3-yamauchi",
+  "description": "Integrates with CData Connect Cloud to enable SQL query execution across diverse data sources, facilitating seamless data integration for analytics and workflows.",
+  "codiconIcon": "cdata",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "across",
+    "diverse",
+    "facilitating",
+    "cdata-connect-cloud",
+    "seamless"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "5dcbbe7c-2a2d-40bc-8d80-f163dd0a7724"
+}

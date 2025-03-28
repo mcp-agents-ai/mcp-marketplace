@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/r-huijts/ns-mcp-server",
+  "githubUrl": "https://github.com/r-huijts/ns-mcp-server",
+  "name": "NS Travel Information",
+  "author": "r-huijts",
+  "description": "Access real-time Dutch Railways data for trip planning.",
+  "codiconIcon": "ns",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dutch",
+    "railways",
+    "planning",
+    "ns-travel-information",
+    "access"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "6cd1d939-23e1-4d86-a004-7dca45ebe25a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mrjoshuak/godoc-mcp",
+  "githubUrl": "https://github.com/mrjoshuak/godoc-mcp",
+  "name": "Go Documentation",
+  "author": "mrjoshuak",
+  "description": "Access Go package documentation and project structures.",
+  "codiconIcon": "go",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "go-documentation",
+    "access",
+    "package",
+    "documentation",
+    "project"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "1e19a87a-4872-4a14-ad58-2d75e3b2db1c"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JoshuaRileyDev/app-store-connect-mcp-server",
+  "githubUrl": "https://github.com/JoshuaRileyDev/app-store-connect-mcp-server",
+  "name": "App Store Connect",
+  "author": "JoshuaRileyDev",
+  "description": "Manage iOS app distribution and testing workflows.",
+  "codiconIcon": "app",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "app-store-connect",
+    "manage",
+    "distribution",
+    "testing",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "89e40ea7-d13a-4232-9638-93f222a3aec6"
+}

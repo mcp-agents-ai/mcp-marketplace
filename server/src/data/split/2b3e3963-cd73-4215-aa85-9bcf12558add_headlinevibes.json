@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fred-em/headline-vibes",
+  "githubUrl": "https://github.com/fred-em/headline-vibes",
+  "name": "Headline Vibes",
+  "author": "fred-em",
+  "description": "Integrates with major US news sources to analyze headline sentiment, providing normalized scores and source distribution for media trend insights.",
+  "codiconIcon": "headline",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "scores",
+    "headline-vibes",
+    "integrates",
+    "normalized",
+    "source"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "2b3e3963-cd73-4215-aa85-9bcf12558add"
+}

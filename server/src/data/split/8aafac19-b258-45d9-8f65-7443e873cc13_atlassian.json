@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/samwang0723/mcp-atlassian",
+  "githubUrl": "https://github.com/samwang0723/mcp-atlassian",
+  "name": "Atlassian",
+  "author": "samwang0723",
+  "description": "Integrates with Atlassian's Confluence and JIRA APIs to enable content creation, issue tracking, and project management within Atlassian ecosystems.",
+  "codiconIcon": "atlassian",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "project",
+    "within",
+    "ecosystems"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "8aafac19-b258-45d9-8f65-7443e873cc13"
+}

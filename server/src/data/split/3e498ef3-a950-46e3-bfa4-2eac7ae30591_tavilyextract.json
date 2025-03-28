@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/algonacci/mcp-tavily-extract",
+  "githubUrl": "https://github.com/algonacci/mcp-tavily-extract",
+  "name": "Tavily Extract",
+  "author": "algonacci",
+  "description": "Integrates with the Tavily API to extract web page content, enabling efficient web scraping capabilities for projects requiring content extraction.",
+  "codiconIcon": "tavily",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "content",
+    "enabling",
+    "efficient",
+    "scraping"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "3e498ef3-a950-46e3-bfa4-2eac7ae30591"
+}

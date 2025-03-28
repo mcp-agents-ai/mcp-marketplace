@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ShenghaiWang/xcodebuild",
+  "githubUrl": "https://github.com/ShenghaiWang/xcodebuild",
+  "name": "Xcodebuild",
+  "author": "ShenghaiWang",
+  "description": "Integrates with Xcode to enable iOS project building, testing, and error handling for efficient development workflows in AI-assisted coding environments.",
+  "codiconIcon": "xcodebuild",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "testing",
+    "error",
+    "efficient",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "30507b5d-25c7-4bc4-9450-6eedd493cf3b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lileeei/mcp-git-tools",
+  "githubUrl": "https://github.com/lileeei/mcp-git-tools",
+  "name": "Git Tools",
+  "author": "lileeei",
+  "description": "Integrates with Git to enable version control operations, repository management, and change tracking for collaborative development environments.",
+  "codiconIcon": "git",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "git-tools",
+    "integrates",
+    "enable",
+    "version",
+    "control"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "2e825328-a257-4a34-b4a3-995ff2759870"
+}

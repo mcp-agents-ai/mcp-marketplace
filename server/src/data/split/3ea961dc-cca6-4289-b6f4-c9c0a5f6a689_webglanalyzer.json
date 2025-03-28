@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/grokadegames/webgl-mcp",
+  "githubUrl": "https://github.com/grokadegames/webgl-mcp",
+  "name": "WebGL Analyzer",
+  "author": "grokadegames",
+  "description": "Provides specialized tools for analyzing and optimizing WebGL games, offering WebGL build analysis, performance improvement suggestions, and metrics evaluation with specific support for the Better Minimal WebGL Template.",
+  "codiconIcon": "webgl",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tools",
+    "games",
+    "offering",
+    "build",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "3ea961dc-cca6-4289-b6f4-c9c0a5f6a689"
+}

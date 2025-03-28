@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/xBlueCode/findata-mcp-server",
+  "githubUrl": "https://github.com/xBlueCode/findata-mcp-server",
+  "name": "Alpha Vantage Financial Data",
+  "author": "xBlueCode",
+  "description": "Integrates with Alpha Vantage API to provide stock quotes and historical data for financial analysis and market research tasks.",
+  "codiconIcon": "alpha",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provide",
+    "historical",
+    "financial",
+    "research",
+    "tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "75b25b56-88ef-49e1-894a-62964a286570"
+}

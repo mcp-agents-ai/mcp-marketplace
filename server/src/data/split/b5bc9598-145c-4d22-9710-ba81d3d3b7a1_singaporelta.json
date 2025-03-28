@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/arjunkmrm/mcp-sg-lta",
+  "githubUrl": "https://github.com/arjunkmrm/mcp-sg-lta",
+  "name": "Singapore LTA",
+  "author": "arjunkmrm",
+  "description": "Integrates with Singapore's Land Transport Authority DataMall API to provide real-time transportation information for urban mobility applications and analysis.",
+  "codiconIcon": "singapore",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "datamall",
+    "real-time",
+    "applications",
+    "analysis",
+    "singapore-lta"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "b5bc9598-145c-4d22-9710-ba81d3d3b7a1"
+}

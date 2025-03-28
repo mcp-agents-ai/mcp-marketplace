@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/allenday/solr-mcp",
+  "githubUrl": "https://github.com/allenday/solr-mcp",
+  "name": "Solr Vector Search",
+  "author": "allenday",
+  "description": "Bridges Apache Solr search indexes with vector embeddings for hybrid keyword and semantic document retrieval, enabling contextual searches against structured data repositories without direct database access",
+  "codiconIcon": "solr",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "bridges",
+    "apache",
+    "retrieval",
+    "searches",
+    "structured"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "983f923d-1cb1-4c29-9b6e-30e3e013cc51"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kevinwatt/mysql-mcp",
+  "githubUrl": "https://github.com/kevinwatt/mysql-mcp",
+  "name": "MySQL",
+  "author": "kevinwatt",
+  "description": "Provides secure MySQL database access for LLMs, enabling read/write operations with transaction support and security features for AI-assisted data management tasks.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "mysql",
+    "provides",
+    "secure",
+    "read/write",
+    "transaction"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "9c00d994-8411-40b4-9488-03d843ae1e16"
+}

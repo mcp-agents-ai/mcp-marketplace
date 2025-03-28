@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/norbinsh/cursor-mcp-trivy",
+  "githubUrl": "https://github.com/norbinsh/cursor-mcp-trivy",
+  "name": "Trivy Security Scanner",
+  "author": "norbinsh",
+  "description": "Integrates with Trivy to provide vulnerability scanning and automated remediation for projects across multiple programming languages and package managers.",
+  "codiconIcon": "trivy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "trivy-security-scanner",
+    "vulnerability",
+    "programming",
+    "integrates",
+    "trivy"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "f6639054-1f81-4fdf-b3a5-969aaad46f2f"
+}

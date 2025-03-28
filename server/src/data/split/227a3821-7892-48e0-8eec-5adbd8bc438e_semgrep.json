@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/stefanskiasan/semgrep-mcp-server",
+  "githubUrl": "https://github.com/stefanskiasan/semgrep-mcp-server",
+  "name": "Semgrep",
+  "author": "stefanskiasan",
+  "description": "Integrates Semgrep static analysis capabilities for automated code scanning, vulnerability detection, and security checks in development workflows.",
+  "codiconIcon": "semgrep",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "semgrep",
+    "integrates",
+    "capabilities",
+    "detection",
+    "security"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "227a3821-7892-48e0-8eec-5adbd8bc438e"
+}

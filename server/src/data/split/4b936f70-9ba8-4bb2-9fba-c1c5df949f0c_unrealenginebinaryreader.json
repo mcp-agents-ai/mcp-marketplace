@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/berlinbra/binary-reader-mcp",
+  "githubUrl": "https://github.com/berlinbra/binary-reader-mcp",
+  "name": "Unreal Engine Binary Reader",
+  "author": "berlinbra",
+  "description": "Analyzes Unreal Engine asset files and generic binary structures, enabling metadata extraction and file format inspection for game development and digital forensics.",
+  "codiconIcon": "unreal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "unreal-engine-binary-reader",
+    "unreal",
+    "binary",
+    "structures",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "4b936f70-9ba8-4bb2-9fba-c1c5df949f0c"
+}

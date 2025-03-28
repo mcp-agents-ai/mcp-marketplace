@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aindreyway/mcp-neurolora",
+  "githubUrl": "https://github.com/aindreyway/mcp-neurolora",
+  "name": "Coding File Management",
+  "author": "aindreyway",
+  "description": "Extract and document code from your local filesystem, enabling automated documentation and codebase analysis.",
+  "codiconIcon": "coding",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "coding-file-management",
+    "extract",
+    "local",
+    "enabling",
+    "documentation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "ca739bfd-b3b1-491a-bb6a-cee28f68bf50"
+}

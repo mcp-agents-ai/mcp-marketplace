@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/phil65/mcp-server-llmling",
+  "githubUrl": "https://github.com/phil65/mcp-server-llmling",
+  "name": "LLMling",
+  "author": "phil65",
+  "description": "Provides a YAML-based configuration system for LLM applications, enabling declarative setup of custom environments with resource management, tool execution, and prompt handling capabilities.",
+  "codiconIcon": "llmling",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "prompt",
+    "llmling",
+    "provides",
+    "configuration",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "db38645f-d593-42e8-a4c8-4e770c4500f9"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ravinahp/flights-mcp",
+  "githubUrl": "https://github.com/ravinahp/flights-mcp",
+  "name": "Find Flights (Duffel)",
+  "author": "ravinahp",
+  "description": "Integrates with the Duffel API to provide streamlined flight search capabilities for tasks like travel planning, fare comparison, and building travel-related applications.",
+  "codiconIcon": "find",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "duffel",
+    "capabilities",
+    "planning",
+    "comparison",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "61218e2b-bfb5-4e3b-89d0-8a85dd576470"
+}

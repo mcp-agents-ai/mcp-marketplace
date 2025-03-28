@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jasonjmcghee/WebMCP",
+  "githubUrl": "https://github.com/jasonjmcghee/WebMCP",
+  "name": "WebMCP",
+  "author": "jasonjmcghee",
+  "description": "Turn any website into an MCP server with customizable tools.",
+  "codiconIcon": "webmcp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "server",
+    "customizable",
+    "tools",
+    "webmcp",
+    "website"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "c3dfb99b-3419-482b-a449-0aa837c20547"
+}

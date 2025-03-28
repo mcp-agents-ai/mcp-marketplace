@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/twolven/mcp-stockscreen",
+  "githubUrl": "https://github.com/twolven/mcp-stockscreen",
+  "name": "Stockscreen (Yahoo Finance)",
+  "author": "twolven",
+  "description": "Integrates with Yahoo Finance to provide advanced stock screening and analysis capabilities for technical, fundamental, and options-based trading strategies.",
+  "codiconIcon": "stockscreen",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "stockscreen-(yahoo-finance)",
+    "integrates",
+    "capabilities",
+    "yahoo",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "a2368ee3-7219-4766-87fa-ad596af76c9d"
+}

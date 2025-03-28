@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/alexander-zuev/supabase-mcp-server",
+  "githubUrl": "https://github.com/alexander-zuev/supabase-mcp-server",
+  "name": "Supabase",
+  "author": "alexander-zuev",
+  "description": "Enables direct interaction with Supabase PostgreSQL databases, providing database management tools including schema exploration, SQL query validation, and secure read-only access.",
+  "codiconIcon": "database",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/supabase.png",
+  "category": "databases",
+  "tags": [
+    "postgresql",
+    "supabase",
+    "database-management",
+    "sql",
+    "schema-exploration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 503,
+  "downloadCount": 5748,
+  "createdAt": "2025-02-19T00:44:50.26296Z",
+  "updatedAt": "2025-02-19T00:44:50.26296Z",
+  "hubId": "64ba8733-1da5-4b71-82d5-f47724b4d38a"
+}

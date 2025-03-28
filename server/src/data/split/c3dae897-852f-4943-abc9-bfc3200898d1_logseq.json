@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ergut/mcp-logseq-server",
+  "githubUrl": "https://github.com/ergut/mcp-logseq-server",
+  "name": "LogSeq",
+  "author": "ergut",
+  "description": "Integrates with LogSeq API to enable automated note-taking, content searching, and knowledge management tasks.",
+  "codiconIcon": "logseq",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "tasks",
+    "enable",
+    "note-taking",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "c3dae897-852f-4943-abc9-bfc3200898d1"
+}

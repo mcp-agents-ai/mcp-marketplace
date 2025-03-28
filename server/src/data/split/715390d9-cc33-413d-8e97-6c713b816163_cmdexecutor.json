@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PhialsBasement/CMD-MCP-Server",
+  "githubUrl": "https://github.com/PhialsBasement/CMD-MCP-Server",
+  "name": "CMD Executor",
+  "author": "PhialsBasement",
+  "description": "Cross-platform MCP server for executing command-line operations and SSH connections on Windows and Linux systems through a standardized interface.",
+  "codiconIcon": "cmd",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "operations",
+    "connections",
+    "windows",
+    "systems",
+    "interface"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "715390d9-cc33-413d-8e97-6c713b816163"
+}

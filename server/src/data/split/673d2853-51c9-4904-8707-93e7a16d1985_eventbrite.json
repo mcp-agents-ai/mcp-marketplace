@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ibraheem4/eventbrite-mcp",
+  "githubUrl": "https://github.com/ibraheem4/eventbrite-mcp",
+  "name": "Eventbrite",
+  "author": "ibraheem4",
+  "description": "Integrates with Eventbrite's API for event searching, detail retrieval, venue information access, and category exploration, enabling streamlined event discovery, planning, and analysis.",
+  "codiconIcon": "eventbrite",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "searching",
+    "detail",
+    "venue",
+    "access",
+    "category"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "673d2853-51c9-4904-8707-93e7a16d1985"
+}

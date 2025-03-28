@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ConechoAI/openai-websearch-mcp",
+  "githubUrl": "https://github.com/ConechoAI/openai-websearch-mcp",
+  "name": "openai-websearch-mcp",
+  "author": "ConechoAI",
+  "description": "One click installation & Configuration，access to OpenAI's websearch functionality through the Model Context Protocol。",
+  "codiconIcon": "openai-websearch-mcp",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/8if5j4fq9au.png",
+  "category": "tools",
+  "tags": [
+    "context",
+    "protocol。",
+    "click",
+    "websearch",
+    "functionality"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T12:47:15.628052+00:00",
+  "updatedAt": "2025-03-14T12:47:15.628052+00:00",
+  "hubId": "84b20d2c-30e8-4fb2-9eb1-90edcc3d199d"
+}

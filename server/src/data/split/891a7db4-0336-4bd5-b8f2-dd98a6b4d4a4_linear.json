@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MadeByNando/MCP-linear-Server",
+  "githubUrl": "https://github.com/MadeByNando/MCP-linear-Server",
+  "name": "Linear",
+  "author": "MadeByNando",
+  "description": "Integrates with Linear to enable AI-driven task automation and project tracking, offering functionality for creating and managing issues within project management workflows.",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "issues",
+    "linear",
+    "automation",
+    "functionality"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "891a7db4-0336-4bd5-b8f2-dd98a6b4d4a4"
+}

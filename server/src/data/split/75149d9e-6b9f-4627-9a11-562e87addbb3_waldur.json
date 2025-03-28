@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/waldur/waldur-mcp-server",
+  "githubUrl": "https://github.com/waldur/waldur-mcp-server",
+  "name": "Waldur",
+  "author": "waldur",
+  "description": "Integrates with Waldur's cloud management platform API to enable natural language-driven provisioning, monitoring, and billing of multi-provider cloud resources.",
+  "codiconIcon": "waldur",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "platform",
+    "provisioning",
+    "monitoring",
+    "multi-provider",
+    "resources"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "75149d9e-6b9f-4627-9a11-562e87addbb3"
+}

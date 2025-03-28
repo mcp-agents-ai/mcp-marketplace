@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tokenizin-agency/mcp-nativewind",
+  "githubUrl": "https://github.com/tokenizin-agency/mcp-nativewind",
+  "name": "Tailwind to NativeWind",
+  "author": "tokenizin-agency",
+  "description": "Transforms Tailwind components to NativeWind 4 for React Native.",
+  "codiconIcon": "tailwind",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tailwind-to-nativewind",
+    "transforms",
+    "tailwind",
+    "components",
+    "nativewind"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "80d4ce7c-0a69-49ca-b379-1ca302f76805"
+}

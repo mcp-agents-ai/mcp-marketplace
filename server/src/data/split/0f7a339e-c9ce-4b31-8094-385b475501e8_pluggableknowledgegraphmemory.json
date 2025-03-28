@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/IzumiSy/mcp-duckdb-memory-server",
+  "githubUrl": "https://github.com/IzumiSy/mcp-duckdb-memory-server",
+  "name": "Pluggable Knowledge Graph Memory",
+  "author": "IzumiSy",
+  "description": "Provides a pluggable knowledge graph memory server for flexible storage and retrieval within compatible systems, offering enhanced customization through TypeScript-based architecture.",
+  "codiconIcon": "pluggable",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "flexible",
+    "retrieval",
+    "knowledge",
+    "memory",
+    "storage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "0f7a339e-c9ce-4b31-8094-385b475501e8"
+}

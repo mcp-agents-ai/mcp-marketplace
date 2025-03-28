@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/da1y/mcp-server-elasticsearch",
+  "githubUrl": "https://github.com/da1y/mcp-server-elasticsearch",
+  "name": "Elasticsearch",
+  "author": "da1y",
+  "description": "Integrates with Elasticsearch to enable index management, document indexing, and powerful search capabilities across large datasets.",
+  "codiconIcon": "elasticsearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "datasets",
+    "integrates",
+    "enable",
+    "index",
+    "document"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "75bdef48-0f4c-4a55-a381-2b334679ff75"
+}

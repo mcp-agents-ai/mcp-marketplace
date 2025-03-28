@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/takiAA/twitter-scraper-mcp",
+  "githubUrl": "https://github.com/takiAA/twitter-scraper-mcp",
+  "name": "X (Twitter) Scraper",
+  "author": "takiAA",
+  "description": "Integrates with X using the agent-twitter-client library, enabling tweet retrieval and posting within Docker containers with proxy support for network isolation.",
+  "codiconIcon": "x",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "tweet",
+    "posting",
+    "docker",
+    "proxy"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "9b1276bc-29b8-48a2-b114-b089ae31ec96"
+}

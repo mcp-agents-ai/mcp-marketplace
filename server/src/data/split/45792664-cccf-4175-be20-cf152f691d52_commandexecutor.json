@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/command-executor-mcp-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/command-executor-mcp-server",
+  "name": "Command Executor",
+  "author": "Sunwood-ai-labs",
+  "description": "Enables secure execution of pre-approved system commands for automation tasks, system management, and controlled access to host resources.",
+  "codiconIcon": "command",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "command-executor",
+    "enables",
+    "pre-approved",
+    "system",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "45792664-cccf-4175-be20-cf152f691d52"
+}

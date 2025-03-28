@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/g0t4/mcp-server-commands",
+  "githubUrl": "https://github.com/g0t4/mcp-server-commands",
+  "name": "CLI",
+  "author": "g0t4",
+  "description": "Execute system commands and scripts on the host machine.",
+  "codiconIcon": "cli",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "machine",
+    "cli",
+    "execute",
+    "system",
+    "commands"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "e1ebba94-c874-44da-b2c6-35a5242a165e"
+}

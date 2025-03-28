@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/mcp-dice",
+  "githubUrl": "https://github.com/pashpashpash/mcp-dice",
+  "name": "Dice Roller",
+  "author": "pashpashpash",
+  "description": "A server for rolling dice using standard dice notation, providing individual rolls, sums, and modifiers with timestamp tracking.",
+  "codiconIcon": "symbol-number",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/dice-roller.png",
+  "category": "entertainment-media",
+  "tags": [
+    "dice-rolling",
+    "random-generation",
+    "gaming",
+    "probability",
+    "tabletop"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 1,
+  "downloadCount": 85,
+  "createdAt": "2025-02-18T23:04:46.967859Z",
+  "updatedAt": "2025-02-18T23:04:46.967859Z",
+  "hubId": "9beeb742-a8b5-4aee-9eb2-d51dd72acd01"
+}

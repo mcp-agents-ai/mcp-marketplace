@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bmorphism/marginalia-mcp-server",
+  "githubUrl": "https://github.com/bmorphism/marginalia-mcp-server",
+  "name": "Marginalia Search",
+  "author": "bmorphism",
+  "description": "Integrates Marginalia Search to discover non-commercial and independent web content for research, trend analysis, and alternative perspectives.",
+  "codiconIcon": "marginalia",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "alternative",
+    "perspectives",
+    "integrates",
+    "marginalia",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "0eedfd99-7934-4cb0-8e99-6cd817af9228"
+}

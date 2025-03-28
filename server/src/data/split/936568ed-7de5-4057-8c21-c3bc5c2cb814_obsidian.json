@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PublikPrinciple/obsidian-mcp-rest",
+  "githubUrl": "https://github.com/PublikPrinciple/obsidian-mcp-rest",
+  "name": "Obsidian",
+  "author": "PublikPrinciple",
+  "description": "Integrates with Obsidian via a local REST API to enable reading, writing, and searching notes.",
+  "codiconIcon": "obsidian",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "searching",
+    "notes",
+    "obsidian",
+    "integrates",
+    "local"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "936568ed-7de5-4057-8c21-c3bc5c2cb814"
+}

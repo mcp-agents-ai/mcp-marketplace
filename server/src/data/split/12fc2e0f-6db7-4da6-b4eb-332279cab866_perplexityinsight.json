@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TheoLawrence86/perplexity-insight-MCP",
+  "githubUrl": "https://github.com/TheoLawrence86/perplexity-insight-MCP",
+  "name": "Perplexity Insight",
+  "author": "TheoLawrence86",
+  "description": "Integrates with Perplexity AI to enable real-time question answering and web search capabilities through customizable tools for direct questions and web queries across multiple Perplexity models.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "real-time",
+    "answering",
+    "tools",
+    "queries",
+    "across"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "12fc2e0f-6db7-4da6-b4eb-332279cab866"
+}

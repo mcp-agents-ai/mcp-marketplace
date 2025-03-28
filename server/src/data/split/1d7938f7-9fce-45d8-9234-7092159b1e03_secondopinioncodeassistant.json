@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PoliTwit1984/second-opinion-mcp-server",
+  "githubUrl": "https://github.com/PoliTwit1984/second-opinion-mcp-server",
+  "name": "Second Opinion (Code Assistant)",
+  "author": "PoliTwit1984",
+  "description": "Synthesizes insights from multiple AI sources to provide enhanced coding assistance with automatic language detection and git-aware context gathering.",
+  "codiconIcon": "second",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "context",
+    "gathering",
+    "git-aware",
+    "synthesizes",
+    "insights"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "1d7938f7-9fce-45d8-9234-7092159b1e03"
+}

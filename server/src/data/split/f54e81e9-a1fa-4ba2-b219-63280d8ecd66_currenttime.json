@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PhialsBasement/mcp-time",
+  "githubUrl": "https://github.com/PhialsBasement/mcp-time",
+  "name": "Current Time",
+  "author": "PhialsBasement",
+  "description": "Utility to retrive current UTC using Node",
+  "codiconIcon": "current",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "current-time",
+    "utility",
+    "retrive",
+    "current",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "f54e81e9-a1fa-4ba2-b219-63280d8ecd66"
+}

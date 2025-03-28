@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nefino/mcp-nefino",
+  "githubUrl": "https://github.com/nefino/mcp-nefino",
+  "name": "Nefino",
+  "author": "nefino",
+  "description": "Integrates with the Nefino API to retrieve and filter news about German renewable energy projects, supporting market analysis, policy tracking, and environmental impact assessments.",
+  "codiconIcon": "nefino",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "market",
+    "analysis",
+    "energy",
+    "projects"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "120be168-e300-4ada-a594-56f1092d31cc"
+}

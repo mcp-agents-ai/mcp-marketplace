@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mattbarlow-sg/bun-s3-mcp",
+  "githubUrl": "https://github.com/mattbarlow-sg/bun-s3-mcp",
+  "name": "Code Snippets (S3)",
+  "author": "mattbarlow-sg",
+  "description": "Integrates with S3 to provide efficient code snippet management and retrieval.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "provide",
+    "efficient",
+    "snippet",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "a90d6f40-cbe3-43a9-b700-49e1223479bc"
+}

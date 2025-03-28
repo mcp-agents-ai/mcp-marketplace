@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dion-hagan/mcp-server-spinnaker",
+  "githubUrl": "https://github.com/dion-hagan/mcp-server-spinnaker",
+  "name": "Spinnaker",
+  "author": "dion-hagan",
+  "description": "Integrates with Spinnaker to enable AI-driven management of deployments, pipelines, and applications for enhanced CI/CD automation and orchestration.",
+  "codiconIcon": "spinnaker",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applications",
+    "automation",
+    "integrates",
+    "ai-driven",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "f7b145fd-b43e-44bd-8cef-6a962d794a1e"
+}

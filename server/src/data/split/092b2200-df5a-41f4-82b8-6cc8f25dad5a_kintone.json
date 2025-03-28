@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/r3-yamauchi/kintone-mcp-server",
+  "githubUrl": "https://github.com/r3-yamauchi/kintone-mcp-server",
+  "name": "Kintone",
+  "author": "r3-yamauchi",
+  "description": "Integrates with Kintone's low-code platform API, enabling data retrieval, record creation, and workflow automation in Kintone applications.",
+  "codiconIcon": "kintone",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applications",
+    "kintone",
+    "low-code",
+    "record",
+    "workflow"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "092b2200-df5a-41f4-82b8-6cc8f25dad5a"
+}

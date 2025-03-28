@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Carrie-L/blog_publisher_mcp_server",
+  "githubUrl": "https://github.com/Carrie-L/blog_publisher_mcp_server",
+  "name": "Blog Publisher",
+  "author": "Carrie-L",
+  "description": "Enables AI assistants to publish blog content to external platforms through a Python-based server with standard and local execution modes for automated content publishing workflows.",
+  "codiconIcon": "blog",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "modes",
+    "enables",
+    "assistants",
+    "external",
+    "platforms"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "af9fa54b-56c9-4323-b660-04f587786eaa"
+}

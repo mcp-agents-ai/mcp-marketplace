@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/floodfx/mcp-server-linear",
+  "githubUrl": "https://github.com/floodfx/mcp-server-linear",
+  "name": "Linear",
+  "author": "floodfx",
+  "description": "Integrates with Linear project management tool to search for issues with detailed filtering by team, status, assignee, labels, project, priority, and more.",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "detailed",
+    "team",
+    "labels",
+    "priority",
+    "more"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "2ed4b38a-efa6-49c7-8be0-bcd8f63f8aed"
+}

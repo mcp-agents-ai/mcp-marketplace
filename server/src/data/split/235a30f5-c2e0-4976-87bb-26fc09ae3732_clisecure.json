@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MladenSU/cli-mcp-server",
+  "githubUrl": "https://github.com/MladenSU/cli-mcp-server",
+  "name": "CLI Secure",
+  "author": "MladenSU",
+  "description": "Execute shell commands with strict security policies.",
+  "codiconIcon": "cli",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "cli-secure",
+    "execute",
+    "shell",
+    "commands",
+    "strict"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "235a30f5-c2e0-4976-87bb-26fc09ae3732"
+}

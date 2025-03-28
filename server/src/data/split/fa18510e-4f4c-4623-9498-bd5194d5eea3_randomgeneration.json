@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/turlockmike/mcp-rand",
+  "githubUrl": "https://github.com/turlockmike/mcp-rand",
+  "name": "Random Generation",
+  "author": "turlockmike",
+  "description": "Provides diverse random generation utilities including UUIDs, numbers, strings, passwords, and more.",
+  "codiconIcon": "random",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "utilities",
+    "including",
+    "numbers",
+    "strings",
+    "passwords"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "fa18510e-4f4c-4623-9498-bd5194d5eea3"
+}

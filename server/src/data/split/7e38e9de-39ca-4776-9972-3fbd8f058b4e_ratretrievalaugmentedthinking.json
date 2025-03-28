@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/newideas99/Deepseek-Thinking-Claude-3.5-Sonnet-CLINE-MCP",
+  "githubUrl": "https://github.com/newideas99/Deepseek-Thinking-Claude-3.5-Sonnet-CLINE-MCP",
+  "name": "RAT (Retrieval Augmented Thinking)",
+  "author": "newideas99",
+  "description": "Combines DeepSeek's analysis with multiple response models to enhance AI conversation quality through structured two-stage reasoning.",
+  "codiconIcon": "rat",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "response",
+    "models",
+    "enhance",
+    "analysis",
+    "multiple"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "7e38e9de-39ca-4776-9972-3fbd8f058b4e"
+}

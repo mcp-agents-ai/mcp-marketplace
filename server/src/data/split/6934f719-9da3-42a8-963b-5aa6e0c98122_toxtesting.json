@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/that1guy15/tox-testing",
+  "githubUrl": "https://github.com/that1guy15/tox-testing",
+  "name": "Tox Testing",
+  "author": "that1guy15",
+  "description": "Executes tox commands to run tests within a project using the project's tox.ini",
+  "codiconIcon": "tox",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "commands",
+    "within",
+    "tests",
+    "project",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "6934f719-9da3-42a8-963b-5aa6e0c98122"
+}

@@ -1,0 +1,22 @@
+{
+  "mcpId": "https://github.com/1595901624/qrcode-mcp",
+  "githubUrl": "https://github.com/1595901624/qrcode-mcp",
+  "name": "QR Codes",
+  "author": "1595901624",
+  "description": "Generates QR codes.",
+  "codiconIcon": "qr",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "qr-codes",
+    "generates",
+    "codes"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "48121511-8922-4375-9d85-1e1355f791f5"
+}

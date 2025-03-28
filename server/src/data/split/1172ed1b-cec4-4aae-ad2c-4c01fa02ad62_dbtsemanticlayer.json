@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/TommyBez/dbt-semantic-layer-mcp-server",
+  "githubUrl": "https://github.com/TommyBez/dbt-semantic-layer-mcp-server",
+  "name": "DBT Semantic Layer",
+  "author": "TommyBez",
+  "description": "Integrates with the DBT Semantic Layer API to enable querying and analysis of data models defined in DBT, supporting report generation, ad-hoc analysis, and data-driven application development.",
+  "codiconIcon": "dbt",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "data-driven",
+    "integrates",
+    "querying",
+    "models",
+    "supporting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "1172ed1b-cec4-4aae-ad2c-4c01fa02ad62"
+}

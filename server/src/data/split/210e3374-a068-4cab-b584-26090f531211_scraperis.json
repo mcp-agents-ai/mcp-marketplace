@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://www.npmjs.com/package/scraperis-mcp",
+  "githubUrl": "https://www.npmjs.com/package/scraperis-mcp",
+  "name": "ScraperIs",
+  "author": "",
+  "description": "This package allows AI assistants to scrape web content through the MCP protocol, enabling them to access up-to-date information from the web.\n\nFeatures\n🌐 Web Scraping: Extract content from any website\n📸 Screenshots: Capture visual representations of web pages\n📄 Multiple Formats: Get content in markdown, HTML, or JSON\n🔄 Progress Updates: Real-time progress reporting during scraping operations\n🔌 MCP Integration: Seamless integration with MCP-compatible AI assistants",
+  "codiconIcon": "scraperis",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/ldkozke4ihl.png",
+  "category": "tools",
+  "tags": [
+    "allows",
+    "content",
+    "features",
+    "scraping",
+    "website"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-18T15:18:45.226224+00:00",
+  "updatedAt": "2025-03-18T15:18:45.226224+00:00",
+  "hubId": "210e3374-a068-4cab-b584-26090f531211"
+}

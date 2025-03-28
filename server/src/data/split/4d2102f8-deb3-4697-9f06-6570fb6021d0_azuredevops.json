@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/krishh-amilineni/mcp-azuredevops-bridge",
+  "githubUrl": "https://github.com/krishh-amilineni/mcp-azuredevops-bridge",
+  "name": "Azure DevOps",
+  "author": "krishh-amilineni",
+  "description": "Integrates with Azure DevOps to enable work item management, wiki interactions, and sprint tracking for software development teams.",
+  "codiconIcon": "azure",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "azure-devops",
+    "management",
+    "interactions",
+    "software",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "4d2102f8-deb3-4697-9f06-6570fb6021d0"
+}

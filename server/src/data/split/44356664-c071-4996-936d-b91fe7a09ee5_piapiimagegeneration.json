@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/apinetwork/piapi-mcp-server",
+  "githubUrl": "https://github.com/apinetwork/piapi-mcp-server",
+  "name": "PiAPI Image Generation",
+  "author": "apinetwork",
+  "description": "Integrates with PiAPI to enable AI-driven image generation from text prompts for content creation and visual design tasks.",
+  "codiconIcon": "piapi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "piapi-image-generation",
+    "integrates",
+    "piapi",
+    "enable",
+    "ai-driven"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "44356664-c071-4996-936d-b91fe7a09ee5"
+}

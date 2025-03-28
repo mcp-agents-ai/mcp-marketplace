@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-wsl-exec",
+  "githubUrl": "https://github.com/spences10/mcp-wsl-exec",
+  "name": "WSL Exec",
+  "author": "spences10",
+  "description": "Provides secure command execution in WSL with built-in safety features like path validation, timeouts, and error handling.",
+  "codiconIcon": "wsl",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "command",
+    "validation",
+    "timeouts",
+    "error",
+    "wsl-exec"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "24fefc78-d087-412b-9daa-3198985ad9d8"
+}

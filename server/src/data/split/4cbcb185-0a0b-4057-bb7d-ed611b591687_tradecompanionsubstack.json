@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pl728/substack-fetcher-mcp",
+  "githubUrl": "https://github.com/pl728/substack-fetcher-mcp",
+  "name": "Trade Companion (Substack)",
+  "author": "pl728",
+  "description": "Integrates with Trade Companion by Adam Mancini on Substack, enabling authenticated article retrieval and content extraction for seamless access within workflows.",
+  "codiconIcon": "trade",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "mancini",
+    "article",
+    "seamless",
+    "trade-companion-(substack)",
+    "authenticated"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "4cbcb185-0a0b-4057-bb7d-ed611b591687"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rados10/youtube-watchlater-mcp",
+  "githubUrl": "https://github.com/rados10/youtube-watchlater-mcp",
+  "name": "YouTube Watch Later",
+  "author": "rados10",
+  "description": "Integrates with YouTube API to manage Watch Later playlists, enabling content curation, video recommendations, and automated playlist management.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "youtube-watch-later",
+    "automated",
+    "manage",
+    "playlists",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "a6a4c5b5-222b-4ed9-aea2-91b03124183c"
+}

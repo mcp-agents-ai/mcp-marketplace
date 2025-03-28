@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Kvadratni/speech-mcp",
+  "githubUrl": "https://github.com/Kvadratni/speech-mcp",
+  "name": "Speech Interface (Faster Whisper)",
+  "author": "Kvadratni",
+  "description": "Integrates voice interaction capabilities using faster-whisper and PyAudio for speech recognition and synthesis, enabling natural language voice interfaces for AI models.",
+  "codiconIcon": "speech",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "speech",
+    "using",
+    "enabling",
+    "models",
+    "natural"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "f0189525-d72f-4ecd-bed6-c0a77cc9e0ae"
+}

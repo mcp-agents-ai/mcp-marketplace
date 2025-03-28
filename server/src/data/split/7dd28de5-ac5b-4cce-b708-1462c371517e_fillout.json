@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/danielma-tic/fillout-mcp-server",
+  "githubUrl": "https://github.com/danielma-tic/fillout-mcp-server",
+  "name": "Fillout",
+  "author": "danielma-tic",
+  "description": "Integrates with Fillout API to create, manage, and analyze online forms and surveys for data collection.",
+  "codiconIcon": "fillout",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "forms",
+    "surveys",
+    "fillout",
+    "create",
+    "manage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "7dd28de5-ac5b-4cce-b708-1462c371517e"
+}

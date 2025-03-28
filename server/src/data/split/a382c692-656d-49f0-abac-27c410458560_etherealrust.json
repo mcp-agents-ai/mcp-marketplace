@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ethereumdegen/mcp-rs",
+  "githubUrl": "https://github.com/ethereumdegen/mcp-rs",
+  "name": "Ethereal Rust",
+  "author": "ethereumdegen",
+  "description": "Provides a flexible, type-safe Rust foundation for building applications with tool management, authentication handling, and custom middleware support, offering both stdio and SSE transports.",
+  "codiconIcon": "ethereal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "middleware",
+    "flexible",
+    "authentication",
+    "handling",
+    "custom"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "a382c692-656d-49f0-abac-27c410458560"
+}

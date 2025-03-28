@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/imankamyabi/dynamodb-mcp-server",
+  "githubUrl": "https://github.com/imankamyabi/dynamodb-mcp-server",
+  "name": "DynamoDB",
+  "author": "imankamyabi",
+  "description": "Integrates with Amazon DynamoDB to enable natural language-based table management, capacity adjustment, and data operations while maintaining safeguards against accidental deletions.",
+  "codiconIcon": "dynamodb",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "operations",
+    "maintaining",
+    "dynamodb",
+    "amazon"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "ee2b8e8f-b6b5-4f07-bf42-05776c7fbf40"
+}

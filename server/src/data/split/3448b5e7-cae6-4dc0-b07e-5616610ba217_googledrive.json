@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/w-jeon/mcp-gdrive",
+  "githubUrl": "https://github.com/w-jeon/mcp-gdrive",
+  "name": "Google Drive",
+  "author": "w-jeon",
+  "description": "Integrates with Google Drive to enable file listing, reading, and searching across various document formats, with OAuth authentication for secure access to user content.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "reading",
+    "oauth",
+    "authentication",
+    "google",
+    "google-drive"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "3448b5e7-cae6-4dc0-b07e-5616610ba217"
+}

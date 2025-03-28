@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-giphy",
+  "githubUrl": "https://github.com/microsoft/semanticworkbench/tree/HEAD/mcp-servers/mcp-server-giphy",
+  "name": "Giphy",
+  "author": "microsoft",
+  "description": "Submit recent chat history ('context') and a search term to retrieve a list of candidate results from GIPHY and load their image data.",
+  "codiconIcon": "giphy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "their",
+    "image",
+    "submit",
+    "retrieve",
+    "candidate"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "293e3d53-d38e-40e1-bd51-9fc769de5f5f"
+}

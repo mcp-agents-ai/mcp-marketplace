@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/markelaugust74/mcp-google-calendar",
+  "githubUrl": "https://github.com/markelaugust74/mcp-google-calendar",
+  "name": "Google Calendar",
+  "author": "markelaugust74",
+  "description": "Integrates with the Google Calendar API to create and manage events using natural language interactions, enabling automated scheduling and event creation.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "integrates",
+    "calendar",
+    "manage",
+    "events",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "e3e45418-397c-4520-96e9-864d78a26ec9"
+}

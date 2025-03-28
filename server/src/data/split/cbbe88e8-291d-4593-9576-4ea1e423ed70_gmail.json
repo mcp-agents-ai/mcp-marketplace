@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/GongRzhe/Gmail-MCP-Server",
+  "githubUrl": "https://github.com/GongRzhe/Gmail-MCP-Server",
+  "name": "Gmail",
+  "author": "GongRzhe",
+  "description": "Integrates with Gmail to enable email management tasks like sending, reading, searching, and labeling through natural language commands.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "gmail",
+    "enable",
+    "email",
+    "tasks",
+    "reading"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "cbbe88e8-291d-4593-9576-4ea1e423ed70"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/descope-sample-apps/descope-mcp-server",
+  "githubUrl": "https://github.com/descope-sample-apps/descope-mcp-server",
+  "name": "Descope Authentication",
+  "author": "descope-sample-apps",
+  "description": "Integrates with Descope's authentication platform to enable natural language-driven user management, authentication flows, and access control operations.",
+  "codiconIcon": "descope",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "authentication",
+    "enable",
+    "management",
+    "flows",
+    "control"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "3f496254-c55d-4a82-8734-cf6efb2fd754"
+}

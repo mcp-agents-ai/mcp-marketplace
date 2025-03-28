@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vanachterjacob/BC-MCP",
+  "githubUrl": "https://github.com/vanachterjacob/BC-MCP",
+  "name": "Business Central",
+  "author": "vanachterjacob",
+  "description": "Provides standardized development rules and real-time guidance for Business Central projects, offering rule validation, architectural suggestions, and component structure optimization for consistent coding standards and best practices.",
+  "codiconIcon": "business",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "consistent",
+    "coding",
+    "business",
+    "offering",
+    "validation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "524d6e04-1788-4f4d-9fd1-04a3f96b3575"
+}

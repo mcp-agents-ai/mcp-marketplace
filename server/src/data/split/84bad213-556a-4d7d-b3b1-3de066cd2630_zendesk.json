@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/reminia/zendesk-mcp-server",
+  "githubUrl": "https://github.com/reminia/zendesk-mcp-server",
+  "name": "Zendesk",
+  "author": "reminia",
+  "description": "Integrates with Zendesk to enable ticket management, comment handling, and Help Center article retrieval for streamlined customer support operations.",
+  "codiconIcon": "zendesk",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "customer",
+    "zendesk",
+    "enable",
+    "management",
+    "streamlined"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "84bad213-556a-4d7d-b3b1-3de066cd2630"
+}

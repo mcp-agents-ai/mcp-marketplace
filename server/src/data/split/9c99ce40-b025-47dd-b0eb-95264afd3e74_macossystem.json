@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mcp-get/community-servers/tree/HEAD/src/server-macos",
+  "githubUrl": "https://github.com/mcp-get/community-servers/tree/HEAD/src/server-macos",
+  "name": "macOS System",
+  "author": "mcp-get",
+  "description": "Access macOS system information and send notifications.",
+  "codiconIcon": "macos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "macos-system",
+    "access",
+    "macos",
+    "system",
+    "information"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "9c99ce40-b025-47dd-b0eb-95264afd3e74"
+}

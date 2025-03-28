@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gomcpgo/perplexity-mcp-server",
+  "githubUrl": "https://github.com/gomcpgo/perplexity-mcp-server",
+  "name": "Perplexity",
+  "author": "gomcpgo",
+  "description": "Integrates Perplexity's question-answering capabilities, enabling natural language understanding and information retrieval for applications like chatbots and research tools.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "perplexity's",
+    "language",
+    "research",
+    "perplexity",
+    "question-answering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "d78c9aa8-fb65-4fad-8fa7-a38374e93a0e"
+}

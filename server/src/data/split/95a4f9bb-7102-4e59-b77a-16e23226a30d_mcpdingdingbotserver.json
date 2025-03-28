@@ -1,0 +1,22 @@
+{
+  "mcpId": "https://github.com/HundunOnline/mcp-dingdingbot-server/blob/master/README.md",
+  "githubUrl": "https://github.com/HundunOnline/mcp-dingdingbot-server/blob/master/README.md",
+  "name": "mcp-dingdingbot-server",
+  "author": "HundunOnline",
+  "description": "钉钉webhook MCP server",
+  "codiconIcon": "mcp-dingdingbot-server",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "mcp-dingdingbot-server",
+    "钉钉webhook",
+    "server"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-20T03:24:01.461111+00:00",
+  "updatedAt": "2025-03-20T03:24:01.461111+00:00",
+  "hubId": "95a4f9bb-7102-4e59-b77a-16e23226a30d"
+}

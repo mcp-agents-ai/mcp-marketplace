@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/olaservo/shannon-thinking",
+  "githubUrl": "https://github.com/olaservo/shannon-thinking",
+  "name": "Shannon Thinking (Problem Solving)",
+  "author": "olaservo",
+  "description": "Implements Claude Shannon's systematic problem-solving methodology to guide users through structured stages of complex problem breakdown and solution refinement.",
+  "codiconIcon": "shannon",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "implements",
+    "claude",
+    "refinement",
+    "problem",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "d04b8377-38c9-4f0b-a206-6759a1de06e6"
+}

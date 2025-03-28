@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/isaacwasserman/mcp-vegalite-server",
+  "githubUrl": "https://github.com/isaacwasserman/mcp-vegalite-server",
+  "name": "Vega-Lite Data Visualization",
+  "author": "isaacwasserman",
+  "description": "Create data visualizations using Vega-Lite syntax by saving data tables and generating charts.",
+  "codiconIcon": "vega-lite",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "vega-lite-data-visualization",
+    "create",
+    "using",
+    "vega-lite",
+    "generating"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "af18b584-7347-47f4-b29e-4db88d5a9b27"
+}

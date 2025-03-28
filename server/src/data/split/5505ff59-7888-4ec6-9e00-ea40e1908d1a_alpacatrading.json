@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tedlikeskix/alpaca-mcp-server",
+  "githubUrl": "https://github.com/tedlikeskix/alpaca-mcp-server",
+  "name": "Alpaca Trading",
+  "author": "tedlikeskix",
+  "description": "Integrates with the Alpaca trading API to provide algorithmic trading and portfolio management tools for account information, market data, order placement, and position tracking.",
+  "codiconIcon": "alpaca",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "tools",
+    "position",
+    "tracking",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "5505ff59-7888-4ec6-9e00-ea40e1908d1a"
+}

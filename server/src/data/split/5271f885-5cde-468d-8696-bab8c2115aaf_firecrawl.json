@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/mendableai/firecrawl-mcp-server",
+  "githubUrl": "https://github.com/mendableai/firecrawl-mcp-server",
+  "name": "FireCrawl",
+  "author": "mendableai",
+  "description": "Advanced web scraping and crawling server with JavaScript rendering, batch processing, smart content filtering, and structured data extraction capabilities.",
+  "codiconIcon": "globe",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/firecrawl.jpg",
+  "category": "search",
+  "tags": [
+    "web-scraping",
+    "crawling",
+    "data-extraction",
+    "batch-processing",
+    "content-filtering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 1510,
+  "downloadCount": 10218,
+  "createdAt": "2025-02-21T18:35:28.390028Z",
+  "updatedAt": "2025-02-21T18:35:28.390028Z",
+  "hubId": "5271f885-5cde-468d-8696-bab8c2115aaf"
+}

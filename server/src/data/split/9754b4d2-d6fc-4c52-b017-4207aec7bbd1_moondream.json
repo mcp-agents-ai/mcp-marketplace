@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/NightTrek/moondream-mcp",
+  "githubUrl": "https://github.com/NightTrek/moondream-mcp",
+  "name": "Moondream",
+  "author": "NightTrek",
+  "description": "Provide image analysis capabilities including captioning, object detection, and visual question answering for applications like content moderation and visual search.",
+  "codiconIcon": "moondream",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "including",
+    "object",
+    "question",
+    "moderation",
+    "detection"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "9754b4d2-d6fc-4c52-b017-4207aec7bbd1"
+}

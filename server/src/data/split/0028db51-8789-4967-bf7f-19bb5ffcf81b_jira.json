@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Chase-Bullock/python-jira-mcp",
+  "githubUrl": "https://github.com/Chase-Bullock/python-jira-mcp",
+  "name": "Jira",
+  "author": "Chase-Bullock",
+  "description": "Integrates with the Jira API, enabling JQL searches and issue detail retrieval for AI-assisted project management and issue tracking workflows.",
+  "codiconIcon": "jira",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "detail",
+    "retrieval",
+    "management",
+    "integrates",
+    "issue"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "0028db51-8789-4967-bf7f-19bb5ffcf81b"
+}

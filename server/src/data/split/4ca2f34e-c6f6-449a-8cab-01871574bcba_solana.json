@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tywenk/mcp-sol",
+  "githubUrl": "https://github.com/tywenk/mcp-sol",
+  "name": "Solana",
+  "author": "tywenk",
+  "description": "Integrates Solana blockchain with natural language commands to enable querying balances, handling transactions, and retrieving blockchain data.",
+  "codiconIcon": "solana",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "data",
+    "solana",
+    "integrates",
+    "natural",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "4ca2f34e-c6f6-449a-8cab-01871574bcba"
+}

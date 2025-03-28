@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/dkmaker/mcp-rest-api",
+  "githubUrl": "https://github.com/dkmaker/mcp-rest-api",
+  "name": "REST API Tester",
+  "author": "dkmaker",
+  "description": "Integrates with REST API's via Axios to provide a command-line tool for testing and debugging REST APIs with customizable requests and response analysis.",
+  "codiconIcon": "rest",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "rest-api-tester",
+    "provide",
+    "command-line",
+    "testing",
+    "debugging"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "4635f1f8-6105-4e65-ae0e-d98b14636a93"
+}

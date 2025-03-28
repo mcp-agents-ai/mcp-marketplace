@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mongodb-developer/mcp-mongodb-atlas",
+  "githubUrl": "https://github.com/mongodb-developer/mcp-mongodb-atlas",
+  "name": "MongoDB Atlas",
+  "author": "mongodb-developer",
+  "description": "Integrates with MongoDB Atlas to enable creating and managing database resources including clusters, network access, users, and connection strings using TypeScript and the MongoDB Atlas API.",
+  "codiconIcon": "mongodb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "resources",
+    "including",
+    "users",
+    "connection",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "b43cd994-e6de-4e72-881d-5fa83f2b11cc"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ergut/mcp-bigquery-server",
+  "githubUrl": "https://github.com/ergut/mcp-bigquery-server",
+  "name": "BigQuery",
+  "author": "ergut",
+  "description": "Securely query and analyze Google BigQuery datasets via natural language.",
+  "codiconIcon": "bigquery",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "language",
+    "bigquery",
+    "securely",
+    "query",
+    "analyze"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "fda1a626-1c4e-4368-bcd2-ce1378406b8a"
+}

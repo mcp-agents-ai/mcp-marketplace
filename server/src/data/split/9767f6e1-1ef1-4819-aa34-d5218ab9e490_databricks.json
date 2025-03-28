@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RafaelCartenet/mcp-databricks-server",
+  "githubUrl": "https://github.com/RafaelCartenet/mcp-databricks-server",
+  "name": "Databricks",
+  "author": "RafaelCartenet",
+  "description": "Integrates with Databricks to execute SQL queries, list schemas, and describe table structures using the Statement Execution API for data exploration and analysis tasks",
+  "codiconIcon": "databricks",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "table",
+    "structures",
+    "statement",
+    "execution",
+    "tasks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "9767f6e1-1ef1-4819-aa34-d5218ab9e490"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lsd-so/lsd-mcp",
+  "githubUrl": "https://github.com/lsd-so/lsd-mcp",
+  "name": "LSD SQL",
+  "author": "lsd-so",
+  "description": "Enables querqying and analyzing web content using LSD SQL, a DSL for extracting structured data from websites in real-time.",
+  "codiconIcon": "lsd",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "structured",
+    "websites",
+    "lsd-sql",
+    "querqying",
+    "analyzing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "7acad9a7-1a41-4512-aa19-5a251450b436"
+}

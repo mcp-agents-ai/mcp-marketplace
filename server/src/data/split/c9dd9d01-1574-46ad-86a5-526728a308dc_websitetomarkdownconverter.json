@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tolik-unicornrider/mcp_scraper",
+  "githubUrl": "https://github.com/tolik-unicornrider/mcp_scraper",
+  "name": "Website to Markdown Converter",
+  "author": "tolik-unicornrider",
+  "description": "Converts web content to high-quality Markdown using Mozilla's Readability and TurndownService, enabling clean extraction of meaningful content from URLs or HTML files for analysis and document conversion.",
+  "codiconIcon": "website",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "using",
+    "turndownservice",
+    "enabling",
+    "extraction",
+    "analysis"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "c9dd9d01-1574-46ad-86a5-526728a308dc"
+}

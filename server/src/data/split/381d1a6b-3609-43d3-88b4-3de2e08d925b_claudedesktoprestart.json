@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/non-dirty/mcp-server-restart",
+  "githubUrl": "https://github.com/non-dirty/mcp-server-restart",
+  "name": "Claude Desktop Restart",
+  "author": "non-dirty",
+  "description": "Enables automated restarts of Claude Desktop on macOS by leveraging psutil to safely terminate and relaunch the application process.",
+  "codiconIcon": "claude",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "claude-desktop-restart",
+    "automated",
+    "restarts",
+    "desktop",
+    "macos"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "381d1a6b-3609-43d3-88b4-3de2e08d925b"
+}

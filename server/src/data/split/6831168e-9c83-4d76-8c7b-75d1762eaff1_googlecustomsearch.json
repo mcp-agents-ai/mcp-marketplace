@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/weidwonder/crawl4ai-mcp-server",
+  "githubUrl": "https://github.com/weidwonder/crawl4ai-mcp-server",
+  "name": "Google Custom Search",
+  "author": "weidwonder",
+  "description": "Integrates with Google Custom Search Engine to enable automated web crawling, content extraction, and search result parsing for data collection and analysis at scale.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "custom",
+    "search",
+    "extraction",
+    "scale",
+    "google-custom-search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "6831168e-9c83-4d76-8c7b-75d1762eaff1"
+}

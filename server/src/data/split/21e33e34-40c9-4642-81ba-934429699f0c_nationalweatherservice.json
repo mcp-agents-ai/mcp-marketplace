@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/khandelwaltushar/weather-mcp-server",
+  "githubUrl": "https://github.com/khandelwaltushar/weather-mcp-server",
+  "name": "National Weather Service",
+  "author": "khandelwaltushar",
+  "description": "Integrates with the National Weather Service API to provide current weather data and alerts for US locations without requiring authentication.",
+  "codiconIcon": "national",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "locations",
+    "authentication",
+    "national-weather-service",
+    "weather",
+    "provide"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "21e33e34-40c9-4642-81ba-934429699f0c"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/synthience/mcp-titan-cognitive-memory",
+  "githubUrl": "https://github.com/synthience/mcp-titan-cognitive-memory",
+  "name": "Titan Cognitive Memory",
+  "author": "synthience",
+  "description": "Efficient memory storage and retrieval, enabling persistent context management in long-running conversations and complex reasoning tasks.",
+  "codiconIcon": "titan",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "persistent",
+    "conversations",
+    "reasoning",
+    "memory",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "5197c24e-da24-45fc-9f0e-ece7f29a88c1"
+}

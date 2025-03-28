@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/base/base-mcp",
+  "githubUrl": "https://github.com/base/base-mcp",
+  "name": "Base",
+  "author": "base",
+  "description": "Enables blockchain interactions with Base and Coinbase APIs, providing tools for wallet management, fund transfers, smart contract deployment, and testnet operations.",
+  "codiconIcon": "server-process",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/base.png",
+  "category": "finance",
+  "tags": [
+    "blockchain",
+    "coinbase",
+    "web3",
+    "smart-contracts",
+    "crypto-wallet"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 124,
+  "downloadCount": 715,
+  "createdAt": "2025-03-09T05:49:30.085654Z",
+  "updatedAt": "2025-03-09T05:49:30.085654Z",
+  "hubId": "6fd27701-4b21-4da0-b06b-e1ec8a3ccc7f"
+}

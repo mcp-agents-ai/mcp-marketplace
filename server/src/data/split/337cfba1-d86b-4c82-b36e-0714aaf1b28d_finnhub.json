@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/catherinedparnell/mcp-finnhub",
+  "githubUrl": "https://github.com/catherinedparnell/mcp-finnhub",
+  "name": "Finnhub",
+  "author": "catherinedparnell",
+  "description": "Integrates with Finnhub's financial API to provide streamlined access to market news, stock quotes, financials, and recommendation trends.",
+  "codiconIcon": "finnhub",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "quotes",
+    "recommendation",
+    "trends",
+    "finnhub",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "337cfba1-d86b-4c82-b36e-0714aaf1b28d"
+}

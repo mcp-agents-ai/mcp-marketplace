@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/SetuHQ/setu-mcps/tree/HEAD/upi-deeplinks",
+  "githubUrl": "https://github.com/SetuHQ/setu-mcps/tree/HEAD/upi-deeplinks",
+  "name": "Setu UPI Deeplinks",
+  "author": "SetuHQ",
+  "description": "Integrates Setu's UPI payment infrastructure to enable seamless generation and management of payment links for applications.",
+  "codiconIcon": "setu",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "seamless",
+    "generation",
+    "management",
+    "applications",
+    "setu-upi-deeplinks"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "bcf1380b-0ac9-4209-a2be-1765a29578c5"
+}

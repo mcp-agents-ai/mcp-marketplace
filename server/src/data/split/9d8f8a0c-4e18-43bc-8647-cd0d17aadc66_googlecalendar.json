@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/thisnick/google-calendar-mcp",
+  "githubUrl": "https://github.com/thisnick/google-calendar-mcp",
+  "name": "Google Calendar",
+  "author": "thisnick",
+  "description": "Integrates with Google Calendar to enable natural language-based event management, scheduling, and productivity insights.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "google-calendar",
+    "google",
+    "language-based",
+    "event",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "9d8f8a0c-4e18-43bc-8647-cd0d17aadc66"
+}

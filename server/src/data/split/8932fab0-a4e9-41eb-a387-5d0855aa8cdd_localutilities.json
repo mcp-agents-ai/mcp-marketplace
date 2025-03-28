@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/arjshiv/localutils-mcp-server",
+  "githubUrl": "https://github.com/arjshiv/localutils-mcp-server",
+  "name": "Local Utilities",
+  "author": "arjshiv",
+  "description": "Provides access to system utilities for retrieving local information including time, hostname, IP address, directory listings, Node.js version, and port process checks",
+  "codiconIcon": "local",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "listings",
+    "node.js",
+    "local-utilities",
+    "provides",
+    "access"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "8932fab0-a4e9-41eb-a387-5d0855aa8cdd"
+}

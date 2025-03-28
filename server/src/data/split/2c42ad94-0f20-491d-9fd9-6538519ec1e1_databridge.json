@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/databridge-org/databridge-mcp",
+  "githubUrl": "https://github.com/databridge-org/databridge-mcp",
+  "name": "DataBridge",
+  "author": "databridge-org",
+  "description": "Integrates with DataBridge to enable ingestion and retrieval of contextual information from a local database, supporting persistent storage for AI applications.",
+  "codiconIcon": "databridge",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "databridge",
+    "integrates",
+    "enable",
+    "ingestion",
+    "contextual"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "2c42ad94-0f20-491d-9fd9-6538519ec1e1"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/postgres",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/postgres",
+  "name": "PostgreSQL",
+  "author": "modelcontextprotocol",
+  "description": "Access and analyze Postgres databases with read-only queries.",
+  "codiconIcon": "postgresql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "queries",
+    "postgresql",
+    "access",
+    "analyze",
+    "postgres"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "36fdc04d-e5d4-45d3-94f1-571c24af676b"
+}

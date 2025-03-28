@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wshobson/mcp-trader",
+  "githubUrl": "https://github.com/wshobson/mcp-trader",
+  "name": "Stock Analyzer (Tingo)",
+  "author": "wshobson",
+  "description": "Integrates with Tiingo API to perform technical analysis on stocks, providing key indicators for trading decisions.",
+  "codiconIcon": "stock",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "analysis",
+    "stocks",
+    "indicators",
+    "decisions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "51d7114a-e8f8-4305-8062-28836d87c411"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bsmi021/mcp-filesystem-server",
+  "githubUrl": "https://github.com/bsmi021/mcp-filesystem-server",
+  "name": "Filesystem",
+  "author": "bsmi021",
+  "description": "Integrates with local filesystems to enable file operations, analysis, and manipulation across various file types and structures.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "various",
+    "structures",
+    "filesystem",
+    "integrates",
+    "filesystems"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "a28d41bb-3cac-451b-9037-fc6359e66af2"
+}

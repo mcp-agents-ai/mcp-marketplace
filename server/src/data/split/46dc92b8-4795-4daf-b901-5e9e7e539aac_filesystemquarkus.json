@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/quarkiverse/quarkus-mcp-servers/tree/HEAD/filesystem",
+  "githubUrl": "https://github.com/quarkiverse/quarkus-mcp-servers/tree/HEAD/filesystem",
+  "name": "Filesystem (Quarkus)",
+  "author": "quarkiverse",
+  "description": "Provides a Quarkus-based filesystem interface interactions with local file systems, enabling automated file management and data processing tasks.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "quarkus-based",
+    "filesystem",
+    "interface",
+    "automated",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "46dc92b8-4795-4daf-b901-5e9e7e539aac"
+}

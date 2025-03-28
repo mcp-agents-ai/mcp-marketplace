@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gyger/mcp-pyzotero",
+  "githubUrl": "https://github.com/gyger/mcp-pyzotero",
+  "name": "Zotero",
+  "author": "gyger",
+  "description": "Integrates local Zotero libraries, enabling natural language interactions for exploring and analyzing personal research collections.",
+  "codiconIcon": "zotero",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "zotero",
+    "integrates",
+    "local",
+    "enabling",
+    "language"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "bac1c03d-615b-44f1-92e2-41ee6da1ea35"
+}

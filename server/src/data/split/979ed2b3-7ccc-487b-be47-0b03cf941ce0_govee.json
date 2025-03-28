@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mathd/govee_mcp_server",
+  "githubUrl": "https://github.com/mathd/govee_mcp_server",
+  "name": "Govee",
+  "author": "mathd",
+  "description": "Integrates with Govee smart lighting devices to enable natural language control of brightness, color, and power settings for home automation and ambient lighting scenarios.",
+  "codiconIcon": "govee",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "scenarios",
+    "govee",
+    "enable",
+    "ambient",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "979ed2b3-7ccc-487b-be47-0b03cf941ce0"
+}

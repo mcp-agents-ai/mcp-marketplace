@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RegiByte/todo-list-mcp",
+  "githubUrl": "https://github.com/RegiByte/todo-list-mcp",
+  "name": "Todo List",
+  "author": "RegiByte",
+  "description": "Provides a SQLite-based todo list API for creating, reading, updating, and deleting tasks, suitable for basic task management applications.",
+  "codiconIcon": "todo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applications",
+    "todo-list",
+    "provides",
+    "sqlite-based",
+    "creating"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "24f7e9e6-1519-4b3e-af7d-dcce93656baa"
+}

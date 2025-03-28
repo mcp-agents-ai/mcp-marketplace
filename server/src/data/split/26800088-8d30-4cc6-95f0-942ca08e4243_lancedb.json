@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RyanLisse/lancedb_mcp",
+  "githubUrl": "https://github.com/RyanLisse/lancedb_mcp",
+  "name": "LanceDB",
+  "author": "RyanLisse",
+  "description": "Integrates with LanceDB vector database to enable efficient storage, retrieval, and similarity search of vector embeddings with associated metadata for semantic search and recommendation systems.",
+  "codiconIcon": "lancedb",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "semantic",
+    "retrieval",
+    "recommendation",
+    "integrates",
+    "storage"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "26800088-8d30-4cc6-95f0-942ca08e4243"
+}

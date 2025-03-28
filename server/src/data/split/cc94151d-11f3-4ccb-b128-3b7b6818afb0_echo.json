@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/Garoth/echo-mcp",
+  "githubUrl": "https://github.com/Garoth/echo-mcp",
+  "name": "Echo",
+  "author": "Garoth",
+  "description": "A simple testing utility that echoes back any message it receives, useful for validating MCP functionality and connections.",
+  "codiconIcon": "reply",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/echo.png",
+  "category": "developer-tools",
+  "tags": [
+    "testing",
+    "debugging",
+    "validation",
+    "echo",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 6,
+  "downloadCount": 2431,
+  "createdAt": "2025-03-18T05:52:43.105423Z",
+  "updatedAt": "2025-03-18T05:52:43.105423Z",
+  "hubId": "cc94151d-11f3-4ccb-b128-3b7b6818afb0"
+}

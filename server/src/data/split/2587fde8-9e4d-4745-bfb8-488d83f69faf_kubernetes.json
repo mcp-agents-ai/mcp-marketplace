@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/strowk/mcp-k8s-go",
+  "githubUrl": "https://github.com/strowk/mcp-k8s-go",
+  "name": "Kubernetes",
+  "author": "strowk",
+  "description": "Control and monitor K8s clusters for management and debugging.",
+  "codiconIcon": "kubernetes",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "monitor",
+    "clusters",
+    "management",
+    "debugging",
+    "kubernetes"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "2587fde8-9e4d-4745-bfb8-488d83f69faf"
+}

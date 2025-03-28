@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JoshMayerr/mcp-x",
+  "githubUrl": "https://github.com/JoshMayerr/mcp-x",
+  "name": "X (Twitter)",
+  "author": "JoshMayerr",
+  "description": "Integrates with X using real browser APIs to bypass rate limits and enable extensive social media operations and data analysis.",
+  "codiconIcon": "x",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "media",
+    "analysis",
+    "integrates",
+    "browser",
+    "social"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "ce1b9416-f2e7-4eb6-8bc7-d44120363260"
+}

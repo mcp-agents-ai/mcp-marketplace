@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/james2037/mcp-gatherer",
+  "githubUrl": "https://github.com/james2037/mcp-gatherer",
+  "name": "Magic: The Gathering",
+  "author": "james2037",
+  "description": "Integrates Magic: The Gathering data sources to provide unified access for card searches, rules lookup, and set information retrieval.",
+  "codiconIcon": "magic:",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "magic:-the-gathering",
+    "provide",
+    "access",
+    "searches",
+    "rules"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "1a56c6d2-384d-45ee-9356-62aa3fbd65a1"
+}

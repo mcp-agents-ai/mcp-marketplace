@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/strickvl/mcp-beeminder",
+  "githubUrl": "https://github.com/strickvl/mcp-beeminder",
+  "name": "Beeminder",
+  "author": "strickvl",
+  "description": "Integrates with the Beeminder API to enable retrieval and analysis of personal productivity goals and progress data.",
+  "codiconIcon": "beeminder",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "beeminder",
+    "enable",
+    "retrieval",
+    "analysis",
+    "personal"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "4dc39706-f689-4218-a3df-e2ef0b5e08ce"
+}

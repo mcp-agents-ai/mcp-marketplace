@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/artillect/mtg-mcp-servers",
+  "githubUrl": "https://github.com/artillect/mtg-mcp-servers",
+  "name": "MTG Deck Manager",
+  "author": "artillect",
+  "description": "Integrates with Magic: The Gathering resources to enable deck management, card drawing, hand manipulation, and Scryfall API searches for comprehensive card information retrieval and game simulation.",
+  "codiconIcon": "mtg",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "drawing",
+    "searches",
+    "manipulation",
+    "scryfall",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "44da2f3c-f763-4aa3-b95f-7dc75da265a9"
+}

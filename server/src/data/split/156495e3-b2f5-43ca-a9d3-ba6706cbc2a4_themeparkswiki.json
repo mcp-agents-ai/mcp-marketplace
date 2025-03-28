@@ -1,0 +1,22 @@
+{
+  "mcpId": "https://github.com/habuma/tpapi-mcp-server",
+  "githubUrl": "https://github.com/habuma/tpapi-mcp-server",
+  "name": "ThemeParks.wiki",
+  "author": "habuma",
+  "description": "Exposes data from the ThemeParks.wiki API as tools.",
+  "codiconIcon": "themeparks.wiki",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "themeparks.wiki",
+    "exposes",
+    "tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "156495e3-b2f5-43ca-a9d3-ba6706cbc2a4"
+}

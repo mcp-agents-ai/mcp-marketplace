@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/random-robbie/mcp-web-browser",
+  "githubUrl": "https://github.com/random-robbie/mcp-web-browser",
+  "name": "Web Browser (Playwright)",
+  "author": "random-robbie",
+  "description": "Integrates with Playwright to enable cross-browser web automation for tasks like scraping, testing, and content extraction.",
+  "codiconIcon": "web",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "web-browser-(playwright)",
+    "integrates",
+    "playwright",
+    "enable",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "fc68f74c-2c0c-4728-a717-3411cf93bb7b"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mrrobotke/django-migrations-mcp",
+  "githubUrl": "https://github.com/mrrobotke/django-migrations-mcp",
+  "name": "Django Migrations",
+  "author": "mrrobotke",
+  "description": "Integrates Django migrations across distributed services, enabling coordinated database schema changes and enhanced migration safety for large-scale projects.",
+  "codiconIcon": "django",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "django",
+    "schema",
+    "migration",
+    "integrates",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "5e9ef150-ceb2-4bc6-aa83-d50ce5dab27a"
+}

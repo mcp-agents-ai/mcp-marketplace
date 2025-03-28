@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mattlevine/brightsy-mcp",
+  "githubUrl": "https://github.com/mattlevine/brightsy-mcp",
+  "name": "Brightsy",
+  "author": "mattlevine",
+  "description": "Provides a bridge to an OpenAI-compatible agent for seamless integration of task automation, natural language processing, and interactive chat functionalities within larger systems or applications.",
+  "codiconIcon": "brightsy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "brightsy",
+    "bridge",
+    "seamless",
+    "integration",
+    "automation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "701e94ee-2eba-4a4e-9d13-47b110d14207"
+}

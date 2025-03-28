@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ashwanth1109/mcp-spotify",
+  "githubUrl": "https://github.com/ashwanth1109/mcp-spotify",
+  "name": "Spotify",
+  "author": "ashwanth1109",
+  "description": "Integrates with Spotify to enable music playback control, playlist management, and user data retrieval for personalized music experiences",
+  "codiconIcon": "spotify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "spotify",
+    "integrates",
+    "playback",
+    "control",
+    "management"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "3ab1ccb5-8c5f-438d-9fca-a66782c10655"
+}

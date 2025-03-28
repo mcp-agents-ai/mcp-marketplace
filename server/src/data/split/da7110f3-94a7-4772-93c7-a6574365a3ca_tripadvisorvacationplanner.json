@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hhw67865/tripadvisor-mcp-server",
+  "githubUrl": "https://github.com/hhw67865/tripadvisor-mcp-server",
+  "name": "TripAdvisor Vacation Planner",
+  "author": "hhw67865",
+  "description": "Integrates with TripAdvisor's API to enable vacation planning, destination exploration, and informed decision-making about accommodations and activities through location searches, nearby discovery, and interactive itinerary creation.",
+  "codiconIcon": "tripadvisor",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "tripadvisor's",
+    "enable",
+    "accommodations",
+    "activities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "da7110f3-94a7-4772-93c7-a6574365a3ca"
+}

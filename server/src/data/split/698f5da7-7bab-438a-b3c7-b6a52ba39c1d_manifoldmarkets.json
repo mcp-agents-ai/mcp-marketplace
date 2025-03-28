@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bmorphism/manifold-mcp-server",
+  "githubUrl": "https://github.com/bmorphism/manifold-mcp-server",
+  "name": "Manifold Markets",
+  "author": "bmorphism",
+  "description": "Integrates with Manifold Markets prediction markets, enabling market search, analysis, betting, and portfolio management with precise limit orders and advanced filtering.",
+  "codiconIcon": "manifold",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "portfolio",
+    "filtering",
+    "enabling",
+    "precise",
+    "orders"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "698f5da7-7bab-438a-b3c7-b6a52ba39c1d"
+}

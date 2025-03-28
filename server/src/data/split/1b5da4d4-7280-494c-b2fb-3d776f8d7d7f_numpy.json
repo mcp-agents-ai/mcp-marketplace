@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/colesmcintosh/numpy-mcp",
+  "githubUrl": "https://github.com/colesmcintosh/numpy-mcp",
+  "name": "NumPy",
+  "author": "colesmcintosh",
+  "description": "Provides NumPy-based mathematical operations and statistical analysis tools for advanced numerical computations, data analysis, and linear algebra operations in Python environments.",
+  "codiconIcon": "numpy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "provides",
+    "numpy-based",
+    "advanced",
+    "linear",
+    "algebra"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "1b5da4d4-7280-494c-b2fb-3d776f8d7d7f"
+}

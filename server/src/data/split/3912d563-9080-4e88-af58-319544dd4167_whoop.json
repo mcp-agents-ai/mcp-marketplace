@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ctvidic/whoop-mcp-server",
+  "githubUrl": "https://github.com/ctvidic/whoop-mcp-server",
+  "name": "Whoop",
+  "author": "ctvidic",
+  "description": "Integrates with the Whoop API to retrieve and process fitness data, enabling applications to incorporate health metrics and performance analysis.",
+  "codiconIcon": "whoop",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "applications",
+    "health",
+    "metrics",
+    "whoop"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "3912d563-9080-4e88-af58-319544dd4167"
+}

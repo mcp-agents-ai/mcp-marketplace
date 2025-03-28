@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/epaproditus/google-workspace-mcp-server",
+  "githubUrl": "https://github.com/epaproditus/google-workspace-mcp-server",
+  "name": "Google Workspace",
+  "author": "epaproditus",
+  "description": "Integrates with Gmail and Google Calendar APIs to enable email and calendar management tasks like listing, searching, and modifying emails, as well as creating and updating events.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "google",
+    "calendar",
+    "management",
+    "events",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "26ac5580-1a04-4480-8a08-46a9b644f2fb"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/openSVM/zig-mcp-server",
+  "githubUrl": "https://github.com/openSVM/zig-mcp-server",
+  "name": "Zig",
+  "author": "openSVM",
+  "description": "Integrates with Zig tooling to provide code optimization, analysis, and generation capabilities for efficient Zig development.",
+  "codiconIcon": "zig",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "zig",
+    "integrates",
+    "tooling",
+    "provide",
+    "optimization"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "078c5c1e-892f-46fd-8646-e9a884f36fc0"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kanapuli/kafka-mcp-server",
+  "githubUrl": "https://github.com/kanapuli/kafka-mcp-server",
+  "name": "Kafka",
+  "author": "kanapuli",
+  "description": "Integrates with Apache Kafka message brokers to enable topic management, message publishing, and stream monitoring for event streaming architectures",
+  "codiconIcon": "kafka",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "apache",
+    "message",
+    "brokers",
+    "enable",
+    "topic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "d4f4d5c0-599a-4275-aac0-19f6fbf49bd3"
+}

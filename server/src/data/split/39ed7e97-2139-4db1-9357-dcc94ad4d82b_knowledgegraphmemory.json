@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/memory",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/memory",
+  "name": "Knowledge Graph Memory",
+  "author": "modelcontextprotocol",
+  "description": "Build and query persistent semantic networks for data management.",
+  "codiconIcon": "knowledge",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "networks",
+    "management",
+    "knowledge-graph-memory",
+    "build",
+    "query"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "39ed7e97-2139-4db1-9357-dcc94ad4d82b"
+}

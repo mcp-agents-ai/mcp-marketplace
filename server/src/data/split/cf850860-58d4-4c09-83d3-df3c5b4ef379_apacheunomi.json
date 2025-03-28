@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sergehuber/inoyu-mcp-unomi-server",
+  "githubUrl": "https://github.com/sergehuber/inoyu-mcp-unomi-server",
+  "name": "Apache Unomi",
+  "author": "sergehuber",
+  "description": "Maintain persistent user profiles and context across conversations.",
+  "codiconIcon": "apache",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "profiles",
+    "context",
+    "across",
+    "conversations",
+    "apache-unomi"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "cf850860-58d4-4c09-83d3-df3c5b4ef379"
+}

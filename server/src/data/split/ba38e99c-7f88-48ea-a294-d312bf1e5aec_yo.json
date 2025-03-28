@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://yo-mcp.com",
+  "githubUrl": "https://yo-mcp.com",
+  "name": "Yo",
+  "author": "",
+  "description": "Yo! MCP server is your personal notification hub.\n\nWith Yo! AI can get your attention by sending you email, SMS, WhatsApp, Web Hooks and even Voice Calls.\n\n\"AI, could you implement Dark Mode in my app and send me a Yo when you're done\"\n\n\"AI, could you research what the latest developments in Quantum Computing are and send me a Yo when you're done\"\n\nSign up at https://yo-mcp.com to get your personal server and configure your notification preferences.",
+  "codiconIcon": "yo",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/re70bfyfab.png",
+  "category": "tools",
+  "tags": [
+    "notification",
+    "sending",
+    "email",
+    "whatsapp",
+    "you're"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-14T22:19:59.780817+00:00",
+  "updatedAt": "2025-03-14T22:19:59.780817+00:00",
+  "hubId": "ba38e99c-7f88-48ea-a294-d312bf1e5aec"
+}

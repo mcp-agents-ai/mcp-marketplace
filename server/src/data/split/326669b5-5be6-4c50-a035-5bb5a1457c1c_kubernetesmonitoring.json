@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vlttnv/k8s-mcp",
+  "githubUrl": "https://github.com/vlttnv/k8s-mcp",
+  "name": "Kubernetes Monitoring",
+  "author": "vlttnv",
+  "description": "Provides a read-only interface for querying Kubernetes clusters, enabling detailed retrieval of information about namespaces, pods, nodes, deployments, services, and events for monitoring and troubleshooting.",
+  "codiconIcon": "kubernetes",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "detailed",
+    "information",
+    "monitoring",
+    "kubernetes-monitoring",
+    "read-only"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "326669b5-5be6-4c50-a035-5bb5a1457c1c"
+}

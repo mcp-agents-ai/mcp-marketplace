@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/raccoonaihq/raccoonai-mcp-server",
+  "githubUrl": "https://github.com/raccoonaihq/raccoonai-mcp-server",
+  "name": "Raccoon AI (LAM API)",
+  "author": "raccoonaihq",
+  "description": "Enables web browsing, data extraction, and task automation through Raccoon's LAM API, allowing users to search websites, fill forms, navigate UI elements, and extract structured data based on defined schemas.",
+  "codiconIcon": "raccoon",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "structured",
+    "through",
+    "allowing",
+    "based",
+    "schemas"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "5194f2da-41e8-4a64-8628-decb1bb8f91a"
+}

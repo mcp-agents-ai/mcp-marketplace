@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ngeojiajun/mcp-code-snippets",
+  "githubUrl": "https://github.com/ngeojiajun/mcp-code-snippets",
+  "name": "Code Snippet Manager",
+  "author": "ngeojiajun",
+  "description": "Manages and stores code snippets across languages, enabling creation, listing, and deletion with flexible filtering and tagging.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "creation",
+    "manages",
+    "stores",
+    "enabling",
+    "listing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "27c5d48c-e762-488d-a2cc-0838dba39a28"
+}

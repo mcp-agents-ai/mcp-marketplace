@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PhialsBasement/Zonos-TTS-MCP",
+  "githubUrl": "https://github.com/PhialsBasement/Zonos-TTS-MCP",
+  "name": "Zonos TTS",
+  "author": "PhialsBasement",
+  "description": "Integrates with Zonos TTS API to generate expressive, multi-language speech output for AI applications using PulseAudio playback",
+  "codiconIcon": "zonos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "zonos",
+    "generate",
+    "multi-language",
+    "pulseaudio"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "27bfede9-9ace-49c9-abf8-695bd63c1ad2"
+}

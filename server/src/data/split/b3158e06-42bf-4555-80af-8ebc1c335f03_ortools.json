@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Jacck/mcp-ortools",
+  "githubUrl": "https://github.com/Jacck/mcp-ortools",
+  "name": "OR-Tools",
+  "author": "Jacck",
+  "description": "Integrates Google's OR-Tools to solve constraint satisfaction and optimization problems for decision-making in logistics and operations research.",
+  "codiconIcon": "or-tools",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "logistics",
+    "operations",
+    "research",
+    "or-tools",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "b3158e06-42bf-4555-80af-8ebc1c335f03"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Braffolk/mcp-summarization-functions",
+  "githubUrl": "https://github.com/Braffolk/mcp-summarization-functions",
+  "name": "Summarization",
+  "author": "Braffolk",
+  "description": "Provides summarized output from various actions, optimizing token usage for efficient processing of large datasets and language models.",
+  "codiconIcon": "summarization",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "datasets",
+    "summarization",
+    "optimizing",
+    "language",
+    "summarized"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "8b62c4f5-5efa-456a-860f-c705487b8200"
+}

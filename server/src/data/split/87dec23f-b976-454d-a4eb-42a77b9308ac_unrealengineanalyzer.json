@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ayeletstudioindia/unreal-analyzer-mcp",
+  "githubUrl": "https://github.com/ayeletstudioindia/unreal-analyzer-mcp",
+  "name": "Unreal Engine Analyzer",
+  "author": "ayeletstudioindia",
+  "description": "Analyzes Unreal Engine codebases, enabling deep insights into class hierarchies, subsystems, and game patterns.",
+  "codiconIcon": "unreal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "subsystems",
+    "unreal",
+    "enabling",
+    "patterns",
+    "unreal-engine-analyzer"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "87dec23f-b976-454d-a4eb-42a77b9308ac"
+}

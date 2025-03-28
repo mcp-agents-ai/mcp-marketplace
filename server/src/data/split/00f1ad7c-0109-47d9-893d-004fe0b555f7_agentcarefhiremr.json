@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Kartha-AI/agentcare-mcp",
+  "githubUrl": "https://github.com/Kartha-AI/agentcare-mcp",
+  "name": "AgentCare (FHIR EMR)",
+  "author": "Kartha-AI",
+  "description": "Integrates with FHIR-enabled EMR systems to provide healthcare tools for patient data retrieval, medical research integration, and AI-assisted clinical analysis.",
+  "codiconIcon": "agentcare",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "patient",
+    "research",
+    "agentcare-(fhir-emr)",
+    "tools"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "00f1ad7c-0109-47d9-893d-004fe0b555f7"
+}

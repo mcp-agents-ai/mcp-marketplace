@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pierrebrunelle/mcp-server-openai",
+  "githubUrl": "https://github.com/pierrebrunelle/mcp-server-openai",
+  "name": "OpenAI",
+  "author": "pierrebrunelle",
+  "description": "Leverage OpenAI's language models through a standardized interface.",
+  "codiconIcon": "openai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "leverage",
+    "openai's",
+    "language",
+    "models",
+    "through"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "c367783e-233e-4356-83e8-ce44d35ffb54"
+}

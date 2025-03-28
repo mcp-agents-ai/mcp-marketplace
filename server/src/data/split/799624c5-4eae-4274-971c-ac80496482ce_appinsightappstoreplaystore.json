@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JiantaoFu/AppInsightMCP",
+  "githubUrl": "https://github.com/JiantaoFu/AppInsightMCP",
+  "name": "AppInsight (App Store / Play Store)",
+  "author": "JiantaoFu",
+  "description": "Analyze data from both the Apple App Store and Google Play Store",
+  "codiconIcon": "appinsight",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "appinsight-(app-store-/-play-store)",
+    "analyze",
+    "apple",
+    "store",
+    "google"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "799624c5-4eae-4274-971c-ac80496482ce"
+}

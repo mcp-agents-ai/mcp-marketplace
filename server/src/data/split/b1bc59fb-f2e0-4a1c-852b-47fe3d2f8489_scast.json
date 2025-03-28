@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/davidkingzyb/SCAST",
+  "githubUrl": "https://github.com/davidkingzyb/SCAST",
+  "name": "SCAST",
+  "author": "davidkingzyb",
+  "description": "SCAST is a tool designed to assist users in analyzing and summarizing code through visualization. \nBy simply providing the folder path where the code is located, \nSCAST can perform static analysis on the code, helping users understand the code structure, explain its functionality.\ngenerate various visual charts such as UML diagrams, AST tree diagrams and Mermaid flowcharts.",
+  "codiconIcon": "scast",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/7m9k0ox4pz2.webp",
+  "category": "tools",
+  "tags": [
+    "static",
+    "generate",
+    "charts",
+    "users",
+    "analyzing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-22T11:35:24.448304+00:00",
+  "updatedAt": "2025-03-22T11:35:24.448304+00:00",
+  "hubId": "b1bc59fb-f2e0-4a1c-852b-47fe3d2f8489"
+}

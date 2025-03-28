@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/boorich/mcp-human-loop",
+  "githubUrl": "https://github.com/boorich/mcp-human-loop",
+  "name": "Human In The Loop",
+  "author": "boorich",
+  "description": "Facilitates human-in-the-loop processes for AI workflows, enabling seamless integration of human judgment in tasks like content moderation, complex problem-solving, and ethical AI implementations.",
+  "codiconIcon": "human",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "processes",
+    "workflows",
+    "enabling",
+    "judgment",
+    "human-in-the-loop"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "1aad251d-8153-48e7-b8d7-b0b0219943b2"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rishijatia/fantasy-pl-mcp",
+  "githubUrl": "https://github.com/rishijatia/fantasy-pl-mcp",
+  "name": "Fantasy Premier League",
+  "author": "rishijatia",
+  "description": "Integrates with Fantasy Premier League data to provide player statistics, team information, and analytical tools for making informed fantasy football management decisions.",
+  "codiconIcon": "fantasy",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "player",
+    "statistics",
+    "making",
+    "management",
+    "analytical"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "7b43b92f-6e6d-4a57-8447-74764acc11de"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/akc2267/solana-mcp-server",
+  "githubUrl": "https://github.com/akc2267/solana-mcp-server",
+  "name": "Solana",
+  "author": "akc2267",
+  "description": "Integrates with Solana blockchain using Web3.js, enabling automated transactions, smart contract deployments, and blockchain analytics.",
+  "codiconIcon": "solana",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "solana",
+    "integrates",
+    "blockchain",
+    "web3.js",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "78287ca8-0507-4d2b-a47d-ea1289610b74"
+}

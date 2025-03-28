@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/manimohans/verge-news-mcp",
+  "githubUrl": "https://github.com/manimohans/verge-news-mcp",
+  "name": "The Verge News",
+  "author": "manimohans",
+  "description": "Integrates with The Verge's RSS feed to provide up-to-date technology news, offering tools for fetching daily and weekly updates and searching specific topics within customizable time ranges.",
+  "codiconIcon": "the",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "updates",
+    "specific",
+    "within",
+    "customizable",
+    "the-verge-news"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "3dd30175-c8d4-4d2e-9e00-3467885e2a4f"
+}

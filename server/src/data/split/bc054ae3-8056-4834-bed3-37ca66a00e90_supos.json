@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/FREEZONEX/mcp-server-supos",
+  "githubUrl": "https://github.com/FREEZONEX/mcp-server-supos",
+  "name": "SUPOS",
+  "author": "FREEZONEX",
+  "description": "Integrates with SUPOS platform, enabling applications to leverage SUPOS services and capabilities within MCP-based workflows.",
+  "codiconIcon": "supos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "workflows",
+    "enabling",
+    "leverage",
+    "within",
+    "supos"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "bc054ae3-8056-4834-bed3-37ca66a00e90"
+}

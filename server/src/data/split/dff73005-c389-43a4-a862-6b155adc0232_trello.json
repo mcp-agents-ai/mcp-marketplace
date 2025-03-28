@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/delorenj/mcp-server-trello",
+  "githubUrl": "https://github.com/delorenj/mcp-server-trello",
+  "name": "Trello",
+  "author": "delorenj",
+  "description": "Enables Trello board interactions for task and project management using the Trello REST API.",
+  "codiconIcon": "trello",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "trello",
+    "enables",
+    "board",
+    "interactions",
+    "project"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "dff73005-c389-43a4-a862-6b155adc0232"
+}

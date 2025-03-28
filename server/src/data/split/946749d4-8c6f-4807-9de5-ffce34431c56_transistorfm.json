@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/gxjansen/Transistor-MCP",
+  "githubUrl": "https://github.com/gxjansen/Transistor-MCP",
+  "name": "Transistor.fm",
+  "author": "gxjansen",
+  "description": "Integrates with Transistor.fm's API to manage podcasts, episodes, analytics, and subscribers for automating podcast workflows.",
+  "codiconIcon": "transistor.fm",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "transistor.fm's",
+    "manage",
+    "podcasts",
+    "episodes"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "946749d4-8c6f-4807-9de5-ffce34431c56"
+}

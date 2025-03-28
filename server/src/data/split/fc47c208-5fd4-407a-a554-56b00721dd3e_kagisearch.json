@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/apridachin/kagi-search-mcp",
+  "githubUrl": "https://github.com/apridachin/kagi-search-mcp",
+  "name": "Kagi Search",
+  "author": "apridachin",
+  "description": "Integrates Kagi search API to provide web search, news retrieval, and fast GPT-powered question answering for up-to-date information access and content enrichment.",
+  "codiconIcon": "kagi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "retrieval",
+    "answering",
+    "up-to-date",
+    "information",
+    "gpt-powered"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "fc47c208-5fd4-407a-a554-56b00721dd3e"
+}

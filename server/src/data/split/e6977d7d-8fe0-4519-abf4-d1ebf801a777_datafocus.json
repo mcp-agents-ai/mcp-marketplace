@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/FocusSearch/focus_mcp_data",
+  "githubUrl": "https://github.com/FocusSearch/focus_mcp_data",
+  "name": "Datafocus",
+  "author": "FocusSearch",
+  "description": "Interface with Datafocus data tables via natural language.",
+  "codiconIcon": "datafocus",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tables",
+    "natural",
+    "language",
+    "datafocus",
+    "interface"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "e6977d7d-8fe0-4519-abf4-d1ebf801a777"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/index01d/ytrnscrpt-mcp-server",
+  "githubUrl": "https://github.com/index01d/ytrnscrpt-mcp-server",
+  "name": "YouTube Transcript",
+  "author": "index01d",
+  "description": "Integrates with YouTube's transcript functionality to fetch and analyze video content, enabling applications like summarization, keyword extraction, and sentiment analysis.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "applications",
+    "analysis",
+    "youtube-transcript",
+    "integrates",
+    "fetch"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "fce38121-6958-4092-a012-1770f67bbad5"
+}

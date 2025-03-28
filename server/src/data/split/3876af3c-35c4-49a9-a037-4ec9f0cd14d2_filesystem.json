@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ai-yliu/filesystem-mcp-server",
+  "githubUrl": "https://github.com/ai-yliu/filesystem-mcp-server",
+  "name": "Filesystem",
+  "author": "ai-yliu",
+  "description": "Provides secure filesystem operations for reading, writing, and manipulating files and directories within specified access boundaries.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "filesystem",
+    "provides",
+    "reading",
+    "manipulating",
+    "files"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "3876af3c-35c4-49a9-a037-4ec9f0cd14d2"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/twolven/mcp-codesavant",
+  "githubUrl": "https://github.com/twolven/mcp-codesavant",
+  "name": "CodeSavant Coding Assistant",
+  "author": "twolven",
+  "description": "Provides a robust code management and execution interface for reading, writing, versioning, and running code across multiple projects and languages.",
+  "codiconIcon": "codesavant",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "robust",
+    "execution",
+    "versioning",
+    "multiple",
+    "projects"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "9304210d-9ae7-4a07-9b57-a1553ac608e3"
+}

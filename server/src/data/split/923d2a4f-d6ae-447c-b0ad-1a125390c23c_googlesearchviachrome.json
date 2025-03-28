@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cmann50/mcp-chrome-google-search",
+  "githubUrl": "https://github.com/cmann50/mcp-chrome-google-search",
+  "name": "Google Search (via Chrome)",
+  "author": "cmann50",
+  "description": "Integrates Google search and webpage content extraction via Chrome browser automation, enabling access up-to-date web information for tasks like fact-checking and research.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "integrates",
+    "content",
+    "chrome",
+    "automation",
+    "fact-checking"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "923d2a4f-d6ae-447c-b0ad-1a125390c23c"
+}

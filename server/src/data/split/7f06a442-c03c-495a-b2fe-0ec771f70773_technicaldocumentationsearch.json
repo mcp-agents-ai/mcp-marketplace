@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MaitreyaM/Custom-MCP-server",
+  "githubUrl": "https://github.com/MaitreyaM/Custom-MCP-server",
+  "name": "Technical Documentation Search",
+  "author": "MaitreyaM",
+  "description": "Provides AI assistants with access to technical documentation from LangChain, LlamaIndex, and OpenAI libraries through a specialized search tool that leverages the Brave Search API to find, fetch, and extract relevant content.",
+  "codiconIcon": "technical",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "leverages",
+    "fetch",
+    "technical-documentation-search",
+    "technical",
+    "openai"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "7f06a442-c03c-495a-b2fe-0ec771f70773"
+}

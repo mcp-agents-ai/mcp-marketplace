@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kivo360/anthropic-mcp-code-analyzer",
+  "githubUrl": "https://github.com/kivo360/anthropic-mcp-code-analyzer",
+  "name": "Code Analyzer",
+  "author": "kivo360",
+  "description": "Integrates with open source projects to analyze codebases, detect patterns, and generate intelligent merge strategies for streamlined integration and refactoring.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "intelligent",
+    "strategies",
+    "refactoring",
+    "codebases",
+    "detect"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "aae7dbbb-cdf1-4aac-99e0-5a44e28813de"
+}

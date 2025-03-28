@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/gitlab",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab",
+  "name": "GitLab",
+  "author": "modelcontextprotocol",
+  "description": "Enables comprehensive GitLab project management including file operations, issue tracking, merge requests, and repository management through the GitLab API.",
+  "codiconIcon": "git-merge",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/gitlab.png",
+  "category": "version-control",
+  "tags": [
+    "gitlab",
+    "git",
+    "repository-management",
+    "collaboration",
+    "ci-cd"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24268,
+  "downloadCount": 1481,
+  "createdAt": "2025-02-17T22:46:26.88278Z",
+  "updatedAt": "2025-02-17T22:46:26.88278Z",
+  "hubId": "f376bea2-dc8f-4e14-9488-b0a7345a82eb"
+}

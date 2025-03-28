@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/hugobiais/wordware-mcp",
+  "githubUrl": "https://github.com/hugobiais/wordware-mcp",
+  "name": "Wordware",
+  "author": "hugobiais",
+  "description": "Integrates with Wordware's deployed flows to enable founder research, lead enrichment, Notion integration, and task solving with Google search and API capabilities.",
+  "codiconIcon": "wordware",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "capabilities",
+    "research",
+    "notion",
+    "integrates",
+    "wordware's"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "77d1c8e9-0b29-40a9-9910-61d69de459e5"
+}

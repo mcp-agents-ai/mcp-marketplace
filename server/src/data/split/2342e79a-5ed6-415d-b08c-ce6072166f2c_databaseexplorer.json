@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/wirdes/db-mcp-tool",
+  "githubUrl": "https://github.com/wirdes/db-mcp-tool",
+  "name": "Database Explorer",
+  "author": "wirdes",
+  "description": "Provides a unified interface for exploring and managing PostgreSQL, MySQL, and Firestore databases through specialized commands for listing tables, viewing triggers, executing SQL queries, and exporting schemas or data.",
+  "codiconIcon": "database",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "listing",
+    "data",
+    "database-explorer",
+    "interface",
+    "exploring"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "2342e79a-5ed6-415d-b08c-ce6072166f2c"
+}

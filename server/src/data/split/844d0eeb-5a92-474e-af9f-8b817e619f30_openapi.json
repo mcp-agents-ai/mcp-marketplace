@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rmasters/mcp-openapi",
+  "githubUrl": "https://github.com/rmasters/mcp-openapi",
+  "name": "OpenAPI",
+  "author": "rmasters",
+  "description": "Dynamically generates tools from OpenAPI specifications, enabling seamless interaction with a wide range of RESTful APIs for flexible service integration and rapid prototyping.",
+  "codiconIcon": "openapi",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "openapi",
+    "dynamically",
+    "generates",
+    "tools",
+    "enabling"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "844d0eeb-5a92-474e-af9f-8b817e619f30"
+}

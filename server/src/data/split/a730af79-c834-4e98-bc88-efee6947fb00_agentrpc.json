@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/agentrpc/agentrpc",
+  "githubUrl": "https://github.com/agentrpc/agentrpc",
+  "name": "AgentRPC",
+  "author": "agentrpc",
+  "description": "AgentRPC allows you to connect to any function, in any language, across network boundaries.\n\nAgentRPC wraps your functions in a universal RPC interface, connecting them to a hosted RPC server accessible through open standards such as MCP.",
+  "codiconIcon": "agentrpc",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/itlj0rrti3.ico",
+  "category": "tools",
+  "tags": [
+    "boundaries",
+    "wraps",
+    "functions",
+    "server",
+    "agentrpc"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-19T22:00:40.798554+00:00",
+  "updatedAt": "2025-03-19T22:00:40.798554+00:00",
+  "hubId": "a730af79-c834-4e98-bc88-efee6947fb00"
+}

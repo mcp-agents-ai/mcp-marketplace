@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Quantum-369/Gmail-mcp-server",
+  "githubUrl": "https://github.com/Quantum-369/Gmail-mcp-server",
+  "name": "Gmail",
+  "author": "Quantum-369",
+  "description": "Integrates with Gmail APIs to enable reading, sending, and managing emails across multiple accounts, supporting automated email processing and workflow integration.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "reading",
+    "sending",
+    "managing",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "bd82c8df-a5c6-4fed-b101-b48047199c7d"
+}

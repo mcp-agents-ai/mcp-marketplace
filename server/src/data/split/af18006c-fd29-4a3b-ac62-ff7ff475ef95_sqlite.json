@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/emiryasar/mcp_code_analyzer",
+  "githubUrl": "https://github.com/emiryasar/mcp_code_analyzer",
+  "name": "SQLite",
+  "author": "emiryasar",
+  "description": "Provides a lightweight SQLite-based storage solution, supporting basic CRUD operations for small to medium-scale projects.",
+  "codiconIcon": "sqlite",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "operations",
+    "projects",
+    "sqlite",
+    "provides",
+    "lightweight"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "af18006c-fd29-4a3b-ac62-ff7ff475ef95"
+}

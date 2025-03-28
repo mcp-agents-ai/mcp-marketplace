@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Sunwood-ai-labs/ideagram-mcp-server",
+  "githubUrl": "https://github.com/Sunwood-ai-labs/ideagram-mcp-server",
+  "name": "Ideogram Images",
+  "author": "Sunwood-ai-labs",
+  "description": "Integrates with the Ideogram API to enable image generation and manipulation based on textual descriptions or parameters",
+  "codiconIcon": "ideogram",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "enable",
+    "image",
+    "manipulation",
+    "textual"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "48c12d71-1ec8-40ef-a7d4-e4d0b107ef4c"
+}

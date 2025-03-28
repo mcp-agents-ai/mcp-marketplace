@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/seansoreilly/abs",
+  "githubUrl": "https://github.com/seansoreilly/abs",
+  "name": "Australian Bureau of Statistics",
+  "author": "seansoreilly",
+  "description": "Integrates with the Australian Bureau of Statistics API to provide access to statistical datasets for economic analysis, demographic research, and data-driven policy making.",
+  "codiconIcon": "australian",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "statistics",
+    "access",
+    "analysis",
+    "research",
+    "making"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "889ad89b-2df1-48b7-b629-a5a6544c5d89"
+}

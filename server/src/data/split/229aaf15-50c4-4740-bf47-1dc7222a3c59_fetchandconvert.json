@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tokenizin-agency/mcp-npx-fetch",
+  "githubUrl": "https://github.com/tokenizin-agency/mcp-npx-fetch",
+  "name": "Fetch and Convert",
+  "author": "tokenizin-agency",
+  "description": "Fetches and converts web content to Markdown using JSDOM and Turndown.",
+  "codiconIcon": "fetch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "fetches",
+    "converts",
+    "content",
+    "markdown",
+    "using"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.366219+00:00",
+  "updatedAt": "2025-03-17T08:29:23.366219+00:00",
+  "hubId": "229aaf15-50c4-4740-bf47-1dc7222a3c59"
+}

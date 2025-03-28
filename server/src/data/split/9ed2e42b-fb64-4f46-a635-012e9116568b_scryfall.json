@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cryppadotta/scryfall-mcp",
+  "githubUrl": "https://github.com/cryppadotta/scryfall-mcp",
+  "name": "Scryfall",
+  "author": "cryppadotta",
+  "description": "Integrates with the Scryfall Magic: The Gathering API to enable card searches, retrieval of card details, rulings, and pricing information for deck building and game analysis.",
+  "codiconIcon": "scryfall",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "searches",
+    "pricing",
+    "analysis",
+    "integrates",
+    "gathering"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "9ed2e42b-fb64-4f46-a635-012e9116568b"
+}

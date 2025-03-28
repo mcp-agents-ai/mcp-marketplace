@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/piddlingtuna/tfnsw-realtime-alerts-mcp-server",
+  "githubUrl": "https://github.com/piddlingtuna/tfnsw-realtime-alerts-mcp-server",
+  "name": "TfNSW Realtime Alerts",
+  "author": "piddlingtuna",
+  "description": "Integrates with Transport for NSW's Realtime Alerts API to retrieve, filter, and summarize up-to-date public transport disruptions and alerts across the NSW network.",
+  "codiconIcon": "tfnsw",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "realtime",
+    "alerts",
+    "retrieve",
+    "filter",
+    "up-to-date"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "2b75cf95-88a2-4bb4-848c-79ab4a035a4b"
+}

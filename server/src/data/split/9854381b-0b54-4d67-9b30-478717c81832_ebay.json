@@ -1,0 +1,23 @@
+{
+  "mcpId": "https://github.com/CooKey-Monster/EbayMcpServer",
+  "githubUrl": "https://github.com/CooKey-Monster/EbayMcpServer",
+  "name": "eBay",
+  "author": "CooKey-Monster",
+  "description": "Fetch auctions from ebay.com.",
+  "codiconIcon": "ebay",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "auctions",
+    "ebay.com",
+    "ebay",
+    "fetch"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "9854381b-0b54-4d67-9b30-478717c81832"
+}

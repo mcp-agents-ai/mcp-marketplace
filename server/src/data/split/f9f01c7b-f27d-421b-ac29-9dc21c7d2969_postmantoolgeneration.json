@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/giovannicocco/mcp-server-postman-tool-generation",
+  "githubUrl": "https://github.com/giovannicocco/mcp-server-postman-tool-generation",
+  "name": "Postman Tool Generation",
+  "author": "giovannicocco",
+  "description": "Integrates with Postman Tool Generation API to convert API collections into type-safe code for AI frameworks, enabling rapid development of AI-powered tools from existing API documentation.",
+  "codiconIcon": "postman",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "collections",
+    "frameworks",
+    "rapid",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "f9f01c7b-f27d-421b-ac29-9dc21c7d2969"
+}

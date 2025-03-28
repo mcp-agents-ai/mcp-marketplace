@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/xianzong85/mysql-server-MCP-Server",
+  "githubUrl": "https://github.com/xianzong85/mysql-server-MCP-Server",
+  "name": "MySQL",
+  "author": "xianzong85",
+  "description": "Connects AI systems to MySQL databases for executing SQL queries and performing complex data operations without direct database access.",
+  "codiconIcon": "mysql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "direct",
+    "access",
+    "connects",
+    "systems",
+    "executing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "bd4fe04d-5a37-4a95-978a-ccdf1599be0e"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rawveg/ollama-mcp",
+  "githubUrl": "https://github.com/rawveg/ollama-mcp",
+  "name": "Ollama",
+  "author": "rawveg",
+  "description": "Integrates Ollama's local LLM models with MCP-compatible applications, enabling on-premise AI processing and custom model deployment while maintaining data control.",
+  "codiconIcon": "ollama",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "ollama",
+    "integrates",
+    "ollama's",
+    "enabling",
+    "custom"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "d4d62f92-875d-416e-b6e6-99b32f6de0e3"
+}

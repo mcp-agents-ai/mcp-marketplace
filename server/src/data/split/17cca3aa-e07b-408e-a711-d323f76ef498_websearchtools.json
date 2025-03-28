@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/m4s1t4/webSearch-Tools",
+  "githubUrl": "https://github.com/m4s1t4/webSearch-Tools",
+  "name": "WebSearch Tools",
+  "author": "m4s1t4",
+  "description": "Integrates with web search APIs and crawling tools to enable internet-wide information retrieval, content extraction, and data mining capabilities for research and analysis tasks.",
+  "codiconIcon": "websearch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "analysis",
+    "search",
+    "mining",
+    "tools",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "17cca3aa-e07b-408e-a711-d323f76ef498"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/endaoment/endaoment-postgres-mcp",
+  "githubUrl": "https://github.com/endaoment/endaoment-postgres-mcp",
+  "name": "PostgreSQL Database",
+  "author": "endaoment",
+  "description": "Enables interaction with PostgreSQL databases for executing SQL queries, exploring table schemas, and performing data analysis with robust error handling and connection pooling.",
+  "codiconIcon": "postgresql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "enables",
+    "interaction",
+    "executing",
+    "exploring",
+    "table"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "7e791313-d4a7-490e-8b7c-f1e37dfe290a"
+}

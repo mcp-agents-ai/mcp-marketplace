@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/PhialsBasement/KoboldCPP-MCP-Server",
+  "githubUrl": "https://github.com/PhialsBasement/KoboldCPP-MCP-Server",
+  "name": "KoboldAI",
+  "author": "PhialsBasement",
+  "description": "Integrates KoboldAI's text generation, enabling local language model interactions for creative writing, chatbots, and content generation.",
+  "codiconIcon": "koboldai",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "generation",
+    "enabling",
+    "model",
+    "interactions",
+    "creative"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "aeb410c1-f7a6-4e14-85eb-b236a7dd6a76"
+}

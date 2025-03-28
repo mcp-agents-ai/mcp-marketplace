@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RyanCardin15/AzureDevOps-MCP",
+  "githubUrl": "https://github.com/RyanCardin15/AzureDevOps-MCP",
+  "name": "Azure DevOps",
+  "author": "RyanCardin15",
+  "description": "Integrates with Azure DevOps services to manage work items, code repositories, boards, sprints, and projects using TypeScript and the Model Context Protocol SDK.",
+  "codiconIcon": "azure",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "context",
+    "azure",
+    "devops",
+    "repositories",
+    "protocol"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "32c4054c-06c9-49d7-8aa2-ce59098e2dfa"
+}

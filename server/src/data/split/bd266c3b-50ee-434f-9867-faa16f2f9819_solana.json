@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aldrin-labs/solana-mcp-server",
+  "githubUrl": "https://github.com/aldrin-labs/solana-mcp-server",
+  "name": "Solana",
+  "author": "aldrin-labs",
+  "description": "Integrates with Solana blockchain to enable natural language querying of account data, transactions, and network status.",
+  "codiconIcon": "solana",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "data",
+    "network",
+    "solana",
+    "blockchain",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "bd266c3b-50ee-434f-9867-faa16f2f9819"
+}

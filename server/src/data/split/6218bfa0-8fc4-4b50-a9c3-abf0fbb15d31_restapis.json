@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jwaldor/mcp-api-expert",
+  "githubUrl": "https://github.com/jwaldor/mcp-api-expert",
+  "name": "REST APIs",
+  "author": "jwaldor",
+  "description": "Integrates any REST API by dynamically connecting to APIs using provided documentation and keys, enabling rapid prototyping of applications with real-time external data.",
+  "codiconIcon": "rest",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "rest-apis",
+    "integrates",
+    "documentation",
+    "keys",
+    "rapid"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "6218bfa0-8fc4-4b50-a9c3-abf0fbb15d31"
+}

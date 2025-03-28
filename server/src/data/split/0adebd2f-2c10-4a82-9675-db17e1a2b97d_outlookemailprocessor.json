@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Cam10001110101/mcp-server-outlook-email",
+  "githubUrl": "https://github.com/Cam10001110101/mcp-server-outlook-email",
+  "name": "Outlook Email Processor",
+  "author": "Cam10001110101",
+  "description": "Integrates with Outlook to provide email processing, semantic search, and metadata storage capabilities using MongoDB and SQLite, enabling advanced analysis and retrieval of email data in Windows environments.",
+  "codiconIcon": "outlook",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "provide",
+    "metadata",
+    "storage",
+    "mongodb"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "0adebd2f-2c10-4a82-9675-db17e1a2b97d"
+}

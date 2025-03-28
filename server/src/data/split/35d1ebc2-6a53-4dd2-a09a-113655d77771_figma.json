@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/smithery-ai/mcp-figma",
+  "githubUrl": "https://github.com/smithery-ai/mcp-figma",
+  "name": "Figma",
+  "author": "smithery-ai",
+  "description": "Integrates with the Figma API to enable design file operations, comment management, and access to design assets for AI-driven analysis and collaboration.",
+  "codiconIcon": "figma",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "operations",
+    "comment",
+    "ai-driven",
+    "figma",
+    "design"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "35d1ebc2-6a53-4dd2-a09a-113655d77771"
+}

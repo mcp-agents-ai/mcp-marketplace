@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/qpd-v/mcp-DEEPwebresearch",
+  "githubUrl": "https://github.com/qpd-v/mcp-DEEPwebresearch",
+  "name": "Deep Web Research",
+  "author": "qpd-v",
+  "description": "Enables deep web searches and content extraction through automated Google searches, webpage visits, and screenshot capture for comprehensive online research tasks.",
+  "codiconIcon": "deep",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "searches",
+    "extraction",
+    "through",
+    "automated",
+    "google"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "b1ab9125-d119-4328-a39d-d05cde3d8543"
+}

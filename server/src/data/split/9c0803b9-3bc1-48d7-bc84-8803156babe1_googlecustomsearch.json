@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Richard-Weiss/mcp-google-cse",
+  "githubUrl": "https://github.com/Richard-Weiss/mcp-google-cse",
+  "name": "Google Custom Search",
+  "author": "Richard-Weiss",
+  "description": "Integrates with Google Custom Search Engine API to enable web searches for fact-checking, research, and content generation with current data.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "integrates",
+    "google",
+    "custom",
+    "search",
+    "engine"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "9c0803b9-3bc1-48d7-bc84-8803156babe1"
+}

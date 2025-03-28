@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jasnonaz/vibe-worldbuilding-mcp",
+  "githubUrl": "https://github.com/jasnonaz/vibe-worldbuilding-mcp",
+  "name": "Vibe Worldbuilding",
+  "author": "jasnonaz",
+  "description": "Guides users through systematic worldbuilding with structured prompts and Google Imagen integration for generating visual representations of fictional universe elements",
+  "codiconIcon": "vibe",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "vibe-worldbuilding",
+    "users",
+    "structured",
+    "prompts",
+    "integration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "6461da7d-2c8a-4d81-9e88-4139a789cc72"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-embedding-search",
+  "githubUrl": "https://github.com/spences10/mcp-embedding-search",
+  "name": "Embedding Search",
+  "author": "spences10",
+  "description": "Provides embedding search capabilities for transcripts using a SQLite database, enabling efficient semantic retrieval of relevant text segments for applications like podcast analysis or content recommendation.",
+  "codiconIcon": "embedding",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "analysis",
+    "content",
+    "embedding-search",
+    "provides",
+    "semantic"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "72a721a0-98be-49d4-8c91-372c6c7aea57"
+}

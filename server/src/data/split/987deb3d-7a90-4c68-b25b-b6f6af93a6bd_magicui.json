@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/21st-dev/magic-mcp",
+  "githubUrl": "https://github.com/21st-dev/magic-mcp",
+  "name": "Magic UI",
+  "author": "21st-dev",
+  "description": "Create modern UI components instantly through natural language descriptions, with IDE integrations and access to a vast library of pre-built, customizable components.",
+  "codiconIcon": "layout",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/ui-component-generator.png",
+  "category": "developer-tools",
+  "tags": [
+    "ui-generation",
+    "component-library",
+    "ide-integration",
+    "typescript",
+    "react"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 688,
+  "downloadCount": 6292,
+  "createdAt": "2025-03-03T06:37:07.504691Z",
+  "updatedAt": "2025-03-03T06:37:07.504691Z",
+  "hubId": "987deb3d-7a90-4c68-b25b-b6f6af93a6bd"
+}

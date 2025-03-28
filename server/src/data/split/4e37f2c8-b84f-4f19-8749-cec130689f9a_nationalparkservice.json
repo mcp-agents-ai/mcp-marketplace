@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/amysatterlee/nps_mcp",
+  "githubUrl": "https://github.com/amysatterlee/nps_mcp",
+  "name": "National Park Service",
+  "author": "amysatterlee",
+  "description": "Integrates with the National Park Service API to provide structured park information for trip planning, exploration, and research applications.",
+  "codiconIcon": "national",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "national-park-service",
+    "information",
+    "exploration",
+    "research",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "4e37f2c8-b84f-4f19-8749-cec130689f9a"
+}

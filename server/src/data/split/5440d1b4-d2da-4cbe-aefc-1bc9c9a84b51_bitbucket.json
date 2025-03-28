@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/garc33/bitbucket-server-mcp-server",
+  "githubUrl": "https://github.com/garc33/bitbucket-server-mcp-server",
+  "name": "Bitbucket",
+  "author": "garc33",
+  "description": "Integrates with Bitbucket's API to streamline pull request workflows, enabling efficient code reviews and automated PR management.",
+  "codiconIcon": "bitbucket",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "streamline",
+    "request",
+    "workflows",
+    "enabling",
+    "reviews"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "5440d1b4-d2da-4cbe-aefc-1bc9c9a84b51"
+}

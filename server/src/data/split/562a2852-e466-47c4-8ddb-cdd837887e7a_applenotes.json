@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/packetnomad/cursor-mcp-apple-notes",
+  "githubUrl": "https://github.com/packetnomad/cursor-mcp-apple-notes",
+  "name": "Apple Notes",
+  "author": "packetnomad",
+  "description": "Integrates with Apple Notes on macOS, enabling direct searching, reading, and creation of notes without leaving the Cursor editor.",
+  "codiconIcon": "apple",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "notes",
+    "enabling",
+    "direct",
+    "searching",
+    "reading"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "562a2852-e466-47c4-8ddb-cdd837887e7a"
+}

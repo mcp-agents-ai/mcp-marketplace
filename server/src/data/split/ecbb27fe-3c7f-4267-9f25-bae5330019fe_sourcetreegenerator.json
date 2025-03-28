@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/owayo/mcp-src-tree",
+  "githubUrl": "https://github.com/owayo/mcp-src-tree",
+  "name": "Source Tree Generator",
+  "author": "owayo",
+  "description": "Generates source code directory trees using Python and pathspec for flexible path matching, enabling code analysis and project structure visualization.",
+  "codiconIcon": "source",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "pathspec",
+    "analysis",
+    "source-tree-generator",
+    "source",
+    "python"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "ecbb27fe-3c7f-4267-9f25-bae5330019fe"
+}

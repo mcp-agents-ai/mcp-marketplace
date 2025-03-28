@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JoshuaRileyDev/mac-apps-launcher",
+  "githubUrl": "https://github.com/JoshuaRileyDev/mac-apps-launcher",
+  "name": "Mac Apps Launcher",
+  "author": "JoshuaRileyDev",
+  "description": "Launch and control macOS applications.",
+  "codiconIcon": "mac",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "mac-apps-launcher",
+    "launch",
+    "control",
+    "macos",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "5d0674d3-b4b4-4ce2-b784-43eee1ee472e"
+}

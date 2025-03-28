@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zxfgds/mcp-code-indexer",
+  "githubUrl": "https://github.com/zxfgds/mcp-code-indexer",
+  "name": "Code Indexer",
+  "author": "zxfgds",
+  "description": "Indexes and retrieves code snippets using embedding models and vector databases, enabling efficient code search and analysis for software development tasks.",
+  "codiconIcon": "code",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "tasks",
+    "snippets",
+    "efficient",
+    "software",
+    "code-indexer"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "1386699e-45ef-4721-b864-ba3997fa52c0"
+}

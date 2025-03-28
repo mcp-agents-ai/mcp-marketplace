@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/JexinSam/mssql_mcp_server",
+  "githubUrl": "https://github.com/JexinSam/mssql_mcp_server",
+  "name": "MSSQL Database Manager",
+  "author": "JexinSam",
+  "description": "Enables secure interactions with Microsoft SQL Server databases for automated data analysis, dynamic reporting, and intelligent database management.",
+  "codiconIcon": "mssql",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "interactions",
+    "microsoft",
+    "databases",
+    "dynamic",
+    "reporting"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "99204e6c-3909-4b1b-95ac-86d24deeac4c"
+}

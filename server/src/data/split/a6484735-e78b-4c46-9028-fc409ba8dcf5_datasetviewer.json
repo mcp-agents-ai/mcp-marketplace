@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/privetin/dataset-viewer",
+  "githubUrl": "https://github.com/privetin/dataset-viewer",
+  "name": "Dataset Viewer",
+  "author": "privetin",
+  "description": "Integrates with the Hugging Face Dataset Viewer API to enable exploration, analysis, and content retrieval of datasets hosted on the Hugging Face Hub.",
+  "codiconIcon": "dataset",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "dataset",
+    "analysis",
+    "content",
+    "datasets",
+    "dataset-viewer"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "a6484735-e78b-4c46-9028-fc409ba8dcf5"
+}

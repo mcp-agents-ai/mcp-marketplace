@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/aws-kb-retrieval-server",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/aws-kb-retrieval-server",
+  "name": "AWS Bedrock: Knowledge Base",
+  "author": "modelcontextprotocol",
+  "description": "Query and retrieve information from AWS knowledge bases using the Bedrock Agent Runtime.",
+  "codiconIcon": "aws",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "aws-bedrock:-knowledge-base",
+    "knowledge",
+    "bases",
+    "using",
+    "runtime"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "34b575c5-316f-4711-a3dd-cd24f83b1374"
+}

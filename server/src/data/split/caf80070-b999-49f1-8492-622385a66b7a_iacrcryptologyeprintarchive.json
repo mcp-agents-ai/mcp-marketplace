@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/doomdagadiggiedahdah/iacr-mcp-server",
+  "githubUrl": "https://github.com/doomdagadiggiedahdah/iacr-mcp-server",
+  "name": "IACR Cryptology ePrint Archive",
+  "author": "doomdagadiggiedahdah",
+  "description": "Bridges AI models with the IACR Cryptology ePrint Archive, enabling efficient extraction and analysis of cryptographic research papers.",
+  "codiconIcon": "iacr",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "iacr-cryptology-eprint-archive",
+    "cryptology",
+    "efficient",
+    "analysis",
+    "research"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "caf80070-b999-49f1-8492-622385a66b7a"
+}

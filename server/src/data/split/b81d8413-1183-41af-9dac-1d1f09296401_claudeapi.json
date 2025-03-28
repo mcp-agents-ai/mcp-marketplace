@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mlobo2012/Claude_Desktop_API_USE_VIA_MCP",
+  "githubUrl": "https://github.com/mlobo2012/Claude_Desktop_API_USE_VIA_MCP",
+  "name": "Claude API",
+  "author": "mlobo2012",
+  "description": "Integrates Claude API features, enabling direct API access, extended context windows, and advanced conversation management. Helpful to bypass standard daily limits of Claude.ai.",
+  "codiconIcon": "claude",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "context",
+    "advanced",
+    "management",
+    "claude.ai",
+    "claude-api"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:24.291233+00:00",
+  "updatedAt": "2025-03-17T08:29:24.291233+00:00",
+  "hubId": "b81d8413-1183-41af-9dac-1d1f09296401"
+}

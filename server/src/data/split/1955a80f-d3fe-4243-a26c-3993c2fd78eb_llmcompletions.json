@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/pyroprompts/any-chat-completions-mcp",
+  "githubUrl": "https://github.com/pyroprompts/any-chat-completions-mcp",
+  "name": "LLM Completions",
+  "author": "pyroprompts",
+  "description": "Connect to OpenAI-compatible chat completion APIs.",
+  "codiconIcon": "llm",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "connect",
+    "openai-compatible",
+    "completion",
+    "apis",
+    "llm-completions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "1955a80f-d3fe-4243-a26c-3993c2fd78eb"
+}

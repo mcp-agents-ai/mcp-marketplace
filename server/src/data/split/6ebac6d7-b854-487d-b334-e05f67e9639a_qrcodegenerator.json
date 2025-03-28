@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jwalsh/mcp-server-qrcode",
+  "githubUrl": "https://github.com/jwalsh/mcp-server-qrcode",
+  "name": "QR Code Generator",
+  "author": "jwalsh",
+  "description": "Integrates with the qrencode utility to generate QR codes dynamically, supporting various output formats and configuration options for flexible use in applications and workflows.",
+  "codiconIcon": "qr",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "flexible",
+    "workflows",
+    "dynamically",
+    "supporting",
+    "applications"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "6ebac6d7-b854-487d-b334-e05f67e9639a"
+}

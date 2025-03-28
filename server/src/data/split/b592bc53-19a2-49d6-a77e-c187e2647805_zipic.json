@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/okooo5km/zipic-mcp-server",
+  "githubUrl": "https://github.com/okooo5km/zipic-mcp-server",
+  "name": "Zipic",
+  "author": "okooo5km",
+  "description": "Integrates with the Zipic app for macOS to provide image compression and optimization capabilities through quickCompress and advancedCompress tools, enabling efficient image processing with customizable settings.",
+  "codiconIcon": "zipic",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "tools",
+    "efficient",
+    "integrates",
+    "compression",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "b592bc53-19a2-49d6-a77e-c187e2647805"
+}

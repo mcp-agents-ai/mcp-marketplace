@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/tatn/mcp-server-fetch-typescript",
+  "githubUrl": "https://github.com/tatn/mcp-server-fetch-typescript",
+  "name": "Fetch (TypeScript)",
+  "author": "tatn",
+  "description": "Integrates with web content sources to fetch, convert, and summarize online information for real-time data retrieval and analysis.",
+  "codiconIcon": "fetch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "real-time",
+    "retrieval",
+    "fetch-(typescript)",
+    "integrates",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "7f70e152-7ae4-4805-8d6d-98461d476c8a"
+}

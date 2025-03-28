@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/apify/mcp-server-rag-web-browser",
+  "githubUrl": "https://github.com/apify/mcp-server-rag-web-browser",
+  "name": "Apify RAG Web Browser",
+  "author": "apify",
+  "description": "Perform web searches and extract cleaned content via integration with Apify's RAG Web Browser Actor.",
+  "codiconIcon": "apify",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "apify-rag-web-browser",
+    "perform",
+    "searches",
+    "content",
+    "integration"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "43d50fac-911e-4164-92bb-55999b5748c6"
+}

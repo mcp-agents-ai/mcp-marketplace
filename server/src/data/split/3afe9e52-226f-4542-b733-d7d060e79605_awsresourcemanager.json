@@ -1,0 +1,23 @@
+{
+  "mcpId": "https://github.com/rishikavikondala/mcp-server-aws",
+  "githubUrl": "https://github.com/rishikavikondala/mcp-server-aws",
+  "name": "AWS Resource Manager",
+  "author": "rishikavikondala",
+  "description": "Manage AWS S3 and DynamoDB resources.",
+  "codiconIcon": "aws",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "aws-resource-manager",
+    "manage",
+    "dynamodb",
+    "resources"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "3afe9e52-226f-4542-b733-d7d060e79605"
+}

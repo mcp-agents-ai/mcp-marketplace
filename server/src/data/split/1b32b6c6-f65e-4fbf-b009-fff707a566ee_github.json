@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/github",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/HEAD/src/github",
+  "name": "GitHub",
+  "author": "modelcontextprotocol",
+  "description": "Manage repositories, issues, and search code via GitHub API.",
+  "codiconIcon": "github",
+  "logoUrl": "",
+  "category": "version-control",
+  "tags": [
+    "github",
+    "manage",
+    "repositories",
+    "issues",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "1b32b6c6-f65e-4fbf-b009-fff707a566ee"
+}

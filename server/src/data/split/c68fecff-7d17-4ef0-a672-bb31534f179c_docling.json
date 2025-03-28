@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/zanetworker/mcp-docling",
+  "githubUrl": "https://github.com/zanetworker/mcp-docling",
+  "name": "Docling",
+  "author": "zanetworker",
+  "description": "Integrates with the Docling library to provide document processing capabilities, including conversion to markdown, table extraction, and image handling with OCR support, enabling efficient analysis of structured and unstructured data from various document formats.",
+  "codiconIcon": "docling",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "formats",
+    "analysis",
+    "unstructured",
+    "handling",
+    "library"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "c68fecff-7d17-4ef0-a672-bb31534f179c"
+}

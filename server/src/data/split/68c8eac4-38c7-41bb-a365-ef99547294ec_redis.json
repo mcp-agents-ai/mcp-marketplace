@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/farhankaz/redis-mcp",
+  "githubUrl": "https://github.com/farhankaz/redis-mcp",
+  "name": "Redis",
+  "author": "farhankaz",
+  "description": "Bridge to Redis databases, enabling fast in-memory data operations for AI workflows.",
+  "codiconIcon": "redis",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "bridge",
+    "databases",
+    "enabling",
+    "in-memory",
+    "operations"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "68c8eac4-38c7-41bb-a365-ef99547294ec"
+}

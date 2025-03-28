@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/llmian-space/devdocs-mcp",
+  "githubUrl": "https://github.com/llmian-space/devdocs-mcp",
+  "name": "DevDocs",
+  "author": "llmian-space",
+  "description": "Integrates with software documentation sources to process, index, and retrieve technical content for enhanced code assistance and API exploration.",
+  "codiconIcon": "devdocs",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "software",
+    "process",
+    "index",
+    "technical"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "2f5b9836-8ab0-44ca-9dd9-86d7a802d643"
+}

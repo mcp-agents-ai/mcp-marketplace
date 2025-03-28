@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ConechoAI/time-mcp-local",
+  "githubUrl": "https://github.com/ConechoAI/time-mcp-local",
+  "name": "Time and Timezone",
+  "author": "ConechoAI",
+  "description": "Provides time and timezone conversion capabilities, enabling current time retrieval and timezone conversions using IANA names for accurate and localized time-based functionalities.",
+  "codiconIcon": "time",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "localized",
+    "names",
+    "accurate",
+    "timezone",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "c7999590-024e-47fa-9996-3f59f1adac8b"
+}

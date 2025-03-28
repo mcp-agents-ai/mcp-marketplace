@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/run-llama/mcp-server-llamacloud",
+  "githubUrl": "https://github.com/run-llama/mcp-server-llamacloud",
+  "name": "LlamaCloud",
+  "author": "run-llama",
+  "description": "Query managed vector indexes for knowledge retrieval.",
+  "codiconIcon": "llamacloud",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "indexes",
+    "knowledge",
+    "retrieval",
+    "llamacloud",
+    "query"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.149254+00:00",
+  "updatedAt": "2025-03-17T08:29:22.149254+00:00",
+  "hubId": "cd8b3b24-7d17-434d-a864-a2b8b228ef12"
+}

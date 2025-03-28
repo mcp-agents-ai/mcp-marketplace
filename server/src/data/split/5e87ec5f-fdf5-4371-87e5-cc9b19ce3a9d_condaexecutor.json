@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bazinga012/mcp_code_executor",
+  "githubUrl": "https://github.com/bazinga012/mcp_code_executor",
+  "name": "Conda Executor",
+  "author": "bazinga012",
+  "description": "Executes Python code within isolated Conda environments, enabling secure and flexible code generation and execution for tasks like data analysis and algorithm testing.",
+  "codiconIcon": "conda",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "executes",
+    "within",
+    "algorithm",
+    "testing",
+    "conda"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "5e87ec5f-fdf5-4371-87e5-cc9b19ce3a9d"
+}

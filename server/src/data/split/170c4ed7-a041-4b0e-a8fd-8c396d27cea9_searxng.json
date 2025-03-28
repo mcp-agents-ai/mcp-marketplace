@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aeon-seraph/searxng-mcp",
+  "githubUrl": "https://github.com/aeon-seraph/searxng-mcp",
+  "name": "SearXNG",
+  "author": "aeon-seraph",
+  "description": "Enables language models to perform web searches through SearXNG, a privacy-focused metasearch engine, with customizable parameters like categories, time ranges, and pagination.",
+  "codiconIcon": "searxng",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "pagination",
+    "models",
+    "perform",
+    "searches",
+    "metasearch"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "170c4ed7-a041-4b0e-a8fd-8c396d27cea9"
+}

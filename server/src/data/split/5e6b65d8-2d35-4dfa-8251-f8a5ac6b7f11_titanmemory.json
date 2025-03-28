@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/henryhawke/mcp-titan",
+  "githubUrl": "https://github.com/henryhawke/mcp-titan",
+  "name": "Titan Memory",
+  "author": "henryhawke",
+  "description": "Integrates neural network-based memory encoding for enhanced long-term information storage and contextually-aware interactions across multiple conversations.",
+  "codiconIcon": "titan",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "contextually-aware",
+    "across",
+    "multiple",
+    "network-based",
+    "enhanced"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "5e6b65d8-2d35-4dfa-8251-f8a5ac6b7f11"
+}

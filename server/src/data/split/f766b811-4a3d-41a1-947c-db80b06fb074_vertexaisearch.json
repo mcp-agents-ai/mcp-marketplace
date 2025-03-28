@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/ubie-oss/mcp-vertexai-search",
+  "githubUrl": "https://github.com/ubie-oss/mcp-vertexai-search",
+  "name": "Vertex AI Search",
+  "author": "ubie-oss",
+  "description": "Integrates with Google's Vertex AI and Discovery Engine APIs to enable advanced search and retrieval operations on large datasets, supporting semantic search and natural language understanding.",
+  "codiconIcon": "vertex",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "vertex-ai-search",
+    "google's",
+    "advanced",
+    "search",
+    "retrieval"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.758293+00:00",
+  "updatedAt": "2025-03-17T08:29:26.758293+00:00",
+  "hubId": "f766b811-4a3d-41a1-947c-db80b06fb074"
+}

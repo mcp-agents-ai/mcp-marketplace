@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/YUZongmin/memory-mcp-manager",
+  "githubUrl": "https://github.com/YUZongmin/memory-mcp-manager",
+  "name": "Memory Manager",
+  "author": "YUZongmin",
+  "description": "Manages and switches between memory paths for clients, enabling organized context management across multiple AI projects.",
+  "codiconIcon": "memory",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "memory",
+    "paths",
+    "enabling",
+    "organized",
+    "multiple"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "542a7244-10bd-4d82-89d7-6886de1077f8"
+}

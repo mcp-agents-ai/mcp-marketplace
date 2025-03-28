@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Rootly-AI-Labs/Rootly-MCP-server/",
+  "githubUrl": "https://github.com/Rootly-AI-Labs/Rootly-MCP-server/",
+  "name": "Rootly MCP server",
+  "author": "Rootly-AI-Labs",
+  "description": "Manage and solve incidents without leaving your IDE by connecting to the Rootly API.",
+  "codiconIcon": "rootly",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/857ae3hwm.png",
+  "category": "tools",
+  "tags": [
+    "rootly",
+    "rootly-mcp-server",
+    "manage",
+    "solve",
+    "incidents"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-19T19:55:28.963599+00:00",
+  "updatedAt": "2025-03-19T19:55:28.963599+00:00",
+  "hubId": "8b052e4a-116f-4ede-abbd-8c87b26b5b32"
+}

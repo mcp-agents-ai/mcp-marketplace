@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/berlinbra/polymarket-mcp",
+  "githubUrl": "https://github.com/berlinbra/polymarket-mcp",
+  "name": "Polymarket",
+  "author": "berlinbra",
+  "description": "Integrates with PolyMarket's API to fetch and analyze prediction market data for financial insights and decision support.",
+  "codiconIcon": "polymarket",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "polymarket's",
+    "fetch",
+    "analyze",
+    "financial"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "1fcd16b4-4eeb-4130-8ad8-15f0cb87c996"
+}

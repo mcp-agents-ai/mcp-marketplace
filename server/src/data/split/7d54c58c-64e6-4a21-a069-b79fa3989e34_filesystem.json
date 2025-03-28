@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kvas-it/mcp-server-fs",
+  "githubUrl": "https://github.com/kvas-it/mcp-server-fs",
+  "name": "Filesystem",
+  "author": "kvas-it",
+  "description": "Implements an extensive list of filesystem operations for navigating, reading, writing, and analyzing files, enabling efficient file management and content generation tasks.",
+  "codiconIcon": "filesystem",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "filesystem",
+    "writing",
+    "management",
+    "efficient",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "7d54c58c-64e6-4a21-a069-b79fa3989e34"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mtane0412/twitch-mcp-server",
+  "githubUrl": "https://github.com/mtane0412/twitch-mcp-server",
+  "name": "Twitch",
+  "author": "mtane0412",
+  "description": "Integrates with Twitch API to provide channel info, stream details, game data, user profiles, clips, chat settings, and video comments for building Twitch-related tools and analytics platforms.",
+  "codiconIcon": "twitch",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "profiles",
+    "clips",
+    "settings",
+    "tools",
+    "platforms"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "9cbb06ad-21ba-42ef-9b2d-44655e23341f"
+}

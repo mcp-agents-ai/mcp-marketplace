@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/cyanheads/obsidian-mcp-server",
+  "githubUrl": "https://github.com/cyanheads/obsidian-mcp-server",
+  "name": "Obsidian Vault",
+  "author": "cyanheads",
+  "description": "Enables interaction with Obsidian vaults for file operations, content search, and metadata management, facilitating note-taking and knowledge base organization.",
+  "codiconIcon": "obsidian",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "interaction",
+    "vaults",
+    "operations",
+    "metadata",
+    "facilitating"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "f768b188-6992-4e45-ad24-30edcf96109d"
+}

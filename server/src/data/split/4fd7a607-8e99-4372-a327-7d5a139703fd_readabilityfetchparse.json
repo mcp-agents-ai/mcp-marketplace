@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/jmh108/MCP-server-readability-python",
+  "githubUrl": "https://github.com/jmh108/MCP-server-readability-python",
+  "name": "Readability (Fetch & Parse)",
+  "author": "jmh108",
+  "description": "Extracts and transforms webpage content into clean, LLM-optimized Markdown by removing non-essential elements while preserving key metadata.",
+  "codiconIcon": "readability",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "webpage",
+    "content",
+    "clean",
+    "markdown",
+    "removing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "4fd7a607-8e99-4372-a327-7d5a139703fd"
+}

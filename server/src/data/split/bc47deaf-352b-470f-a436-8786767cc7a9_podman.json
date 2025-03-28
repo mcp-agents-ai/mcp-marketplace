@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/manusa/podman-mcp-server",
+  "githubUrl": "https://github.com/manusa/podman-mcp-server",
+  "name": "Podman",
+  "author": "manusa",
+  "description": "Integrates with Podman's API to enable container creation, management, and orchestration for automated DevOps workflows and microservices architecture deployment.",
+  "codiconIcon": "podman",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "deployment",
+    "podman",
+    "integrates",
+    "podman's",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.305405+00:00",
+  "updatedAt": "2025-03-17T08:29:21.305405+00:00",
+  "hubId": "bc47deaf-352b-470f-a436-8786767cc7a9"
+}

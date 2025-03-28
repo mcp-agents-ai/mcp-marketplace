@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/adhikasp/mcp-youtube",
+  "githubUrl": "https://github.com/adhikasp/mcp-youtube",
+  "name": "YouTube Transcript",
+  "author": "adhikasp",
+  "description": "Fetch and analyze YouTube video transcripts.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "youtube-transcript",
+    "fetch",
+    "analyze",
+    "youtube",
+    "video"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:23.859656+00:00",
+  "updatedAt": "2025-03-17T08:29:23.859656+00:00",
+  "hubId": "7ff10c83-8eff-4e72-a95f-4ff9605818e5"
+}

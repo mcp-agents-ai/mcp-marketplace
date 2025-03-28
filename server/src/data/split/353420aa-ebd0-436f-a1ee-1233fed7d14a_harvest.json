@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/adrian-dotco/harvest-mcp-server",
+  "githubUrl": "https://github.com/adrian-dotco/harvest-mcp-server",
+  "name": "Harvest",
+  "author": "adrian-dotco",
+  "description": "Integrates with Harvest's time tracking and project management features, enabling natural language interactions for managing projects, tracking time entries, and handling leave requests.",
+  "codiconIcon": "harvest",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enabling",
+    "leave",
+    "requests",
+    "tracking",
+    "project"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "353420aa-ebd0-436f-a1ee-1233fed7d14a"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/rgbkrk/rcon-mcp",
+  "githubUrl": "https://github.com/rgbkrk/rcon-mcp",
+  "name": "Minecraft RCON",
+  "author": "rgbkrk",
+  "description": "Integrates with Minecraft servers via RCON to enable administration, world manipulation, and player management.",
+  "codiconIcon": "minecraft",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "management",
+    "enable",
+    "administration",
+    "manipulation",
+    "player"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "33fb1e26-b12b-40fa-a5ea-074d254b420d"
+}

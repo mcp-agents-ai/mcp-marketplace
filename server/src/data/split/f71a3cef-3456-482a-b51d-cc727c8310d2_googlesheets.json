@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/akchro/google-sheets-mcp",
+  "githubUrl": "https://github.com/akchro/google-sheets-mcp",
+  "name": "Google Sheets",
+  "author": "akchro",
+  "description": "Integrates with Google Sheets to enable spreadsheet creation, editing, and formatting capabilities through specialized Python tools built with FastMCP framework, requiring Google Cloud OAuth authentication.",
+  "codiconIcon": "google",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "integrates",
+    "google",
+    "enable",
+    "formatting",
+    "capabilities"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "f71a3cef-3456-482a-b51d-cc727c8310d2"
+}

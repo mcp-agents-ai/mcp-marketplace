@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kyan9400/file-finder-mcp",
+  "githubUrl": "https://github.com/kyan9400/file-finder-mcp",
+  "name": "File Finder",
+  "author": "kyan9400",
+  "description": "Provides file search functionality within filesystems, returning detailed metadata for discovered files based on path fragments.",
+  "codiconIcon": "file",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "based",
+    "search",
+    "functionality",
+    "within",
+    "returning"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "fa3d836c-e000-44e8-aa83-0414e334b523"
+}

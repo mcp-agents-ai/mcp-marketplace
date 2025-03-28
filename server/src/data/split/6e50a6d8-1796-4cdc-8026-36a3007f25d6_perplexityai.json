@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/fr0ziii/perplexity-mcp-server",
+  "githubUrl": "https://github.com/fr0ziii/perplexity-mcp-server",
+  "name": "Perplexity AI",
+  "author": "fr0ziii",
+  "description": "Integrates with Perplexity AI to enable context-aware conversations, research, and code analysis through natural language processing capabilities.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "processing",
+    "capabilities",
+    "perplexity-ai",
+    "integrates",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "6e50a6d8-1796-4cdc-8026-36a3007f25d6"
+}

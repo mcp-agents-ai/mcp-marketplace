@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/lightfate/ssh-tools-mcp",
+  "githubUrl": "https://github.com/lightfate/ssh-tools-mcp",
+  "name": "SSH Tools",
+  "author": "lightfate",
+  "description": "Provides a secure SSH interface for connecting to remote servers, executing commands, and maintaining persistent sessions throughout conversations for system administration and server management tasks.",
+  "codiconIcon": "ssh",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "sessions",
+    "ssh-tools",
+    "provides",
+    "conversations",
+    "interface"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "a9b26a50-62ba-45b7-89a6-d167dc7a38fe"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/alxspiker/mcp-server-ftp",
+  "githubUrl": "https://github.com/alxspiker/mcp-server-ftp",
+  "name": "FTP Server Manager",
+  "author": "alxspiker",
+  "description": "Enables direct FTP and FTPS server management through natural language commands for remote file operations including directory listing, file transfers, and folder creation.",
+  "codiconIcon": "ftp",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "language",
+    "including",
+    "directory",
+    "folder",
+    "enables"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "b501ad24-71cb-4813-9c3a-37c8e2fad9c7"
+}

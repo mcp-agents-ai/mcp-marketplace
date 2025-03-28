@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/modelcontextprotocol/servers/tree/main/src/brave-search",
+  "githubUrl": "https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search",
+  "name": "Brave Search",
+  "author": "modelcontextprotocol",
+  "description": "Integrates Brave Search API to provide comprehensive web and local search capabilities with smart filtering, pagination, and automatic fallbacks.",
+  "codiconIcon": "search",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/brave-search.png",
+  "category": "search",
+  "tags": [
+    "search-engine",
+    "local-search",
+    "web-search",
+    "brave-api",
+    "content-discovery"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 24177,
+  "downloadCount": 6072,
+  "createdAt": "2025-02-17T22:22:18.563691Z",
+  "updatedAt": "2025-02-17T22:22:18.563691Z",
+  "hubId": "a5ab8226-be82-4126-9139-5c5c7f452c82"
+}

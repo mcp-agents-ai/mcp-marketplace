@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/elie222/inbox-zero",
+  "githubUrl": "https://github.com/elie222/inbox-zero",
+  "name": "Inbox Zero",
+  "author": "elie222",
+  "description": "A Model Context Protocol (MCP) server that enables AI assistants like Claude to interact with your Inbox Zero account. This allows for natural language querying and management of your email during conversations.",
+  "codiconIcon": "inbox",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcp/tl1axjj3je.jpg",
+  "category": "tools",
+  "tags": [
+    "account",
+    "email",
+    "during",
+    "natural",
+    "inbox-zero"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": true,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-15T07:59:28.714502+00:00",
+  "updatedAt": "2025-03-15T07:59:28.714502+00:00",
+  "hubId": "05460e9c-6aab-4f63-9e94-0c5c0f61bc78"
+}

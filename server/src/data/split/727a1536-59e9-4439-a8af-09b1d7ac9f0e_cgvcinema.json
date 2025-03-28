@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/t-rekttt/cgv-mcp",
+  "githubUrl": "https://github.com/t-rekttt/cgv-mcp",
+  "name": "CGV Cinema",
+  "author": "t-rekttt",
+  "description": "Integrates with CGV Cinema's API to provide movie showtimes, cinema locations, and seat availability information for planning cinema outings through conversational interfaces.",
+  "codiconIcon": "cgv",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "integrates",
+    "cinema's",
+    "outings",
+    "through",
+    "conversational"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "727a1536-59e9-4439-a8af-09b1d7ac9f0e"
+}

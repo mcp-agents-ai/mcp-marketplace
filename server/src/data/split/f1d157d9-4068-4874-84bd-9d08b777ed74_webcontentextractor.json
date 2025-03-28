@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/bsmi021/mcp-server-webscan",
+  "githubUrl": "https://github.com/bsmi021/mcp-server-webscan",
+  "name": "Web Content Extractor",
+  "author": "bsmi021",
+  "description": "Extracts and processes web content using TypeScript, Cheerio, and Turndown for tasks like scraping, summarization, and data transformation.",
+  "codiconIcon": "web",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "web-content-extractor",
+    "processes",
+    "content",
+    "using",
+    "typescript"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "f1d157d9-4068-4874-84bd-9d08b777ed74"
+}

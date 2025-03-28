@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/mtane0412/perspective-mcp-server",
+  "githubUrl": "https://github.com/mtane0412/perspective-mcp-server",
+  "name": "Perspective API",
+  "author": "mtane0412",
+  "description": "Integrates with Perspective API to analyze text toxicity and provide content moderation across multiple languages for enhanced online safety.",
+  "codiconIcon": "perspective",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "perspective",
+    "analyze",
+    "toxicity",
+    "provide",
+    "multiple"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "99119f06-1460-4cd5-8e11-2e684d954795"
+}

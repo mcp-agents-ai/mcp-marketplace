@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/morningman/mcp-doris",
+  "githubUrl": "https://github.com/morningman/mcp-doris",
+  "name": "Apache Doris",
+  "author": "morningman",
+  "description": "Integrates with Apache Doris analytical database system through MySQL protocol, enabling data querying and interaction for business intelligence and data analysis workflows.",
+  "codiconIcon": "apache",
+  "logoUrl": "",
+  "category": "database",
+  "tags": [
+    "analysis",
+    "database",
+    "interaction",
+    "apache",
+    "system"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:20.399027+00:00",
+  "updatedAt": "2025-03-17T08:29:20.399027+00:00",
+  "hubId": "b04bf6e6-1de2-44eb-a118-d7b403d2f980"
+}

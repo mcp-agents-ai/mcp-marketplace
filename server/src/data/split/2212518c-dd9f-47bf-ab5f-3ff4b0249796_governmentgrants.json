@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Tar-ive/grants-mcp",
+  "githubUrl": "https://github.com/Tar-ive/grants-mcp",
+  "name": "Government Grants",
+  "author": "Tar-ive",
+  "description": "Integrates with the Simpler Grants API to enable keyword-based searching and retrieval of government grant opportunities.",
+  "codiconIcon": "government",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "grant",
+    "opportunities",
+    "government-grants",
+    "simpler",
+    "enable"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "2212518c-dd9f-47bf-ab5f-3ff4b0249796"
+}

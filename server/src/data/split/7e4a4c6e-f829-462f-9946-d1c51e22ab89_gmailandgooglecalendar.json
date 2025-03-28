@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Samarthsinghal28/gmail_mcp_server",
+  "githubUrl": "https://github.com/Samarthsinghal28/gmail_mcp_server",
+  "name": "Gmail and Google Calendar",
+  "author": "Samarthsinghal28",
+  "description": "Integrates with Gmail and Google Calendar APIs to enable email retrieval, search, sending with attachments, and calendar event management including video conference creation.",
+  "codiconIcon": "gmail",
+  "logoUrl": "",
+  "category": "productivity",
+  "tags": [
+    "sending",
+    "attachments",
+    "conference",
+    "calendar",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "7e4a4c6e-f829-462f-9946-d1c51e22ab89"
+}

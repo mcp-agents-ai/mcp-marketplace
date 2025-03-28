@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/athapong/argus",
+  "githubUrl": "https://github.com/athapong/argus",
+  "name": "Argus (GitLab)",
+  "author": "athapong",
+  "description": "Integrates with GitLab repositories to enable automated security assessments, code reviews, and DevOps workflows through repository analysis and file retrieval capabilities.",
+  "codiconIcon": "argus",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "through",
+    "repository",
+    "retrieval",
+    "argus-(gitlab)",
+    "gitlab"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "fedd5cb2-8142-4c9c-8b8c-877f30c84960"
+}

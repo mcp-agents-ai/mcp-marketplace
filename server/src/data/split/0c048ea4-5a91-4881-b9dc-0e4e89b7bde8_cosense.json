@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/funwarioisii/cosense-mcp-server",
+  "githubUrl": "https://github.com/funwarioisii/cosense-mcp-server",
+  "name": "Cosense",
+  "author": "funwarioisii",
+  "description": "Integrates Cosense to enable access and interaction with project data for enhanced project management and collaboration workflows.",
+  "codiconIcon": "cosense",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "project",
+    "management",
+    "collaboration",
+    "enhanced",
+    "workflows"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.06306+00:00",
+  "updatedAt": "2025-03-17T08:29:28.06306+00:00",
+  "hubId": "0c048ea4-5a91-4881-b9dc-0e4e89b7bde8"
+}

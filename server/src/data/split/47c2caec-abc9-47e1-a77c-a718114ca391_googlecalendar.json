@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/pashpashpash/google-calendar-mcp",
+  "githubUrl": "https://github.com/pashpashpash/google-calendar-mcp",
+  "name": "Google Calendar",
+  "author": "pashpashpash",
+  "description": "Enables AI assistants to read, create, and manage Google Calendar events, including processing events from screenshots and coordinating schedules across multiple calendars.",
+  "codiconIcon": "calendar",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/google-calendar.png",
+  "category": "calendar-management",
+  "tags": [
+    "google-calendar",
+    "scheduling",
+    "event-management",
+    "calendar-automation",
+    "oauth"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 11,
+  "downloadCount": 1403,
+  "createdAt": "2025-02-19T01:25:47.301582Z",
+  "updatedAt": "2025-02-19T01:25:47.301582Z",
+  "hubId": "47c2caec-abc9-47e1-a77c-a718114ca391"
+}

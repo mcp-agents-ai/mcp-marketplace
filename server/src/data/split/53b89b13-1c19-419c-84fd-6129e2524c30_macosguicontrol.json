@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Atharva-Gundawar/macOS_gui",
+  "githubUrl": "https://github.com/Atharva-Gundawar/macOS_gui",
+  "name": "macOS GUI Control",
+  "author": "Atharva-Gundawar",
+  "description": "Enables AI assistants to control macOS applications by capturing screenshots, identifying UI elements, and automating mouse and keyboard actions through the macOS accessibility framework.",
+  "codiconIcon": "macos",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "macos-gui-control",
+    "elements",
+    "automating",
+    "mouse",
+    "accessibility"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:27.547179+00:00",
+  "updatedAt": "2025-03-17T08:29:27.547179+00:00",
+  "hubId": "53b89b13-1c19-419c-84fd-6129e2524c30"
+}

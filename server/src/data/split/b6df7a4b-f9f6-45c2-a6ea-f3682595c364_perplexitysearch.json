@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/RossH121/perplexity-mcp",
+  "githubUrl": "https://github.com/RossH121/perplexity-mcp",
+  "name": "Perplexity Search",
+  "author": "RossH121",
+  "description": "Enhances Claude with intelligent web search capabilities through Perplexity API, automatically selecting optimal models based on query intent while supporting customizable domain and recency filtering.",
+  "codiconIcon": "perplexity",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "capabilities",
+    "based",
+    "intent",
+    "supporting",
+    "domain"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "b6df7a4b-f9f6-45c2-a6ea-f3682595c364"
+}

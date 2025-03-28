@@ -1,0 +1,24 @@
+{
+  "mcpId": "github.com/Garoth/wolframalpha-llm-mcp",
+  "githubUrl": "https://github.com/Garoth/wolframalpha-llm-mcp",
+  "name": "WolframAlpha",
+  "author": "Garoth",
+  "description": "Provides access to WolframAlpha's LLM API for answering complex mathematical, scientific, and general knowledge questions with structured responses.",
+  "codiconIcon": "symbol-numeric",
+  "logoUrl": "https://storage.googleapis.com/cline_public_images/wolframalpha.png",
+  "category": "research-data",
+  "tags": [
+    "mathematics",
+    "scientific-computing",
+    "knowledge-base",
+    "wolfram-api",
+    "computation"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 23,
+  "downloadCount": 1360,
+  "createdAt": "2025-02-20T23:51:50.467973Z",
+  "updatedAt": "2025-02-20T23:51:50.467973Z",
+  "hubId": "05822941-7896-4138-ada1-5c0a43ff06be"
+}

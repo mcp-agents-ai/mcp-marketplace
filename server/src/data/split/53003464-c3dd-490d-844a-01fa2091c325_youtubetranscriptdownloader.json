@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/sparfenyuk/mcp-youtube",
+  "githubUrl": "https://github.com/sparfenyuk/mcp-youtube",
+  "name": "YouTube Transcript Downloader",
+  "author": "sparfenyuk",
+  "description": "Bridges YouTube API to download closed captions, enabling video transcript analysis and content processing.",
+  "codiconIcon": "youtube",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "youtube-transcript-downloader",
+    "youtube",
+    "download",
+    "closed",
+    "captions"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "53003464-c3dd-490d-844a-01fa2091c325"
+}

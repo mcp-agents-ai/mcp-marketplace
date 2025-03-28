@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Iwark/linear-mcp-server",
+  "githubUrl": "https://github.com/Iwark/linear-mcp-server",
+  "name": "Linear",
+  "author": "Iwark",
+  "description": "Integrates with Linear's issue tracking system to enable efficient creation, searching, and analysis of project tasks and issues",
+  "codiconIcon": "linear",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "project",
+    "tasks",
+    "linear",
+    "linear's",
+    "issue"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:26.010831+00:00",
+  "updatedAt": "2025-03-17T08:29:26.010831+00:00",
+  "hubId": "f88b32c3-9421-41ab-afb5-7644154cf274"
+}

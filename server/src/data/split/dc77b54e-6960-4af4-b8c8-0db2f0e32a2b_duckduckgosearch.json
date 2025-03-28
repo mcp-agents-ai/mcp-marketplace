@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/spences10/mcp-duckduckgo-search",
+  "githubUrl": "https://github.com/spences10/mcp-duckduckgo-search",
+  "name": "DuckDuckGo Search",
+  "author": "spences10",
+  "description": "Integrates DuckDuckGo search capabilities with customizable parameters for web-based information retrieval.",
+  "codiconIcon": "duckduckgo",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "parameters",
+    "information",
+    "retrieval",
+    "integrates",
+    "search"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:21.725369+00:00",
+  "updatedAt": "2025-03-17T08:29:21.725369+00:00",
+  "hubId": "dc77b54e-6960-4af4-b8c8-0db2f0e32a2b"
+}

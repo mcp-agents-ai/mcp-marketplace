@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/Streen9/terminal-mcp",
+  "githubUrl": "https://github.com/Streen9/terminal-mcp",
+  "name": "Terminal",
+  "author": "Streen9",
+  "description": "Provides a secure interface for executing commands, managing processes, and retrieving outputs in terminal or PowerShell environments, with robust logging and error handling for system administration and development tasks.",
+  "codiconIcon": "terminal",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "system",
+    "terminal",
+    "error",
+    "administration",
+    "development"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "5e9d446c-99ea-42d6-8925-54b0ac44a1b2"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/nganiet/mcp-vercel",
+  "githubUrl": "https://github.com/nganiet/mcp-vercel",
+  "name": "Vercel",
+  "author": "nganiet",
+  "description": "Integrates with Vercel's serverless infrastructure to provide a lightweight endpoint for AI model interactions and tasks like chatbots, content generation, and data analysis.",
+  "codiconIcon": "vercel",
+  "logoUrl": "https://knhgkaawjfqqwmsgmxns.supabase.co/storage/v1/object/public/avatars/mcps/vercel.svg",
+  "category": "tools",
+  "tags": [
+    "vercel",
+    "infrastructure",
+    "tasks",
+    "generation",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-13T17:46:48.26579+00:00",
+  "updatedAt": "2025-03-13T17:46:48.26579+00:00",
+  "hubId": "fe8a43b2-d9b6-4a33-aab4-8a9dcde0f29e"
+}

@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/aborroy/alfresco-mcp-poc",
+  "githubUrl": "https://github.com/aborroy/alfresco-mcp-poc",
+  "name": "Alfresco Content Services",
+  "author": "aborroy",
+  "description": "Integrates Alfresco's content management, enabling intelligent document processing and automated metadata extraction.",
+  "codiconIcon": "alfresco",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "processing",
+    "automated",
+    "metadata",
+    "alfresco-content-services",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "7938b17c-7f5c-495f-8f79-1d731c157795"
+}

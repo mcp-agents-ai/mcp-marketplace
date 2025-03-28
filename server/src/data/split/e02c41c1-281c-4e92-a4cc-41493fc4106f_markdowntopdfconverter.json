@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/seanivore/md-pdf-mcp",
+  "githubUrl": "https://github.com/seanivore/md-pdf-mcp",
+  "name": "Markdown to PDF Converter",
+  "author": "seanivore",
+  "description": "Converts Markdown to styled PDFs, enabling creation of visually appealing documents with code highlighting and typography.",
+  "codiconIcon": "markdown",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "markdown-to-pdf-converter",
+    "converts",
+    "enabling",
+    "visually",
+    "appealing"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.041553+00:00",
+  "updatedAt": "2025-03-17T08:29:25.041553+00:00",
+  "hubId": "e02c41c1-281c-4e92-a4cc-41493fc4106f"
+}

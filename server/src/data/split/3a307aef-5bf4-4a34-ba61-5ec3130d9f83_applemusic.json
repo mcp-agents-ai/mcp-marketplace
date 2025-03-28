@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/kennethreitz/mcp-applemusic",
+  "githubUrl": "https://github.com/kennethreitz/mcp-applemusic",
+  "name": "Apple Music",
+  "author": "kennethreitz",
+  "description": "Integrates with Apple Music on macOS using Python and AppleScript to enable music playback control, library searching, playlist creation, and metadata retrieval.",
+  "codiconIcon": "apple",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "enable",
+    "playback",
+    "searching",
+    "playlist",
+    "apple-music"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:19.654593+00:00",
+  "updatedAt": "2025-03-17T08:29:19.654593+00:00",
+  "hubId": "3a307aef-5bf4-4a34-ba61-5ec3130d9f83"
+}

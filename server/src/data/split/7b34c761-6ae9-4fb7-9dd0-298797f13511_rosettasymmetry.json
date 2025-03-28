@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/vrtejus/mcp-rosetta",
+  "githubUrl": "https://github.com/vrtejus/mcp-rosetta",
+  "name": "Rosetta Symmetry",
+  "author": "vrtejus",
+  "description": "Generates symmetry definition files from protein structures for computational modeling of symmetric protein complexes, supporting non-crystallographic, crystallographic, and helical symmetries with customizable parameters.",
+  "codiconIcon": "rosetta",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "crystallographic",
+    "helical",
+    "customizable",
+    "files",
+    "protein"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "7b34c761-6ae9-4fb7-9dd0-298797f13511"
+}

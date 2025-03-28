@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/adhikasp/mcp-reddit",
+  "githubUrl": "https://github.com/adhikasp/mcp-reddit",
+  "name": "Reddit",
+  "author": "adhikasp",
+  "description": "Integrates with Reddit to fetch and analyze posts, comments, and trends across subreddits for content curation and social media insights.",
+  "codiconIcon": "reddit",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "fetch",
+    "comments",
+    "trends",
+    "subreddits",
+    "content"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:22.634233+00:00",
+  "updatedAt": "2025-03-17T08:29:22.634233+00:00",
+  "hubId": "fc450719-e4f6-4d63-bfe6-c24d1f2b4d50"
+}

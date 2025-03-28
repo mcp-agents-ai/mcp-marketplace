@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/leobuskin/mcp_jetbrains_proxy",
+  "githubUrl": "https://github.com/leobuskin/mcp_jetbrains_proxy",
+  "name": "JetBrains IDE",
+  "author": "leobuskin",
+  "description": "Bridges Large Language Models with JetBrains IDEs to enable intelligent code completion, automated refactoring, and context-aware documentation generation.",
+  "codiconIcon": "jetbrains",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "jetbrains-ide",
+    "language",
+    "models",
+    "intelligent",
+    "completion"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "9df71dfe-9de8-4f8f-bab5-3af5efd21f33"
+}

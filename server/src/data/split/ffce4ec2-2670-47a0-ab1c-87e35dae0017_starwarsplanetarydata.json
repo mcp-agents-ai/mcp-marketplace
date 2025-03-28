@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shivaylamba/mcp-nebius",
+  "githubUrl": "https://github.com/shivaylamba/mcp-nebius",
+  "name": "Star Wars Planetary Data",
+  "author": "shivaylamba",
+  "description": "Integrates with Couchbase and Nebius AI to provide fast, scalable access to Star Wars planetary data with vector search capabilities and generated planet images.",
+  "codiconIcon": "star",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "star-wars-planetary-data",
+    "couchbase",
+    "access",
+    "images",
+    "nebius"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:29.634309+00:00",
+  "updatedAt": "2025-03-17T08:29:29.634309+00:00",
+  "hubId": "ffce4ec2-2670-47a0-ab1c-87e35dae0017"
+}

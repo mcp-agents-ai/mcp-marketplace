@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/shadowk1337/mcp-csv-server",
+  "githubUrl": "https://github.com/shadowk1337/mcp-csv-server",
+  "name": "CSV and Excel Processor",
+  "author": "shadowk1337",
+  "description": "Integrates with Spring Boot to process CSV and Excel files, enabling data extraction and manipulation for analysis, reporting, or system integration tasks.",
+  "codiconIcon": "csv",
+  "logoUrl": "",
+  "category": "tools",
+  "tags": [
+    "extraction",
+    "analysis",
+    "reporting",
+    "system",
+    "integrates"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:28.871131+00:00",
+  "updatedAt": "2025-03-17T08:29:28.871131+00:00",
+  "hubId": "22882060-a50e-4c7a-95d0-341a413deb33"
+}

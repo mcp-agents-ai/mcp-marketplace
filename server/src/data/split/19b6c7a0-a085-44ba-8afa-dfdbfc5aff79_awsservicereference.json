@@ -1,0 +1,24 @@
+{
+  "mcpId": "https://github.com/MitchyBAwesome/sar-mcp",
+  "githubUrl": "https://github.com/MitchyBAwesome/sar-mcp",
+  "name": "AWS Service Reference",
+  "author": "MitchyBAwesome",
+  "description": "Integrates with AWS Service Reference API to provide real-time access to AWS service capabilities and API actions for developers and cloud architects.",
+  "codiconIcon": "aws",
+  "logoUrl": "",
+  "category": "cloud-services",
+  "tags": [
+    "developers",
+    "architects",
+    "integrates",
+    "service",
+    "reference"
+  ],
+  "requiresApiKey": false,
+  "isRecommended": false,
+  "githubStars": 0,
+  "downloadCount": 0,
+  "createdAt": "2025-03-17T08:29:25.49229+00:00",
+  "updatedAt": "2025-03-17T08:29:25.49229+00:00",
+  "hubId": "19b6c7a0-a085-44ba-8afa-dfdbfc5aff79"
+}
