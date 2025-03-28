@@ -1,6 +1,5 @@
-import React from 'react';
+import { Database, Download, ExternalLink, Star } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import { Star, Download, ExternalLink, Database } from 'lucide-react';
 import { useLanguage } from '../contexts/LanguageContext';
 import { MCPServer } from '../types';
 
