@@ -38,7 +38,12 @@
     "recommendedServers": "推荐服务器",
     "otherServers": "其他服务器",
     "loadMore": "加载更多",
-    "of": "共"
+    "of": "共",
+    "sort": {
+      "defaultOrder": "默认排序",
+      "byStarsDesc": "Stars ↓ (从高到低)",
+      "byStarsAsc": "Stars ↑ (从低到高)"
+    }
   },
   "server": {
     "by": "作者",

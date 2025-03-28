@@ -1,10 +1,14 @@
-import { useState, useMemo, useEffect } from 'react';
+import { ChevronRight, Link, Plug, Star, Zap } from 'lucide-react';
+import { useEffect, useMemo, useState } from 'react';
+import { CustomDropdown } from '../components/CustomDropdown';
 import { SearchBar } from '../components/SearchBar';
 import { ServerCard } from '../components/ServerCard';
+import { useLanguage } from '../contexts/LanguageContext';
 import { fetchMCPServers } from '../data/servers';
 import { MCPServer } from '../types';
-import { Plug, Zap, Link, ChevronRight } from 'lucide-react';
-import { useLanguage } from '../contexts/LanguageContext';
+
+// 添加排序类型
+type SortOption = 'default' | 'stars-desc' | 'stars-asc';
 
 export function Home() {
   const { t } = useLanguage();
@@ -13,6 +17,8 @@ export function Home() {
   const [servers, setServers] = useState<MCPServer[]>([]);
   const [visibleRecommendedCount, setVisibleRecommendedCount] = useState(6);
   const [visibleOtherCount, setVisibleOtherCount] = useState(12);
+  // 添加排序状态
+  const [sortOption, setSortOption] = useState<SortOption>('default');
   const RECOMMENDED_STEP = 6;
   const OTHER_STEP = 12;
 
@@ -43,13 +49,25 @@ export function Home() {
     ));
   }, [searchQuery, servers]);
 
+  // 排序服务器
+  const sortedServers = useMemo(() => {
+    if (sortOption === 'default') {
+      return filteredServers;
+    } else if (sortOption === 'stars-desc') {
+      return [...filteredServers].sort((a, b) => b.githubStars - a.githubStars);
+    } else if (sortOption === 'stars-asc') {
+      return [...filteredServers].sort((a, b) => a.githubStars - b.githubStars);
+    }
+    return filteredServers;
+  }, [filteredServers, sortOption]);
+
   const recommendedServers = useMemo(() => {
-    return filteredServers.filter(server => server.isRecommended);
-  }, [filteredServers]);
+    return sortedServers.filter(server => server.isRecommended);
+  }, [sortedServers]);
 
   const otherServers = useMemo(() => {
-    return filteredServers.filter(server => !server.isRecommended);
-  }, [filteredServers]);
+    return sortedServers.filter(server => !server.isRecommended);
+  }, [sortedServers]);
 
   const handleLoadMoreRecommended = () => {
     setVisibleRecommendedCount(prev => 
@@ -105,10 +123,12 @@ export function Home() {
             {t('home.discover.description')}
           </p>
           <p className="mt-3 text-lg text-indigo-600 font-medium">
-            {servers.length} {t('home.serverCount', { count: servers.length })}
+            {servers.length} {t('home.serverCount')}
           </p>
-          <div className="mt-8 flex justify-center">
-            <SearchBar value={inputQuery} onChange={setInputQuery} onSearch={handleSearch} />
+          <div className="mt-8 flex justify-center w-full">
+            <div className="w-full max-w-xl px-4">
+              <SearchBar value={inputQuery} onChange={setInputQuery} onSearch={handleSearch} />
+            </div>
           </div>
         </div>
 
@@ -117,7 +137,7 @@ export function Home() {
             <h3 className="text-2xl font-bold text-gray-900 mb-6 pb-2 border-b border-gray-200">
               {t('home.recommendedServers')}
             </h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
               {visibleRecommendedServers.map((server) => (
                 <ServerCard key={server.mcpId} server={server} />
               ))}
@@ -126,14 +146,15 @@ export function Home() {
               <div className="flex justify-end mt-6">
                 <button 
                   onClick={handleLoadMoreRecommended}
-                  className="text-indigo-600 hover:text-indigo-800 transition-colors duration-300 
+                  className="bg-gradient-to-r from-indigo-500 to-indigo-600 hover:from-indigo-600 hover:to-indigo-700 
+                  text-white px-5 py-2 rounded-full shadow-md hover:shadow-lg transition-all duration-300 
                   flex items-center text-sm font-medium group"
                 >
                   <span>{t('home.loadMore')}</span>
-                  <span className="text-xs mx-2">
-                    ({visibleRecommendedCount} {t('home.of')} {recommendedServers.length})
+                  <span className="text-xs mx-2 opacity-80">
+                    ({Math.ceil(visibleRecommendedCount/6)} / {Math.ceil(recommendedServers.length/6)})
                   </span>
-                  <ChevronRight className="h-5 w-5 ml-1 group-hover:translate-x-1 transition-transform" strokeWidth={2.5} />
+                  <ChevronRight className="h-4 w-4 ml-1 transform group-hover:translate-x-1 transition-transform duration-300" />
                 </button>
               </div>
             )}
@@ -142,10 +163,24 @@ export function Home() {
 
         {otherServers.length > 0 && (
           <div>
-            <h3 className="text-2xl font-bold text-gray-900 mb-6 pb-2 border-b border-gray-200">
-              {otherServers.length > 0 && recommendedServers.length > 0 ? t('home.otherServers') : ''}
-            </h3>
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="flex justify-between items-center mb-6 pb-2 border-b border-gray-200">
+              <h3 className="text-2xl font-bold text-gray-900">
+                {otherServers.length > 0 && recommendedServers.length > 0 ? t('home.otherServers') : ''}
+              </h3>
+              <div className="flex items-center">
+                <CustomDropdown 
+                  options={[
+                    { value: 'default', label: t('home.sort.defaultOrder') },
+                    { value: 'stars-desc', label: t('home.sort.byStarsDesc') },
+                    { value: 'stars-asc', label: t('home.sort.byStarsAsc') }
+                  ]}
+                  value={sortOption}
+                  onChange={(value) => setSortOption(value as SortOption)}
+                  icon={<Star className="h-5 w-5 text-yellow-500" />}
+                />
+              </div>
+            </div>
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
               {visibleOtherServers.map((server) => (
                 <ServerCard key={server.mcpId} server={server} />
               ))}
@@ -154,14 +189,15 @@ export function Home() {
               <div className="flex justify-end mt-6">
                 <button 
                   onClick={handleLoadMoreOther}
-                  className="text-indigo-600 hover:text-indigo-800 transition-colors duration-300 
+                  className="bg-gradient-to-r from-indigo-500 to-indigo-600 hover:from-indigo-600 hover:to-indigo-700 
+                  text-white px-5 py-2 rounded-full shadow-md hover:shadow-lg transition-all duration-300 
                   flex items-center text-sm font-medium group"
                 >
                   <span>{t('home.loadMore')}</span>
-                  <span className="text-xs mx-2">
-                    ({visibleOtherCount} {t('home.of')} {otherServers.length})
+                  <span className="text-xs mx-2 opacity-80">
+                    ({Math.ceil(visibleOtherCount/12)} / {Math.ceil(otherServers.length/12)})
                   </span>
-                  <ChevronRight className="h-5 w-5 ml-1 group-hover:translate-x-1 transition-transform" strokeWidth={2.5} />
+                  <ChevronRight className="h-4 w-4 ml-1 transform group-hover:translate-x-1 transition-transform duration-300" />
                 </button>
               </div>
             )}
