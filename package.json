@@ -11,6 +11,7 @@
     "dev": "concurrently \"npm run server:dev\" \"npm run client:dev\"",
     "client:dev": "cd client && vite",
     "server:dev": "cd server && tsx watch src/server.ts",
+    "update-stars": "tsx server/scripts/update-github-stars.ts",
     "build": "npm run client:build && npm run server:build",
     "client:build": "cd client && vite build",
     "server:build": "cd server && tsc",

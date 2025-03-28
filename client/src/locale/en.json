@@ -38,7 +38,12 @@
     "recommendedServers": "Recommended Servers",
     "otherServers": "Other Servers",
     "loadMore": "Load More",
-    "of": "of"
+    "of": "of",
+    "sort": {
+      "defaultOrder": "Default Order",
+      "byStarsDesc": "Stars ↓ (High to Low)",
+      "byStarsAsc": "Stars ↑ (Low to High)"
+    }
   },
   "server": {
     "by": "by",
