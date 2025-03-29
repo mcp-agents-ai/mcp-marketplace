@@ -1,9 +1,10 @@
 import React, { createContext, useState, useContext, ReactNode, useEffect } from 'react';
 import enTranslations from '../locale/en.json';
-import zhTranslations from '../locale/zh.json';
+import zhHansTranslations from '../locale/zh-hans.json';
+import zhHantTranslations from '../locale/zh-hant.json';
 
 // Define the supported languages
-export type SupportedLanguage = 'en' | 'zh';
+export type SupportedLanguage = 'en' | 'zhHans' | 'zhHant';
 
 // Define the structure for translation objects
 type TranslationValue = string | Record<string, any>;
@@ -22,7 +23,8 @@ const LanguageContext = createContext<LanguageContextType | undefined>(undefined
 // Translation dictionary with imported JSON files
 const translations: Record<SupportedLanguage, TranslationRecord> = {
   en: enTranslations,
-  zh: zhTranslations
+  zhHans: zhHansTranslations,
+  zhHant: zhHantTranslations
 };
 
 // Helper function to detect browser language
@@ -32,7 +34,12 @@ const detectBrowserLanguage = (): SupportedLanguage => {
   
   // Check if the browser language starts with 'zh' (any Chinese variant)
   if (browserLang.startsWith('zh')) {
-    return 'zh';
+    if (browserLang.startsWith('zh-Hant')) {
+      return 'zhHant';
+    }
+    else {
+      return 'zhHans';
+    }
   }
   
   // Default to English for all other languages
@@ -44,7 +51,7 @@ export const LanguageProvider: React.FC<{ children: ReactNode }> = ({ children }
   // Try to get saved language from localStorage, or detect from browser, default to 'en'
   const [language, setLanguage] = useState<SupportedLanguage>(() => {
     const saved = localStorage.getItem('language') as SupportedLanguage;
-    if (saved && (saved === 'en' || saved === 'zh')) {
+    if (saved && (saved === 'en' || saved === 'zhHans' || saved === 'zhHant')) {
       return saved;
     }
     // If no saved preference, detect from browser
